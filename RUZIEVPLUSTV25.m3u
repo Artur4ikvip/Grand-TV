@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://dl.dropbox.com/s/wuh2pj661fv42qe/%3A150%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C.mp4
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВИЛ 2025/09/17 22:37",{ ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВИЛ 2025/09/21 16:01",{ ОБНОВИЛ }™
 https://dl.dropbox.com/s/ubtsmk82baz5jmk/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%20%D0%B2%D0%B8%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D1%80.mp4
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/PLUSGRANDNAV
 https://dl.dropbox.com/s/6ehiymxbcvp88zw/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%BA%D1%83%D0%B1%D0%B8%D0%BA%20%D1%80%D1%83%D0%B1%D0%B8%D0%BA%D0%B0.mp4
@@ -16,12 +16,777 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 http://185.221.213.254:8080/Mafia2/index.m3u8
 #EXTINF:-1 group-title="GRAND TV",RITSA TV
 http://185.221.213.254:8080/Ritsa/index.m3u8
+#EXTINF:-1 group-title="GRAND TV", Про любовь
+https://vod.stb.tvime.ru/Pro_Lubov_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+
+#EXTINF:-1 group-title="GRAND TV", Остросюжетное HD
+https://vs6.cdn.mrf.tvime.ru/Ostrosugetnor_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+
+#EXTINF:-1 group-title="GRAND TV", Премиальное HD
+https://vs6.cdn.mrf.tvime.ru/Premialnoe_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+
+#EXTINF:-1 group-title="GRAND TV", Fox HD
+https://vod.stb.tvime.ru/Fox_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+
+#EXTINF:-1 group-title="GRAND TV", Eurosport 2 HD
+https://vod.stb.tvime.ru/eurosport_2/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&" group-title="GRAND TV",GRAND TV
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/215088.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&"group-title="GRAND TV",GRAND TV  
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/215088.m3u8
+
+
+
+#EXTINF:0,31 Azerbaijan
+http://3.team.ga:80/ch2556/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsv_6Z3glItdbd1GND2z4QFnZfDwc-ZyrXHvbMySzkoVB
+#EXTINF:-1 group-title="GRAND PLUS UZB",Uzbekiston 24 HD
+http://3.team.ga:80/ch1785/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqspNnTmpiZ-Ji4ivMYqpYEdM5QHtLt0txuX91RqIKgTKH
+#EXTINF:-1 group-title="GRAND PLUS UZB",Uzbekiston
+http://3.team.ga:80/ch1786/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsmtUyfCc9U6DnSBNyBBkHXQYU5riY8paDzWpBAJbXyD3
+#EXTINF:-1 group-title="GRAND PLUS UZB",Yoshlar
+http://3.team.ga:80/ch1787/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsiR-pfya3Hmkq8_y6qp3NFs89QUi8XG5ICBqxorK1aHw
+#EXTINF:-1 group-title="GRAND PLUS UZB",Sport
+http://3.team.ga:80/ch1788/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsiJmKGV6Oj7PzVBPaI05Ve6FoDNxUKR6zbVCQwcB7bzu
+#EXTINF:-1 group-title="GRAND PLUS UZB",Kinoteatr
+http://3.team.ga:80/ch1790/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsnyr1r8p2FZM3dWrctGs_YAkOUFCllzEBg82eKxWXAXK
+#EXTINF:-1 group-title="GRAND PLUS UZB",My 5 HD
+http://3.team.ga:80/ch1791/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsvnFBF5IncHHye_dRCtF_auyWGdXFZJJbYKGF3-NHWcq
+#EXTINF:-1 group-title="GRAND PLUS UZB",Milliy TV
+http://3.team.ga:80/ch1792/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsi1hABASLtxGKw_Wu8jCFG7N4mKy9zyJB8iYWGXVL-oE
+#EXTINF:-1 group-title="GRAND PLUS UZB",Sevimli TV
+http://3.team.ga:80/ch1793/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsq4BgrNViKkJnvJXEJqL0BN_V7PwbbdQdboH6lGcYCfw
+#EXTINF:-1 group-title="GRAND PLUS UZB",Zor TV HD
+http://3.team.ga:80/ch1794/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsvy56wpS2Z1Xuuh7yPdDz9a7SY4KppJcrh4jOlZGzJhl
+#EXTINF:-1 group-title="GRAND PLUS UZB",Renessans TV
+http://3.team.ga:80/ch1795/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqstHasg4FclH85xcqT9IgSZCEEqpN0kyvLs5V9CWEzHSz
+#EXTINF:-1 group-title="GRAND PLUS UZB",Nurafshon TV
+http://3.team.ga:80/ch1796/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsjia3l13bBNXXqD5QG1RYQ9HWOgl87FXgMtcRYFjI5nl
+#EXTINF:-1 group-title="GRAND PLUS UZB",Biz TV HD
+http://3.team.ga:80/ch1797/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsoccFBg09-QLjtXHtfaff7BTlObWq7KJuiFjbSwCHnWY
+#EXTINF:-1 group-title="GRAND PLUS UZB",Biz Cinema HD
+http://3.team.ga:80/ch1798/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqskPlxWQXdZwNWPdRm3pAcivz8uNikwjqZughRG8ijwRe
+#EXTINF:-1 group-title="GRAND PLUS UZB",Biz Music HD
+http://3.team.ga:80/ch1799/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsu8WLGnbso4fqqcRqYVo3YHjIPW_DiowgbLWacUZ-V-W
+#EXTINF:-1 group-title="GRAND PLUS UZB",UzReport TV HD
+http://3.team.ga:80/ch1801/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqssSnAQBgxAcy5a7AAjK0sZUfp3TEclb7twuyvH_A30m_
+#EXTINF:-1 group-title="GRAND PLUS UZB",FTV
+http://3.team.ga:80/ch1802/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsth_fUbk5PHOHeSPp1B0wdvWH_dhIDR-Sl7FdMkN0HsI
+#EXTINF:-1 group-title="GRAND PLUS UZB",Navo
+http://3.team.ga:80/ch1803/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsgvVVxrmxOza8r0oKpjo5YNVEdkrQAvR4ET3JNzcqgaZ
+#EXTINF:-1 group-title="GRAND PLUS UZB",Bolajon
+http://3.team.ga:80/ch1804/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsnEz0cLLdywiX86YpcBKV6aFxBjGrUd4LCW6uK9mCGOy
+#EXTINF:-1 group-title="GRAND PLUS UZB",Dunyo Boylab
+http://3.team.ga:80/ch1805/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsinnF6yLdp-Erc_QHdbcecd_2WqabAKWfNcG_cYdZTUH
+#EXTINF:-1 group-title="GRAND PLUS UZB",Uzbekiston Tarixi
+http://3.team.ga:80/ch2769/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqspJ2h3N3nUOuMYa395Z4_YCR4IuAIvsX1819Yq-5vrbz
+#EXTINF:-1 group-title="GRAND PLUS UZB",Aqlvoy
+http://3.team.ga:80/ch2770/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsgMH15ECDGZ4QpdYiPB2eAitO0rXRpVIhuPMr__KfHI3
+#EXTINF:-1 group-title="GRAND PLUS UZB",Mahalla
+http://3.team.ga:80/ch2771/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsgR4cqvgkrWC0LiQw1A1Wom1x_tO7cjcRqMil7i0ZWMx
+#EXTINF:-1 group-title="GRAND PLUS UZB",Madaniyat va Marifat
+http://3.team.ga:80/ch2772/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsmmVdZDJLYPMayFnfbY5EdIO2xYYl8vNKGas0sBKcqNl
+#EXTINF:-1 group-title="GRAND PLUS UZB",Dastarkhan TV
+http://3.team.ga:80/ch2773/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsunvEpoIewXiq4JF0Gy5OUw-3Tklqu6t34CQRPmHsE3P
+#EXTINF:-1 group-title="GRAND PLUS UZB",Andijan
+http://3.team.ga:80/ch2774/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsiUPh_3g9f35MqJjvmk7HCBCumTqG7mth6oSowbDUyWu
+#EXTINF:-1 group-title="GRAND PLUS UZB",Fergana
+http://3.team.ga:80/ch2775/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsnKw4bHA4aoOu-pO2Y4_A0TUsf2LG6GtJMh9qx7K5hfD
+#EXTINF:-1 group-title="GRAND PLUS UZB",Namangan
+http://3.team.ga:80/ch2776/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsmjmv0yr_nj1CuLWqzvzoBdXw4bocUO2_knG7rDjOIS8
+#EXTINF:-1 group-title="GRAND PLUS UZB",Futbol TV
+http://3.team.ga:80/ch2777/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsraVuHh1z3yC4oNcetH1uB9dKI93ffq3WEvW_nWujf39
+#EXTINF:-1 group-title="GRAND PLUS UZB",Taraqqiyot
+http://3.team.ga:80/ch2778/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqslw6WA0jEGs6HRAJ_UFo-1O6zupGfueaW8V9fKsQVZw3
+#EXTINF:-1 group-title="GRAND PLUS UZB",Ruxsor TV
+http://3.team.ga:80/ch2779/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqstGiWYOnOEun2S6f1Uct9_Ys6dP6WOloY1pfKDXQBNXy
+#EXTINF:-1 group-title="GRAND PLUS UZB",S Ikbol
+http://3.team.ga:80/ch2780/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsrG-Kz7JByo3Ytn8m0AxgZSC5Vt8G_QNpTKruJhRkjyB
+#EXTINF:-1 group-title="GRAND PLUS UZB",Lux TV
+http://3.team.ga:80/ch2781/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsj5iRZwAwQqLWtjmEirMMKwz13viR6FXCRHwpfUO7Jza
+#EXTINF:-1 group-title="GRAND PLUS UZB",Istiqlol TV
+http://3.team.ga:80/ch2782/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqsuKxn4kjrZ6kogDEw-TeMThDurv3rS-PlJTWloe8LOvD
+#EXTINF:-1 group-title="GRAND PLUS UZB",MuzTV Ozbekiston
+http://3.team.ga:80/ch3108/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqst-Iql7ZQDTPpki5ifyIdyq8abWxALCJr0ffxy6h2aS8
+#EXTINF:-1 group-title="GRAND PLUS UZB",Shifo TV
+http://3.team.ga:80/ch3109/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqstCih5j1CmZGaAJIENx-wytnslL1Yfxfon7MB4Y7J_L9
+#EXTINF:-1 group-title="GRAND PLUS UZB",Gold TV
+http://3.team.ga:80/ch3110/mono.m3u8?token=yere3.Q312pi9i3LGd2cbZU1yqstY8AdsNKvCjSkNvkepjk5f8uZDdnUrFKN8NiAWR6L9R
+
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",Матч! Премьер
+https://jekalich.github.io/smtk/channels/match-premier.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",Матч! Арена
+http://178.212.71.253:8000/play/54/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",Матч! Игра
+https://jekalich.github.io/smtk/channels/match-igra.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",Матч! Страна
+https://jekalich.github.io/smtk/channels/match-nash-sport.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",Матч! Футбол 1
+https://jekalich.github.io/smtk/channels/match-football1.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",Матч! Футбол 2
+https://jekalich.github.io/smtk/channels/match-football2.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",Матч! Футбол 3
+https://jekalich.github.io/smtk/channels/match-football3.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",Матч! Боец
+https://jekalich.github.io/smtk/channels/match-boets.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",KHL
+https://jekalich.github.io/smtk/channels/kxl.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",KHL Prime
+http://194.143.148.28:8080/KHL_HD/mpegts
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",Viju+ Sport
+https://jekalich.github.io/smtk/channels/viasat-sport.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",Хоккей ТВ
+https://jekalich.github.io/smtk/channels/xokkejny.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",ТВ Спорт
+https://jekalich.github.io/smtk/channels/sportivny.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",Мяч
+https://jekalich.github.io/smtk/channels/footbolny.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",Футбол
+https://jekalich.github.io/smtk/channels/football-ru.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",Конный мир
+http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",Мир баскетбола
+https://jekalich.github.io/smtk/channels/mir-basketbola.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",FightBox
+https://jekalich.github.io/smtk/channels/fightbox-hd.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka Sport",M-1 Global
+https://jekalich.github.io/smtk/channels/m1global.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/1hd-music.png" group-title="GRAND PLUS | Jeka MUSIC", 1HD
+http://91.247.68.229:8000/play/eee/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bridge-hd.png" group-title="GRAND PLUS | Jeka MUSIC", Bridge TV Deluxe HD
+https://jekalich.github.io/smtk/channels/bridge-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bridge-tv-fresh.png" group-title="GRAND PLUS | Jeka MUSIC", Bridge TV Fresh
+https://jekalich.github.io/smtk/channels/bridge-tv-fresh.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bridge-tv-shlager.png" group-title="GRAND PLUS | Jeka MUSIC", Bridge TV Шлягер
+http://178.212.71.253:8000/play/142/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bridge-tv-rock.png" group-title="GRAND PLUS | Jeka MUSIC", Bridge TV Rock HD
+http://178.212.71.253:8000/play/101/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/la-minor.png" group-title="GRAND PLUS | Jeka MUSIC", Ля-минор
+https://jekalich.github.io/smtk/channels/la-minor.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/mtv-rocks.png" group-title="GRAND PLUS | Jeka MUSIC", MTV 90s
+http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
+
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Viju+ Megahit
+https://jekalich.github.io/smtk/channels/vip-megahit.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Viju+ Premiere
+https://jekalich.github.io/smtk/channels/vip-premiere.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Viju+ Comedy
+https://jekalich.github.io/smtk/channels/vip-comedy.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Viju+ Serial
+http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg1MjYxMTYsImlhdCI6MTc1ODQzOTcxNiwiY2lkIjo2LCJ1aWQiOjk0Njc1Njk1MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.HCEJjDbBIQIwA8OoVtltxxE5UcHryhxwf1n5pKocljM&offset=10
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Viju TV1000
+https://jekalich.github.io/smtk/channels/tv1000.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Viju TV1000 Action
+https://jekalich.github.io/smtk/channels/tv1000-action.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Viju TV1000 Русское
+https://jekalich.github.io/smtk/channels/tv1000-russkoe-kino.m3u8
+
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Дорама
+https://jekalich.github.io/smtk/channels/dorama.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Кинопремьера
+https://jekalich.github.io/smtk/channels/kinopremiera-hd.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Кинохит
+https://jekalich.github.io/smtk/channels/kinoxit.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Киносемья
+https://jekalich.github.io/smtk/channels/kinosemiya.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Киносвидание
+https://jekalich.github.io/smtk/channels/kinosvidanie.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Наше новое кино
+https://jekalich.github.io/smtk/channels/nashe-novoe-kino.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Родное кино
+https://jekalich.github.io/smtk/channels/rodnoe-kino.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Кинокомедия
+https://jekalich.github.io/smtk/channels/kinokomedia.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Индийское кино
+https://jekalich.github.io/smtk/channels/indiyskoe-kino.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Киносерия
+https://jekalich.github.io/smtk/channels/kinoseria.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Блокбастер
+https://jekalich.github.io/smtk/channels/blokbaster-hd.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Камеди
+https://jekalich.github.io/smtk/channels/kamedi.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Кинопоказ
+https://jekalich.github.io/smtk/channels/kinopokaz-hd.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Наш Кинопоказ
+https://jekalich.github.io/smtk/channels/nash-kinopokaz-hd.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Наше Мужское
+https://jekalich.github.io/smtk/channels/nashe-muzhskoe-hd.m3u8
+
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Про Любовь
+https://jekalich.github.io/smtk/channels/pro-lyubov.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Хит
+https://jekalich.github.io/smtk/channels/khit-hd.m3u8
+
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",День Победы
+https://jekalich.github.io/smtk/channels/denpobedy.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Иллюзион+
+https://jekalich.github.io/smtk/channels/illuzion-plus.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",FX Life HD
+http://188.237.47.212:6008
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",.black
+http://188.190.222.53/Sony_turbo/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",.red
+http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg1MjYxMTYsImlhdCI6MTc1ODQzOTcxNiwiY2lkIjo2LCJ1aWQiOjk0Njc1Njk1MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.HCEJjDbBIQIwA8OoVtltxxE5UcHryhxwf1n5pKocljM&offset=10
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Cinema
+https://jekalich.github.io/smtk/channels/cinema-ru.m3u8
+
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",FilmBox Russia
+https://jekalich.github.io/smtk/channels/filmbox-ru.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Ретро
+http://178.212.71.253:8000/play/90/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Любимое кино
+https://jekalich.github.io/smtk/channels/lubimoe-kino.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Золотая Коллекция. Мосфильм
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
+
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Русский иллюзион
+http://178.212.71.253:8000/play/49/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Start Air
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Start World
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Кинеко
+https://jekalich.github.io/smtk/channels/kineko.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Сапфир
+https://jekalich.github.io/smtk/channels/sapfir.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",TV XXI
+https://jekalich.github.io/smtk/channels/tvxxi.m3u8
+
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Star Cinema
+https://jekalich.github.io/smtk/channels/star-cinema.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Star Family
+https://jekalich.github.io/smtk/channels/star-family.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Bolt
+https://jekalich.github.io/smtk/channels/bolt-ru.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Мир сериала
+https://jekalich.github.io/smtk/channels/mir-seriala.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Победа
+https://jekalich.github.io/smtk/channels/pobeda.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | Jeka CINEMA",Тайна
+https://jekalich.github.io/smtk/channels/tayna.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/001.gif" group-title="GRAND PLUS | TV LIVE",Первый канал
+http://uiptv.do.am/1ufc/000000001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/002.gif" group-title="GRAND PLUS | TV LIVE",Россия 1
+http://uiptv.do.am/1ufc/000000002/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/003.gif" group-title="GRAND PLUS | TV LIVE",Матч! ТВ
+http://uiptv.do.am/1ufc/000000003/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/004.gif" group-title="GRAND PLUS | TV LIVE",5 Канал
+http://uiptv.do.am/1ufc/000000004/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/005.gif" group-title="GRAND PLUS | TV LIVE",Россия Культура
+http://uiptv.do.am/1ufc/000000005/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/006.gif" group-title="GRAND PLUS | TV LIVE",Россия 24
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/007.gif" group-title="GRAND PLUS | TV LIVE",Карусель
+http://uiptv.do.am/1ufc/000000007/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/008.gif" group-title="GRAND PLUS | TV LIVE",ОТР
+http://uiptv.do.am/1ufc/000000008/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/009.gif" group-title="GRAND PLUS | TV LIVE",ТВЦ
+http://uiptv.do.am/1ufc/000000009/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/112.gif" group-title="GRAND PLUS | TV LIVE",Мир 24
+http://uiptv.do.am/1ufc/112234126/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/116.gif" group-title="GRAND PLUS | TV LIVE",ТРО
+http://uiptv.do.am/1ufc/116316122/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/114.gif" group-title="GRAND PLUS | TV LIVE",НТВ
+http://uiptv.do.am/1ufc/114816629/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/113.gif" group-title="GRAND PLUS | TV LIVE",Мир
+http://uiptv.do.am/1ufc/113500247/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/118.gif" group-title="GRAND PLUS | TV LIVE",Вместе-РФ HD
+http://uiptv.do.am/1ufc/118056781/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/102.gif" group-title="GRAND PLUS | TV LIVE",Рен ТВ
+http://uiptv.do.am/1ufc/102323759/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/115.gif" group-title="GRAND PLUS | TV LIVE",Звезда
+http://uiptv.do.am/1ufc/115312670/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/107.gif" group-title="GRAND PLUS | TV LIVE",ТВ-3
+http://uiptv.do.am/1ufc/107700947/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/104.gif" group-title="GRAND PLUS | TV LIVE",Домашний
+http://uiptv.do.am/1ufc/104487210/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/105.gif" group-title="GRAND PLUS | TV LIVE",СТС
+http://uiptv.do.am/1ufc/105567126/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/106.gif" group-title="GRAND PLUS | TV LIVE",ТНТ
+http://uiptv.do.am/1ufc/106596187/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/103.gif" group-title="GRAND PLUS | TV LIVE",Пятница
+http://uiptv.do.am/1ufc/103815382/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/109.gif" group-title="GRAND PLUS | TV LIVE",Че
+http://uiptv.do.am/1ufc/109121273/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/334.gif" group-title="GRAND PLUS | TV LIVE",TVM Channel
+http://uiptv.do.am/1ufc/334334148/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/312.gif" group-title="GRAND PLUS | TV LIVE",Моя планета
+http://uiptv.do.am/1ufc/312275719/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/500.gif" group-title="GRAND PLUS | TV LIVE",2x2
+http://uiptv.do.am/1ufc/500194263/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/612.gif" group-title="GRAND PLUS | TV LIVE",Муз ТВ
+http://uiptv.do.am/1ufc/612327787/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/602.gif" group-title="GRAND PLUS | TV LIVE",Шансон ТВ
+http://uiptv.do.am/1ufc/602079679/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/603.gif" group-title="GRAND PLUS | TV LIVE",ТНТ Music
+http://uiptv.do.am/1ufc/603282189/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/701.gif" group-title="GRAND PLUS | TV LIVE",РБК
+http://uiptv.do.am/1ufc/701293058/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://uiptv.do.am/img/logo/702.gif" group-title="GRAND PLUS | TV LIVE",Russia Today HD
+http://uiptv.do.am/1ufc/702424953/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/321babe4b69535b62b58880335577081.png" group-title="GRAND PLUS| ISRAEL", Канал HD
+http://bethoven.af-stream.com:1600/s/6528369f/9-kanal-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/e86d52f1cdcbccb650d7382d598cdf2a.png" group-title="GRAND PLUS| ISRAEL",Channel 10 HD
+http://bethoven.af-stream.com:1600/s/6528369f/channel10-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/6773deb8a03b790ed0c1e153d4309b28.png" group-title="GRAND PLUS| ISRAEL",Kan 11 HD
+http://bethoven.af-stream.com:1600/s/6528369f/11-kanal-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/4b9ab871a6266d2e476181eaa82e74ed.png" group-title="GRAND PLUS| ISRAEL",Keshet 12 HD
+http://bethoven.af-stream.com:1600/s/6528369f/12-kanal-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/361465d299cdfc0759e335103ecc0e77.png" group-title="GRAND PLUS| ISRAEL",Reshet 13 HD
+http://bethoven.af-stream.com:1600/s/6528369f/13-kanal-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/b6a9f45111dfa2d6bfcfa213cc7171fe.png" group-title="GRAND PLUS| ISRAEL",Ch 14 HD
+http://bethoven.af-stream.com:1600/s/6528369f/14-kanal-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/83cfe85cc2320a6171de022ce71310a5.png" group-title="GRAND PLUS| ISRAEL",i24 HD
+http://bethoven.af-stream.com:1600/s/6528369f/i24-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/b2c527f27939125f9f7f8e996a8e7cdb.png" group-title="GRAND PLUS| ISRAEL",Yes Movies Action HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-movies-action-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/dd0f4a936e1d4fab1eaf63c031e15693.png" group-title="GRAND PLUS| ISRAEL",Yes Movies Comedy HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-movies-comedy-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/6c73bb4f703e5972ee414369850bef96.png" group-title="GRAND PLUS| ISRAEL",Yes Movies Drama HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-movies-drama-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/2da62c5cb3e0ef272c6b186df34ac306.png" group-title="GRAND PLUS| ISRAEL",Yes Movies KIDS HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-movies-kids-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/bae47ad4f48d4008d1d11c91a5e8436b.png" group-title="GRAND PLUS| ISRAEL",Yes TV Action HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-action-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/3a69e741398e8c35e66d285661a604b5.png" group-title="GRAND PLUS| ISRAEL",Yes TV Comedy HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-comedy-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/55f23af148ad71a6a5c0e01ba432403f.png" group-title="GRAND PLUS| ISRAEL",Yes TV Drama HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-drama-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/16c0a39cebd630749bbd8379f1a70d0b.png" group-title="GRAND PLUS| ISRAEL",Yes+ Cinema HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-plus-cinema-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/5762e78f26ea8400b27651d01ea59be5.png" group-title="GRAND PLUS| ISRAEL",Yes+ Diamonds HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-plus-diamonds-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/f14b95e0e8b95995de6e7accdba34762.png" group-title="GRAND PLUS| ISRAEL",HOT Cinema 1 HD
+http://bethoven.af-stream.com:1600/s/6528369f/hot-cinema1-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/f18976e8a3236dbdabbb35f73f6e8988.png" group-title="GRAND PLUS| ISRAEL",HOT Cinema 2 HD
+http://bethoven.af-stream.com:1600/s/6528369f/hot-cinema2-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/2edb1bb63076c75baacf2674ce8c8c37.png" group-title="GRAND PLUS| ISRAEL",HOT Cinema 3 HD
+http://bethoven.af-stream.com:1600/s/6528369f/hot-cinema3-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/e055cf2620f58c60b1e65be4717d2c22.png" group-title="GRAND PLUS| ISRAEL",HOT Cinema 4 HD
+http://bethoven.af-stream.com:1600/s/6528369f/hot-cinema4-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/411dfebda2aee62ec1bb9fda2ad81633.png" group-title="GRAND PLUS| ISRAEL",HOT Israeli Cinema HD
+http://bethoven.af-stream.com:1600/s/6528369f/hot-israeli-cinema-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/17bd2807e81403557f433d4f01154414.png" group-title="GRAND PLUS| ISRAEL",FreeTV Movies Action HD
+http://bethoven.af-stream.com:1600/s/6528369f/freetv-movies-action-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/38c97a4406750b153436dee9bb8e70ff.png" group-title="GRAND PLUS| ISRAEL",FreeTV Movies Comedy HD
+http://bethoven.af-stream.com:1600/s/6528369f/freetv-movies-comedy-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/41007e047c76f2dde7429a359ec11d9e.png" group-title="GRAND PLUS| ISRAEL",FreeTV Movies Horror HD
+http://bethoven.af-stream.com:1600/s/6528369f/freetv-movies-horror-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/6d4a875e3815703aa0a9db4ac2f7bef3.png" group-title="GRAND PLUS| ISRAEL",FreeTV Movies Drama HD
+http://bethoven.af-stream.com:1600/s/6528369f/freetv-movies-drama-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/2f5dfbf3385fe2f44b48b9997b4f73f9.png" group-title="GRAND PLUS| ISRAEL",FreeTV Movies Romantic HD
+http://bethoven.af-stream.com:1600/s/6528369f/freetv-movies-romantic-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/f260af5080da40b35b1dd78b4d114051.png" group-title="GRAND PLUS| ISRAEL",FreeTV Movies Israeli HD
+http://bethoven.af-stream.com:1600/s/6528369f/freetv-movies-israeli-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/60f22ca6fbc46cb0458dbb99c110bc6d.png" group-title="GRAND PLUS| ISRAEL",FreeTV Series Comedy HD
+http://bethoven.af-stream.com:1600/s/6528369f/freetv-series-comedy-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/02c7911edd036c0c2fd92184de164458.png" group-title="GRAND PLUS| ISRAEL",FreeTV Series Drama HD
+http://bethoven.af-stream.com:1600/s/6528369f/freetv-series-drama-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/8d033b4ddcb6af2061232f1095be6e65.png" group-title="GRAND PLUS| ISRAEL",FreeTV Series Global HD
+http://bethoven.af-stream.com:1600/s/6528369f/freetv-series-global-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/b8a9d36a5313ce7ec7b313a5eb6f2eea.png" group-title="GRAND PLUS| ISRAEL",Global Action Channel 1 HD
+http://bethoven.af-stream.com:1600/s/6528369f/global-action-channel-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/11dbb6c40eed3c258e8fd311e7bba086.png" group-title="GRAND PLUS| ISRAEL",Global Action Channel 2 HD
+http://bethoven.af-stream.com:1600/s/6528369f/global-action-channel2-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/7075814ec613898414e1723ceb7f389c.png" group-title="GRAND PLUS| ISRAEL",Humor Channel HD
+http://bethoven.af-stream.com:1600/s/6528369f/humor-channel-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/f60f6a835e2abcb9152060302543c4b2.png" group-title="GRAND PLUS| ISRAEL",Classic Comedy Channel HD
+http://bethoven.af-stream.com:1600/s/6528369f/classic-comedy-channel-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/479ecd9c606cac2ebdfd10a7f5f1297d.png" group-title="GRAND PLUS| ISRAEL",HOT Comedy HD
+http://bethoven.af-stream.com:1600/s/6528369f/hot-comedy-central-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/b72300911e4223ce98b97b3d1e88eebf.png" group-title="GRAND PLUS| ISRAEL",HOT Drama HD
+http://bethoven.af-stream.com:1600/s/6528369f/hot-hbo-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/1bb5cc5b621a35934729462387ecf894.png" group-title="GRAND PLUS| ISRAEL",Zone HD
+http://bethoven.af-stream.com:1600/s/6528369f/hot-zone-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/74c1c0d13bf5172b80ddf344979cf483.png" group-title="GRAND PLUS| ISRAEL",HOT 3 HD
+http://bethoven.af-stream.com:1600/s/6528369f/hot3-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/8ecc8229a90fce1c1181cb721bcb75dd.png" group-title="GRAND PLUS| ISRAEL",HOT 8 HD
+http://bethoven.af-stream.com:1600/s/6528369f/hot-8-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/51bab34478e89391032e2dfd1c501f42.png" group-title="GRAND PLUS| ISRAEL",Yes Israeli HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-israel-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/b4b37f2be2530bb4c05a81b49796aea6.png" group-title="GRAND PLUS| ISRAEL",Yes Pop Up HD
+http://bethoven.af-stream.com:1600/s/6528369f/pop-up-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/d1a204c0caed85c4de60fa153a3d2391.png" group-title="GRAND PLUS| ISRAEL",Entertainment HD
+http://bethoven.af-stream.com:1600/s/6528369f/entertainment-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/a0e0197581415e7215c218e760b0404a.png" group-title="GRAND PLUS| ISRAEL",Channel 24 HD
+http://bethoven.af-stream.com:1600/s/6528369f/channel24-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/915cd21fd982f50721f990f14e8faba9.png" group-title="GRAND PLUS| ISRAEL",Viva Premium HD
+http://bethoven.af-stream.com:1600/s/6528369f/viva-premium-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/00d96e97e681402555d4f5cd327d1a1b.png" group-title="GRAND PLUS| ISRAEL",Viva Istanbul HD
+http://bethoven.af-stream.com:1600/s/6528369f/viva-plus-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/9dca75af28edf66ea2611c4efd1500a4.png" group-title="GRAND PLUS| ISRAEL",Viva Telenovelas HD
+http://bethoven.af-stream.com:1600/s/6528369f/viva-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/f072b6c79c092a6f7c3b5356f077092e.png" group-title="GRAND PLUS| ISRAEL",Viva Vintage
+http://bethoven.af-stream.com:1600/s/6528369f/viva-vintage-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/ce58c51650e6fbea87f254c1015c6f6f.png" group-title="GRAND PLUS| ISRAEL",Turkish Dramas Plus HD
+http://bethoven.af-stream.com:1600/s/6528369f/turkish-dramas-plus-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/d1a474f91b463d415bdd319abbfdf7b0.png" group-title="GRAND PLUS| ISRAEL",Turkish Dramas 2 HD
+http://bethoven.af-stream.com:1600/s/6528369f/turkish-dramas2-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/082f38cad0b98798d036b82e0f5bf9f5.png" group-title="GRAND PLUS| ISRAEL",Turkish Dramas 3 HD
+http://bethoven.af-stream.com:1600/s/6528369f/turkish-dramas3-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/c106807b0cc3b511840ea0ec2e804ca8.png" group-title="GRAND PLUS| ISRAEL",Yam Tichoni HD
+http://bethoven.af-stream.com:1600/s/6528369f/yamtihoni-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/929a0fa393a3f2a01005f7db2550a4ba.png" group-title="GRAND PLUS| ISRAEL",Yam Tichoni+ HD
+http://bethoven.af-stream.com:1600/s/6528369f/yam-tichoni-plus-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/67bb8eed717bda554bb23458214c7d66.png" group-title="GRAND PLUS| ISRAEL",Mediterranean Movie Channel 1 HD
+http://bethoven.af-stream.com:1600/s/6528369f/mediterranean-movie-channel-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/6a2c305d63ae7689c56fb0e019ff27fc.png" group-title="GRAND PLUS| ISRAEL",Mediterranean Movie Channel 2 HD
+http://bethoven.af-stream.com:1600/s/6528369f/mediterranean-movie-channel2-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/c7d56f3d6d922b8ed2602219d93b0118.png" group-title="GRAND PLUS| ISRAEL",Bollywood Indian Movies HD
+http://bethoven.af-stream.com:1600/s/6528369f/hot-bollywood-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/32ac3c06f31c9ebfd87e650ab04486f0.png" group-title="GRAND PLUS| ISRAEL",Bollywood Indian Classic Movies HD
+http://bethoven.af-stream.com:1600/s/6528369f/bollywood-classic-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/f2376cf984e6ee960d32dc5ec970f269.png" group-title="GRAND PLUS| ISRAEL",Indian Drama 1 HD
+http://bethoven.af-stream.com:1600/s/6528369f/indian-series-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/326511e639251272036e83cfb916e576.png" group-title="GRAND PLUS| ISRAEL",Indian Drama 2 HD
+http://bethoven.af-stream.com:1600/s/6528369f/indian-series2-il-hd/video.m3u8
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png" group-title="GRAND PLUS| ISRAEL",Sport 1 HD
+http://bethoven.af-stream.com:1600/s/6528369f/sport1-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png" group-title="GRAND PLUS| ISRAEL",Sport 2 HD
+http://bethoven.af-stream.com:1600/s/6528369f/sport2-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png" group-title="GRAND PLUS| ISRAEL",Sport 3 HD
+http://bethoven.af-stream.com:1600/s/6528369f/sport3-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png" group-title="GRAND PLUS| ISRAEL",Sport 4 HD
+http://bethoven.af-stream.com:1600/s/6528369f/sport4-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png" group-title="GRAND PLUS| ISRAEL",Sport 5 HD
+http://bethoven.af-stream.com:1600/s/6528369f/sport5-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/5ba78c51f2013b95e2f98bdbad050840.png" group-title="GRAND PLUS| ISRAEL",Sport 5+ HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-sport5-plus-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/0b20fccd108daae5693cec474bb4a413.png" group-title="GRAND PLUS| ISRAEL",Sport 5 Live HD
+http://bethoven.af-stream.com:1600/s/6528369f/sport5-plus-live-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png" group-title="GRAND PLUS| ISRAEL",Sport 5 Stars HD
+http://bethoven.af-stream.com:1600/s/6528369f/sport5-stars-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/8152574add12465c708d7c61b9d771e9.png" group-title="GRAND PLUS| ISRAEL",Sport 5 Gold HD
+http://bethoven.af-stream.com:1600/s/6528369f/sport5-gold-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/1b38e15a3726002e4fe6e7198b2aa708.png" group-title="GRAND PLUS| ISRAEL",Eurosport 1 HD IL
+http://bethoven.af-stream.com:1600/s/6528369f/eurosport1-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/56e5c8dcc10bfaaec4b94718820d3726.png" group-title="GRAND PLUS| ISRAEL",Eurosport 2 HD IL
+http://bethoven.af-stream.com:1600/s/6528369f/eurosport2-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png" group-title="GRAND PLUS| ISRAEL",One HD
+http://bethoven.af-stream.com:1600/s/6528369f/one-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png" group-title="GRAND PLUS| ISRAEL",One 2 HD
+http://bethoven.af-stream.com:1600/s/6528369f/one2-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/708c7aac0cb2d3b36df078ac9e03ca71.png" group-title="GRAND PLUS| ISRAEL",Ego Channel HD
+http://bethoven.af-stream.com:1600/s/6528369f/ego-total-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/8a884c1498e31cf01561d106901189cc.png" group-title="GRAND PLUS| ISRAEL",Animal Planet HD IL
+http://bethoven.af-stream.com:1600/s/6528369f/animal-planet-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/fd2f556259468b707f3b299e132ba31b.png" group-title="GRAND PLUS| ISRAEL",National Geographic Wild HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-natgeo-wild-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/f8e969a38871f393eeb2fd71f3121ddf.png" group-title="GRAND PLUS| ISRAEL",National Geographic HD IL
+http://bethoven.af-stream.com:1600/s/6528369f/yes-natgeo-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/8a0720a45a9d32602894d1380152a7e7.png" group-title="GRAND PLUS| ISRAEL",Discovery HD
+http://bethoven.af-stream.com:1600/s/6528369f/discovery-hd-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/e5d6375123f5ebcedc995ace38ae2281.png" group-title="GRAND PLUS| ISRAEL",History HD IL
+http://bethoven.af-stream.com:1600/s/6528369f/history-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/e43ce618a5987c2c96a9c855b50e7fd5.png" group-title="GRAND PLUS| ISRAEL",HOT Travel Channel HD
+http://bethoven.af-stream.com:1600/s/6528369f/travel-channel-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/c736eb92176d6bea7a5e4bc33c465832.png" group-title="GRAND PLUS| ISRAEL",Yes Travel Channel HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-travel-channel-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/b86048f86751ae047a20e51d3e9cd9f2.png" group-title="GRAND PLUS| ISRAEL",Yes Docu HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-docu-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/4abd02987bbe2c63e76691cb5546a2a3.png" group-title="GRAND PLUS| ISRAEL",One Doco HD
+http://bethoven.af-stream.com:1600/s/6528369f/one-doco-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/802d7d50d6f1edf6963ee06db13ce064.png" group-title="GRAND PLUS| ISRAEL",Vacation Channel HD
+http://bethoven.af-stream.com:1600/s/6528369f/vacation-channel-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/5bb32ea5e90df7d2f7922c61f595ebbe.png" group-title="GRAND PLUS| ISRAEL",Home Plus HD
+http://bethoven.af-stream.com:1600/s/6528369f/home-plus-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/1f64fcbd36e1b85f5b79a703364722c0.png" group-title="GRAND PLUS| ISRAEL",Design Channel HD
+http://bethoven.af-stream.com:1600/s/6528369f/the-design-channel-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/bdcdd42245ad43771dd6bcb5375b3160.png" group-title="GRAND PLUS| ISRAEL",Wedding at First Sight Channel HD
+http://bethoven.af-stream.com:1600/s/6528369f/wedding-at-first-sight-channel-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/9463764213db79cc28bafe08cd5da15f.png" group-title="GRAND PLUS| ISRAEL",TLC HD IL
+http://bethoven.af-stream.com:1600/s/6528369f/tlc-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/522019cd42c54c1720b7dd068a43679b.png" group-title="GRAND PLUS| ISRAEL",Game Show HD
+http://bethoven.af-stream.com:1600/s/6528369f/game-show-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/73874c1f67371aa5467a9ed1a00433ca.png" group-title="GRAND PLUS| ISRAEL",HOT Real HD
+http://bethoven.af-stream.com:1600/s/6528369f/hot-real-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/af4d79860fac6150c73b294bd4643667.png" group-title="GRAND PLUS| ISRAEL",Reality Channel HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-reality-channel-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/749221082877570955d24107203eb69f.png" group-title="GRAND PLUS| ISRAEL",Good Life HD
+http://bethoven.af-stream.com:1600/s/6528369f/good-life-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/0c9f62b9115c5b9eba2c122c3e1ed49c.png" group-title="GRAND PLUS| ISRAEL",CBS Reality
+http://bethoven.af-stream.com:1600/s/6528369f/cbs-reality-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/79a7cd7f6cd0740aeea34b9809e451eb.png" group-title="GRAND PLUS| ISRAEL",E! HD
+http://bethoven.af-stream.com:1600/s/6528369f/e-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/32d5f1311db8c0c008ccc99010b63b69.png" group-title="GRAND PLUS| ISRAEL",Food Channel HD
+http://bethoven.af-stream.com:1600/s/6528369f/the-food-channel-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/02e6f16947a374e7c70d644f0e9d25d0.png" group-title="GRAND PLUS| ISRAEL",Food Network HD IL
+http://bethoven.af-stream.com:1600/s/6528369f/food-network-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/9845a9f5ac2ab723860193771dc7159d.png" group-title="GRAND PLUS| ISRAEL",Foody HD
+http://bethoven.af-stream.com:1600/s/6528369f/foody-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/27d072d4790e4497e66c12791d546aad.png" group-title="GRAND PLUS| ISRAEL",Doc HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-doc-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/d9cdf01d1c207df261a68dabc52210f9.png" group-title="GRAND PLUS| ISRAEL",Healt HD
+http://bethoven.af-stream.com:1600/s/6528369f/health-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/80dabb597db9c574e5f51fc9b95999a5.png" group-title="GRAND PLUS| ISRAEL",Cinema Family HD
+http://bethoven.af-stream.com:1600/s/6528369f/cinema-family-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/8953d8d82f60ea411852c4b247f21198.png" group-title="GRAND PLUS| ISRAEL",Disney HD
+http://bethoven.af-stream.com:1600/s/6528369f/yes-disney-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/f9c99b10f100c1dcca05d1d63b687ff2.png" group-title="GRAND PLUS| ISRAEL",Disney Jr
+http://bethoven.af-stream.com:1600/s/6528369f/disney-jr-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/6a02a2432086f9e53d174a43958fe4a9.png" group-title="GRAND PLUS| ISRAEL",Nickelodeon HD IL
+http://bethoven.af-stream.com:1600/s/6528369f/yes-nickelodeon-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/c3a9357c34aeac0d66ec2365e32549fa.png" group-title="GRAND PLUS| ISRAEL",Nick Jr HD
+http://bethoven.af-stream.com:1600/s/6528369f/nick-jr-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/86108a65d0443a6b0d156e2523dccf68.png" group-title="GRAND PLUS| ISRAEL",TeenNick HD
+http://bethoven.af-stream.com:1600/s/6528369f/teennick-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/f1cf7afb7d0b38cc1ca069774c9713eb.png" group-title="GRAND PLUS| ISRAEL",HOP HD
+http://bethoven.af-stream.com:1600/s/6528369f/hop-childhood-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/f66ae4feae78b15c60ccf05f6d5e3055.png" group-title="GRAND PLUS| ISRAEL",Luli
+http://bethoven.af-stream.com:1600/s/6528369f/luli-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/dfb1abd80b9a1255ce3d1acc72a4610b.png" group-title="GRAND PLUS| ISRAEL",Baby HD
+http://bethoven.af-stream.com:1600/s/6528369f/baby-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/3bc9e10b99dc902135f30ed7056bf4f9.png" group-title="GRAND PLUS| ISRAEL",Zoom HD
+http://bethoven.af-stream.com:1600/s/6528369f/zoom-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/f109eb37a0a7a6c85a5b059abd1b4482.png" group-title="GRAND PLUS| ISRAEL",Zoom Toon HD
+http://bethoven.af-stream.com:1600/s/6528369f/zoom-toon-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/8e37e18c472fa294b88b9f2431c0726d.png" group-title="GRAND PLUS| ISRAEL",Kan23 HD
+http://bethoven.af-stream.com:1600/s/6528369f/kan23-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/pack_logos/c4afc4ff4c3bd8e9d7c6df6046d66850.png" group-title="GRAND PLUS| ISRAEL",Junior HD
+http://bethoven.af-stream.com:1600/s/6528369f/junior-il/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/e74ab1b6d7349cc3e01d0adce26465c0.png" group-title="GRAND PLUS| ISRAEL",Music HD
+http://bethoven.af-stream.com:1600/s/6528369f/music-il-hd/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://af-play.com/storage/images/channel_logos/4d73eb398342d48111c4a3b2a8b93725.png" group-title="GRAND PLUS| ISRAEL",HOT Senior HD
+http://bethoven.af-stream.com:1600/s/6528369f/hot-senior-il-hd/video.m3u8
+
 
 
 
@@ -918,12 +1683,34 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="GRAND PLUS| SPORT REZERV", Матч! Футбол 3 HD*
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/setanta-sports.png" group-title="GRAND PLUS| SPORT REZERV",~ Setanta Sports 1 HD
-http://tooontv.com:999/live/ere3444h/agape/1038.
 
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/setanta-sports-plus.png" group-title="GRAND PLUS| SPORT REZERV",~ Setanta Sports 2 HD
+
+#EXTINF:-1 tvg-logo="http://194.26.229.4/live/pda.png" group-title="GRAND PLUS| SPORT REZERV", OnlineTV
+http://185.221.213.254:8080/Okko/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT REZERV", Матч Премьер
+http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT REZERV", Baby Time
+http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZlvQmeXQ_iWHp0Fz7MTnr3Oug7p6sHgeRtqTpR_WNEipjpEyv53G58Wj1Rgv9ETCR2JV3w3LyhyhHvewwSEDBXT&token=MjIyMjoyMjIyMjI=
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT REZERV", Вкус
+http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28AMNZnFb4iJ1Qqz9GhIHTeL4yM1l2znOI0P3E3qK6ZJZpdLTxJI2L3yFRy96n1gw-7mc-c3-houtWFSgQ0Blyh5QuU6&token=MjIyMjoyMjIyMjI=
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT REZERV", Матч HD
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT REZERV", Матч ТВ
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT REZERV", Матч! Футбол 2
+http://45.11.139.43:8555/fut2/index.m3u8.
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/setanta-sports-plus.png" group-title="GRAND PLUS| SPORT REZERV",Setanta Sports 2 HD
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="GRAND PLUS| SPORT REZERV",Setanta Sport 1
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/setanta-sports-plus.png" group-title="GRAND PLUS| SPORT REZERV", Setanta Sports 2 HD*
 http://95.85.109.219:7000/play/a068
 
@@ -1066,554 +1853,6 @@ http://185.221.213.254/live/stream3.php?q=OWWGT5_z5DqjdLW9cndeOmc5aO6pnRbuSajO28
 
 
 
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kinoxittv.png" group-title="GRAND PLUS| VIVAMAX Кино",  Кинохит
-http://cdn.vivamax.pro/Kinoxit/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kinopremieratv.png" group-title="GRAND PLUS| VIVAMAX Кино",  Кинопремьера
-http://cdn.vivamax.pro/Kinopremiera/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kinosemiatv.png" group-title="GRAND PLUS| VIVAMAX Кино",  Киносемья
-http://cdn.vivamax.pro/Kinosemya/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/rodnoekinotv.png" group-title="GRAND PLUS| VIVAMAX Кино",  Родное кино
-http://cdn.vivamax.pro/RodnoeKino/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kinomixtv.png" group-title="GRAND PLUS| VIVAMAX Кино",  Киномикс
-http://cdn.vivamax.pro/Kinomix/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/nashenovoekinotv.png" group-title="GRAND PLUS| VIVAMAX Кино",  Наше новое кино
-http://cdn.vivamax.pro/NasheNovoeKino/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kinokomediatv.png" group-title="GRAND PLUS| VIVAMAX Кино",  Кинокомедия
-http://cdn.vivamax.pro/Kinokomedia/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/mujskoekino.png" group-title="GRAND PLUS| VIVAMAX Кино",  Мужское кино
-http://cdn.vivamax.pro/MujskoeKino/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kinosvidanie.png" group-title="GRAND PLUS| VIVAMAX Кино",  Киносвидание
-http://cdn.vivamax.pro/Kinosvidanie/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kinoseria.png" group-title="GRAND PLUS| VIVAMAX Кино",  Киносерия
-http://cdn.vivamax.pro/Kinoseria/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kinoujas.png" group-title="GRAND PLUS| VIVAMAX Кино",  Киноужас
-http://cdn.vivamax.pro/Kinoujas/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/indiskoekino.png" group-title="GRAND PLUS| VIVAMAX Кино",  Индийское кино
-http://cdn.vivamax.pro/IndiskoeKino/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/vijutv1000.png" group-title="GRAND PLUS| VIVAMAX Кино",  viju TV1000
-http://cdn.vivamax.pro/VijuTV1000/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/vijutv1000russkoe.png" group-title="GRAND PLUS| VIVAMAX Кино",  viju TV1000 русское
-http://cdn.vivamax.pro/VijuTV1000Russkoe/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/vijutv1000action.png" group-title="GRAND PLUS| VIVAMAX Кино",  viju TV1000 action
-http://cdn.vivamax.pro/VijuTV1000Action/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/vijutv1000romantica.png" group-title="GRAND PLUS| VIVAMAX Кино",  viju TV1000 romantica
-http://cdn.vivamax.pro/VijuTV1000Romantica/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/vijutv1000novella.png" group-title="GRAND PLUS| VIVAMAX Кино",  viju TV1000 новелла
-http://cdn.vivamax.pro/VijuTV1000Novella/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/vijupluspremiere.png" group-title="GRAND PLUS| VIVAMAX Кино",  viju+ Premiere
-http://cdn.vivamax.pro/VijuPremiere/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/vijumegahit.png" group-title="GRAND PLUS| VIVAMAX Кино",  viju+ Megahit
-http://cdn.vivamax.pro/VijuMegahit/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/vijucomedy.png" group-title="GRAND PLUS| VIVAMAX Кино",  viju+ Comedy
-http://cdn.vivamax.pro/VijuComedy/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/vijuserial.png" group-title="GRAND PLUS| VIVAMAX Кино",  viju+ Serial
-http://cdn.vivamax.pro/VijuSerial/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/premialnoe.png" group-title="GRAND PLUS| VIVAMAX Кино",  Премиальное
-http://cdn.vivamax.pro/Premialnoe/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/ostrosyujetnoe.png" group-title="GRAND PLUS| VIVAMAX Кино",  Остросюжетное
-http://cdn.vivamax.pro/Ostrosyujetnoe/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/komedinoe.png" group-title="GRAND PLUS| VIVAMAX Кино",  Комедийное
-http://cdn.vivamax.pro/Komedinoe/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kriminalnoe.png" group-title="GRAND PLUS| VIVAMAX Кино",  Криминальное
-http://cdn.vivamax.pro/Kriminalnoe/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/shokiruyushee.png" group-title="GRAND PLUS| VIVAMAX Кино",  Шокирующее
-http://cdn.vivamax.pro/Shokiruyushee/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/romantichnoe.png" group-title="GRAND PLUS| VIVAMAX Кино",  Романтичное
-http://cdn.vivamax.pro/Romantichnoe/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/lubimoe.png" group-title="GRAND PLUS| VIVAMAX Кино",  Любимое
-http://cdn.vivamax.pro/Lyubimoe/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/dushevnoe.png" group-title="GRAND PLUS| VIVAMAX Кино",  Душевное
-http://cdn.vivamax.pro/Dushevnoe/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/nashe.png" group-title="GRAND PLUS| VIVAMAX Кино",  Наше
-http://cdn.vivamax.pro/Nashe/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/viasatkino.png" group-title="GRAND PLUS| VIVAMAX Кино",  Viasat Kino
-http://cdn.vivamax.pro/ViasatKino/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/viasatkinoaction.png" group-title="GRAND PLUS| VIVAMAX Кино",  Viasat Kino Action
-http://cdn.vivamax.pro/ViasatKinoAction/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/viasatkinomegahit.png" group-title="GRAND PLUS| VIVAMAX Кино",  Viasat Kino Megahit
-http://cdn.vivamax.pro/ViasatKinoMegahit/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/viasastkinocomedy.png" group-title="GRAND PLUS| VIVAMAX Кино",  Viasat Kino Comedy
-http://cdn.vivamax.pro/ViasatKinoComedy/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/viasatkinoworld.png" group-title="GRAND PLUS| VIVAMAX Кино",  Viasat Kino World
-http://cdn.vivamax.pro/ViasatKinoWorld/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/viasatserial.png" group-title="GRAND PLUS| VIVAMAX Кино",  Viasat Serial
-http://cdn.vivamax.pro/ViasatSerial/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/okkotv.png" group-title="GRAND PLUS| VIVAMAX Кино",  Okko TV
-http://cdn.vivamax.pro/okkotv/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/a1.png" group-title="GRAND PLUS| VIVAMAX Кино",  A1
-http://cdn.vivamax.pro/Amedia1/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/a2.png" group-title="GRAND PLUS| VIVAMAX Кино",  A2
-http://cdn.vivamax.pro/Amedia2/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/amediapremium.png" group-title="GRAND PLUS| VIVAMAX Кино",  Amedia Premium
-http://cdn.vivamax.pro/AmediaPremium/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/amediahit.png" group-title="GRAND PLUS| VIVAMAX Кино",  Amedia Hit
-http://cdn.vivamax.pro/AmediaHit/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/startair.png" group-title="GRAND PLUS| VIVAMAX Кино",  START Air
-http://cdn.vivamax.pro/StartAir/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/startworld.png" group-title="GRAND PLUS| VIVAMAX Кино",  START World
-http://cdn.vivamax.pro/StartWorld/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/flixsnip.png" group-title="GRAND PLUS| VIVAMAX Кино",  FlixSnip
-http://cdn.vivamax.pro/Flixsnip/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kionxit.png" group-title="GRAND PLUS| VIVAMAX Кино",  KIONХИТ
-http://cdn.vivamax.pro/KIONXIT/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kinojam1.png" group-title="GRAND PLUS| VIVAMAX Кино",  KinoJam 1
-http://cdn.vivamax.pro/Kinojam1/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kinojam2.png" group-title="GRAND PLUS| VIVAMAX Кино",  KinoJam 2
-http://cdn.vivamax.pro/Kinojam2/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/detectivejam.png" group-title="GRAND PLUS| VIVAMAX Кино",  DetectiveJam
-http://cdn.vivamax.pro/DetectiveJam/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/familyjam.png" group-title="GRAND PLUS| VIVAMAX Кино",  FamilyJam
-http://cdn.vivamax.pro/FamilyJam/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/red.png" group-title="GRAND PLUS| VIVAMAX Кино",  .Red
-http://cdn.vivamax.pro/Red/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/blackkino.png" group-title="GRAND PLUS| VIVAMAX Кино",  .Black
-http://cdn.vivamax.pro/Black/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/scifi.png" group-title="GRAND PLUS| VIVAMAX Кино",  .Sci-Fi
-http://cdn.vivamax.pro/Scifi/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/romance.png" group-title="GRAND PLUS| VIVAMAX Кино",  Romance
-http://cdn.vivamax.pro/Romance/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/suspense.png" group-title="GRAND PLUS| VIVAMAX Кино",  Suspense
-http://cdn.vivamax.pro/Suspense/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/domkinopremium.png" group-title="GRAND PLUS| VIVAMAX Кино",  Дом кино премиум
-http://cdn.vivamax.pro/DomKinoPremium/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/domkino.png" group-title="GRAND PLUS| VIVAMAX Кино",  Дом кино
-http://cdn.vivamax.pro/DomKino/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kinomanru.png" group-title="GRAND PLUS| VIVAMAX Кино",  Киноман
-http://cdn.vivamax.pro/Kinoman/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/blokbaster.png" group-title="GRAND PLUS| VIVAMAX Кино",  Блокбастер
-http://cdn.vivamax.pro/Blokbaster/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kinotv.png" group-title="GRAND PLUS| VIVAMAX Кино",  КиноТВ
-http://cdn.vivamax.pro/KinoTV/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/cinema.png" group-title="GRAND PLUS| VIVAMAX Кино",  Синема
-http://cdn.vivamax.pro/Cinema/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/xit.png" group-title="GRAND PLUS| VIVAMAX Кино",  Хит
-http://cdn.vivamax.pro/Xit/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/mosfilmgold.png" group-title="GRAND PLUS| VIVAMAX Кино",  Мосфильм. Золотая коллекция
-http://cdn.vivamax.pro/MosfilmGold/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/komedia.png" group-title="GRAND PLUS| VIVAMAX Кино",  Комедия
-http://cdn.vivamax.pro/Komedia/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/prolubov.png" group-title="GRAND PLUS| VIVAMAX Кино",  ПРО ЛЮБОВЬ
-http://cdn.vivamax.pro/ProLyubov/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/lavstori.png" group-title="GRAND PLUS| VIVAMAX Кино",  Лавстори
-http://cdn.vivamax.pro/Lavstori/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kamedi.png" group-title="GRAND PLUS| VIVAMAX Кино",  Камеди
-http://cdn.vivamax.pro/Kamedi/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/dizi.png" group-title="GRAND PLUS| VIVAMAX Кино",  Timeless Dizi Channel
-http://cdn.vivamax.pro/TimelessDizi/index.m3u8?token=0119371fc31a
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/planb.png" group-title="GRAND PLUS| VIVAMAX Кино",  Plan B
-http://cdn.vivamax.pro/PlanB/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kinokult.png" group-title="GRAND PLUS| VIVAMAX Кино",  Кинокульт
-http://cdn.vivamax.pro/Kinokult/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/scream.png" group-title="GRAND PLUS| VIVAMAX Кино",  Scream
-http://cdn.vivamax.pro/Scream/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/sumiko.png" group-title="GRAND PLUS| VIVAMAX Кино",  Sumiko
-http://cdn.vivamax.pro/Sumiko/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/russkiroman.png" group-title="GRAND PLUS| VIVAMAX Кино",  Русский роман
-http://cdn.vivamax.pro/RusskiRoman/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/russkibestseller.png" group-title="GRAND PLUS| VIVAMAX Кино",  Русский бестселлер
-http://cdn.vivamax.pro/RusskiBestseller/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/russkidetektiv.png" group-title="GRAND PLUS| VIVAMAX Кино",  Русский Детектив
-http://cdn.vivamax.pro/RusskiDetektiv/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/russkiilussion.png" group-title="GRAND PLUS| VIVAMAX Кино",  Русский Иллюзион
-http://cdn.vivamax.pro/RusskiIlussion/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/ilussion+.png" group-title="GRAND PLUS| VIVAMAX Кино",  Иллюзион+
-http://cdn.vivamax.pro/IlussionPlus/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/evrokino.png" group-title="GRAND PLUS| VIVAMAX Кино",  Еврокино
-http://cdn.vivamax.pro/Eurokino/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/saga.png" group-title="GRAND PLUS| VIVAMAX Кино",  Saga TV
-http://cdn.vivamax.pro/Saga/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/starcinema.png" group-title="GRAND PLUS| VIVAMAX Кино",  Star Cinema
-http://cdn.vivamax.pro/StarCinemaRU/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/starfamily.png" group-title="GRAND PLUS| VIVAMAX Кино",  Star Family
-http://cdn.vivamax.pro/StarFamilyRU/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/fan.png" group-title="GRAND PLUS| VIVAMAX Кино",  Fan
-http://cdn.vivamax.pro/Fan/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/trash.png" group-title="GRAND PLUS| VIVAMAX Кино",  Trash
-http://cdn.vivamax.pro/Trash/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/dorama.png" group-title="GRAND PLUS| VIVAMAX Кино",  Дорама
-http://cdn.vivamax.pro/Dorama/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/vhska.png" group-title="GRAND PLUS| VIVAMAX Кино",  VHS-ка
-http://cdn.vivamax.pro/VHSka/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/vhskaserial.png" group-title="GRAND PLUS| VIVAMAX Кино",  VHS-ка сериал
-http://cdn.vivamax.pro/VHSkaSerial/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/fenixpluskino.png" group-title="GRAND PLUS| VIVAMAX Кино",  Феникс+ Кино
-http://cdn.vivamax.pro/FenixPlusKino/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/india.png" group-title="GRAND PLUS| VIVAMAX Кино",  Индия
-http://cdn.vivamax.pro/India/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kineko.png" group-title="GRAND PLUS| VIVAMAX Кино",  КИНЕКО
-http://cdn.vivamax.pro/Kineko/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/sapfir.png" group-title="GRAND PLUS| VIVAMAX Кино",  САПФИР
-http://cdn.vivamax.pro/Sapfir/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kinopokaz.png" group-title="GRAND PLUS| VIVAMAX Кино",  Кинопоказ
-http://cdn.vivamax.pro/Kinopokaz/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/nashkinopokaz.png" group-title="GRAND PLUS| VIVAMAX Кино",  Наш Кинопоказ
-http://cdn.vivamax.pro/NashKinopokaz/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/nashemujskoe.png" group-title="GRAND PLUS| VIVAMAX Кино",  Наше Мужское
-http://cdn.vivamax.pro/NasheMujskoe/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/ntvserial.png" group-title="GRAND PLUS| VIVAMAX Кино",  НТВ Сериал
-http://cdn.vivamax.pro/NTVSerial/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/ntvxit.png" group-title="GRAND PLUS| VIVAMAX Кино",  НТВ Хит
-http://cdn.vivamax.pro/ntv_xit/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/bollywood.png" group-title="GRAND PLUS| VIVAMAX Кино",  Bollywood
-http://cdn.vivamax.pro/Bollywood/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/hollywood.png" group-title="GRAND PLUS| VIVAMAX Кино",  Hollywood
-http://cdn.vivamax.pro/Hollywood/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/nst.png" group-title="GRAND PLUS| VIVAMAX Кино",  НСТ
-http://cdn.vivamax.pro/NST/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/gosfilmofond.png" group-title="GRAND PLUS| VIVAMAX Кино",  Госфильмофонд. Машина времени
-http://cdn.vivamax.pro/Gosfilmofond/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/okkogeroi.png" group-title="GRAND PLUS| VIVAMAX Кино",  Okko Герои
-http://cdn.vivamax.pro/okgeroi/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/dzenpobedi.png" group-title="GRAND PLUS| VIVAMAX Кино",  День победы
-http://cdn.vivamax.pro/DzenPobedi/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/sovetskayakinoklassika.png" group-title="GRAND PLUS| VIVAMAX Кино",  Советская киноклассика
-http://cdn.vivamax.pro/SovetskayaKinoklassika/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/patriot.png" group-title="GRAND PLUS| VIVAMAX Кино",  Патриот
-http://cdn.vivamax.pro/Patriot/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/starcinema.png" group-title="GRAND PLUS| VIVAMAX Кино",  STAR Cinema [EU]
-http://cdn.vivamax.pro/STARCinema/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/starfamily.png" group-title="GRAND PLUS| VIVAMAX Кино",  STAR Family [EU]
-http://cdn.vivamax.pro/STARFamily/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/fx.png" group-title="GRAND PLUS| VIVAMAX Кино",  FOX
-http://cdn.vivamax.pro/Fox/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/foxlife.png" group-title="GRAND PLUS| VIVAMAX Кино",  FOX Life
-http://cdn.vivamax.pro/FoxLife/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/bolt.png" group-title="GRAND PLUS| VIVAMAX Кино",  Bolt
-http://cdn.vivamax.pro/Bolt/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/filmuadrama.png" group-title="GRAND PLUS| VIVAMAX Кино",  FilmUADrama
-http://cdn.vivamax.pro/FilmUADrama/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kinoliving.png" group-title="GRAND PLUS| VIVAMAX Кино",  KinoLiving
-http://cdn.vivamax.pro/Kinoliving/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/filmbox.png" group-title="GRAND PLUS| VIVAMAX Кино",  Filmbox
-http://cdn.vivamax.pro/Filmbox/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/filmboxarthouse.png" group-title="GRAND PLUS| VIVAMAX Кино",  Filmbox Arthouse
-http://cdn.vivamax.pro/FilmboxArthouse/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/mirseriala.png" group-title="GRAND PLUS| VIVAMAX Кино",  Мир сериала
-http://cdn.vivamax.pro/MirSeriala/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/retroru.png" group-title="GRAND PLUS| VIVAMAX Кино",  Ретро
-http://cdn.vivamax.pro/Retro/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/okino.png" group-title="GRAND PLUS| VIVAMAX Кино",  О!Кино
-http://cdn.vivamax.pro/OKINO/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/kino24.png" group-title="GRAND PLUS| VIVAMAX Кино",  Кино24
-http://cdn.vivamax.pro/Kino24/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/tv21.png" group-title="GRAND PLUS| VIVAMAX Кино",  TV21
-http://cdn.vivamax.pro/TV21/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/shottv.png" group-title="GRAND PLUS| VIVAMAX Кино",  Shot TV
-http://cdn.vivamax.pro/ShotTV/index.m3u8?token=0119371fc31a
-
-
-
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/freshcinema.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Fresh Cinema
-http://cdn.vivamax.pro/FreshCinema/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/freshseries.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Fresh Series
-http://cdn.vivamax.pro/FreshSeries/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/freshpremiere.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Fresh Premiere
-http://cdn.vivamax.pro/FreshPremiere/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/freshcomedy.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Fresh Comedy
-http://cdn.vivamax.pro/FreshComedy/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/freshfamily.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Fresh Family
-http://cdn.vivamax.pro/FreshFamily/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/freshrating.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Fresh Rating
-http://cdn.vivamax.pro/FreshRating/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/freshvhs.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Fresh VHS
-http://cdn.vivamax.pro/FreshVHS/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/freshfantastic.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Fresh Fantastic
-http://cdn.vivamax.pro/FreshFantastic/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/freshhorror.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Fresh Horror
-http://cdn.vivamax.pro/FreshHorror/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/freshadventure.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Fresh Adventure
-http://cdn.vivamax.pro/FreshAdventure/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/freshromantic.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Fresh Romantic
-http://cdn.vivamax.pro/FreshRomantic/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/freshrussian.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Fresh Russian
-http://cdn.vivamax.pro/FreshRussian/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/freshthriller.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Fresh Thriller
-http://cdn.vivamax.pro/FreshThriller/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/freshsoviet.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Fresh Soviet
-http://cdn.vivamax.pro/FreshSoviet/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/magicaction.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Magic Action
-http://cdn.vivamax.pro/MagicAction/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/magicadventure.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Magic Adventure
-http://cdn.vivamax.pro/MagicAdventure/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/magiccomedy.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Magic Comedy
-http://cdn.vivamax.pro/MagicComedy/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/magicfamily.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Magic Family
-http://cdn.vivamax.pro/MagicFamily/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/magicgalaxy.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Magic Galaxy
-http://cdn.vivamax.pro/MagicGalaxy/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/magichorror.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Magic Horror
-http://cdn.vivamax.pro/MagicHorror/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/magickarate.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Magic Karate
-http://cdn.vivamax.pro/MagicKarate/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/magiclove.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Magic Love
-http://cdn.vivamax.pro/MagicLove/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/magicrussian.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Magic Russian
-http://cdn.vivamax.pro/MagicRussian/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/magicthriller.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Magic Thriller
-http://cdn.vivamax.pro/MagicThriller/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/magicpremiere.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Magic Premiere
-http://cdn.vivamax.pro/MagicPremiere/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/magicvhs.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Magic VHS
-http://cdn.vivamax.pro/MagicVHS/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/eyemedia.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Eye Media
-http://cdn.vivamax.pro/EyeMedia/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/eyeoscar.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Eye Oscar
-http://cdn.vivamax.pro/EyeOscar/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/eyefrozen.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Eye Frozen
-http://cdn.vivamax.pro/EyeFrozen/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/eyecriminal.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Eye Criminal
-http://cdn.vivamax.pro/EyeCriminal/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/eyefamily.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Eye Family
-http://cdn.vivamax.pro/EyeFamily/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/eyemodern.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Eye Modern
-http://cdn.vivamax.pro/EyeModern/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/eyewestern.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Eye Western
-http://cdn.vivamax.pro/EyeWestern/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/eyedrive.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Eye Drive
-http://cdn.vivamax.pro/EyeDrive/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/eyecyber.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Eye Cyber
-http://cdn.vivamax.pro/EyeCyber/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/eyehistory.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Eye History
-http://cdn.vivamax.pro/EyeHistory/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/mytv.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   MyTV
-http://cdn.vivamax.pro/MyTV/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/mytv2.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   MyTV 2
-http://cdn.vivamax.pro/MyTV2/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/mytv3.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   MyTV 3
-http://cdn.vivamax.pro/MyTV3/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/mytvhit.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   MyTV Hit
-http://cdn.vivamax.pro/MyTVHit/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossogrand.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV Grand
-http://cdn.vivamax.pro/YOSSOTVGRAND/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossonewkino.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV New Кино
-http://cdn.vivamax.pro/YOSSOTVNEWKino/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossotragicheskoe.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV Трагичное
-http://cdn.vivamax.pro/YOSSOTVTragichnoe/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossozabavnoe.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV Забавное
-http://cdn.vivamax.pro/YOSSOTVZabavnoe/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossoadventure.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV Adventure
-http://cdn.vivamax.pro/YOSSOTVAdventure/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossothriller.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV Thriller
-http://cdn.vivamax.pro/YOSSOTVThriller/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossoadrenaline.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV Adrenaline
-http://cdn.vivamax.pro/YOSSOTVAdrenaline/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossooblivion.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV Oblivion
-http://cdn.vivamax.pro/YOSSOTVOblivion/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossovhs.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV VHS
-http://cdn.vivamax.pro/YOSSOTVVHS/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossorusskiefilmi.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV Русские фильмы
-http://cdn.vivamax.pro/YOSSOTVRusskieFilmi/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossosovetskiefilmi.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV Советские фильмы
-http://cdn.vivamax.pro/YOSSOTVSovetskieFilmi/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossokovboyskoe.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV Ковбойское
-http://cdn.vivamax.pro/YOSSOTVKovboyskoe/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossomelodrama.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV Мелодрама
-http://cdn.vivamax.pro/YOSSOTVMelodrama/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossonetflix.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV Netflix
-http://cdn.vivamax.pro/YOSSOTVNetflix/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossobest.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV Best
-http://cdn.vivamax.pro/YOSSOTVBEST/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossobest60.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV Best 60 FPS
-http://cdn.vivamax.pro/YOSSOTVBEST60FPS/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/yossobest60.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Yosso TV Best Box 60 FPS
-http://cdn.vivamax.pro/YossoTVBEST60FPSBOX/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/ccomedy.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   C-Comedy
-http://cdn.vivamax.pro/c-comedy/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/cmarvel.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   C-Marvel
-http://cdn.vivamax.pro/c-marvel/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/cinquest.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   C-Inquest
-http://cdn.vivamax.pro/c-inquest/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/chistory.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   C-History
-http://cdn.vivamax.pro/c-history/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/choliday.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   C-Holiday
-http://cdn.vivamax.pro/c-holiday/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/boeviki.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Боевики
-http://cdn.vivamax.pro/Boeviki/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/ujasi.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Ужасы
-http://cdn.vivamax.pro/Ujasi/index.m3u8?token=0119371fc31a
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/istoricheski.png" group-title="GRAND PLUS| VIVAMAX КИНОЗАЛЫ",   Исторический
-http://cdn.vivamax.pro/Istoricheski/index.m3u8?token=0119371fc31a
 
 
 
@@ -5240,6 +5479,68 @@ http://5.129.242.227/channel/3D0B28F8795E01679A/1946.m3u8
 http://5.129.242.227/channel/3D0B28F8795E01679A/1947.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | XXX LIVE",Шалун HD
+http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg1MjYxMTYsImlhdCI6MTc1ODQzOTcxNiwiY2lkIjo2LCJ1aWQiOjk0Njc1Njk1MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.HCEJjDbBIQIwA8OoVtltxxE5UcHryhxwf1n5pKocljM&offset=10
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | XXX LIVE",Exxxotica HD
+http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg1MjYxMTYsImlhdCI6MTc1ODQzOTcxNiwiY2lkIjo2LCJ1aWQiOjk0Njc1Njk1MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.HCEJjDbBIQIwA8OoVtltxxE5UcHryhxwf1n5pKocljM&offset=10
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | XXX LIVE",Blue Hustler
+http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg1MjYxMTYsImlhdCI6MTc1ODQzOTcxNiwiY2lkIjo2LCJ1aWQiOjk0Njc1Njk1MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.HCEJjDbBIQIwA8OoVtltxxE5UcHryhxwf1n5pKocljM&offset=10
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | XXX LIVE",Erox
+http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg1MjYxMTYsImlhdCI6MTc1ODQzOTcxNiwiY2lkIjo2LCJ1aWQiOjk0Njc1Njk1MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.HCEJjDbBIQIwA8OoVtltxxE5UcHryhxwf1n5pKocljM&offset=10
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | XXX LIVE",Brazzers TV Europe
+http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg1MjYxMTYsImlhdCI6MTc1ODQzOTcxNiwiY2lkIjo2LCJ1aWQiOjk0Njc1Njk1MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.HCEJjDbBIQIwA8OoVtltxxE5UcHryhxwf1n5pKocljM&offset=10
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | XXX LIVE",Red Lips HD
+http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg1MjYxMTYsImlhdCI6MTc1ODQzOTcxNiwiY2lkIjo2LCJ1aWQiOjk0Njc1Njk1MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.HCEJjDbBIQIwA8OoVtltxxE5UcHryhxwf1n5pKocljM&offset=10
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | XXX LIVE",Playboy TV
+http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg1MjYxMTYsImlhdCI6MTc1ODQzOTcxNiwiY2lkIjo2LCJ1aWQiOjk0Njc1Njk1MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.HCEJjDbBIQIwA8OoVtltxxE5UcHryhxwf1n5pKocljM&offset=10
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | XXX LIVE",Babes TV
+http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTg1MjYxMTYsImlhdCI6MTc1ODQzOTcxNiwiY2lkIjo2LCJ1aWQiOjk0Njc1Njk1MCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI1NzksImFkdWx0IjpmYWxzZX0.HCEJjDbBIQIwA8OoVtltxxE5UcHryhxwf1n5pKocljM&offset=10
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | XXX LIVE",Playboy HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/babes-tv.png" group-title="GRAND PLUS | XXX LIVE",Babes TV HD
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/brazzers.png" group-title="GRAND PLUS | XXX LIVE",Brazzers TV Europe
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/dorcel.png" group-title="GRAND PLUS | XXX LIVE",Dorcel HD
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/erox.png" group-title="GRAND PLUS | XXX LIVE",Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eroxxxhd.png" group-title="GRAND PLUS | XXX LIVE",Eroxxx HD
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/digital-desire.png" group-title="GRAND PLUS | XXX LIVE",Digital Desire HD
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/extasytv.png" group-title="GRAND PLUS | XXX LIVE",Extasy TV
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/leo-tv-xxx.png" group-title="GRAND PLUS | XXX LIVE",Leo TV
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | XXX LIVE",Leo TV Gold
+http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/reality-kings.png" group-title="GRAND PLUS | XXX LIVE",Reality Kings
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | XXX LIVE",Dusk! TV
+http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
 
 
 
@@ -10616,6 +10917,39 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
 
+
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",365 дней
+http://45.11.139.43:8555/365dney/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",Ocean TV
+http://45.11.139.43:8555/ocean/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",Пятница
+http://45.11.139.43:8555/pyatnica/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",РБК
+http://45.11.139.43:8555/rbk/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",Телекафе
+http://45.11.139.43:8555/telekafe/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",TERRA HD
+http://45.11.139.43:8555/terra/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",Cinema
+http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",Пингвин Лоло
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",Мамонтёнок
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",Про100 ТВ
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+
+#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",Детский телеканал Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ" tvg-logo="https://i.ibb.co/wNrrp6D/image-2024-01-30-T203622-372.png",TV1 KG HD 
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
