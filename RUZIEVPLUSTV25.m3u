@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://dl.dropbox.com/s/wuh2pj661fv42qe/%3A150%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C.mp4
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВИЛ 2025/10/31 18:29}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВИЛ 2025/11/02 20:29}", ОБНОВИЛ }™
 https://dl.dropbox.com/s/ubtsmk82baz5jmk/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%20%D0%B2%D0%B8%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D1%80.mp4
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/PLUSGRANDNAV
 https://dl.dropbox.com/s/6ehiymxbcvp88zw/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%BA%D1%83%D0%B1%D0%B8%D0%BA%20%D1%80%D1%83%D0%B1%D0%B8%D0%BA%D0%B0.mp4
@@ -28,19 +28,6 @@ http://195.9.195.3:8080/hls/215088.m3u8
 
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", СТВ (Беларусь)
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTYFgPBB/LOGO23-RADIO.png" group-title="RUZIEV+ ПРЕМИУМ ТВ",TRANCE IS STAR RADIO
-https://myradio24.org/tisradio_video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="RUZIEV+ ПРЕМИУМ ТВ", Trace Latina
-https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Trace Sport Stars.png" group-title="RUZIEV+ ПРЕМИУМ ТВ", Trace Sports Stars
-https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Trace Sport Stars.png" group-title="RUZIEV+ ПРЕМИУМ ТВ",  Trace Urban
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="RUZIEV+ ПРЕМИУМ ТВ", Trace Urban
-https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
 
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", Pluto TV Classic Hip-Hop
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625e79fe9b586d000785e330/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=04ab907e-f979-4513-97f3-a176d33db0f6
@@ -778,11 +765,24 @@ https://cdn4.skygo.mn/live/disk1/Muzika/HLSv3-FTA/Muzika.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА", Музыка Первого 
 http://217.25.80.16/Muzika_Pervogo/mono.m3u8
 
+#EXTINF:-1 tvg-logo="../Channel/Logo/Trace Sport Stars.png" group-title="GRAND PLUS | МУЗЫКА",  Trace Urban
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="GRAND PLUS | МУЗЫКА", Trace Urban
+https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",  Trace Urban HD
 http://95.67.12.82:9068
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="GRAND PLUS | МУЗЫКА", Trace Latina
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Trace Sport Stars.png" group-title="GRAND PLUS | МУЗЫКА", Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",  Trace Sport Stars HD
 http://95.67.12.82:9067
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTYFgPBB/LOGO23-RADIO.png" group-title="GRAND PLUS | МУЗЫКА",TRANCE IS STAR RADIO
+https://myradio24.org/tisradio_video.m3u8
+
+
+
 
 
 
@@ -936,36 +936,6 @@ http://50.7.28.226/8136/index.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS| FDC",  VIP Serial
 http://50.7.28.226/9222/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Остросюжетное HD
-https://vs6.cdn.mrf.tvime.ru/Ostrosugetnor_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
-#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Премиальное HD
-https://vs6.cdn.mrf.tvime.ru/Premialnoe_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
-#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Cinema
-http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINEMA",  Киноказка
-http://95.67.12.82:9084
-#EXTINF:-1 group-title="GRAND PLUS | CINEMA",  Дорама
-http://95.67.12.82:9046
-
-#EXTINF:-1 group-title="GRAND PLUS | CINEMA",FX Life HD
-http://188.237.47.212:6008
-
-#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Start Air
-https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Start World
-https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
-
-
-
-
 
 
 
@@ -1669,722 +1639,583 @@ https://132544.edgevideo.ru/streams/132544_797405/1325441080/index.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Премьера HD
-http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", К премьера HD
-http://95.85.109.219:7000/play/a085
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Премьера hd
-https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Кинохит hd
-https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Кинохит FUL HD
-http://87.246.54.249:8085/KinoHit/mpegts
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", КИНОХИТ
-http://46.8.46.14/kinohit/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Кинохит HD
-http://195.64.140.147:10046/46
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", kinohit
-http://158.101.222.193:88/georgia_play.php?id=kinohit
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", kinokomediya
-http://158.101.222.193:88/georgia_play.php?id=kinokomediya
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Кино комедия
-http://195.64.140.147:10047/47
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Кино Kомедия HD
-https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Кинокомедия
-http://46.8.46.14/kinokomedia/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Кинокомедия HD
-http://95.85.109.219:7000/play/a086
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", kinomiks
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Киномикс FULHD
-http://87.246.54.249:8085/Kinomiks/mpegts
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", КИНОМИКС
-http://46.8.46.14/kinomix/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Киномикс
-http://195.64.140.147:10044/44
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Киномикс HD
-https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Киносемья HD
-http://87.246.54.249:8085/kinosemia/mpegts
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Киносемья HD
-http://195.64.140.147:10042/42
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Kinosemya
-http://46.8.46.14/kinosemya/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", КИНОСЕМЬЯ hd
-https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", kinosemya
-http://158.101.222.193:88/georgia_play.php?id=kinosemya
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", КиноCерия
-http://46.8.46.14/kinoseria/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Киносерия HD
-http://95.85.109.219:7000/play/a087
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Киносерия
-http://195.64.140.147:10048/48
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", КИНОСЕРИЯ HD
-https://vod.splay.uz/live_splay/original/Kinoseriya/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Киносвидание HD
-http://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", КИНОСВИДАНИЕ
-http://46.8.46.14/kinosvid/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Киносвидание
-http://195.64.140.147:10045/45
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", kinosvidanie
-http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Мужское Кино
-http://158.101.222.193:88/georgia_play.php?id=interesnoetv
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Vipmegahit HD
-http://46.8.46.14/vipmegahit/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Vipcomedy
-http://46.8.46.14/vipcomedy/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", viju+ Megahit HD
-http://87.246.54.249:8085/Viju_Megahit/mpegts
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", viju+ Comedy HD
-http://87.246.54.249:8085/Viju_Comedy/mpegts
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", viju+ Premiere HD
-http://87.246.54.249:8085/Viju_Premiere/mpegts
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", V Kino
-http://87.246.54.249:8085/TV1000/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", V Kino COMEDY
-http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Viasat Kino
-http://94.232.127.28:8080/tv1000/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Viasat Kino Action
-http://94.232.127.28:8080/tv1000action/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Viasat Kino World
-http://94.232.127.28:8080/tv1000ru/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Go3 Films HD LT
-http://94.232.127.28:8080/tv1000premium/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Viju+ Comedy hd
-http://95.85.109.219:7000/play/a090
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Viju+ Megahit hd
-http://95.85.109.219:7000/play/a08z
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Viju+ Premiere hd
-http://95.85.109.219:7000/play/a08y
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", VIJU TV1000
-http://46.8.46.14/tv1000/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", viju+ TV1000 Action
-http://46.8.46.14/actiontv/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", TV1000 Action
-https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", viju TV1000 R Kino
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", ТВ 1000HD
-https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", viju TV1000 action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", TV1000
-http://195.64.140.147:10067/67
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", TV1000 action
-http://195.64.140.147:10068/68
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", viju TV1000 HD
-http://95.85.109.219:7000/play/a012
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", viju TV1000 action HD
-http://95.85.109.219:7000/play/a013
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", RED PREMIUM HD
-http://95.85.109.219:7000/play/a06e
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", RED THRILLER HD
-http://95.85.109.219:7000/play/a06h
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Бровари Кіно TV
-https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", CPS FICTION HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4DXFfhKwfO4uTs6Zr7eEuo/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", CPS Action HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvzEj2x0XEeMI6rA045IV93A/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", GPS Comedy HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5i3KKRDEFclwXgMvoGvE-4/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", CPS Drama HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3e-t54Tj6uyfr4aP26ytbo/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", CPS Fresh HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_9pVu8efkn4HIQtrjD45q8/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", CPS Investigation
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv7iBjd1FcvqzGdB3i5BKWl8/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", CPS Jackie Chan HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-A1Vmz5q9x_RISxlXByrhs/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", CPS Mix HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4sDkjGT2MqRJIdRvEfHtFA/m3u8
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", CPS Cartoon HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_VcLQAzF4jIzyOcCmtICI4/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", MM Скорость HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4QZFqoSHwsiXQK62f-XB84/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Paradise HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1ymZnvpdA7VVeBxPbKNLXM/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Paradox HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv0mGTLZyQSBtfDUezq77YFc/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Premiere HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3hp8mt7jGjo2mZDYp8o-aw/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Premium HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvxGlyIqJpKzz60JdDaXkvfY/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Thriller HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv69RTspOGaN2X9tv9oBUIwo/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", USSR HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyINZ1goWbX7bHaFmofDHME/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", РуКино HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4v6E3GAxRPzSZFpK7g6XRU/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", RED PREMIUM HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1x7izL_mYwaKrbZXM7bYu4/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", RED THRILLER HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4tu455tteF5_iNwz3nsmw0/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Т24
-http://217.21.34.160:38007/tehno24/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Иллюзион+
-http://185.46.16.239:8000/Illyuzion+
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", illuzionplus
-http://158.101.222.193:88/georgia_play.php?id=illuzionplus
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", ИЛЛЮЗИОН+
-http://217.21.34.160:38003/illuzionplus/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", План Б
-http://195.64.140.147:10082/82
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Shot tv
-http://195.64.140.147:10062/62
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", ЕВРОКИНО
-http://217.21.34.160:38003/evrokino/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Еврокино
-http://87.120.142.11:18000/STSLove
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", eurokino
-http://158.101.222.193:88/georgia_play.php?id=eurokino
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Евро кино
-http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Eurokino
-http://46.8.46.14/eurokino/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", ТВ 21
-http://46.8.46.14/TV21/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", TВ 21М
-http://217.21.34.160:38007/tv-xxi/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Кино ТВ HD
-http://46.8.46.14/kinotv/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Кино ТВ
-http://185.46.16.239:8000/Kino_TV
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Кино ТВ|HD
-http://195.64.140.147:10050/50
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Киносат
-http://95.85.109.219:7000/play/a06a
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", КИНОСАТ
-http://5.188.221.43:8080/play/kinosat
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Kineko
-http://31.148.48.15/Kineko/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Kinoliving HD
-http://95.85.109.219:7000/play/a05x
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Star Cinema HD
-http://84.245.224.71/StarCinemaHD/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Star Family HD
-http://84.245.224.71/StarFamilyHD/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Super Baltic HD
-http://84.245.224.71/SuperBaltic/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Super+ Baltic HD
-http://84.245.224.71/SuperPlus/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", OTV (Латвия)
-http://84.245.224.71/OTV/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", БОЛТ UA HD
-http://84.245.224.71/BoltHD/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", CINEMA HD
-https://vod.splay.uz/live_splay/original/CinemaHD/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", CINEMA SD
-http://46.8.46.14/cinema/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", FAN
-http://46.8.46.14/FAN/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Hollywood
-http://46.8.46.14/amc/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Kinowood
-http://193.27.209.122/kinowood/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Bollywood HD
-http://193.27.209.122/bollywood/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Индийское кино
-http://195.64.140.147:10049/49
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Индийское Кино sd
-http://46.8.46.14/indiatv/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Классика индийского кино
-https://autopilot.catcast.tv/content/41596/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", zeetv
-http://158.101.222.193:88/georgia_play.php?id=zeetv
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Comedy CENTRAL
-http://46.8.46.14/paramountcomedy/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Comedy Central
-http://195.64.140.147:10065/65
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Фильмы - VHS TV
-https://autopilot.catcast.tv/content/47609/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Сити Эдем - Кино Экшен
-https://autopilot.catcast.tv/content/41333/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Сити Эдем - Кино Мистика
-https://autopilot.catcast.tv/content/40783/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Сити Эдем - Кино Детектив
-https://autopilot.catcast.tv/content/41327/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Сити Эдем - Кино Новелла
-https://autopilot.catcast.tv/content/46209/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", MGM
-https://autopilot.catcast.tv/content/44051/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Malder Мегахит
-https://autopilot.catcast.tv/content/47689/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Малдер Всё тв
-https://132544.edgevideo.ru/streams/132544_833783/132544720/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", KinoMix
-https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", SeriesTV
-http://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Нове тв
-https://novoe.top/nove_tv.m3u8.jpg?m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", FX
-http://46.8.46.14/FOX/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Fox
-http://185.164.82.18:9010/ykMHqK_Fox
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", FX HD
-http://95.85.109.219:7000/play/a062
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", FX Life HD
-http://95.85.109.219:7000/play/a065
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", FX Life
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Остросюжетное HD
+https://vs6.cdn.mrf.tvime.ru/Ostrosugetnor_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Премиальное HD
+https://vs6.cdn.mrf.tvime.ru/Premialnoe_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Cinema
+http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",  Киноказка
+http://95.67.12.82:9084
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",  Дорама
+http://95.67.12.82:9046
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",FX Life HD
 http://188.237.47.212:6008
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", A1 720x576
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Start Air
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Start World
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Кинопремьера HD
+http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Кинопремьера HD
+https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Кинохит HD
+https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", КИНОХИТ
+http://46.8.46.14/kinohit/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Кинохит HD
+http://195.64.140.147:10046/46
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",КИНОХИТ
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", КиноKомедия HD
+https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Кинокомедия HD
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Кинокомедия
+http://195.64.140.147:10047/47
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Кинокомедия
+http://46.8.46.14/kinokomedia/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Кинокомедия HD
+http://95.85.109.219:7000/play/a086
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Киномикс HD
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", КИНОМИКС
+http://46.8.46.14/kinomix/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Киномикс
+http://195.64.140.147:10044/44
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", КИНОСЕМЬЯ HD
+https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Киносемья HD
+http://195.64.140.147:10042/42
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", КИНОСЕМЬЯ
+http://46.8.46.14/kinosemya/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", КИНОСЕМЬЯ
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", КИНОСЕРИЯ HD
+https://vod.splay.uz/live_splay/original/Kinoseriya/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Киносерия
+http://46.8.46.14/kinoseria/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Киносерия HD
+http://95.85.109.219:7000/play/a087
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Киносерия
+http://195.64.140.147:10048/48
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Киносвидание HD
+http://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", КИНОСВИДАНИЕ
+http://46.8.46.14/kinosvid/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Киносвидание
+http://195.64.140.147:10045/45
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Киносвидание
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Мужское Кино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Viju+ Megahit hd
+http://95.85.109.219:7000/play/a08z
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", VIJU+ Megahit HD
+http://46.8.46.14/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Viju+ Premiere hd
+http://95.85.109.219:7000/play/a08y
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", VIJU+ Comedy
+http://46.8.46.14/vipcomedy/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Viju+ Comedy hd
+http://95.85.109.219:7000/play/a090
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", VIJU TV1000
+http://46.8.46.14/tv1000/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", VIJU 1000 HD
+https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",VIJU TV1000
+http://195.64.140.147:10067/67
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", VIJU TV1000 HD
+http://95.85.109.219:7000/play/a012
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", VIJU TV1000 action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", VIJU TV1000 action
+http://195.64.140.147:10068/68
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", VIJU TV1000 action HD
+http://95.85.109.219:7000/play/a013
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", viju+ TV1000 Action
+http://46.8.46.14/actiontv/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", TV1000 Action
+https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", VIJU TV1000 Русское Кино
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Viasat Kino
+http://94.232.127.28:8080/tv1000/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Viasat Kino Action
+http://94.232.127.28:8080/tv1000action/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Viasat Kino World
+http://94.232.127.28:8080/tv1000ru/index.m3u8
+
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Go3 Films HD LT
+http://94.232.127.28:8080/tv1000premium/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", RED PREMIUM HD
+http://95.85.109.219:7000/play/a06e
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", RED THRILLER HD
+http://95.85.109.219:7000/play/a06h
+
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", CPS FICTION HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4DXFfhKwfO4uTs6Zr7eEuo/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", CPS Action HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvzEj2x0XEeMI6rA045IV93A/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", GPS Comedy HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5i3KKRDEFclwXgMvoGvE-4/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", CPS Drama HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3e-t54Tj6uyfr4aP26ytbo/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", CPS Fresh HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_9pVu8efkn4HIQtrjD45q8/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", CPS Investigation
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv7iBjd1FcvqzGdB3i5BKWl8/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", CPS Jackie Chan HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-A1Vmz5q9x_RISxlXByrhs/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", CPS Mix HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4sDkjGT2MqRJIdRvEfHtFA/m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", CPS Cartoon HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_VcLQAzF4jIzyOcCmtICI4/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", MM Скорость HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4QZFqoSHwsiXQK62f-XB84/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Paradise HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1ymZnvpdA7VVeBxPbKNLXM/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Paradox HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv0mGTLZyQSBtfDUezq77YFc/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Premiere HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3hp8mt7jGjo2mZDYp8o-aw/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Premium HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvxGlyIqJpKzz60JdDaXkvfY/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Thriller HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv69RTspOGaN2X9tv9oBUIwo/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", USSR HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyINZ1goWbX7bHaFmofDHME/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", РуКино HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4v6E3GAxRPzSZFpK7g6XRU/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", RED PREMIUM HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1x7izL_mYwaKrbZXM7bYu4/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", RED THRILLER HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4tu455tteF5_iNwz3nsmw0/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Т24
+http://217.21.34.160:38007/tehno24/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Иллюзион+
+http://185.46.16.239:8000/Illyuzion+
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Иллюзион+
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", ИЛЛЮЗИОН+
+http://217.21.34.160:38003/illuzionplus/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", PLAN B
+http://195.64.140.147:10082/82
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Shot tv
+http://195.64.140.147:10062/62
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", ЕВРОКИНО
+http://217.21.34.160:38003/evrokino/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Еврокино
+http://87.120.142.11:18000/STSLove
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Еврокино
+http://158.101.222.193:88/georgia_play.php?id=eurokino
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Еврокино
+http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Eurokino
+http://46.8.46.14/eurokino/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", ТВ 21
+http://46.8.46.14/TV21/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", TВ 21
+http://217.21.34.160:38007/tv-xxi/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Кино ТВ HD
+http://46.8.46.14/kinotv/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Кино ТВ
+http://185.46.16.239:8000/Kino_TV
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Кино ТВ HD
+http://195.64.140.147:10050/50
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Киносат
+http://95.85.109.219:7000/play/a06a
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", КИНОСАТ
+http://5.188.221.43:8080/play/kinosat
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", КИНОСАТ
+http://31.148.48.15/Kineko/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Kinoliving HD
+http://95.85.109.219:7000/play/a05x
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Star Cinema HD
+http://84.245.224.71/StarCinemaHD/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Star Family HD
+http://84.245.224.71/StarFamilyHD/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Super Baltic HD
+http://84.245.224.71/SuperBaltic/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Super+ Baltic HD
+http://84.245.224.71/SuperPlus/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", OTV (Латвия)
+http://84.245.224.71/OTV/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Bolt HD
+http://84.245.224.71/BoltHD/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", CINEMA HD
+https://vod.splay.uz/live_splay/original/CinemaHD/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", CINEMA
+http://46.8.46.14/cinema/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", FAN
+http://46.8.46.14/FAN/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Hollywood
+http://46.8.46.14/amc/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Kinowood
+http://193.27.209.122/kinowood/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Bollywood HD
+http://193.27.209.122/bollywood/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Индийское кино
+http://195.64.140.147:10049/49
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Индийское Кино sd
+http://46.8.46.14/indiatv/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Классика индийского кино
+https://autopilot.catcast.tv/content/41596/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", zeetv
+http://158.101.222.193:88/georgia_play.php?id=zeetv
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Comedy CENTRAL
+http://46.8.46.14/paramountcomedy/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Comedy Central
+http://195.64.140.147:10065/65
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Фильмы - VHS TV
+https://autopilot.catcast.tv/content/47609/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Сити Эдем - Кино Экшен
+https://autopilot.catcast.tv/content/41333/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Сити Эдем - Кино Мистика
+https://autopilot.catcast.tv/content/40783/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Сити Эдем - Кино Детектив
+https://autopilot.catcast.tv/content/41327/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Сити Эдем - Кино Новелла
+https://autopilot.catcast.tv/content/46209/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", MGM
+https://autopilot.catcast.tv/content/44051/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Malder Мегахит
+https://autopilot.catcast.tv/content/47689/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Малдер Всё тв
+https://132544.edgevideo.ru/streams/132544_833783/132544720/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", KinoMix
+https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", SeriesTV
+http://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Нове тв
+https://novoe.top/nove_tv.m3u8.jpg?m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", FX
+http://46.8.46.14/FOX/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Fox
+http://185.164.82.18:9010/ykMHqK_Fox
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", FX HD
+http://95.85.109.219:7000/play/a062
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", FX Life HD
+http://95.85.109.219:7000/play/a065
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", FX Life
+http://188.237.47.212:6008
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", A1 720x576
 http://31.148.48.15/A1/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Amedia 1 kz
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Amedia 1 kz
 http://sc.id-tv.kz/A1.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", A1
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", A1
 http://195.64.140.147:10059/59
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", amedia1
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", amedia1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", amedia2
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", amedia2
 http://158.101.222.193:88/georgia_play.php?id=amedia2
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Amedia 2 kz
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Amedia 2 kz
 http://sc.id-tv.kz/A2_36_37.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Amedia 2
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Amedia 2
 http://46.8.46.14/A2/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Amedia 2 SD
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Amedia 2 SD
 http://195.64.140.147:10060/60
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Amedia Hit
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Amedia Premium
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Amedia Premium
 http://158.101.222.193:88/georgia_play.php?id=amediapremium
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Amedia Premium HD
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Amedia Premium HD
 http://217.21.34.160:38007/amediapremium/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", .sci-fi
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", .sci-fi
 http://158.101.222.193:88/georgia_play.php?id=scifi
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Sci-Fi hd
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Sci-Fi hd
 http://188.237.47.212:6001
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", sci-fi
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", sci-fi
 http://195.64.140.147:10086/86
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", RED
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", RED
 http://195.64.140.147:10085/85
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", red
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", red
 http://158.101.222.193:88/georgia_play.php?id=red
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", black
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", black
 http://158.101.222.193:88/georgia_play.php?id=black
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", .Black hd
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", .Black hd
 http://188.237.47.212:6007
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", black sd
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", black sd
 http://195.64.140.147:10087/87
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Киноужас
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Киноужас
 http://195.64.140.147:10043/43
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", КИНОУЖАС
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", КИНОУЖАС
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Киноужас HD
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Киноужас HD
 http://95.85.109.219:7000/play/a00y
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", НСТ
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", НСТ
 http://46.8.46.14/nst/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", НСТВ
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", НСТВ
 http://95.85.109.219:7000/play/a097
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", НСТВ sd
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", НСТВ sd
 http://195.64.140.147:10054/54
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", nstv
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", nstv
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Continent E
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Continent E
 http://95.67.12.82:9083
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", 31 канал KZ
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", 31 канал KZ
 http://sc.id-tv.kz/31Kanal_34_35.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", TV-1 KG FHD Бишкек CITY
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", TV-1 KG FHD Бишкек CITY
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Star Family HD
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Star Family HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 3
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 6
-https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 7
-https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 8
-https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 9
-https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 10
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 11
-https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 12
-https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 13
-https://fl1001.bozztv.com/ushba-films-j/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 14
-https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 15
-https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 16
-https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 17
-https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 18
-https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 19
-https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 20
-https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 21
-https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 22
-https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 23
-https://fl1001.bozztv.com/ushba-films-w/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 24
-https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 25
-https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 26
-https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 27
-https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 28
-https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 29
-https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 30
-https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 31
-https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 33
-https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 34
-https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 35
-https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 36
-https://fl1001.bozztv.com/ushba64/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Usba Кинозал 37
-https://fl1001.bozztv.com/ushba65/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Timeless Dizi Channel 720х576
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Timeless Dizi Channel 720х576
 http://194.158.222.36:6086
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", dizi HD
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", dizi HD
 http://193.27.209.122/dizi/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Дорама
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Дорама
 http://193.27.209.122/dorama/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Дорама HD
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Дорама HD
 http://95.85.109.219:7000/play/a05v
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", SAGA HD
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", SAGA HD
 http://95.85.109.219:7000/play/a05w
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", TNT
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", TNT
 https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", TNT4 International+4
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", TNT4 International+4
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", TNT International
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", TNT International
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Дом Кино
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Дом Кино
 https://streaming.goodstream.cyou/live/44.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Дом кино
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Дом кино
 https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", nashanovoekino
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", nashanovoekino
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Мир Сериала
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Мир Сериала
 http://84.54.128.52:9090/play/a003/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Мир сериала
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Мир сериала
 http://46.8.46.14/MirSeriala/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", МИР СЕРИАЛА
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", МИР СЕРИАЛА
 http://217.21.34.160:38007/mirseriala/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", fenikspluskino
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", fenikspluskino
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", СТС SD
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", СТС SD
 https://streaming.goodstream.cyou/live/296.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", СТС
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", СТС
 http://5.188.221.43:8080/play/sts
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", STS
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", STS
 https://streaming.skynetconnect.online/live/296-req_offset_28000000-req_window_0-1k_v5.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Домашний
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Домашний
 http://5.188.221.43:8080/play/domashniy
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", STS International
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", STS International
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Domashniy International
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Domashniy International
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Домашний
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Домашний
 http://46.8.46.14/dom/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Бестселлер
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Бестселлер
 http://46.8.46.14/rubestseller/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Роман HD
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Роман HD
 http://46.8.46.14/ruroman/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Че
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Че
 http://46.8.46.14/che/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Че!
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Че!
 http://5.188.221.43:8080/play/che
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", ТV 3
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", ТV 3
 http://5.188.221.43:8080/play/tv3
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", ТВ3
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", ТВ3
 http://46.8.46.14/tv3/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Иллюзион
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Иллюзион
 http://185.46.16.239:8000/Russkiy_Illyuzion
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Пятница! International
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Пятница! International
 http://158.101.222.193:88/georgia_play.php?id=friday
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Пятница
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Пятница
 http://5.188.221.43:8080/play/Pyatnica
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Романтичное HD
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Романтичное HD
 http://46.8.46.14/Romantichnoe_HD/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Родное Кино
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Родное Кино
 http://46.8.46.14/rodkino/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", РОДНОЕ КИНО
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", РОДНОЕ КИНО
 http://84.54.128.52:9090/play/a009/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", ЛЮБИМОЕ КИНО HD
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", ЛЮБИМОЕ КИНО HD
 http://84.54.128.52:9090/play/a002/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", ЛЮБИМОЕ КИНО
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", ЛЮБИМОЕ КИНО
 http://217.21.34.160:38007/lubimoekino/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Золотая коллекция Мосфильма
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Золотая коллекция Мосфильма
 http://95.85.109.219:7000/play/a08u
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", perec
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", perec
 http://158.101.222.193:88/georgia_play.php?id=perec
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Peretz International
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Peretz International
 https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Бел 3 HD
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Бел 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Ретро
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Ретро
 https://vod.splay.uz/live_splay/original/Retro/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", nostalgy
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", nostalgy
 http://158.101.222.193:88/georgia_play.php?id=nostalgy
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНО НОВЫЕ", Ностальгия [R]
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Ностальгия [R]
 http://31.148.48.15:80/Nostalgiya/index.m3u8
 
 
