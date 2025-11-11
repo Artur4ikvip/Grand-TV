@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://dl.dropbox.com/s/wuh2pj661fv42qe/%3A150%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C.mp4
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВИЛ 2025/11/11 19:46}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВЛЕНИЕ 2025/11/11 20:00}", ОБНОВИЛ }™
 https://dl.dropbox.com/s/ubtsmk82baz5jmk/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%20%D0%B2%D0%B8%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D1%80.mp4
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/PLUSGRANDNAV
 https://dl.dropbox.com/s/6ehiymxbcvp88zw/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%BA%D1%83%D0%B1%D0%B8%D0%BA%20%D1%80%D1%83%D0%B1%D0%B8%D0%BA%D0%B0.mp4
@@ -649,60 +649,60 @@ http://95.67.12.82:9077
 #EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",  Continent E
 http://95.67.12.82:9083
 
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL"MTV FLOW LATINO 
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV FLOW LATINO 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="YoMTV.us" tvg-name="Yo! MTV [us]" tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="GRAND PLUS | MTV CHANNEL" Yo! MTV [us]
+#EXTINF:-1 tvg-id="YoMTV.us" tvg-name="Yo! MTV [us]" tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="GRAND PLUS | MTV CHANNEL" ,Yo! MTV [us]
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
-#EXTINF:-1 tvg-id="YoMTV.us" tvg-name="Yo! MTV [us]" tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="GRAND PLUS | MTV CHANNEL" Yo! MTV [us]
+#EXTINF:-1 tvg-id="YoMTV.us" tvg-name="Yo! MTV [us]" tvg-logo="https://i.imgur.com/hzNXDdY.png" group-title="GRAND PLUS | MTV CHANNEL", Yo! MTV [us]
 #EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d&serverSideAds=false
-#EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us" tvg-name="Vevo True School Hip-Hop [us]" tvg-logo="https://i.imgur.com/owUXUih.png" group-title="GRAND PLUS | MTV CHANNEL" Vevo True School Hip-Hop [us]
+#EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us" tvg-name="Vevo True School Hip-Hop [us]" tvg-logo="https://i.imgur.com/owUXUih.png" group-title="GRAND PLUS | MTV CHANNEL" ,Vevo True School Hip-Hop [us]
 #EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e&serverSideAds=false
-#EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us" tvg-name="Vevo True School Hip-Hop [us]" tvg-logo="https://i.imgur.com/owUXUih.png" group-title="GRAND PLUS | MTV CHANNEL" Vevo True School Hip-Hop [us]
+#EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us" tvg-name="Vevo True School Hip-Hop [us]" tvg-logo="https://i.imgur.com/owUXUih.png" group-title="GRAND PLUS | MTV CHANNEL" ,Vevo True School Hip-Hop [us]
 #EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce918-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90c1dbc6-366d-4ba4-913a-7ff94babe33e
 
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL" Pluto TV Rap
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL" ,Pluto TV Rap
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d4be214e01740008991d3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d46-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7259af3a-5d9c-4d37-ba1b-3afdd9ec3b10
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL" Pluto TV Classic Hip-Hop
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL" ,Pluto TV Classic Hip-Hop
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625e79fe9b586d000785e330/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=04ab907e-f979-4513-97f3-a176d33db0f6
 
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL"MTV USA
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV USA
 http://fl61.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/60/MTV_%282021%29.svg/revision/latest?cb=20210213111650&path-prefix=ru" group-title="GRAND PLUS | MTV CHANNEL",  MTV USA HD
 http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL"MTV 2
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV 2
 http://fl61.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL"MTV U
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV U
 http://fl61.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/mtv-live-hd.png" group-title="GRAND PLUS | MTV CHANNEL",  MTV Live USA HD
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL"MTV LIVE USA
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV LIVE USA
 http://fl61.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL"MTV CLASSIC USA
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV CLASSIC USA
 http://fl61.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL" MTV Europe 
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV Europe 
 http://85.11.144.6:6060/play/a08w/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL" MTV Espanol 
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV Espanol 
 http://92.118.251.84:8080/MTV/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL" MTV POLSKA 
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV POLSKA 
 http://45.87.35.12:7209/stream
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/60/MTV_%282021%29.svg/revision/latest?cb=20210213111650&path-prefix=ru" group-title="GRAND PLUS | MTV CHANNEL",  MTV France HD
 http://45.90.106.7:9790/play/SUn4207H6@T5B
 #EXTINF:-1 tvg-logo="https://epgx.site/p/mtv-hits.png" group-title="GRAND PLUS | MTV CHANNEL",  MTV Hits France HD
 http://45.90.106.7:9790/play/QmU5097K3@B4X
-EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL" MTV HITS 
+EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL", MTV HITS 
 http://5.57.74.130:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL"MTV Club
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV Club
 http://176.116.105.82/clubMTV/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL"MTV 80s
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV 80s
 http://5.57.74.130:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL"MTV 90s
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV 90s
 http://213.169.39.30:5203
 
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL"MTV 00s
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV 00s
 http://213.169.39.30:5139/
 
 
@@ -738,28 +738,28 @@ http://zxfjaukj.akciatv.ru/iptv/WWEX4VRHZ4XEK4/19167/index.m3u8
 http://zxfjaukj.akciatv.ru/iptv/WWEX4VRHZ4XEK4/19148/index.m3u8
 #EXTINF:0 group-title="GRAND PLUS | MTV CHANNEL" tvg-id="6427" tvg-logo="http://epg.one/img2/6427.png" tvg-rec="0",MTV 00's PT
 http://zxfjaukj.akciatv.ru/iptv/WWEX4VRHZ4XEK4/19159/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/MTV Club.png" group-title="GRAND PLUS | MTV CHANNEL" MTV CLASSICS
+#EXTINF:-1 tvg-logo="../Channel/Logo/MTV Club.png" group-title="GRAND PLUS | MTV CHANNEL",MTV CLASSICS
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057887-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=26866fb9-ab48-465b-85a8-8314ba7340fa
-#EXTINF:-1 tvg-logo="../Channel/Logo/MTV Club.png" group-title="GRAND PLUS | MTV CHANNEL" MTV Classics+
+#EXTINF:-1 tvg-logo="../Channel/Logo/MTV Club.png" group-title="GRAND PLUS | MTV CHANNEL",MTV Classics+
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff5ec5500d4c70007341c7c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e059f92-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=457511ca-61ab-4eec-b63a-a8f7fbd11f13
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NPavpts.png" group-title="GRAND PLUS | MTV CHANNEL"  Pluto TV MTV Classic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPavpts.png" group-title="GRAND PLUS | MTV CHANNEL", Pluto TV MTV Classic
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lTBim20.png" group-title="GRAND PLUS | MTV CHANNEL"  Pluto TV MTV Germany
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTBim20.png" group-title="GRAND PLUS | MTV CHANNEL",Pluto TV MTV Germany
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5caf325764025859afdd6c4d&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=2&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="GRAND PLUS | MTV CHANNEL"  Pluto TV MTV Latino
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="GRAND PLUS | MTV CHANNEL",Pluto TV MTV Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZVQ6URS.png" group-title="GRAND PLUS | MTV CHANNEL"  Pluto TV MTV Music Made in Spain
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZVQ6URS.png" group-title="GRAND PLUS | MTV CHANNEL",Pluto TV MTV Music Made in Spain
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9ysjkkL.png" group-title="GRAND PLUS | MTV CHANNEL" CMT Equal Play
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ysjkkL.png" group-title="GRAND PLUS | MTV CHANNEL",CMT Equal Play
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zoa7AIO.png" group-title="GRAND PLUS | MTV CHANNEL"  Live Music Replay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zoa7AIO.png" group-title="GRAND PLUS | MTV CHANNEL",Live Music Replay
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5873fc21cad696fb37aa9054&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=855&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="GRAND PLUS | MTV CHANNEL"  MTV Pluto TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="GRAND PLUS | MTV CHANNEL",MTV Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="GRAND PLUS | MTV CHANNEL" Vevo 2K
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="GRAND PLUS | MTV CHANNEL",Vevo 2K
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="NickMusic [us]" tvg-logo="https://i.ibb.co/cLpkLKd/resize-2024-09-29-T162701-835.png" group-title="GRAND PLUS | MTV CHANNEL"  NickMusic 
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="NickMusic [us]" tvg-logo="https://i.ibb.co/cLpkLKd/resize-2024-09-29-T162701-835.png" group-title="GRAND PLUS | MTV CHANNEL",NickMusic 
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 
