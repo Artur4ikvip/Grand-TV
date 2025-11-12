@@ -14,16 +14,92 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GojoKgE.png" group-title="TEST GG!!",1Filmax
+http://195.9.195.3:8080/hls/204708.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="TEST GG!!",2Filmax
+http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1 group-title="TEST GG!!", Horror TV 24/7
+http://195.9.195.3:8080/hls/212682.m3u8
+#EXTINF:-1 group-title="TEST GG!!",F K S
+http://195.9.195.3:8080/hls/215291.m3u8
+#EXTINF:-1 group-title="TEST GG!!", Katastroff
+http://195.9.195.3:8080/hls/208789_master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xYSNpid.png" group-title="TEST GG!!",Katastroff HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://hls.goodgame.ru/hls/208789.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZxH435.png" group-title="TEST GG!!",VHDV TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://ix.goodgame.ru/hls/214536.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fgptVqr.png" group-title="TEST GG!!",4K Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+https://ix.goodgame.ru/hls/206513.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hqCDDql.png" group-title="TEST GG!!",Кошмар HD
+http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1 group-title="TEST GG!!",   Страх HD
+http://195.9.195.3:8080/hls/202127.m3u8
+#EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1436027_vOPJ.jpg" group-title="TEST GG!!",Фантастика HD
+http://195.9.195.3:8080/hls/187241.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2359.png" group-title="TEST GG!!",  FAN HD
+http://195.9.195.3:8080/hls/157239.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="TEST GG!!",  Видеокассета HD
+http://195.9.195.3:8080/hls/176975.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6bJFcU.png" group-title="TEST GG!!",  VKTV CINEMA HD
+http://195.9.195.3:8080/hls/173945.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ygId8ZV.png" group-title="TEST GG!!",  Alpha Cinema HD
+http://195.9.195.3:8080/hls/205072.m3u8
+#EXTINF:-1 group-title="TEST GG!!",VHDV TV
+http://195.9.195.3:8080/hls/214536.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8DZcXJ.png" group-title="TEST GG!!",  KinoJam HD
+http://195.9.195.3:8080/manifest/210182_master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15BHvsQ.png" group-title="TEST GG!!",  Bogul TV HD
+http://195.9.195.3:8080/hls/132451.m3u8
+#EXTINF:-1 group-title="TEST GG!!", Music 
+http://195.9.195.3:8080/hls/196745.m3u8
+
+
+#EXTINF:-1 group-title="TEST GG!!",КРИНЖ
+http://195.9.195.3:8080/manifest/208391_master.m3u8
+#EXTINF:-1 group-title="TEST GG!!",Yansima Muzik TV
+http://195.9.195.3:8080/hls/214752.m3u8
+
+#EXTINF:-1 group-title="TEST GG!!",ЗВУКИ ДОЖДЯ 24/7
+http://195.9.195.3:8080/hls/198378.m3u8
+
+
+#EXTINF:-1 group-title="TEST GG!!"МУЗЫКА
+http://195.9.195.3:8080/hls/194731.m3u8
+#EXTINF:-1 group-title="TEST GG!!",Mega Radio
+http://195.9.195.3:8080/hls/175789.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&" group-title="GRAND TV",GRAND Radio
-http://91.107.125.87:1060/stream
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&"group-title="GRAND TV",GRAND TV  
-http://195.9.195.3:8080/hls/215088.m3u8
+#EXTINF:-1 group-title="TEST GG!!", Party 
+http://195.9.195.3:8080/hls/215020.m3u8
 
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", Bolajon
-http://46.116.162.33:8080/Bolajon/index.m3u8
+
+#EXTINF:-1 group-title="TEST GG!!", 4K_no
+http://195.9.195.3:8080/hls/206513.m3u8
+
+#EXTINF:-1 group-title="TEST GG!!",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 group-title="TEST GG!!",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 group-title="TEST GG!!",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", WB TV
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", TV 1000 WORLD KINO
@@ -32,10 +108,7 @@ http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", TVP 1 HD
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", SINAMO
-http://46.116.162.33:8080/Sinamo/index.m3u8
-#EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", SAFINA
-http://46.116.162.33:8080/Safina/index.m3u8
+
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", RTL9
 http://151.80.18.177:86/RTL9/index.m3u8
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", PARAMOUNT CHANNEL 
@@ -310,7 +383,13 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&"group-title="RUZIEV+ IPTV| РОССИЯ",GRAND TV  
+http://195.9.195.3:8080/hls/215088.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&" group-title="RUZIEV+ IPTV| РОССИЯ",GRAND TV
+#EXTVLCOPT:http-user-agent=SmartTV
+https://hls.goodgame.ru/hls/215088.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&" group-title="RUZIEV+ IPTV| РОССИЯ",GRAND Radio
+http://91.107.125.87:1060/stream
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="RUZIEV+ IPTV| РОССИЯ",  ТВОЕ ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png" group-title="RUZIEV+ IPTV| РОССИЯ",  ТВОЕ ТВ HD - ЮМОР
@@ -704,7 +783,7 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV 2
 http://fl61.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV U
-http://fl61.moveonjoy.com/MTV_U/index.m3u8
+https://fl31.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/mtv-live-hd.png" group-title="GRAND PLUS | MTV CHANNEL",  MTV Live USA HD
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV LIVE USA
