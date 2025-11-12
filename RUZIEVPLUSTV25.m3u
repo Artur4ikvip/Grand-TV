@@ -17,13 +17,10 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&" group-title="GRAND TV",GRAND TV
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&" group-title="GRAND TV",GRAND Radio
 http://91.107.125.87:1060/stream
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&"group-title="GRAND TV",GRAND TV  
-#EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/215088.m3u8
-
 
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", Bolajon
 http://46.116.162.33:8080/Bolajon/index.m3u8
