@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://dl.dropbox.com/s/wuh2pj661fv42qe/%3A150%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C.mp4
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВЛЕНИЕ 2025/11/14 23:00}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВЛЕНИЕ 2025/11/16 21:58}", ОБНОВИЛ }™
 https://dl.dropbox.com/s/ubtsmk82baz5jmk/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%20%D0%B2%D0%B8%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D1%80.mp4
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/PLUSGRANDNAV
 https://dl.dropbox.com/s/6ehiymxbcvp88zw/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%BA%D1%83%D0%B1%D0%B8%D0%BA%20%D1%80%D1%83%D0%B1%D0%B8%D0%BA%D0%B0.mp4
@@ -203,7 +203,473 @@ http://195.9.195.3:8080/manifest/202997_master.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | GG TEST", Первый автомобильный
 http://195.9.195.3:8080/hls/206355.m3u8
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="GRAND PLUS | GG TEST",SeleCaoTV 1
+https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="GRAND PLUS | GG TEST",SeleCaoTV 2
+https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png" group-title="GRAND PLUS | GG TEST",Video Arsenal
+https://132544.edgevideo.ru/streams/132544_931730/1325441080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sun1-14.userapi.com/s/v1/ig1/ipIyCev4KHEIcx4urmZVzULjxRdlDBM6jxwVi854MGxUw6jagkf8ISPD9X5pzagyMY4hxCN1.jpg?quality=96&crop=0,0,500,500&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&cs=240x240" group-title="GRAND PLUS | GG TEST",KinoMix
+https://132544.edgevideo.ru/streams/132544_940640/1325441080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20176540/avatar?change_time=1754116868&croped=1&mh=70&mw=70" group-title="GRAND PLUS | GG TEST",Film Best TV
+http://132544.edgevideo.ru/streams/132544_975653/1325441080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/picture/original/1752867301254-scripatchtv2.webp" group-title="GRAND PLUS | GG TEST",Скрипач ТВ
+https://132544.edgevideo.ru/streams/132544_935537/1325441080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="GRAND PLUS | GG TEST",SeleCaoTV 2
+https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png" group-title="GRAND PLUS | GG TEST",Video Arsenal
+https://132544.edgevideo.ru/streams/132544_931730/1325441080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://telik.live/images/fmc-tv.png" group-title="GRAND PLUS | GG TEST",FMC
+https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wwz2HKVIZukrBnsW7nfhnipf395UTiW3PpVGbMttX7X8CpW4bEds8guoq-lEESluGxQ=s75-rw" group-title="Кинозалы", ~ ЛИК
+http://autopilot.catcast.tv/content/41596/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" group-title="GRAND PLUS | GG TEST",VHS-ка HD
+http://95.66.188.74/VHS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/16/03/c4/1603c4776d6b40f6c4123736f6ba2680.jpg" group-title="Кинозалы", ~ MGM
+https://autopilot.catcast.tv/content/44051/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2d13fa19483745.562db34d7f9ff.jpg" group-title="Кинозалы", ~ Фильмы - VHS TV
+https://autopilot.catcast.tv/content/47609/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" group-title="GRAND PLUS | GG TEST",Смотрим Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | GG TEST",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | GG TEST",43 канал
+http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="GRAND PLUS | GG TEST",Alpha Cinema
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="GRAND PLUS | GG TEST",Alpha Funny
+http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="GRAND PLUS | GG TEST",Alpha Moretime
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+
+#EXTINF:-1 tvg-logo="https://fsd.kopilkaurokov.ru/up/html/2020/01/27/k_5e2f1ef814d50/img_user_file_5e2f1ef9dd433_0_0.jpg" group-title="GRAND PLUS | GG TEST",WWW
+https://132544.edgevideo.ru/streams/132544_931349/1325441080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M" group-title="GRAND PLUS | GG TEST",Techno Dance Music
+https://132544.edgevideo.ru/streams/132544_931193/1325441080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/retro-music-sticker-recorder-55010572.jpg" group-title="GRAND PLUS | GG TEST",RETRO Music Hits
+https://132544.edgevideo.ru/streams/132544_931325/1325441080/index.m3u8
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Action HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvzEj2x0XEeMI6rA045IV93A/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Comedy HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5i3KKRDEFclwXgMvoGvE-4/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Drama HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3e-t54Tj6uyfr4aP26ytbo/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Fresh HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_9pVu8efkn4HIQtrjD45q8/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Investigation
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv7iBjd1FcvqzGdB3i5BKWl8/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Jackie Chan HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-A1Vmz5q9x_RISxlXByrhs/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Mix HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4sDkjGT2MqRJIdRvEfHtFA/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Cartoon HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_VcLQAzF4jIzyOcCmtICI4/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Paradise HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1ymZnvpdA7VVeBxPbKNLXM/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Paradox HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv0mGTLZyQSBtfDUezq77YFc/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Premiere HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3hp8mt7jGjo2mZDYp8o-aw/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Premium HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvxGlyIqJpKzz60JdDaXkvfY/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Thriller HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv69RTspOGaN2X9tv9oBUIwo/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",USSR HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyINZ1goWbX7bHaFmofDHME/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",РуКино HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4v6E3GAxRPzSZFpK7g6XRU/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Боевик
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwlgYR9qr1eyz4PjODcA3ZI/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Netflix
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9K80Kj9919zeURQC1ls5-Q/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Ужасы VHS
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1vcMzfvQsg3qIv2w4TyFSI/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Комедия
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4WajS2b09aCFvYL5e94y5Q/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Фантастика
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv49INV_Q3fmz3vc6KLVMLiY/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Gamefilm
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9ilh616q4OXW1P_wmg5R_c/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Семейный
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv2rbJdyAm9SQytYhL4-XGdI/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Драмы
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3cw3AYcpykIevuuHuTNLHo/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K КиноФраншизы
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwTy_xynfL02EvcZe17vsIM/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Русские сериалы
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1FuqOHg8H8BrXSp5tXXeds/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Фэнтези
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvykLh0twtzi_g6SbofMifbQ/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Asia
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6nnBpBDCvrcw2Wti3VqPhA/m3u8
+
+
+#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",MM Скорость HD
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4QZFqoSHwsiXQK62f-XB84/m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="GRAND PLUS| TEST", 2M Monde +1 (1080p)
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/NASA TV.png" group-title="GRAND PLUS| TEST", A TV HU
+http://178.23.88.55/ATV/index.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/NASA TV.png" group-title="GRAND PLUS| TEST", A TV Kosovo
+http://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="GRAND PLUS| TEST", Afarin TV
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", Afgh International
+https://hls.afintl.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="GRAND PLUS| TEST", Aflam
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="GRAND PLUS| TEST", Ajman TV (1080p)
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", akamai
+http://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2rfrQ8.png" group-title="GRAND PLUS| TEST", Al Aqsa Channel
+http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="GRAND PLUS| TEST", Al Arabiya Programs
+https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WcRlHQm.png" group-title="GRAND PLUS| TEST", Al Ekhbariya
+https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WcRlHQm.png" group-title="GRAND PLUS| TEST", Al Ekhbariya (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kb4Rc0H/aleshraqtv.png" group-title="GRAND PLUS| TEST", Al Eshraq TV
+http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TkjdGhy.png" group-title="GRAND PLUS| TEST", Al Etejah TV
+http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Шант Serial HD.png" group-title="GRAND PLUS| TEST", Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Шант Serial HD.png" group-title="GRAND PLUS| TEST", Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Шант Serial HD.png" group-title="GRAND PLUS| TEST", Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNsnZvcd/aljanoubtv.png" group-title="GRAND PLUS| TEST", Al Janoub TV
+http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Kvartal tv.png" group-title="GRAND PLUS| TEST", Al Jazeera
+http://live-hls-web-aja.getaj.net/AJA/05.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Kvartal tv.png" group-title="GRAND PLUS| TEST", Al Khalij
+http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NVOeM3P.png" group-title="GRAND PLUS| TEST", Al Madina (720p)
+https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UeTseMV.png" group-title="GRAND PLUS| TEST", Al Mamlaka TV
+https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="GRAND PLUS| TEST", Al Masirah Mubacher
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c2bwn4G.png" group-title="GRAND PLUS| TEST", Al Najah News (720p)
+https://streaming.najah.edu:8443/hls/AlNajah.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zkBT0C8.png" group-title="GRAND PLUS| TEST", Al Qamar TV
+https://streamer3.premio.link/alqamar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="GRAND PLUS| TEST", Al Quran Al Kareem TV
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="GRAND PLUS| TEST", Al Saudiya
+https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="GRAND PLUS| TEST", Al Saudiya (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="GRAND PLUS| TEST", Al Saudiya Alaan
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Global Star tv.png" group-title="GRAND PLUS| TEST", Al Shallal TV
+https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="GRAND PLUS| TEST", Al Sunnah Al Nabawiyah TV
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="GRAND PLUS| TEST", Al Yaum TV (1080p)
+https://iko-live.akamaized.net/AlyuamTV/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", Al-Istiqama
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVndAta.png" group-title="GRAND PLUS| TEST", Al-Sahat TV (720p)
+https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="GRAND PLUS| TEST", AL24 News (1080p)
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", ALHorreya TV
+http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", Alhurra
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0MGPcf3/alhurrairaq.png" group-title="GRAND PLUS| TEST", Alhurra Iraq (720p)
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="GRAND PLUS| TEST", Angel TV Hebrew (720p)
+https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", Asharq News
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", Asharq News Portrait
+https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbG7N3Mr/asiltv.png" group-title="GRAND PLUS| TEST", Asil TV
+https://live.asil.tv/asiltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JazFBkW.jpeg" group-title="GRAND PLUS| TEST", Avar TV (1080p)
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="GRAND PLUS| TEST", Bab Al Hara (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b" group-title="GRAND PLUS| TEST", Big Time Plus (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png" group-title="GRAND PLUS| TEST", Channel 8 Kurdish
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/opBXx1K.png" group-title="GRAND PLUS| TEST", CNBC Arabiya (1080p)
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1BWb5sh/dijlahtv.png" group-title="GRAND PLUS| TEST", Dijlah TV (1080p)
+https://ghaasiflu.online/Dijlah/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x4KCQlH.png" group-title="GRAND PLUS| TEST", FarmodaTV (1080p)
+https://avr.host247.net/live/FarmodaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", Hadi TV
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="GRAND PLUS| TEST", Hadi TV Azeri and Russian (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="GRAND PLUS| TEST", Hadi TV English and Urdu (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt0LVTHy/haditv4.png" group-title="GRAND PLUS| TEST", Hadi TV Farsi (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="GRAND PLUS| TEST", Hadi TV Hausa (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="GRAND PLUS| TEST", Hadi TV Pashto and Persian (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="GRAND PLUS| TEST", I24 News Arabic
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="GRAND PLUS| TEST", I24 News French
+https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", I24 News Hebrew
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.i24news.tv/images/favicon.png" group-title="GRAND PLUS| TEST", i24NEWS Hebrew
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWXs7csN/en.png" group-title="GRAND PLUS| TEST", Iran Jewish TV
+http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="GRAND PLUS| TEST", ITV Life (2160p)
+https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OyMxcRG.png" group-title="GRAND PLUS| TEST", Kolalnas TV
+https://htvint.mada.ps/kolalnas/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kG0d8Ay.png" group-title="GRAND PLUS| TEST", KTV 1
+https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="GRAND PLUS| TEST", Kurdistan 24 (720p)
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cC16pwn1/kurdsat.png" group-title="GRAND PLUS| TEST", Kurdsat (1080p)
+https://iko-live.akamaized.net/KurdsatTV/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj94xjPP/kurdsatnews.png" group-title="GRAND PLUS| TEST", Kurdsat News (1080p)
+https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSUny9D.jpeg" group-title="GRAND PLUS| TEST", Libya Al Wataniya
+https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg" group-title="GRAND PLUS| TEST", Majid Al Mohandis (1080p)
+https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtN8v94c/makkahtv.png" group-title="GRAND PLUS| TEST", Makkah TV (576p)
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8wE1Lbp.png" group-title="GRAND PLUS| TEST", Manoto TV
+https://late-sky-0e1a.zahsytwdtjgjhasxby.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8
+
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png" group-title="GRAND PLUS| TEST", Maraya (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="GRAND PLUS| TEST", MBC Iraq
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="GRAND PLUS| TEST", MBC Masr Drama
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4FXiyjn.png" group-title="GRAND PLUS| TEST", MBC Persia (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="GRAND PLUS| TEST", Minimax (576p) [Not 24/7]
+http://116.90.120.149:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WHeH5i7.png" group-title="GRAND PLUS| TEST", Mixkurdy (1080p)
+https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/juM3k8B.jpg" group-title="GRAND PLUS| TEST", Musayof (Israel)
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rBftT9x.png" group-title="GRAND PLUS| TEST", Oman TV
+https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZLrc9VV/payamtv.png" group-title="GRAND PLUS| TEST", Payam TV (720p) [Not 24/7]
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s142626/images/logod.jpg" group-title="GRAND PLUS| TEST", Radio Fann Jordan Studio
+http://45.63.116.205/hls2/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wHOQU0R.png" group-title="GRAND PLUS| TEST", Radio Yaqeen Jordan City View
+http://45.63.116.205/hls4/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="GRAND PLUS| TEST", Raya 1 (1080p)
+https://htvmada.mada.ps:4443/raya/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="GRAND PLUS| TEST", Reshet 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i116.fastpic.org/big/2021/1030/4c/00f55c99a4e54353f0ea422c4f12934c.png" group-title="GRAND PLUS| TEST", Reshet 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42noysO.png" group-title="GRAND PLUS| TEST", Rojava TV (1080p)
+https://iko-streamline-live1.akamaized.net/RojavaTV/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JSvJpD8.png" group-title="GRAND PLUS| TEST", Ronahi TV (1080p)
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLDfFpu.png" group-title="GRAND PLUS| TEST", Rotana Aflam+ (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xGDjlp5.png" group-title="GRAND PLUS| TEST", Rotana Radio Jordan Studio
+http://45.63.116.205/hls/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NjgOBts.png" group-title="GRAND PLUS| TEST", Rotana Tarab Jordan City View
+http://45.63.116.205/hls3/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r3U4A1P.png" group-title="GRAND PLUS| TEST", Samaa TV (576p) [Not 24/7]
+http://116.90.120.149:8000/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg" group-title="GRAND PLUS| TEST", Saudi Thaqafiya TV (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="GRAND PLUS| TEST", SBC
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Cyz4Bn.png" group-title="GRAND PLUS| TEST", Shabab FM (720p) [Not 24/7]
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXcczMq.png" group-title="GRAND PLUS| TEST", Simaye Azadi (1080p)
+https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ0pG0jK/t2movies.png" group-title="GRAND PLUS| TEST", T2 Movies
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="GRAND PLUS| TEST", TV Arbëria 1 (720p)
+https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kLl3ar5.png" group-title="GRAND PLUS| TEST", TV Dielli (720p) [Not 24/7]
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hxi4Qiq.png" group-title="GRAND PLUS| TEST", TV Opoja (720p) [Not 24/7]
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jdr22Sk.jpeg" group-title="GRAND PLUS| TEST", Watar TV (720p) [Not 24/7]
+http://htvint.mada.ps:8889/orient/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4" group-title="GRAND PLUS| TEST", Welat TV (1080i)
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBHvR5J.png" group-title="GRAND PLUS| TEST", Zindagi TV (576p) [Not 24/7]
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 
 
 
@@ -862,6 +1328,1863 @@ http://95.67.12.82:9077
 http://95.67.12.82:9083
 
 
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Первый HD
+http://91.194.191.241:8081/chid164/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Первый канал
+http://91.194.191.241:8081/chid1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Россия К
+http://91.194.191.241:8081/chid6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Россия 24
+http://91.194.191.241:8081/chid10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Россия 1 HD
+http://91.194.191.241:8081/chid416/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Россия 1
+http://91.194.191.241:8081/chid195/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  НТВ
+http://91.194.191.241:8081/chid4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  РЕН ТВ
+http://91.194.191.241:8081/chid9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  ТНТ
+http://91.194.191.241:8081/chid17/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  ТНТ4
+http://91.194.191.241:8081/chid36/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  ТНВ-Планета
+http://91.194.191.241:8081/chid140/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Техно 24
+http://91.194.191.241:8081/chid151/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Приключения HD
+http://91.194.191.241:8081/chid142/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Поехали!
+http://91.194.191.241:8081/chid278/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Охота и Рыбалка
+http://91.194.191.241:8081/chid149/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Нано ТВ
+http://91.194.191.241:8081/chid238/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Живая Природа
+http://91.194.191.241:8081/chid182/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Загородная Жизнь
+http://91.194.191.241:8081/chid167/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Живая Планета
+http://91.194.191.241:8081/chid414/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Большая Азия
+http://91.194.191.241:8081/chid279/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Travel+Adventure
+http://91.194.191.241:8081/chid418/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Первый Космический
+http://91.194.191.241:8081/chid427/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Silk Way
+http://91.194.191.241:8081/chid281/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Ocean TV
+http://91.194.191.241:8081/chid268/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Nat Geo Wild
+http://91.194.191.241:8081/chid112/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Viasat Nature
+http://91.194.191.241:8081/chid428/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  RTG TV
+http://91.194.191.241:8081/chid152/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  HD Life
+http://91.194.191.241:8081/chid431/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Телепутешествия
+http://91.194.191.241:8081/chid433/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Моя Стихия
+http://91.194.191.241:8081/chid430/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Моя Планета
+http://91.194.191.241:8081/chid210/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Первый крымский
+http://91.194.191.241:8081/chid291/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Ювелирочка
+http://91.194.191.241:8081/chid37/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Ю
+http://91.194.191.241:8081/chid137/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Шаян
+http://91.194.191.241:8081/chid286/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  ЧЕ
+http://91.194.191.241:8081/chid463/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Центральное телевидение
+http://91.194.191.241:8081/chid123/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Феникс+кино
+http://91.194.191.241:8081/chid70/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Усадьба
+http://91.194.191.241:8081/chid32/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Три Ангела
+http://91.194.191.241:8081/chid241/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Успех
+http://91.194.191.241:8081/chid232/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Тонус ТВ
+http://91.194.191.241:8081/chid272/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  ТИ ВИ СИ
+http://91.194.191.241:8081/chid290/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Телеос 1
+http://91.194.191.241:8081/chid323/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Телекафе
+http://91.194.191.241:8081/chid233/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Театр
+http://91.194.191.241:8081/chid235/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  ТВЦ
+http://91.194.191.241:8081/chid444/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  ТВ3
+http://91.194.191.241:8081/chid5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  TV XXI
+http://91.194.191.241:8081/chid265/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Суббота
+http://91.194.191.241:8081/chid24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  СТС Love
+http://91.194.191.241:8081/chid269/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  СТС
+http://91.194.191.241:8081/chid11/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Спас
+http://91.194.191.241:8081/chid7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Союз
+http://91.194.191.241:8081/chid33/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Солнце
+http://91.194.191.241:8081/chid402/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Советская Киноклассика
+http://91.194.191.241:8081/chid276/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Сарафан
+http://91.194.191.241:8081/chid39/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Русский Экстрим
+http://91.194.191.241:8081/chid44/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Русский Иллюзион
+http://91.194.191.241:8081/chid81/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Русский Детектив
+http://91.194.191.241:8081/chid82/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Русская Комедия
+http://91.194.191.241:8081/chid80/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Ретро
+http://91.194.191.241:8081/chid45/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  РБК
+http://91.194.191.241:8081/chid46/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Пятница
+http://91.194.191.241:8081/chid14/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Психология 21
+http://91.194.191.241:8081/chid162/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Продвижение
+http://91.194.191.241:8081/chid216/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Победа
+http://91.194.191.241:8081/chid434/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  ОТР
+http://91.194.191.241:8081/chid163/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  ОТВ
+http://91.194.191.241:8081/chid144/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Оружие
+http://91.194.191.241:8081/chid115/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  О!
+http://91.194.191.241:8081/chid405/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  НСТ
+http://91.194.191.241:8081/chid118/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Ностальгия
+http://91.194.191.241:8081/chid474/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Наша Тема
+http://91.194.191.241:8081/chid301/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Мужской
+http://91.194.191.241:8081/chid120/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Москва 24
+http://91.194.191.241:8081/chid48/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Мир Сериала
+http://91.194.191.241:8081/chid183/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Мир
+http://91.194.191.241:8081/chid16/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  МузСоюз
+http://91.194.191.241:8081/chid166/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  ЛДПР ТВ
+http://91.194.191.241:8081/chid242/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Кухня ТВ
+http://91.194.191.241:8081/chid473/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Кто Куда
+http://91.194.191.241:8081/chid446/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Крым 24
+http://91.194.191.241:8081/chid271/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Красная Линия
+http://91.194.191.241:8081/chid23/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Конный Мир
+http://91.194.191.241:8081/chid57/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Наше Новое Кино
+http://91.194.191.241:8081/chid470/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Родное Кино
+http://91.194.191.241:8081/chid471/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Любимое Кино
+http://91.194.191.241:8081/chid73/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Мужское Кино
+http://91.194.191.241:8081/chid462/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Киноужас
+http://91.194.191.241:8081/chid461/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Кинокомедия
+http://91.194.191.241:8081/chid406/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Кинопоказ
+http://91.194.191.241:8081/chid411/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Индия
+http://91.194.191.241:8081/chid139/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Индийское Кино
+http://91.194.191.241:8081/chid409/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Кино ТВ
+http://91.194.191.241:8081/chid407/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  КВН ТВ
+http://91.194.191.241:8081/chid472/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Капитан Фантастика
+http://91.194.191.241:8081/chid292/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Калейдоскоп ТВ
+http://91.194.191.241:8081/chid239/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Иллюзион+
+http://91.194.191.241:8081/chid71/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Известия
+http://91.194.191.241:8081/chid277/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Зоо ТВ
+http://91.194.191.241:8081/chid25/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Здоровое ТВ
+http://91.194.191.241:8081/chid267/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Звезда
+http://91.194.191.241:8081/chid15/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Живи
+http://91.194.191.241:8081/chid275/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  ЕГЭ ТВ
+http://91.194.191.241:8081/chid138/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Еврокино
+http://91.194.191.241:8081/chid76/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Е
+http://91.194.191.241:8081/chid22/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Драйв
+http://91.194.191.241:8081/chid148/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Домашний
+http://91.194.191.241:8081/chid296/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Домашние Животные
+http://91.194.191.241:8081/chid28/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Дом Кино Премиум HD
+http://91.194.191.241:8081/chid294/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Дом Кино
+http://91.194.191.241:8081/chid84/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Доктор
+http://91.194.191.241:8081/chid117/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  День Победы
+http://91.194.191.241:8081/chid168/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Время
+http://91.194.191.241:8081/chid47/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Вопросы и Ответы
+http://91.194.191.241:8081/chid30/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Вместе-РФ
+http://91.194.191.241:8081/chid274/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Витрина ТВ
+http://91.194.191.241:8081/chid29/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  В Мире Животных HD
+http://91.194.191.241:8081/chid209/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  БСТ 24
+http://91.194.191.241:8081/chid20/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Бокс ТВ
+http://91.194.191.241:8081/chid460/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Белрос
+http://91.194.191.241:8081/chid186/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Беларусь 24
+http://91.194.191.241:8081/chid141/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Авто Плюс
+http://91.194.191.241:8081/chid104/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  VIP Serial
+http://91.194.191.241:8081/chid40/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  TV1000 Русское Кино
+http://91.194.191.241:8081/chid69/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  TV1000 Action
+http://91.194.191.241:8081/chid78/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  TV1000
+http://91.194.191.241:8081/chid68/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Trace Urban
+http://91.194.191.241:8081/chid287/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Top Shop
+http://91.194.191.241:8081/chid236/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  TOP Secret
+http://91.194.191.241:8081/chid432/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  RT Doc
+http://91.194.191.241:8081/chid284/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Myzen TV
+http://91.194.191.241:8081/chid417/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Leomax
+http://91.194.191.241:8081/chid234/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Kinoliving
+http://91.194.191.241:8081/chid413/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Hollywood HD
+http://91.194.191.241:8081/chid421/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Hollywood
+http://91.194.191.241:8081/chid412/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Food
+http://91.194.191.241:8081/chid415/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Fashion TV
+http://91.194.191.241:8081/chid169/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Соловьев Live
+http://91.194.191.241:8081/chid38/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  FAN
+http://91.194.191.241:8081/chid439/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  CТС
+http://91.194.191.241:8081/chid219/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Cinema
+http://91.194.191.241:8081/chid300/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Bollywood HD
+http://91.194.191.241:8081/chid420/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  8 Канал
+http://91.194.191.241:8081/chid26/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  7 ТВ
+http://91.194.191.241:8081/chid185/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  5 Канал
+http://91.194.191.241:8081/chid13/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  365 Дней
+http://91.194.191.241:8081/chid425/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  360
+http://91.194.191.241:8081/chid27/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  2х2
+http://91.194.191.241:8081/chid21/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  .Sci-Fi
+http://91.194.191.241:8081/chid77/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  .Red
+http://91.194.191.241:8081/chid85/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  .Black
+http://91.194.191.241:8081/chid408/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Da Vinci
+http://91.194.191.241:8081/chid426/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Baby Time
+http://91.194.191.241:8081/chid273/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Gulli Girl
+http://91.194.191.241:8081/chid404/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  TiJi
+http://91.194.191.241:8081/chid41/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Бобер
+http://91.194.191.241:8081/chid34/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  В Гостях У Сказки
+http://91.194.191.241:8081/chid61/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Детский Мир
+http://91.194.191.241:8081/chid58/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Карусель
+http://91.194.191.241:8081/chid64/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Мама
+http://91.194.191.241:8081/chid31/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Мультимузыка
+http://91.194.191.241:8081/chid35/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Радость Моя
+http://91.194.191.241:8081/chid42/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Уникум
+http://91.194.191.241:8081/chid63/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Мультиландия
+http://91.194.191.241:8081/chid62/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Мульт
+http://91.194.191.241:8081/chid424/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Ani
+http://91.194.191.241:8081/chid59/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  1HD
+http://91.194.191.241:8081/chid208/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Russian Music Box
+http://91.194.191.241:8081/chid89/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Европа Плюс ТВ
+http://91.194.191.241:8081/chid158/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Ля-Минор
+http://91.194.191.241:8081/chid435/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Музыка Первого
+http://91.194.191.241:8081/chid94/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  ТНТ Music
+http://91.194.191.241:8081/chid91/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  Шансон ТВ
+http://91.194.191.241:8081/chid93/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  МузТВ
+http://91.194.191.241:8081/chid8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТЕЛЕОС",  RU.TV
+http://91.194.191.241:8081/chid88/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Экстрим
+http://iptv46.mcx-ix.ru:8077/rus-extrim/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Discovery HD
+http://iptv46.mcx-ix.ru:8077/DiscoveryChannelHD/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", History HD
+http://iptv46.mcx-ix.ru:8077/History-HD/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Нано ТВ
+http://iptv46.mcx-ix.ru:8077/nano-tv/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Nat Geo Wild HD
+http://iptv46.mcx-ix.ru:8077/natgeo_wild_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Terra
+http://iptv46.mcx-ix.ru:8077/natgeo/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Terra HD
+http://iptv46.mcx-ix.ru:8077/natgeo_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", RTG TV
+http://iptv46.mcx-ix.ru:8077/rtg/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", RTG HD
+http://iptv46.mcx-ix.ru:8077/rtg_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Travel Channel HD
+http://iptv46.mcx-ix.ru:8077/TravelChannelHD/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Viasat History HD
+http://iptv46.mcx-ix.ru:8077/ViasatHistoryHD/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Большая Азия
+http://iptv46.mcx-ix.ru:8077/world-fashion/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", ГЛАЗАМИ ТУРИСТА HD
+http://iptv46.mcx-ix.ru:8077/glazami_turista_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Дикий
+http://iptv46.mcx-ix.ru:8077/Dikiy/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Доктор
+http://iptv46.mcx-ix.ru:8077/doctor/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", ЖИВАЯ ПЛАНЕТА
+http://iptv46.mcx-ix.ru:8077/zhivaya-planeta/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", ЖИВИ
+http://iptv46.mcx-ix.ru:8077/jivi/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Охотник и рыболов HD
+http://iptv46.mcx-ix.ru:8077/ohot_i_rybolov_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Планета HD
+http://iptv46.mcx-ix.ru:8077/planeta_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", ПОЕХАЛИ!
+http://iptv46.mcx-ix.ru:8077/Poehali/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Телепутешествия HD
+http://iptv46.mcx-ix.ru:8077/teletravel_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", ТЕХНО 24
+http://iptv46.mcx-ix.ru:8077/t24/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Animal Planet HD
+http://iptv46.mcx-ix.ru:8077/AnimalPlanetRussiaHD/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", 2x2
+http://iptv46.mcx-ix.ru:8077/2x2/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Amedia 1
+http://iptv46.mcx-ix.ru:8077/amedia/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Amedia Hit HD
+http://iptv46.mcx-ix.ru:8077/amedia_hit_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Amedia Premium HD
+http://iptv46.mcx-ix.ru:8077/amedia_premium_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Bollywood HD
+http://iptv46.mcx-ix.ru:8077/BollywoodHD/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Gags Network
+http://iptv46.mcx-ix.ru:8077/raz-tv/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Дом Кино
+http://iptv46.mcx-ix.ru:8077/dom_kino/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Домашний
+http://iptv46.mcx-ix.ru:8077/domashniy/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Дорама
+http://iptv46.mcx-ix.ru:8077/Dorama/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Еда HD
+http://iptv46.mcx-ix.ru:8077/eda_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", ЗОО ТВ
+http://iptv46.mcx-ix.ru:8077/zoo_tv/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Иллюзион+
+http://iptv46.mcx-ix.ru:8077/illusion_plus_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", КВН ТВ
+http://iptv46.mcx-ix.ru:8077/kvn_tv/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Кинеко
+http://iptv46.mcx-ix.ru:8077/fox/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Кинеко HD
+http://iptv46.mcx-ix.ru:8077/fox_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Кино ТВ
+http://iptv46.mcx-ix.ru:8077/kino-tv/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Кино ТВ HD
+http://iptv46.mcx-ix.ru:8077/kino_tv_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Кинокомедия
+http://iptv46.mcx-ix.ru:8077/komediya/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", ИНДИЙСКОЕ КИНО
+http://iptv46.mcx-ix.ru:8077/indiya/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", КИНОМИКС HD
+http://iptv46.mcx-ix.ru:8077/kinomix/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", КИНОПОКАЗ
+http://iptv46.mcx-ix.ru:8077/kinopokaz/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Кинопремьера HD
+http://iptv46.mcx-ix.ru:8077/premiera/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", КИНОСВИДАНИЕ
+http://iptv46.mcx-ix.ru:8077/kinosvidanie/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", КИНОСЕМЬЯ HD
+http://iptv46.mcx-ix.ru:8077/kinosemya/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Мужское кино HD
+http://iptv46.mcx-ix.ru:8077/muzhskoe-kino_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Наше новое кино
+http://iptv46.mcx-ix.ru:8077/nashe-novoe-kino/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Киносерия
+http://iptv46.mcx-ix.ru:8077/mnogo-tv/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", КИНОУЖАС
+http://iptv46.mcx-ix.ru:8077/kinoujas/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Кинохит
+http://iptv46.mcx-ix.ru:8077/kinohit/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Золотая коллекция
+http://iptv46.mcx-ix.ru:8077/mosfilm/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Ностальгия
+http://iptv46.mcx-ix.ru:8077/nostalgia/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", НСТ
+http://iptv46.mcx-ix.ru:8077/nstv/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Пес и Ко
+http://iptv46.mcx-ix.ru:8077/pes_i_ko/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Пятница
+http://iptv46.mcx-ix.ru:8077/Pyatnica/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Родное Кино
+http://iptv46.mcx-ix.ru:8077/nashe-kino/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", БЕСТСЕЛЛЕР
+http://iptv46.mcx-ix.ru:8077/rus-bestseller/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", ДЕТЕКТИВ
+http://iptv46.mcx-ix.ru:8077/rus-detective/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Иллюзион
+http://iptv46.mcx-ix.ru:8077/RusskiyIllusion/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", РОМАН
+http://iptv46.mcx-ix.ru:8077/rus-roman/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", роман HD
+http://iptv46.mcx-ix.ru:8077/russki_roman_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", СТС
+http://iptv46.mcx-ix.ru:8077/sts_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", СТС love
+http://iptv46.mcx-ix.ru:8077/sts-love/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", СУББОТА
+http://iptv46.mcx-ix.ru:8077/super/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", ТВ3
+http://iptv46.mcx-ix.ru:8077/tv3/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Усадьба
+http://iptv46.mcx-ix.ru:8077/Usadba/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", ЧЕ
+http://iptv46.mcx-ix.ru:8077/che/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Ю
+http://iptv46.mcx-ix.ru:8077/utv/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", УНИКУМ
+http://iptv46.mcx-ix.ru:8077/detskiy/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Супергерои
+http://iptv46.mcx-ix.ru:8077/malish/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", СТС Kids
+http://iptv46.mcx-ix.ru:8077/sts_kids/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", РЫЖИЙ
+http://iptv46.mcx-ix.ru:8077/ryzhiy/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Радость моя
+http://iptv46.mcx-ix.ru:8077/radost-moya/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Мульт
+http://iptv46.mcx-ix.ru:8077/mult/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", МАМА
+http://iptv46.mcx-ix.ru:8077/mama/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Солнце
+http://iptv46.mcx-ix.ru:8077/disney/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", JimJam
+http://iptv46.mcx-ix.ru:8077/JimJam/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", ANI
+http://iptv46.mcx-ix.ru:8077/ani/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Nickelodeon
+http://iptv46.mcx-ix.ru:8077/nickelodeon/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", TiJi
+http://iptv46.mcx-ix.ru:8077/TiJi/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", О!
+http://iptv46.mcx-ix.ru:8077/o_/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Карусель
+http://iptv46.mcx-ix.ru:8077/karusel/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Мультимания
+http://iptv46.mcx-ix.ru:8077/multimania/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", ЕВРОПА ПЛЮС ТВ
+http://iptv46.mcx-ix.ru:8077/europa-plus-tv/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Eurosport 1 HD
+http://iptv46.mcx-ix.ru:8077/Eurosport1HD/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Eurosport 2 HD
+http://iptv46.mcx-ix.ru:8077/Eurosport2HD/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Матч ТВ
+http://iptv46.mcx-ix.ru:8077/match/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Матч ТВ HD
+http://iptv46.mcx-ix.ru:8077/match_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", sport- Арена HD
+http://iptv46.mcx-ix.ru:8077/arena_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", sport- Премьер
+http://iptv46.mcx-ix.ru:8077/nash-football/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", sport- Премьер HD
+http://iptv46.mcx-ix.ru:8077/nash_football_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", sport- Футбол 1 HD
+http://iptv46.mcx-ix.ru:8077/football1_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", sport- Футбол 2 HD
+http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", sport- Футбол 3 HD
+http://iptv46.mcx-ix.ru:8077/football3_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", КХЛ HD
+http://iptv46.mcx-ix.ru:8077/khl_hd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", КХЛ ТВ
+http://iptv46.mcx-ix.ru:8077/khl/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Футбол
+http://iptv46.mcx-ix.ru:8077/football/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | МАЯК ТВ", Viasat Sport HD
+http://iptv46.mcx-ix.ru:8077/ViasatSportHD/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Trace Sport Stars.png" group-title="GRAND PLUS | SARKOR UZ",    ARSENAL HD
+https://s06.watcher.uz/120/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    AVTO 24
+https://s06.watcher.uz/129/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/aztv.png" group-title="GRAND PLUS | SARKOR UZ",    AZTV
+https://s06.watcher.uz/146/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    Aвто 24
+https://s04.watcher.uz/28/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    BLOMBERG
+https://s07.watcher.uz/174/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Bollywood HD.png" group-title="GRAND PLUS | SARKOR UZ",    BOLLWOOD
+https://s07.watcher.uz/167/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    BQ
+https://s04.watcher.uz/115/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/CGTN.png" group-title="GRAND PLUS | SARKOR UZ",    CGTN
+https://s05.watcher.uz/92/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Cinema.png" group-title="GRAND PLUS | SARKOR UZ",    CINEMA
+https://s06.watcher.uz/155/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/DocuBox.png" group-title="GRAND PLUS | SARKOR UZ",    DOCTOR
+https://s07.watcher.uz/165/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    DORAMA
+https://s06.watcher.uz/132/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    DRAIV
+https://s06.watcher.uz/130/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ducktv.png" group-title="GRAND PLUS | SARKOR UZ",    DUCK TV
+https://s06.watcher.uz/121/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/English club HD.png" group-title="GRAND PLUS | SARKOR UZ",    ENGLESH CLUB
+https://s07.watcher.uz/166/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/FashionTv.png" group-title="GRAND PLUS | SARKOR UZ",    FASHION
+https://s06.watcher.uz/154/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    FOREGN
+https://s03.watcher.uz/62/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/France 24.png" group-title="GRAND PLUS | SARKOR UZ",    FRANC 24
+https://s03.watcher.uz/89/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Gulli Girl.png" group-title="GRAND PLUS | SARKOR UZ",    GULI
+https://s07.watcher.uz/164/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/HDL.png" group-title="GRAND PLUS | SARKOR UZ",    HDL
+https://s04.watcher.uz/113/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/History 2.png" group-title="GRAND PLUS | SARKOR UZ",    HISTORIY
+https://s06.watcher.uz/141/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Hollywood.png" group-title="GRAND PLUS | SARKOR UZ",    HOLLWOOD
+https://s07.watcher.uz/168/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    INSAYT TV
+https://s06.watcher.uz/124/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    IQBOL TV
+https://s06.watcher.uz/157/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    KAPITAN FANTASTIC
+https://s06.watcher.uz/122/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/KBS World.png" group-title="GRAND PLUS | SARKOR UZ",    KBS WORLD
+https://s07.watcher.uz/170/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Kino 24.png" group-title="GRAND PLUS | SARKOR UZ",    KINOTEATR
+https://s03.watcher.uz/83/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0924/e2/86cb51c025033ee99e97213c483f01e2.png" group-title="GRAND PLUS | SARKOR UZ",    MADANIYAT VA MARIFAT
+https://s03.watcher.uz/60/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    MAHРегиональныеA
+https://s03.watcher.uz/61/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    MAMA
+https://s06.watcher.uz/143/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Star Family HD.png" group-title="GRAND PLUS | SARKOR UZ",    MILLIY
+https://s07.watcher.uz/162/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    MOY PLANETA
+https://s06.watcher.uz/144/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    MY5
+https://s07.watcher.uz/163/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Nat Geo Wild.png" group-title="GRAND PLUS | SARKOR UZ",    NAT GEO WILD
+https://s06.watcher.uz/116/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    OXOTA
+https://s06.watcher.uz/123/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    REJIY
+https://s06.watcher.uz/133/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    SARAFAN
+https://s06.watcher.uz/156/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    SEVIMLI
+https://s03.watcher.uz/72/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    SEVIMLI
+https://s07.watcher.uz/160/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    SIBERIA
+https://s06.watcher.uz/119/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/XSport.png" group-title="GRAND PLUS | SARKOR UZ",    SPORT
+https://s07.watcher.uz/161/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    T24
+https://s05.watcher.uz/29/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Global Star tv.png" group-title="GRAND PLUS | SARKOR UZ",    TARAQQIYOT
+https://s05.watcher.uz/76/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Tiji.png" group-title="GRAND PLUS | SARKOR UZ",    TIJI
+https://s07.watcher.uz/169/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Trace Sport Stars.png" group-title="GRAND PLUS | SARKOR UZ",    TRACE SPORT
+https://s06.watcher.uz/125/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="http://i121.fastpic.org/big/2023/0528/1e/f83fda311ca0001296c25dd072c33f1e.png" group-title="GRAND PLUS | SARKOR UZ",    TRT AVAZ
+https://s04.watcher.uz/4/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0410/86/3197a04cc2c7a1ae9f31d8a54cff6786.png" group-title="GRAND PLUS | SARKOR UZ",    TRT HABER
+https://s06.watcher.uz/142/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    TRT MUSIC
+https://s06.watcher.uz/139/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    TUGAN TEL
+https://s05.watcher.uz/95/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    TVSENTR
+https://s05.watcher.uz/41/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    UZBEKISTON 24
+https://s07.watcher.uz/158/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0312/41/09f161f3a64f89b5c7c9be0013c09841.png" group-title="GRAND PLUS | SARKOR UZ",    UZBEKISTON TARIXI
+https://s03.watcher.uz/86/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    ZHIVI
+https://s06.watcher.uz/117/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    ZHIVIY PLANETA
+https://s06.watcher.uz/138/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    Zor TV
+https://s03.watcher.uz/6/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | SARKOR UZ",    ZOR TV
+https://s07.watcher.uz/159/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | ASIA",   Altyn Asyr
+http://217.174.225.146/hls/ch001_720/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ASIA",   Altyn Asyr
+https://alpha.tv.online.tm/hls/ch001_720/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ASIA",   Arkadag
+https://alpha.tv.online.tm/hls/ch000_720/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ASIA",   Ascabat
+http://217.174.225.146/hls/ch006_720/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ASIA",   Asgabat
+https://alpha.tv.online.tm/hls/ch006_720/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ASIA",   Miras
+http://217.174.225.146/hls/ch003_720/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ASIA",   Miras
+https://alpha.tv.online.tm/hls/ch003_720/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ASIA",   Turkmen owazy
+http://217.174.225.146/hls/ch005_720/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ASIA",   Turkmen Owazy
+https://alpha.tv.online.tm/hls/ch005_720/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ASIA",   Turkmenistan
+http://217.174.225.146/hls/ch007_720/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ASIA",   Turkmenistan
+https://alpha.tv.online.tm/hls/ch007_720/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ASIA",   Yaslyk
+http://217.174.225.146/hls/ch002_720/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ASIA",   Yaslyk
+https://alpha.tv.online.tm/hls/ch002_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YzkwTHb.png" group-title="GRAND PLUS | ASIA",   Сугд HD (Худжанд)
+https://stream2.somon.tv/sugd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ASIA",   ТВ-Кулоб (Куляб)
+https://stream2.somon.tv/kulob/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ASIA",   ТВ-Хатлон (Бохтар)
+https://stream2.somon.tv/hatlon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tmt-tv.tj/themes/symnews/shahnavoz-logo-67px.png" group-title="GRAND PLUS | ASIA",   ТМТ Шахнавоз HD
+https://stream2.somon.tv/tmt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=187519;image" group-title="GRAND PLUS | ASIA",   Точикистон HD
+https://stream2.somon.tv/tojikiston/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sugdnews.com/wp-content/uploads/2020/10/%D0%A2%D0%92-%D0%90%D0%B7%D0%B8%D1%8F.jpg" group-title="GRAND PLUS | ASIA",   ТРК Азия(Худжанд)
+http://95.142.86.181:9000/
+
+
+
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",TAS-IX-MEDIA
+https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",Silk Way UZ
+https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",BIZ CINEMA
+http://95.85.109.219:7000/play/a05c
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",Bolajon
+http://95.85.109.219:7000/play/a06t
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",Dasturxon TV
+http://95.85.109.219:7000/play/a05h
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",Dunyo Boylab UZ|RU
+http://95.85.109.219:7000/play/a06s
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",Uzbekiston
+http://95.85.109.219:7000/play/a06n
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",Yoshlar UZ
+http://95.85.109.219:7000/play/a06o
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",ZOR TV UZ
+http://95.85.109.219:7000/play/a05e
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",Kinoteatr UZ|RU
+http://95.85.109.219:7000/play/a06w
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",MY5 UZ
+http://95.85.109.219:7000/play/a05d
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",Madaniyat va Marifat UZ
+http://95.85.109.219:7000/play/a06r
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",Mahalla UZ
+http://95.85.109.219:7000/play/a06v
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",Milliy TV UZ
+http://95.85.109.219:7000/play/a05f
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",Navo UZ
+http://95.85.109.219:7000/play/a06u
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",O`zbekiston 24
+http://95.85.109.219:7000/play/a06y
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",QSPORT HD (Test)
+http://95.85.109.219:7000/play/a05u
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",Renessans TV UZ
+http://95.85.109.219:7000/play/a05i
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",Sevimli TV UZ
+http://95.85.109.219:7000/play/a05g
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",Futbol TV
+https://flussonic.salomtv.uz/FutbolTV/video.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg" group-title="GRAND PLUS | UZB TEST",  8TV
+http://95.85.109.219:7000/play/a05j
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  BIZ CINEMA
+http://95.85.109.219:7000/play/a05c
+
+#EXTINF:-1 tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="GRAND PLUS | UZB TEST",  BIZ Cinema (1080p)
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg" group-title="GRAND PLUS | UZB TEST",  BIZ Music (1080p)
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://biztv.uz/static/media/logo.5f993187.png" group-title="GRAND PLUS | UZB TEST",  BIZ TV (1080p)
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  BIZTV
+https://s06.watcher.uz/147/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Bolt HD.png" group-title="GRAND PLUS | UZB TEST",  Bolajon
+http://95.85.109.219:7000/play/a06t
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1804.png" group-title="GRAND PLUS | UZB TEST",  Bolajon UZ
+https://s05.watcher.uz/64/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  Dasturxon TV
+http://95.85.109.219:7000/play/a05h
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1795.png" group-title="GRAND PLUS | UZB TEST",  Dasturxon TV UZ
+https://s03.watcher.uz/85/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1805.png" group-title="GRAND PLUS | UZB TEST",  Dunyo Boylab UZ
+https://s05.watcher.uz/63/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  Dunyo Boylab UZ|RU
+http://95.85.109.219:7000/play/a06s
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="GRAND PLUS | UZB TEST",  Fashion Channel
+https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1802.png" group-title="GRAND PLUS | UZB TEST",  Futbol TV UZ
+https://s03.watcher.uz/74/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="GRAND PLUS | UZB TEST",  Gameplay
+https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="GRAND PLUS | UZB TEST",  Gameplay трейлеры
+https://fl1001.bozztv.com/ushba44/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Узбекистан | O'zbek 🇺🇿", ~ ITV CINEMA
+http://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  Kinoteatr UZ|RU
+http://95.85.109.219:7000/play/a06w
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="GRAND PLUS | UZB TEST",  Kpop Play TV
+https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  Madaniyat va Marifat UZ
+http://95.85.109.219:7000/play/a06r
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  Makon TV
+https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v4FBm26.png" group-title="GRAND PLUS | UZB TEST",  Milliy
+http://milliy.tv/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v4FBm26.png" group-title="GRAND PLUS | UZB TEST",  Milliy tv
+http://serv1.milliy.tv/hls/index_480.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1792.png" group-title="GRAND PLUS | UZB TEST",  Milliy TV UZ
+https://s05.watcher.uz/70/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  Milliy TV UZ
+http://95.85.109.219:7000/play/a05f
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1791.png" group-title="GRAND PLUS | UZB TEST",  My 5 UZ
+https://s05.watcher.uz/69/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  MY5 UZ
+http://95.85.109.219:7000/play/a05d
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1803.png" group-title="GRAND PLUS | UZB TEST",  Navo UZ
+https://s05.watcher.uz/65/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  Navo UZ
+http://95.85.109.219:7000/play/a06u
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1796.png" group-title="GRAND PLUS | UZB TEST",  Nurafshon TV UZ
+https://s03.watcher.uz/87/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/O'zbekiston.png" group-title="GRAND PLUS | UZB TEST",  O'zbekiston
+http://31.148.197.2:5001/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  O`zbekiston 24
+http://95.85.109.219:7000/play/a06y
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1800.png" group-title="GRAND PLUS | UZB TEST",  Renessans TV UZ
+https://s04.watcher.uz/83/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  Renessans TV UZ
+http://95.85.109.219:7000/play/a05i
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  Sevimili HD
+http://31.148.197.2:7001/
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/035fe5e3-f968-45fd-93af-31e4b91cdebf.png" group-title="GRAND PLUS | UZB TEST",  Sevimli
+http://95.85.109.219:7000/play/a05g
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1788.png" group-title="GRAND PLUS | UZB TEST",  Sport UZ
+https://s04.watcher.uz/59/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1789.png" group-title="GRAND PLUS | UZB TEST",  Toshkent UZ
+https://s03.watcher.uz/58/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/J1X3QmF7XeYqjSzb0680kdrNlUYiVLg44VO3T_cY23-fq9VTxa55x4e31x00zoK1H7E=w240-h480-rw" group-title="GRAND PLUS | UZB TEST",  Travel-tv (O'zbekiston)
+https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1785.png" group-title="GRAND PLUS | UZB TEST",  Uzbekistan 24 UZ
+https://s04.watcher.uz/8/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1786.png" group-title="GRAND PLUS | UZB TEST",  Uzbekistan UZ
+https://s03.watcher.uz/56/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  Uzbekiston
+http://95.85.109.219:7000/play/a06n
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1801.png" group-title="GRAND PLUS | UZB TEST",  UzReport TV UZ
+https://s03.watcher.uz/75/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 tvg-logo="http://tv.team/images/chIcons/1787.png" group-title="GRAND PLUS | UZB TEST",  Yoshlar UZ
+https://s03.watcher.uz/57/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
+#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",  Yoshlar UZ
+http://95.85.109.219:7000/play/a06o
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  ZOR TV UZ
+http://95.85.109.219:7000/play/a05e
+
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  A&E US Eastern Feed
+https://tvpass.org/live/AEEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  ABC (KABC) Los Angeles
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  ABC (WABC) New York, NY
+https://tvpass.org/live/WABCDT1/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  ACC Network
+https://tvpass.org/live/ACCNetwork/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Altitude Sports Denver
+https://tvpass.org/live/altitude-sports-denver/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  AMC Eastern Feed
+https://tvpass.org/live/AMCEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  American Heroes Channel
+https://tvpass.org/live/AmericanHeroesChannel/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Animal Planet US East
+https://tvpass.org/live/AnimalPlanetEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  BBC America East
+https://tvpass.org/live/BBCAmericaEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  BBC News North America HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  BET Eastern Feed
+https://tvpass.org/live/BETEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  BET Her
+https://tvpass.org/live/BETHerEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Big Ten Network
+https://tvpass.org/live/BTN/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Bloomberg TV USA
+https://tvpass.org/live/BloombergTV/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Boomerang
+https://tvpass.org/live/Boomerang/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Bravo USA Eastern Feed
+https://tvpass.org/live/BravoEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  C-SPAN
+https://tvpass.org/live/CSPAN/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  C-SPAN 2
+https://tvpass.org/live/CSPAN2/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Cartoon Network USA Eastern Feed
+https://tvpass.org/live/CartoonNetworkEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  CBS (KCBS) Los Angeles
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  CBS (WCBS) New York, NY
+https://tvpass.org/live/WCBSDT1/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  CBS Sports Network USA
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Chicago Sports Network
+https://tvpass.org/live/chicago-sports-network/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Cinemax Eastern Feed
+https://tvpass.org/live/CinemaxEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  CMT US Eastern Feed
+https://tvpass.org/live/CMTEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  CNBC USA
+https://tvpass.org/live/CNBC/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  CNN US
+https://tvpass.org/live/CNN/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Comedy Central (US) Eastern Feed
+https://tvpass.org/live/ComedyCentralEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Crime & Investigation Network USA HD
+https://tvpass.org/live/CrimePlusInvestigation/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  CW (KFMB-TV2) San Diego
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  CW (WDCW) District of Columbia
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Destination America
+https://tvpass.org/live/DestinationAmerica/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Discovery Channel (US) Eastern Feed
+https://tvpass.org/live/DiscoveryChannelEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Discovery Family Channel
+https://tvpass.org/live/DiscoveryFamily/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Discovery Life Channel
+https://tvpass.org/live/DiscoveryLife/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Disney Eastern Feed
+https://tvpass.org/live/DisneyChannelEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Disney Junior USA East
+https://tvpass.org/live/DisneyJuniorEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Disney XD USA Eastern Feed
+https://tvpass.org/live/DisneyXDEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  E! Entertainment USA Eastern Feed
+https://tvpass.org/live/EEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  ESPN
+https://tvpass.org/live/ESPN/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  ESPN Deportes
+https://tvpass.org/live/espn-deportes/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  ESPN News
+https://tvpass.org/live/ESPNews/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  ESPN U
+https://tvpass.org/live/ESPNU/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  ESPN2
+https://tvpass.org/live/ESPN2/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Indiana
+https://tvpass.org/live/fanduel-sports-indiana/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Network Detroit
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Network Florida
+https://tvpass.org/live/fanduel-sports-network-florida/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Network Great Lakes
+https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Network North
+https://tvpass.org/live/fanduel-sports-network-north/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Network Ohio Cleveland
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Network Oklahoma
+https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Network San Diego
+https://tvpass.org/live/fanduel-sports-network-san-diego/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Network Socal
+https://tvpass.org/live/fanduel-sports-network-socal/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Network South Carolinas
+https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Network South Tennessee
+https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Network West
+https://tvpass.org/live/fanduel-sports-network-west/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Network Wisconsin
+https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Southeast Georgia
+https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Southeast North Carolina
+https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Southeast South Carolina
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Southeast Tennessee Nashville
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Sun
+https://tvpass.org/live/fanduel-sports-sun/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fanduel Sports Tennessee East
+https://tvpass.org/live/fanduel-sports-tennessee-east/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Food Network USA Eastern Feed
+https://tvpass.org/live/FoodNetworkEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  FOX (KTTV) Los Angeles
+https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  FOX (WNYW) New York, NY
+https://tvpass.org/live/WNYWDT1/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fox Business
+https://tvpass.org/live/FoxBusiness/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fox Sports 1
+https://tvpass.org/live/FoxSports1/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Fox Sports 2
+https://tvpass.org/live/FoxSports2/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Freeform East Feed
+https://tvpass.org/live/FreeformEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  FUSE TV Eastern feed
+https://tvpass.org/live/FuseEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  FX Movie Channel
+https://tvpass.org/live/FXMovieChannel/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  FX Networks East Coast
+https://tvpass.org/live/FXEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  FXX USA Eastern
+https://tvpass.org/live/FXXEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  FYI USA Eastern
+https://tvpass.org/live/FYIEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Game Show Network East
+https://tvpass.org/live/game-show-network-east/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Golf Channel USA
+https://tvpass.org/live/GolfChannel/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Hallmark Eastern Feed
+https://tvpass.org/live/HallmarkChannelEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Hallmark Family HD
+https://tvpass.org/live/HallmarkDrama/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Hallmark Mystery Eastern HD
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  HBO Eastern Feed
+https://tvpass.org/live/HBOEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  HBO 2 Eastern Feed
+https://tvpass.org/live/HBO2East/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  HBO Comedy HD East
+https://tvpass.org/live/HBOComedyEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  HBO Family Eastern Feed
+https://tvpass.org/live/HBOFamilyEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  HBO Signature (HBO 3) Eastern
+https://tvpass.org/live/HBOSignatureEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  HBO Zone HD East
+https://tvpass.org/live/HBOZoneEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  HGTV USA Eastern Feed
+https://tvpass.org/live/HGTVEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  History Channel US Eastern Feed
+https://tvpass.org/live/HistoryEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  HLN
+https://tvpass.org/live/HLN/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Independent Film Channel US
+https://tvpass.org/live/IFCEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Investigation Discovery USA Eastern
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  ION Eastern Feed
+https://tvpass.org/live/IONTVEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Lifetime Movies East
+https://tvpass.org/live/LifetimeMoviesEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Lifetime Network US Eastern Feed
+https://tvpass.org/live/LifetimeEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  LOGO East
+https://tvpass.org/live/LogoEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Marquee Sports Network
+https://tvpass.org/live/marquee-sports-network/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  MeTV Toons (WJLP2) New Jersey
+https://tvpass.org/live/metv-toons/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  MeTV Wjlp New Jerseynew York
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Midatlantic Sports Network
+https://tvpass.org/live/midatlantic-sports-network/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  MLB Network
+https://tvpass.org/live/MLBNetwork/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Monumental Sports Network
+https://tvpass.org/live/monumental-sports-network/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  MoreMax Eastern
+https://tvpass.org/live/MoreMaxEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Motor Trend HD
+https://tvpass.org/live/Motortrend/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  MovieMax (Max 6) East
+https://tvpass.org/live/MovieMaxEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  MSG Madison Square Gardens
+https://tvpass.org/live/msg-madison-square-gardens/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  MSG Plus
+https://tvpass.org/live/msg-plus/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  MSNBC USA
+https://tvpass.org/live/MSNBC/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  MTV 2 East
+https://tvpass.org/live/mtv-2-east/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  MTV USA Eastern Feed
+https://tvpass.org/live/MTVEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  National Geographic US Eastern
+https://tvpass.org/live/NationalGeographicEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  National Geographic Wild
+https://tvpass.org/live/NationalGeographicWildEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  NBA TV USA
+https://tvpass.org/live/NBATV/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  NBC (KNBC) Los Angeles
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  NBC (WNBC) New York, NY
+https://tvpass.org/live/WNBCDT1/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  NBC Sports Bay Area
+https://tvpass.org/live/nbc-sports-bay-area/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  NBC Sports Boston
+https://tvpass.org/live/nbc-sports-boston/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  NBC Sports California
+https://tvpass.org/live/nbc-sports-california/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  NBC Sports Philadelphia
+https://tvpass.org/live/nbc-sports-philadelphia/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  New England Sports Network
+https://tvpass.org/live/new-england-sports-network/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  NewsMax TV
+https://tvpass.org/live/NewsmaxTV/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  NFL Network
+https://tvpass.org/live/NFLNetwork/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  NFL RedZone
+https://tvpass.org/live/NFLRedZone/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  NHL Network USA
+https://tvpass.org/live/NHLNetwork/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Nick Jr. East
+https://tvpass.org/live/NickJrEast/sd
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Nickelodeon USA East Feed
+https://tvpass.org/live/NickelodeonEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Nicktoons East
+https://tvpass.org/live/NicktoonsEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Oprah Winfrey Network USA Eastern
+https://tvpass.org/live/OWNEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Outdoor Channel US
+https://tvpass.org/live/OutdoorChannel/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Oxygen Eastern Feed
+https://tvpass.org/live/OxygenEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  PBS (WNET) New York, NY
+https://tvpass.org/live/WNET/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  ReelzChannel
+https://tvpass.org/live/Reelz/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Science
+https://tvpass.org/live/Science/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  SEC Network
+https://tvpass.org/live/SECN/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Showtime Eastern Feed
+https://tvpass.org/live/ShowtimeEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Showtime 2 Eastern
+https://tvpass.org/live/Showtime2East/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  SNY Sportsnet New York Comcast
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Space City Home Network
+https://tvpass.org/live/space-city-home-network/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Spectrum SportsNet LA
+https://tvpass.org/live/spectrum-sportsnet-la/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Spectrum Sportsnet Lakers
+https://tvpass.org/live/spectrum-sportsnet/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Sportsnet (East)
+https://tvpass.org/live/sportsnet-east/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Sportsnet 360
+https://tvpass.org/live/sportsnet-360/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Sportsnet One
+https://tvpass.org/live/sportsnet-one/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Sportsnet Ontario
+https://tvpass.org/live/sportsnet-ontario/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Sportsnet Pacific
+https://tvpass.org/live/sportsnet-pacific/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Sportsnet Pittsburgh
+https://tvpass.org/live/sportsnet-pittsburgh/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Sportsnet West
+https://tvpass.org/live/sportsnet-west/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Starz Eastern
+https://tvpass.org/live/StarzEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  SundanceTV USA East
+https://tvpass.org/live/SundanceTVEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Syfy Eastern Feed
+https://tvpass.org/live/SyfyEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  TBS East
+https://tvpass.org/live/TBSEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  TeenNick Eastern
+https://tvpass.org/live/TeenNickEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Telemundo Eastern Feed
+https://tvpass.org/live/TelemundoEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  The Cooking Channel
+https://tvpass.org/live/CookingChannel/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  The Tennis Channel
+https://tvpass.org/live/TennisChannel/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  The Weather Channel
+https://tvpass.org/live/TheWeatherChannel/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  TLC USA Eastern
+https://tvpass.org/live/TLCEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  TMC (US) Eastern Feed
+https://tvpass.org/live/TheMovieChannelEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  TNT Eastern Feed
+https://tvpass.org/live/TNTEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Travel US East
+https://tvpass.org/live/TravelChannelEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  truTV USA Eastern
+https://tvpass.org/live/truTVEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  TSN1
+https://tvpass.org/live/tsn1/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  TSN2
+https://tvpass.org/live/tsn2/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  TSN3
+https://tvpass.org/live/tsn3/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  TSN4
+https://tvpass.org/live/tsn4/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  TSN5
+https://tvpass.org/live/tsn5/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Turner Classic Movies USA
+https://tvpass.org/live/TCMEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  TV Land Eastern
+https://tvpass.org/live/tv-land-eastern/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  TV One
+https://tvpass.org/live/TVOne/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Universal Kids
+https://tvpass.org/live/UniversalKidsEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Univision Eastern Feed
+https://tvpass.org/live/UnivisionEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  USA Network East Feed
+https://tvpass.org/live/USANetworkEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  VH1 Eastern Feed
+https://tvpass.org/live/VH1East/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  VICE
+https://tvpass.org/live/VICETV/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  WE (Women's Entertainment) Eastern
+https://tvpass.org/live/WeTVEast/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  WPIX New York (SUPERSTATION)
+https://tvpass.org/live/WPIX/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Yes Network
+https://tvpass.org/live/yes-network/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Philadelphia Flyers @ Montréal Canadiens (11/04 7:00 PM ET)
+https://tvpass.org/live/NHL21/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",   Miami (OH) RedHawks @ Ohio Bobcats (11/04 7:00 PM ET)
+https://tvpass.org/live/ESPN2/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",   UMass Minutemen @ Akron Zips (11/04 7:00 PM ET)
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Carolina Hurricanes @ New York Rangers (11/04 7:00 PM ET)
+https://tvpass.org/live/NHL04/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Utah Mammoth @ Buffalo Sabres (11/04 7:00 PM ET)
+https://tvpass.org/live/NHL25/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Boston Bruins @ New York Islanders (11/04 7:00 PM ET)
+https://tvpass.org/live/NHL09/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",   Milwaukee Bucks @ Toronto Raptors (11/04 7:40 PM ET)
+https://tvpass.org/live/NBA06/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Edmonton Oilers @ Dallas Stars (11/04 8:00 PM ET)
+https://tvpass.org/live/NHL15/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Nashville Predators @ Minnesota Wild (11/04 8:00 PM ET)
+https://tvpass.org/live/NHL12/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",   Philadelphia 76ers @ Chicago Bulls (11/04 8:10 PM ET)
+https://tvpass.org/live/NBA07/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",   Charlotte Hornets @ New Orleans Pelicans (11/04 8:10 PM ET)
+https://tvpass.org/live/NBA13/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",   Orlando Magic @ Atlanta Hawks (11/04 8:10 PM ET)
+https://tvpass.org/live/NBA02/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Tampa Bay Lightning @ Colorado Avalanche (11/04 9:30 PM ET)
+https://tvpass.org/live/NHL08/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Florida Panthers @ Anaheim Ducks (11/04 10:00 PM ET)
+https://tvpass.org/live/NHL07/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Detroit Red Wings @ Vegas Golden Knights (11/04 10:00 PM ET)
+https://tvpass.org/live/NHL06/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",   Phoenix Suns @ Golden State Warriors (11/04 10:10 PM ET)
+https://tvpass.org/live/NBA18/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  Winnipeg Jets @ Los Angeles Kings (11/04 10:30 PM ET)
+https://tvpass.org/live/NHL01/sd
+
+#EXTINF:-1 group-title="GRAND PLUS | LIVE USA",   Oklahoma City Thunder @ Los Angeles Clippers (11/04 11:10 PM ET)
+https://tvpass.org/live/NBA22/sd
+
+
+
+
+
 
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV MOVIE HITS 
 https://jmp2.uk/plu-6331a4df44111b00076b15f7.m3u8
@@ -987,7 +3310,8 @@ http://212.102.60.231/NICK_MUSIC/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://pic.rutubelist.ru/video/2024-11-20/12/3e/123e13e18bc324a7cf4937f9f3c2dc95.jpg" group-title="GRAND PLUS | МУЗЫКА",  Ты супер !
+https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4658.png" group-title="GRAND PLUS | МУЗЫКА", VIVA RUSSIA HD
 http://195.9.195.3:8080/hls/180805.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/4654.png" group-title="GRAND PLUS | МУЗЫКА", MIXM TV HD
@@ -1494,112 +3818,330 @@ http://lb.wisp.cat/lb0/BCUFantasticHD/mpegts?token=nPfO4rRaax
 http://lb.wisp.cat/lb0/BCUComedyHD/mpegts?token=nPfO4rRaax
 #EXTINF:-1 group-title="GRAND PLUS | BCU 2",BCU CATASTROPHE HD
 http://lb.wisp.cat/lb0/BCUCatastropheHD/mpegts?token=nPfO4rRaax
-#EXTINF:-1 group-title="GRAND PLUS | BCU 2",NCU ACTION HD
+#EXTINF:-1 group-title="GRAND PLUS | BCU 2",BCU ACTION HD
 http://lb.wisp.cat/lb0/BCUActionHD/mpegts?token=nPfO4rRaax
 #EXTINF:-1 group-title="GRAND PLUS | BCU 2",BCU MARVEL HD
 http://lb.wisp.cat/lb0/BCUMarvelHD/mpegts?token=nPfO4rRaax
 
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  Box Spy HD
-http://50.7.28.226/8354/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-action.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU ACTION HDR
+http://50.7.28.226/8876/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  Box Travel HD
-http://50.7.28.226/8416/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  Box Zombie HD
-http://50.7.28.226/8418/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  Box Stories HD
-http://50.7.28.226/8429/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  Box Gangster HD
-http://50.7.28.226/8985/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  Box Serial HD
-http://50.7.28.226/8988/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  BCU Kids+
-http://50.7.28.226/8454/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  BCU Kinorating
-http://50.7.28.226/8455/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  BCU Catastrophe HD
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-catastrophe.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU Catastrophe HD
 http://50.7.28.226/8877/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  BCU Romantic HD
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-charm.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU CHARM HD
+http://50.7.28.226/8978/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-cinema.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU CINEMA HD
+http://50.7.28.226/8891/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-comedy.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU COMEDY
+http://50.7.28.226/8878/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-cosmo.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU COSMO HD
+http://50.7.28.226/8480/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/1f/e86eff09d0d497a5f39ed7f97295931f.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU FANTASTIC HDr
+http://50.7.28.226/8879/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-filmystic.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU FILMYSTIC
+http://50.7.28.226/8479/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-filmystic.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU FILMYSTIC HD
+http://50.7.28.226/8880/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-history.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU HISTORY HD
+http://50.7.28.226/8881/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU Kids
+http://50.7.28.226/8458/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU Kids+
+http://50.7.28.226/8454/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-kinorating.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU Kinorating
+http://50.7.28.226/8455/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-little.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU LITTLE HD
+http://50.7.28.226/8979/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU MARVEL HD
+http://50.7.28.226/8476/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU MARVEL HD
+http://50.7.28.226/8822/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-multserial.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU MULTSERIAL HD
+http://50.7.28.226/8874/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/76/b28f9a24ab24b870e6a9d055e7971c76.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU PREMIERE 2 HDR
+http://50.7.28.226/8473/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/60/a826c10d58d494a7f6c835e4ab5c5a60.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU PREMIERE 3 HDR
+http://50.7.28.226/8474/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/60/a826c10d58d494a7f6c835e4ab5c5a60.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU PREMIERE 4 HDR
+http://50.7.28.226/8475/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/60/a826c10d58d494a7f6c835e4ab5c5a60.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU PREMIERE 5 HDR
+http://50.7.28.226/8872/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/60/a826c10d58d494a7f6c835e4ab5c5a60.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU PREMIERE 6 HDR
+http://50.7.28.226/8873/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/60/a826c10d58d494a7f6c835e4ab5c5a60.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU PREMIERE 7 HDR
+http://50.7.28.226/8883/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/87/5f5a31eca8ae7dd43257e4ad50228a87.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU PREMIERE HDR
+http://50.7.28.226/8468/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-reality.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU REALITY HD
+http://50.7.28.226/8910/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-romantic.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU Romantic HD
 http://50.7.28.226/8884/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  BCU Сваты
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-stars.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU STARS HD
+http://50.7.28.226/8885/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-survival.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU SURVIVAL HD
+http://50.7.28.226/8912/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-trumotion.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU TruMotion HD
+http://50.7.28.226/8977/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-svaty.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU Сваты
 http://50.7.28.226/8889/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  Продвижение
-http://50.7.28.226/8665/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-svaty.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU СВАТЫ HD
+http://lb.wisp.cat/lb0/BCUSvatiHD/mpegts?token=nPfO4rRaax
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  Наше Мужское HD
-http://50.7.28.226/8740/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Bollywood
+http://50.7.28.226/8240/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  MM Honey
-http://50.7.28.226/8895/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Bollywood HD
+http://193.27.209.122/bollywood/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  MM Драма HD
-http://50.7.28.226/8634/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2138.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BOLT UA HD
+http://141.95.55.143/CH1279/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  MM Макромир
-http://50.7.28.226/8636/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/box-gangster.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Box Gangster HD
+http://50.7.28.226/8985/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  MM Newfilm 3
-http://50.7.28.226/8743/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/box-serial.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Box Serial HD
+http://50.7.28.226/8988/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  MM Relax
-http://50.7.28.226/8793/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/box-spy.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Box Spy HD
+http://50.7.28.226/8354/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  MM Celebrity HD
-http://50.7.28.226/8991/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/box-stories.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Box Stories HD
+http://50.7.28.226/8429/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  CineMan VHS
-http://50.7.28.226/8807/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/box-travel.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Box Travel HD
+http://50.7.28.226/8416/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  CineMan Симпсоны
-http://50.7.28.226/8833/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/box-zombie.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Box Zombie HD
+http://50.7.28.226/8418/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  Cinema
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cine-plus-ledend.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Cine+ Legend HD
+http://193.27.209.122/cine_plus_legend/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Cinema
+http://46.8.46.14/cinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Cinema
 http://50.7.28.226/8949/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  CineMan Thriller
-http://50.7.28.226/8954/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan
+http://50.7.28.226/9121/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  CineMan MiniSeries
-http://50.7.28.226/8961/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  8812
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan
 http://50.7.28.226/8812/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  CineMan РуКино
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 1
+http://50.7.28.226/8821/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 10
+http://50.7.28.226/8960/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 2
+http://50.7.28.226/8824/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 3
+http://50.7.28.226/8825/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 4
+http://50.7.28.226/8826/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 5
+http://50.7.28.226/8951/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 6
+http://50.7.28.226/8952/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 7
+http://50.7.28.226/8955/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 8
+http://50.7.28.226/8957/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 9
+http://50.7.28.226/8959/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/cineman.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Cineman HD AM
+http://185.57.68.33:80/255/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-miniseries.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan MiniSeries
+http://50.7.28.226/8961/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-thriller.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan Thriller
+http://50.7.28.226/8954/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-vhs.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan VHS
+http://50.7.28.226/8807/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-rukino.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan РуКино
 http://50.7.28.226/8871/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  Романтичное HD
-http://50.7.28.226/8948/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-simps.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan Симпсоны
+http://50.7.28.226/8833/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  Viasat Kino
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/paramount-comedy.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Comedy CENTRAL
+http://46.8.46.14/paramountcomedy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/paramount-comedy.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Comedy Central
+http://195.64.140.147:10065/65
+
+#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0926/15/3a5527db1fd8dd978aa0b67fa4328f15.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Dizi
+http://193.27.209.122/dizi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="GRAND PLUS| FDC PREMIUM KINO", FAN
+http://46.8.46.14/FAN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Fan HD
+http://50.7.28.226/8386/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/goldline-exist.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  GOLD Line EXIST
+http://50.7.28.226/8489/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/goldline-psy.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  GOLD Line PSYCHO
+http://50.7.28.226/8483/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/minimax-celebrity.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM Celebrity HD
+http://50.7.28.226/8991/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/ce/745861e1531293225ae01eba2cbc82ce.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM Honey
+http://50.7.28.226/8895/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/67/62aeccbb469d167b69accea176cfa867.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM Newfilm 3
+http://50.7.28.226/8743/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/b5/fe2d7dc8d1ffd4e9bbb91370af0c04b5.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM Relax
+http://50.7.28.226/8793/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/25/4cfadf26f7fa18a0c0bc2399e895e125.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM UFO
+http://50.7.28.226/8410/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/ca/5a101308449e9e73914982264176d0ca.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM WALT DISNEY
+http://50.7.28.226/8914/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/25/4cfadf26f7fa18a0c0bc2399e895e125.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM БОЕКВИК КЛАССИК
+http://50.7.28.226/8411/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/minimax-drama.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM Драма HD
+http://50.7.28.226/8634/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/05/d119ad955ad24518dd336e1422aea505.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM Макромир
+http://50.7.28.226/8636/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/25/4cfadf26f7fa18a0c0bc2399e895e125.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM СЕМЕЙНЫЙ
+http://50.7.28.226/8442/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/6c/9e184f4462f6e4c1d8abdb63516c796c.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM СЕМЕЙНЫЙ 2
+http://50.7.28.226/8449/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/minimax-skorost.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM СКОРОСТЬ HD
+http://50.7.28.226/8916/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/5a/24644cf4ed1bd65f0843b467882bd95a.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM СУПЕРГЕРОИ
+http://50.7.28.226/8710/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/shot-tv.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  Shot TV
+http://50.7.28.226/8358/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  TV 1000
+http://50.7.28.226/8048/index.m3u8
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0627/26/3384af4c78dc084b8abdf1a2153d3f26.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  VHS-ka
+http://50.7.28.226/8962/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-cee.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  Viasat Kino
 http://50.7.28.226/9020/index.m3u8
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/1129/9b/a4d1081fbd267ad9e8ecf9c6991d009b.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  viju TV1000 Новелла
+http://50.7.28.226/8973/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  Домашний
-http://50.7.28.226/9204/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  1+1 Марафон UA
-http://50.7.28.226/8116/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  Дом кино
-http://50.7.28.226/8136/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| FDC",  VIP Serial
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  VIP Serial
 http://50.7.28.226/9222/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  БЛОКБАСТЕР
+http://50.7.28.226/8939/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/domkino.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  Дом кино
+http://50.7.28.226/8136/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kineko.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  Кинеко
+http://50.7.28.226/8370/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Кинокомедия.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  КИНОКЛАСИКА
+http://50.7.28.226/9461/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinokult.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  КИНОКУЛЬТ
+http://50.7.28.226/9469/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/romantichnoe-hd.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  Романтичное HD
+http://50.7.28.226/8948/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  СТС Love
+http://50.7.28.226/8174/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tvoyo-tv-hd.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  Твое ТВ
+http://50.7.28.226/9236/index.m3u8
 
 
 
-#EXTINF:-1 group-title="GRAND PLUS | ДЕТСКИЕ", Мульт H
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://filmtvgroup.site/uploads/logo.png" group-title="GRAND PLUS| FILM TV GROUP", FILM TV
+http://filmtv.zapto.org/FILM_TV_GROUP/video.m3u8?token=Ijb9BSWre2eLJ3
+
+#EXTINF:-1 tvg-logo="http://filmtvgroup.site/uploads/logo.png" group-title="GRAND PLUS| FILM TV GROUP", FILM TV Axterix
+http://filmtvgroup.hopto.org/AxteriX/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+
+#EXTINF:-1 tvg-logo="http://filmtvgroup.site/uploads/logo.png" group-title="GRAND PLUS| FILM TV GROUP", FILM TV DJUA
+http://filmtvgroup.hopto.org/DJUa/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+
+#EXTINF:-1 tvg-logo="http://filmtvgroup.site/uploads/logo.png" group-title="GRAND PLUS| FILM TV GROUP", FILM TV GROUP
+http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+
+#EXTINF:-1 tvg-logo="http://filmtvgroup.site/uploads/logo.png" group-title="GRAND PLUS| FILM TV GROUP", FILM TV GROUP 2
+http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+
+#EXTINF:-1 tvg-logo="http://filmtvgroup.site/uploads/logo.png" group-title="GRAND PLUS| FILM TV GROUP", FILM TV GROUP МультКазки
+http://filmtvgroup.hopto.org/FILM_TV_GROUP_multkazkI/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+
+#EXTINF:-1 tvg-logo="http://filmtvgroup.site/uploads/logo.png" group-title="GRAND PLUS| FILM TV GROUP", FILM TV MUSIC
+http://filmtvgroup.hopto.org/FILMtvMUSIC/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+
+#EXTINF:-1 tvg-logo="http://filmtvgroup.site/uploads/logo.png" group-title="GRAND PLUS| FILM TV GROUP", FILM TV RETRO WAVE UA TV
+http://filmtvgroup.hopto.org/RETROWAVEUAtv/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+
+#EXTINF:-1 tvg-logo="http://filmtvgroup.site/uploads/logo.png" group-title="GRAND PLUS| FILM TV GROUP", FILM TV TRANCE IS STAR RADIO
+http://filmtvgroup.hopto.org/RadiO/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+
+#EXTINF:-1 tvg-logo="http://filmtvgroup.site/uploads/logo.png" group-title="GRAND PLUS| FILM TV GROUP", FILM TV Кінозал
+http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+
+#EXTINF:-1 tvg-logo="http://filmtvgroup.site/uploads/logo.png" group-title="GRAND PLUS| FILM TV GROUP", FILM TV Леді Баг & Щенячий патруль.
+http://filmtvgroup.hopto.org/ledsbag_schenaychiy_patruL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | ДЕТСКИЕ", Мульт 
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | ДЕТСКИЕ", Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
@@ -2939,6 +5481,355 @@ http://158.101.222.193:88/georgia_play.php?id=nostalgy
 
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA", Ностальгия [R]
 http://31.148.48.15:80/Nostalgiya/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://m3u.admuspeh.my/icon/Amedia%202%20HD.png" group-title="GRAND PLUS| CINEMA 2",  Amedia 2
+http://46.8.46.14/A2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="GRAND PLUS| CINEMA 2",  ATV Armenia Premium 6
+http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/5941.png" group-title="GRAND PLUS| CINEMA 2",  ATV Armount TV
+https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
+
+#EXTINF:-1 tvg-logo="https://mytv.do.am/logo/mig-tv.png" group-title="GRAND PLUS| CINEMA 2",  ATV Միգ TV
+http://45.11.139.43:8555/mig/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fox.png" group-title="GRAND PLUS| CINEMA 2",  FX
+http://46.8.46.14/FOX/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/hollywood.png" group-title="GRAND PLUS| CINEMA 2",  Hollywood
+http://46.8.46.14/amc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/hollywood.png" group-title="GRAND PLUS| CINEMA 2",  Hollywood
+http://213.230.65.254:8000/play/a02h
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="GRAND PLUS| CINEMA 2",  Hollywood HD
+http://194.32.242.245/hollywoodhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinokazka.png" group-title="GRAND PLUS| CINEMA 2",  Kinokazka
+http://95.67.12.82:9084/
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/8920.png" group-title="GRAND PLUS| CINEMA 2",  kinosweet HD
+http://193.27.209.122/kinosweet/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinowood.png" group-title="GRAND PLUS| CINEMA 2",  Kinowood HD
+http://193.27.209.122/kinowood/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/plan-b.png" group-title="GRAND PLUS| CINEMA 2",  PLAN B
+http://195.64.140.147:10082/82
+
+#EXTINF:-1 tvg-logo="http://i125.fastpic.org/big/2025/0728/5b/e5b29c0775429325f83cf4b1fd0cdb5b.png" group-title="GRAND PLUS| CINEMA 2", Play-X Кинозал 1 HD
+http://185.57.68.33:8091/237/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/0823/0c/96e6bf195874312fd2b2fe040c6db20c.png" group-title="GRAND PLUS| CINEMA 2",  Sci-Fi HD
+http://94.232.127.28:8080/sony-scifi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/0823/0c/96e6bf195874312fd2b2fe040c6db20c.png" group-title="GRAND PLUS| CINEMA 2",  Sci-Fi HD
+http://194.32.242.245/a2/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/star-cinema.png" group-title="GRAND PLUS| CINEMA 2",  Star Cinema  HD
+http://84.245.224.71/StarCinemaHD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/star-family.png" group-title="GRAND PLUS| CINEMA 2",  Star Family HD
+http://84.245.224.71/StarFamilyHD/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tvxxi.png" group-title="GRAND PLUS| CINEMA 2",  TV XXI
+http://46.8.46.14/TV21/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzustv.clan.su/Logo/photo_2025-10-30_21-01-08.jpg" group-title="GRAND PLUS| CINEMA 2",  TVBoom
+https://kb.catcast.tv/content/49702/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/6258.png" group-title="GRAND PLUS| CINEMA 2",  Tviksel Кино 1 International
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-cee.png" group-title="GRAND PLUS| CINEMA 2",  Viasat Kino
+http://94.232.127.28:8080/tv1000/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-action-cee.png" group-title="GRAND PLUS| CINEMA 2",  Viasat Kino Action
+http://94.232.127.28:8080/tv1000action/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" group-title="GRAND PLUS| CINEMA 2",  VIASAT Kino Comedy HD
+http://ukr2.ukrainske.tv/493/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" group-title="GRAND PLUS| CINEMA 2",  Viasat Kino World
+http://94.232.127.28:8080/tv1000ru/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="GRAND PLUS| CINEMA 2",  viju TV1000
+http://46.8.46.14/tv1000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="GRAND PLUS| CINEMA 2",  viju TV1000 action
+http://46.8.46.14/actiontv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="GRAND PLUS| CINEMA 2",  viju TV1000 Action
+http://194.32.242.245/tv1000action/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="GRAND PLUS| CINEMA 2",  viju TV1000 Русское кино
+http://213.169.39.30:5006
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="GRAND PLUS| CINEMA 2",  VIJU+ COMEDY
+http://46.8.46.14/vipcomedy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="GRAND PLUS| CINEMA 2",  Viju+ Comedy HD
+http://95.85.109.219:7000/play/a090
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="GRAND PLUS| CINEMA 2",  viju+ Megahit HD
+http://194.32.242.245/vipmegahit/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="GRAND PLUS| CINEMA 2",  Viju+ megahit HD
+http://46.8.46.14/vipmegahit/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i121.fastpic.org/big/2023/0424/50/a332ccd6081cda2e9c1372d97347a550.png" group-title="GRAND PLUS| CINEMA 2",  Болт HD UA
+http://84.245.224.71/BoltHD/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/domkino.png" group-title="GRAND PLUS| CINEMA 2",  Дом кино
+http://46.8.46.14/domkino/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/dorama.png" group-title="GRAND PLUS| CINEMA 2",  Дорама
+http://95.67.12.82:9046
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/dorama.png" group-title="GRAND PLUS| CINEMA 2",  Дорама HD
+http://193.27.209.122/dorama/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/dorama.png" group-title="GRAND PLUS| CINEMA 2",  Дорама HD
+http://95.85.109.219:7000/play/a05v
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="GRAND PLUS| CINEMA 2",  Еврокино
+http://46.8.46.14/eurokino/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="GRAND PLUS| CINEMA 2",  Еврокино
+http://87.120.142.11:18000/STSLove
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="GRAND PLUS| CINEMA 2",  Иллюзион+
+http://185.46.16.239:8000/Illyuzion+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/indijskoe-kino.png" group-title="GRAND PLUS| CINEMA 2",  Индийское Кино
+http://46.8.46.14/indiatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/indijskoe-kino.png" group-title="GRAND PLUS| CINEMA 2",  Индийское кино
+http://195.64.140.147:10049/49
+
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="GRAND PLUS| CINEMA 2",  Кино ТВ HD
+http://46.8.46.14/kinotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="GRAND PLUS| CINEMA 2",  Кино ТВ HD
+http://195.64.140.147:10050/50
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/8796.png" group-title="GRAND PLUS| CINEMA 2",  КИНОДРОМ
+http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/6001/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="GRAND PLUS| CINEMA 2",  Кинокомедия
+http://195.64.140.147:10047/47
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="GRAND PLUS| CINEMA 2",  Кинокомедия
+http://185.46.16.239:8000/Fox_HD
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="GRAND PLUS| CINEMA 2",  Кинокомедия
+http://94.232.127.28:8080/kinokomedia/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="GRAND PLUS| CINEMA 2",  Кинокомедия HD
+http://46.8.46.14/kinokomedia/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/2407.png" group-title="GRAND PLUS| CINEMA 2",  Киноман
+http://95.85.109.219:7000/play/a06a
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="GRAND PLUS| CINEMA 2",  Киномикс
+http://185.46.16.239:8000/Fox_Life_HD
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="GRAND PLUS| CINEMA 2",  КИНОМИКС
+http://46.8.46.14/kinomix/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="GRAND PLUS| CINEMA 2",  Киномикс
+http://194.32.242.245/kinomiks/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="GRAND PLUS| CINEMA 2",  Киномикс
+http://195.64.140.147:10044/44
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="GRAND PLUS| CINEMA 2",  КИНОСВИДАНИЕ
+http://46.8.46.14/kinosvid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinosvidanie.png" group-title="GRAND PLUS| CINEMA 2",  Киносвидание
+http://195.64.140.147:10045/45
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="GRAND PLUS| CINEMA 2",  Киносемья
+http://46.8.46.14/kinosemya/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="GRAND PLUS| CINEMA 2",  Киносемья
+http://94.232.127.28:8080/kinosemja/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="GRAND PLUS| CINEMA 2",  Киносемья HD
+http://194.32.242.245/kinosemyahd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="GRAND PLUS| CINEMA 2",  Киносемья HD
+http://195.64.140.147:10042/42
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="GRAND PLUS| CINEMA 2",  Киносерия
+http://46.8.46.14/kinoseria/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="GRAND PLUS| CINEMA 2",  Киносерия
+http://94.232.127.28:8080/kinoserija/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="GRAND PLUS| CINEMA 2",  Киносерия
+http://195.64.140.147:10048/48
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="GRAND PLUS| CINEMA 2",  Киносерия HD
+http://95.85.109.219:7000/play/a087
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="GRAND PLUS| CINEMA 2",  Киноужас
+http://195.64.140.147:10043/43
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="GRAND PLUS| CINEMA 2",  КИНОХИТ
+http://46.8.46.14/kinohit/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="GRAND PLUS| CINEMA 2",  Кинохит
+http://94.232.127.28:8080/kinohit/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="GRAND PLUS| CINEMA 2",  Кинохит HD
+http://195.64.140.147:10046/46
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="GRAND PLUS| CINEMA 2",  Любимое кино
+http://46.8.46.14/Nashe_Lubimoe_Kino/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/mir-seriala.png" group-title="GRAND PLUS| CINEMA 2",  Мир сериала
+http://46.8.46.14/MirSeriala/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/mir-seriala.png" group-title="GRAND PLUS| CINEMA 2",  Мир сериала
+http://94.232.127.28:8080/mirseriala/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="GRAND PLUS| CINEMA 2",  Мосфильм. Золотая коллекция
+http://95.85.109.219:7000/play/a08u
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/nashe-muzhskoe-hd.png" group-title="GRAND PLUS| CINEMA 2",  Наше Мужское HD
+http://50.7.28.226/8740/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" group-title="GRAND PLUS| CINEMA 2",  НАШЕ НОВОЕ КИНО
+http://185.46.16.239:8000/Nickelodeon
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/nst.png" group-title="GRAND PLUS| CINEMA 2",  НСТ
+http://46.8.46.14/nst/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/nst.png" group-title="GRAND PLUS| CINEMA 2",  НСТ
+http://195.64.140.147:10054/54
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ostrosiuzhetnoe-hd.png" group-title="GRAND PLUS| CINEMA 2", Остросюжетное HD
+http://ronaldo.tvfor.pro/NKWOYtMaxu/l6i55j264w9187bml44emph2
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="GRAND PLUS| CINEMA 2",  Победа
+http://46.8.46.14/Pobeda/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="GRAND PLUS| CINEMA 2",  Ретро
+http://46.8.46.14/retro/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" group-title="GRAND PLUS| CINEMA 2",  Родное Кино
+http://46.8.46.14/rodkino/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/rodnoe-kino.png" group-title="GRAND PLUS| CINEMA 2",  Родное кино
+http://84.54.128.52:9090/play/a009/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-title="GRAND PLUS| CINEMA 2",  Русский Бестселлер
+http://46.8.46.14/rubestseller/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-title="GRAND PLUS| CINEMA 2",  Русский бестселлер
+http://195.64.140.147:10075/75
+
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0603/9b/c9b9f8b6914f6c1456c356ccff97589b.png" group-title="GRAND PLUS| CINEMA 2",  Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0603/9b/c9b9f8b6914f6c1456c356ccff97589b.png" group-title="GRAND PLUS| CINEMA 2",  Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0603/9b/c9b9f8b6914f6c1456c356ccff97589b.png" group-title="GRAND PLUS| CINEMA 2",  Смотрим
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/subbota.png" group-title="GRAND PLUS| CINEMA 2",  Суббота
+http://46.8.46.14/super/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/subbota.png" group-title="GRAND PLUS| CINEMA 2",  Суббота!
+http://hls2.hd-tv.club/2_super/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="GRAND PLUS| CINEMA 2",  ТВ3
+http://46.8.46.14/tv3/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/10279.png" group-title="GRAND PLUS| CINEMA 2",  Твоє Кіно Action HD
+http://193.27.209.122/tvoje_kino_action/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/10280.png" group-title="GRAND PLUS| CINEMA 2",  Твоє Кіно Хіт HD
+http://193.27.209.122/tvoje_kino_hit/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FuscfJW.png" group-title="GRAND PLUS| GEM GROUP", GEM Comedy
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemcomedy/index-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://gemgroup.tv/assets/images/channels/icon_7.png" group-title="GRAND PLUS| GEM GROUP", GEM Drama Plus
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7FQxaII.png" group-title="GRAND PLUS| GEM GROUP", GEM Fit
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemfit/index-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gI8qePa.png" group-title="GRAND PLUS| GEM GROUP", GEM Life
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemlife/index-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8FIAqR5.png" group-title="GRAND PLUS| GEM GROUP", GEM Mifa Plus
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENvOMDQ.png" group-title="GRAND PLUS| GEM GROUP", GEM Nature
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemnature/index-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gXRIAw4.png" group-title="GRAND PLUS| GEM GROUP", GEM Onyx
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemonyx/index-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3tkbPrn/icon-27.png" group-title="GRAND PLUS| GEM GROUP", GEM Pixel
+https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://gemgroup.tv/assets/images/channels/icon_29.png" group-title="GRAND PLUS| GEM GROUP", GEM River Plus
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemriverplus/index-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cDjOj58.png" group-title="GRAND PLUS| GEM GROUP", GEM Rubix
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemrubix/index-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://gemgroup.tv/assets/images/channels/icon_31.png" group-title="GRAND PLUS| GEM GROUP", GEM Rubix Plus
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://gemgroup.tv/assets/images/channels/icon_33.png" group-title="GRAND PLUS| GEM GROUP", GEM Series Plus
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNyssx28/Screenshot-2025-05-18-211143.png" group-title="GRAND PLUS| GEM GROUP", Ekran Movies
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+
+
 
 
 
@@ -4335,6 +7226,390 @@ https://telemadrid-23-secure2.akamaized.net/bitrate_1.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! 1 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e01.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! 2 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e02.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! 3 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e03.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! 4 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e04.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! 5 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e05.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! 6 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e06.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! 7 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e07.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! 8 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e08.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! [ 2 сезон] 1 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/01.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! [ 2 сезон] 2 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/02.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! [ 2 сезон] 3 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/03.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! [ 2 сезон] 4 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/04.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! [ 2 сезон] 5 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/05.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! [ 2 сезон] 6 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/06.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! [ 2 сезон] 7 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/07.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка! [ 2 сезон] 8 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/08.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://suzukantv.at.ua/LOGO/mediateka.png" group-title="GRAND PLUS| МИР! ДРУЖБА! ЖВАЧКА!",  Мир! Дружба! Жвачка!: История создания
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e09.film.o.seriale.2020.webdl.1080p.getty/hls/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 1 (сезон 1)
+http://s3.gencit.info/vod/films/hercules.s01e01.the.wrong.path_182916/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 1 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e01.the.king.of.thieves_182929/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 1 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e01.mercenary_182953/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 1 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e01.beanstalks.and.bad_eggs_182975/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 1 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e01.faith_182997/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 1 (сезон 6)
+http://s3.gencit.info/vod/films/hercules.s06e01.be.deviled_183019/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 10 (сезон 1)
+http://s3.gencit.info/vod/films/hercules.s01e10.the.gladiator_182925/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 10 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e10.cast.a.giant.shadow_182938/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 10 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e10.the.lady.and.the.dragon_182962/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 10 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e10.hercules.on.trial_182984/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 10 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e10.let.there.be.light_183006/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 11 (сезон 1)
+http://s3.gencit.info/vod/films/hercules.s01e11.the.vanishing.dead_182926/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 11 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e11.highway.to.hades_182939/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 11 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e11.long.live.the.king_182963/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 11 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e11.medea.culpa_182985/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 11 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e11.redemption_183007/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 12 (сезон 1)
+http://s3.gencit.info/vod/films/hercules.s01e12.the.gauntlet_182927/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 12 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e12.the.sword.of.veracity_182940/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 12 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e12.surprise_182964/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 12 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e12.men.in.pink_182986/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 12 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e12.sky.high_183008/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 13 (сезон 1)
+http://s3.gencit.info/vod/films/hercules.s01e13.unchained.hearts_182928/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 13 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e13.the.enforcer_182941/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 13 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e13.encounter_182965/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 13 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e13.armageddon.nowpart.i_182987/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 13 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e13.stranger.and.stranger_183009/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 14 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e14.once.a.hero_182942/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 14 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e14.when.a.man.loves.a.woman_182966/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 14 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e14.armageddon.nowpart.ii_182988/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 14 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e14.just.passing.through_183010/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 15 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e15.heedless.hearts_182943/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 15 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e15.judgement.day_182967/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 15 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e15.yesvirginiathere.is.a.hercules_182989/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 15 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e15.greece.is.burning_183011/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 16 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e16.let.the.games.begin_182944/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 16 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e16.lost.city_182968/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 16 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e16.porcules_182990/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 16 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e16.well.always.have.cyprus.._183012/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 17 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e17.the.apple_182945/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 17 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e17.les.contemptibles_182969/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 17 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e17.one.fowl.day_182991/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 17 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e17.the.academy_183013/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 18 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e18.promises_182946/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 18 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e18.my.fair.cupcake_182992/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 18 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e18.love.on.the.rocks_183014/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 19 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e19.king.for.a.day_182947/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 19 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e19.the.end.of.the.beginnig_182971/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 19 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e19.war.wounds_182993/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 19 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e19.once.upon.a.future.king_183015/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 2 (сезон 1)
+http://s3.gencit.info/vod/films/hercules.s01e02.eye.of.the.beholder_182917/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 2 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e02.all.that.glitters_182930/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 2 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e02.doomsday_182954/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 2 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e02.heros.heart__182976/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 2 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e02.descent_182998/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 2 (сезон 6)
+http://s3.gencit.info/vod/films/hercules.s06e02.love.amazon.style_183020/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 20 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e20.protean.challenge_182948/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 20 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e20.war.brides_182972/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 20 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e20.twilight_182994/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 20 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e20.fade.out_183016/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 21 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e21.the_wedding.of.alcmene_182949/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 21 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e21.a.rock.and.a.hard.place_182973/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 21 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e21.top.god_182995/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 21 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e21.my.best.girls.wedding_183017/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 22 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e22.power_182950/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 22 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e22.atlantis_182974/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 22 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e22.reunion_182996/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 22 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e22.revelations_183018/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 23 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e23.centaur.mentor.journey_182951/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 24 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e24.the.cave.of.echoes_182952/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 3 (сезон 1)
+http://s3.gencit.info/vod/films/hercules.s01e03.road.to.calydon_182918/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 3 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e03.whats.in.a.name_182931/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 3 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e03.love.takes.a.holiday_182955/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 3 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e03.regrets...ive.had.a.few_182977/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 3 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e03.resurrection_182999/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 3 (сезон 6)
+http://s3.gencit.info/vod/films/hercules.s06e03.rebel.with.a.cause_183021/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 4 (сезон 1)
+http://s3.gencit.info/vod/films/hercules.s01e04.the.festival.of.dionysus_182919/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 4 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e04.siege.at.naxos_182932/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 4 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e04.mummy.dearest_182956/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 4 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e04.web.of.desire_182978/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 4 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e04.geniesgrecians.and.geeksoh.my_183000/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 4 (сезон 6)
+http://s3.gencit.info/vod/films/hercules.s06e04.darkness.visible_183022/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 5 (сезон 1)
+http://s3.gencit.info/vod/films/hercules.s01e05.ares_182920/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 5 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e05.outcast_182933/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 5 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e05.not.fade.away_182957/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 5 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e05.stranger.in.a.strange.world_182979/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 5 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e05.render.unto.caesar_183001/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 5 (сезон 6)
+http://s3.gencit.info/vod/films/hercules.s06e05.herculestramps.and.thieves_183023/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 6 (сезон 1)
+http://s3.gencit.info/vod/films/hercules.s01e06.as.darkness.falls_182921/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 6 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e06.under.the.broken.sky_182934/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 6 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e06.monster.child.in.the.promised.land__182958/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 6 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e06.two.men.and.a.baby_182980/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 6 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e06.norse.by.norsewest_183002/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 6 (сезон 6)
+http://s3.gencit.info/vod/films/hercules.s06e06.city.of.the.dead__183024/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 7 (сезон 1)
+http://s3.gencit.info/vod/films/hercules.s01e07.pride.comes.before.a.brawl_182922/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 7 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e07.mother.of.all.monsters_182935/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 7 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e07.the.greeneyed.monster_182959/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 7 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e07.prodigal.sister_182981/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 7 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e07.somewhere.over.the.rainbow.bridge_183003/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 7 (сезон 6)
+http://s3.gencit.info/vod/films/hercules.s06e07.a.wicked.good.time_183025/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 8 (сезон 1)
+http://s3.gencit.info/vod/films/hercules.s01e08.the.march.to.freedom_182923/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 8 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e08.the.other.side_182936/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 8 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e08.prince.hercules_182960/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 8 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e08.and.fancy.free_182982/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 8 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e08.darkness.rising_183004/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 8 (сезон 6)
+http://s3.gencit.info/vod/films/hercules.s06e08.full.circle_183026/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 9 (сезон 1)
+http://s3.gencit.info/vod/films/hercules.s01e09.the.warrior.princess_182924/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 9 (сезон 2)
+http://s3.gencit.info/vod/films/hercules.s02e09.the.fire.down.below_182937/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 9 (сезон 3)
+http://s3.gencit.info/vod/films/hercules.s03e09.a.star.to.guide.them_182961/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 9 (сезон 4)
+http://s3.gencit.info/vod/films/hercules.s04e09.if.i.had.a.hammer_182983/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTZ2Xy1P/1.jpg" group-title="GRAND PLUS | Удивительные странствия Геракла",  Серия 9 (сезон 5)
+http://s3.gencit.info/vod/films/hercules.s05e09.for.those.of.you.just.joining.us_183005/hls/index.m3u8
 
 
 
