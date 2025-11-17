@@ -2,13 +2,41 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://dl.dropbox.com/s/wuh2pj661fv42qe/%3A150%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C.mp4
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВЛЕНИЕ 2025/11/16 21:58}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВЛЕНИЕ 2025/11/17 20:46}", ОБНОВИЛ }™
 https://dl.dropbox.com/s/ubtsmk82baz5jmk/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%20%D0%B2%D0%B8%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D1%80.mp4
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/PLUSGRANDNAV
 https://dl.dropbox.com/s/6ehiymxbcvp88zw/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%BA%D1%83%D0%B1%D0%B8%D0%BA%20%D1%80%D1%83%D0%B1%D0%B8%D0%BA%D0%B0.mp4
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ ТЕСТОВЫЙ ЛИСТ",{ ОБНОВИЛ }™
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://taurerassets.xyz/tv_content/images/15plusmusichd.png" group-title="GRAND PLUS | Кинозал Vokka",  15+ Music HD
+https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://taurerassets.xyz/tv_content/images/alphacinemahd.png" group-title="GRAND PLUS | Кинозал Vokka",  alpha Cinema HD
+https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://taurerassets.xyz/tv_content/images/alphamoretimehd.png" group-title="GRAND PLUS | Кинозал Vokka",  alpha Moretime HD
+https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://taurerassets.xyz/tv_content/images/alphafunnyhd.png" group-title="GRAND PLUS | Кинозал Vokka",  alpha Funny HD
+https://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://taurerassets.xyz/tv_content/images/tv4sd.png" group-title="GRAND PLUS | Кинозал Vokka",  TV4
+https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://taurerassets.xyz/tv_content/images/tv4hd.png" group-title="GRAND PLUS | Кинозал Vokka",  TV4 HD
+https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://taurerassets.xyz/tv_content/images/htvhd.png" group-title="GRAND PLUS | Кинозал Vokka",  HTV HD
+https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://taurerassets.xyz/tv_content/images/newrussianhd.png" group-title="GRAND PLUS | Кинозал Vokka",  Новый Русский HD
+https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
 
 
 
@@ -2037,6 +2065,353 @@ https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", O'zbekiston (DTV)
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBrTb0IKsKaoXXMgIen2HTXo/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", O'zbekiston tarixi (DTV)
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBmrBEQbLmbptsaN6B-5vap4/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", Муз-ТВ (O'zbekiston) (DTV)
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBvsJBC0YuqedCGpR2tfJDWU/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", Istiqlol TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBlyT5mQa8rsEDH9g10m3ywA/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", ntv (o'zbekiston)
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBr7X8mXuRCXCXgwZovuWmKE/m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="GRAND PLUS | O'ZBEKISTON", Gold TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBpBc2v3x1GiXYAf21z4cikg/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", Qaraqalpaqstan
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBj4LmvRpz-WCGiPphNTu-MA/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", Nurafshon
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBpklkI3oAgHVXOBaGEo9VVk/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", Vodiy TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBjzx3O3TImS5q-M0vqhyfb0/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", JTV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBtO1KYPbq-9keOJZQ2I5LvI/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", Ishonch TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBqa51kt1GKWsoRbN8zAOlKE/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", Eliqqala TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBpSsMagy6c9e3xzzARtw8sc/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", JaslarTV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBqp4a9GDcOBF9WOdz1dG9QE/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", Amudaryo TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBjOLsgUFjAzwi_FHBniH984/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", TTV Telekanal
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBtTYCCbuNmhlKe4s3QW_-Jo/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", TTV Kino
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBrAEDyu-LcYZw6-dXzvSuEk/m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | O'ZBEKISTON", Cinema UZ
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBj6rh8Ce0xbgGxwtGm0Wo48/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/80f29007-3f69-44fd-a8de-4c5d9783beb1.png" group-title="GRAND PLUS | O'ZBEKISTON", O'zbekiston
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBjCsAyZ_voGpo_2FDTqMdWM/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/f9b7dca1-6d47-480d-9958-7ce77b63ba8d.png" group-title="GRAND PLUS | O'ZBEKISTON", Yoshlar
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBkTxN36nw56hiFKfwF_6WYQ/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/2eb5212f-fda5-42f3-a1cf-56bda22bbb77.png" group-title="GRAND PLUS | O'ZBEKISTON", Toshkent
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBvA5u6puoyEuEWBd8K7pQGM/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/add3022f-0964-470f-acee-4441c9d49201.png" group-title="GRAND PLUS | O'ZBEKISTON", My5
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBtp80ZFGi2j6CtpOgjLOH24/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/044a1ecc-cf92-4c32-8a8b-54ce07c69546.png" group-title="GRAND PLUS | O'ZBEKISTON", Milliy TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBn75QsjDg7jjgAPHzppVCD4/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/b9089482-082f-4eda-8b62-4de6c92b541f.png" group-title="GRAND PLUS | O'ZBEKISTON", Zo'r-TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBsd1voP1LZDGV33kbhY-rTU/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/035fe5e3-f968-45fd-93af-31e4b91cdebf.png" group-title="GRAND PLUS | O'ZBEKISTON", Sevimli
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBip9xZ8DxGKEOHSqUGvIeds/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/01/30/e2b9fdd9-560a-494f-bf8f-4a085d042624.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", LuxTV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBuHHbHrwJfSBM5v1hKiTUWk/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/5951e3a5-db4d-41c0-a9f2-1d485801aa0e.png" group-title="GRAND PLUS | O'ZBEKISTON", I-kbol
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBpKn6mBnu8q2vURrCGtnZLA/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", 8TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBj_urgVvRnOrsJLztR8022I/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/06/03/401ef362-9782-4679-a82d-0a5f03cf5205.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", Farg'ona
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBnVDdu8E6w1VgHk9H8g5DcU/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/06/03/38994bac-c9a5-4e72-b25e-cc25237390ac.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", Xorazm
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBqqjzDhD9r2qAcIZ5803qS8/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/06/03/1f22ee2a-440a-462a-879b-f02701b9e18a.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", Surxondaryo
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBiO8QG24YSAG_-LOwrjy-WM/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/56fe1797-3b4e-4f18-816b-e633ebc34316.png" group-title="GRAND PLUS | O'ZBEKISTON", Taraqqiyot tv
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBsJI5Yac7-gDDZioHq6NjG4/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/01/28/dbe98084-792d-4954-bc01-fc658317e3bf.png" group-title="GRAND PLUS | O'ZBEKISTON", Makon TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBvb4BYVTwJ5bXkY6VW1txN4/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/c58b1e89-4197-4534-bf89-605c9dc842ea.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", Vodiy TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBvZVIwi1pVOiouWkLsdW0xI/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/c454009d-156c-433b-ab68-079cb3e6d5d2.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", JTV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBgNYnZgOnx3ANsT2FtVG9OI/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/1702a7f8-8f1f-4d75-92b4-468a40c125bf.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", Ishonch TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBsBbLaLxF0tc3iMFzP8he9Y/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/d8af2b7e-bee1-4ace-9fee-a8304d7f11b8.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", Eliqqala TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBjbmaAJvppBOsP-7C_6VQMw/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/10/af774beb-b08b-4b1a-8d9d-cef336126e87.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", Nasaf TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBhTGZeoaR4M3Tkwgwfk1rFQ/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/10/5842ad76-eef6-494b-acb8-ab79ef2cb70d.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", JaslarTV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBmsAZ0nbofQVuKWyHCmBi84/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/e242bb73-9172-4461-8ae3-f812ad7392db.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", Amudaryo TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBqCM-1fgULWluFgFIdCreXU/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/b7d410f4-508c-4299-b118-d4107489c5c6.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", Muloqot TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBlm2lE6s3gbDt7wLIVvJEVE/m3u8
+
+#EXTINF:-1 tvg-logo="https://cp.biz-media.org/media/portfolio/solnechniy_WtxdGnG.png" group-title="GRAND PLUS | O'ZBEKISTON", Солнечный тв
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBmJR-h74CGwaxK5Mh9Z_kBg/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/07/34d60aeb-fac7-4e70-9e17-c6c49163c3a2.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", TTV Telekanal
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBnj_rmyvz2USCiEM1ElFThU/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/07/007deac2-7440-43a8-892b-b1bb5a2be2ab.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", TTV Kino
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBtesVbvasBhlVx9uq7Jg61I/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/07/f9bf163d-632a-49f5-928c-a40d47df8bf7.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", Cinema (uzb)
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBlIANn_kKTT3bTMdLaFzhqQ/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2022/12/07/61bc27f8-5c9f-4f79-87fd-648b76039d4c.jpg" group-title="GRAND PLUS | O'ZBEKISTON", BIZ TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBnCLq2vjgUubF_HSce2nrKA/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2024/02/20/411653eb-8eec-4a1c-852c-114b37be5689.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", BIZ Cinema
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBkUtmgjBA6EAFIzosusmbtQ/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/05/02/bb99693b-cc61-4f7d-828a-b2096cd239db.png" group-title="GRAND PLUS | O'ZBEKISTON", Itv Cinema
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBjqGdew5dhULOjZXG5Kw_qQ/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/5e8a53f0-c142-4e88-887b-df7491f6d0fe.png" group-title="GRAND PLUS | O'ZBEKISTON", Kinoteatr
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBvvSh53mY02ed9WalHnmXGY/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/3b397981-ece6-4fb9-a66f-29b07d234f0f.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", Shifo TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBkaQLskA1OMo9Cn3syXJl34/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/61708bfe-535d-4e03-81aa-5a949b9ba443.png" group-title="GRAND PLUS | O'ZBEKISTON", Bolajon
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBrTSoWHII5_nYfI7pTu70cE/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/12/14/e9b2085d-5064-4189-99a4-b8615dc39e78.png" group-title="GRAND PLUS | O'ZBEKISTON", Aqlvoy
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBkkINQtJkFQjqzuNOB5Byvc/m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/J1X3QmF7XeYqjSzb0680kdrNlUYiVLg44VO3T_cY23-fq9VTxa55x4e31x00zoK1H7E=w240-h480-rw" group-title="GRAND PLUS | O'ZBEKISTON", Travel-tv (O'zbekiston)
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBnabv76NsnVSnLeJ3wD8cVQ/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/07/f2b46d1e-4104-463f-8851-f08fb082dbf5.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", Live TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBg5PBYlhTFhlMWmW2c0l3-E/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/23bab5dc-4a74-4db8-8a30-6b10918cdd4f.png" group-title="GRAND PLUS | O'ZBEKISTON", MYDAYTV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBley1FXqrDIsVwtKMZXJf0s/m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.uzd.udevs.io/uzdigital-images-compressed/images/1e4ee1ad-c3d4-4131-bc43-74b7a1e29ea2.png" group-title="GRAND PLUS | O'ZBEKISTON", Navo
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBqm5WnAFom6cgJqn9fy7dns/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/656157a5-310c-4ea8-8c7f-a5d7db68c409.png" group-title="GRAND PLUS | O'ZBEKISTON", Madaniyat va ma'rifat
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBmPXHEUu-Latdazp-Ii_woo/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2021/04/27/4db20de5-0bb9-4126-b12e-908d327ecf70.png" group-title="GRAND PLUS | O'ZBEKISTON", Dasturxon
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBt-f37aS3cFYDmw3W9oGKzI/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/005922d7-3bd7-4eab-9146-4d5dea1d949b.png" group-title="GRAND PLUS | O'ZBEKISTON", Dunyo Bo'ylab
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBv2J41f_42ArKi0jDoK81C4/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/09/11/1285670f-8da5-4d02-a789-70031bec9c95.png" group-title="GRAND PLUS | O'ZBEKISTON", RTV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBooaAt9QX_lG49WkbcYVJg4/m3u8
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/2fa215cc-332c-4181-8d30-cb32ab9b7f61.png" group-title="GRAND PLUS | O'ZBEKISTON", O'zbekiston4
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBuMOO0maFhR6YXnnFr7WbN8/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/c037c019-f6e7-41fb-8001-d5adeec3b69a.png" group-title="GRAND PLUS | O'ZBEKISTON", O'zbekiston tarixi
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBtDV1hU0vmdrMiKkdrsDwIw/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/257d6f2f-a233-4e37-8767-af7d224876f8.png" group-title="GRAND PLUS | O'ZBEKISTON", Mahalla
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBkl0_5md_ypvCUqmDbPRMwk/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/b72767f1-cb87-48f3-b299-ee1b2fd06795.png" group-title="GRAND PLUS | O'ZBEKISTON", Uzreport
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBlv4QZOUkz9VDDVX2hsrH4Q/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/01/04/2a6ba8bc-7ec9-4c01-84b1-66699ff68d5c.png" group-title="GRAND PLUS | O'ZBEKISTON", Setanta Sports 1
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBnypqA_3q2vko8C_t9MpzsU/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/01/04/582bec09-2662-4cf0-adb5-6584f5c26f7b.png" group-title="GRAND PLUS | O'ZBEKISTON", Setanta Sports 2
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBozTyfOuDYaNPYpcR2lz3uU/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/035fe5e3-f968-45fd-93af-31e4b91cdebf.png" group-title="GRAND PLUS | O'ZBEKISTON", Sevimli
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBnN-7o-TMtVjTwfI0fG5Xnk/m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", 8TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBh59TfikI43KexjkAKf4PT0/m3u8
+
+#EXTINF:-1 tvg-logo="https://cp.biz-media.org/media/portfolio/solnechniy_WtxdGnG.png" group-title="GRAND PLUS | O'ZBEKISTON", Солнечный тв
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBoFAT8NCMQh5_bU7R2rKOTs/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/uztv.webp" group-title="GRAND PLUS | O'ZBEKISTON", O'zbekiston
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBnS_2HDe-i9auOY84OGrg0w/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/yosh.webp" group-title="GRAND PLUS | O'ZBEKISTON", Yoshlar
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBpqozMxRMYF-4i-p4h90Jtw/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/tosh.webp" group-title="GRAND PLUS | O'ZBEKISTON", Toshkent
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBnvPrlHCzxA6nLe2dBP-5ak/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/my5.webp" group-title="GRAND PLUS | O'ZBEKISTON", My5
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBnJ-PdpaM15ZpHqcz2XjCpw/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/my5i.png" group-title="GRAND PLUS | O'ZBEKISTON", My5 International
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBkcH1rYPl4JOt0dNVDmezdc/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/milliy.webp" group-title="GRAND PLUS | O'ZBEKISTON", Milliy TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBlLSVsxtOzuLtdtR8c2-dlA/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/zur.webp" group-title="GRAND PLUS | O'ZBEKISTON", Zo'r-TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBkQXnucOpGFWYDKOSfDFxPY/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/sev.webp" group-title="GRAND PLUS | O'ZBEKISTON", Sevimli
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBmQ6L9IL1Xj-K2uhZyeNYFE/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/lux.webp" group-title="GRAND PLUS | O'ZBEKISTON", LuxTV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBgM3yj90BeQLsnuGqBlQ7pM/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/iqbol.webp" group-title="GRAND PLUS | O'ZBEKISTON", I-kbol
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBtM8o1-uGvdwV-Bst-GLWTU/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/istiq.webp" group-title="GRAND PLUS | O'ZBEKISTON", Istiqlol TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBge0fTEjKvnxVyysKti6bsI/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ntv.webp" group-title="GRAND PLUS | O'ZBEKISTON", ntv (o'zbekiston)
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBjQ77oEzZS5KXNMG3rxhsfo/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ntv.webp" group-title="GRAND PLUS | O'ZBEKISTON", Gold TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBk5z0xCEbPAsQLK8CrmEP4I/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/farg.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", Farg'ona
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBpcWrexrr6SdEP8J60pT9OQ/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/xor.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", Xorazm
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBpfkzGHvHK_H0YAssAusyNs/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/qaraqal.webp" group-title="GRAND PLUS | O'ZBEKISTON", Qaraqalpaqstan
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBgJ3hsfvZGlVh_9StTIdUDM/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/nuraf.webp" group-title="GRAND PLUS | O'ZBEKISTON", Nurafshon
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBm3dnLWk0iEuDGdyRI1EV1s/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/taraqq.webp" group-title="GRAND PLUS | O'ZBEKISTON", Taraqqiyot tv
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBj50cqHGtx-RzPjuZWGnjJ4/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/stv.webp" group-title="GRAND PLUS | O'ZBEKISTON", Солнечный тв
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBkKLnW4vpUSyMdhSAgxcKeg/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/sevimlijon.webp" group-title="GRAND PLUS | O'ZBEKISTON", Sevimlijon
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBoMPp444MO39v-gMt6tT0gY/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/mimi.jpeg" group-title="GRAND PLUS | O'ZBEKISTON", MiMi
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBqGtQ1QkLrAr9qI7bHL0iuM/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/bola.webp" group-title="GRAND PLUS | O'ZBEKISTON", Bolajon
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBp5xzhbbT5SeWLbCUIbbHak/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/aql.webp" group-title="GRAND PLUS | O'ZBEKISTON", Aqlvoy
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBlSveIXkMNJ3AK6Uoa9qVgM/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ttv1.webp" group-title="GRAND PLUS | O'ZBEKISTON", TTV Telekanal
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaButABqNLhnQRpFcteSL8O0U/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ttv2.webp" group-title="GRAND PLUS | O'ZBEKISTON", TTV Kino
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBhsmFi0oJW3HpcDfvf2J3Q4/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/cinema.webp" group-title="GRAND PLUS | O'ZBEKISTON", Cinema (uzb)
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBkWzZcsuVCgszi-151yWsIw/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/biz1.webp" group-title="GRAND PLUS | O'ZBEKISTON", BIZ TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBlSA94-JvtZjZIwV9HyiMUE/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/biz2.webp" group-title="GRAND PLUS | O'ZBEKISTON", BIZ Cinema
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBkjZLSYY3wW2C38NTnabRmo/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/kinot.webp" group-title="GRAND PLUS | O'ZBEKISTON", Kinoteatr
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBldskIBBFq8ePx2L2W_HBUs/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/shifo.png" group-title="GRAND PLUS | O'ZBEKISTON", Shifo TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBsOHXcsbsmDXb2wyIp3amY8/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/travel.webp" group-title="GRAND PLUS | O'ZBEKISTON", Travel-tv (O'zbekiston)
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBqrlQ1s-GtqT__SJ_sADhNk/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/smusic.webp" group-title="GRAND PLUS | O'ZBEKISTON", Globus Music
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBjFdf91qNURy_AauJ5rKvw4/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/biz3.webp" group-title="GRAND PLUS | O'ZBEKISTON", BIZ Music
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBvUbShQnfxHgCxgNqVEEGbY/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/muz.png" group-title="GRAND PLUS | O'ZBEKISTON", Муз-тв (o'zbekiston)
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBitLrUeP6sKfGDL6lZMuQXg/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/navo.webp" group-title="GRAND PLUS | O'ZBEKISTON", Navo
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBqN-xGHa-eSV05cHfV2YGhU/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ftv.webp" group-title="GRAND PLUS | O'ZBEKISTON", FTV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBoj9LnFD8tg9jcVgpZmm_bY/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/live.png" group-title="GRAND PLUS | O'ZBEKISTON", Live TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBsOGxPYRtyb3APVuLmTrSYg/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/myd.webp" group-title="GRAND PLUS | O'ZBEKISTON", MYDAYTV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBg8-x02WeG9yvvZvXfvn6jY/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/biznes.png" group-title="GRAND PLUS | O'ZBEKISTON", Biznes TV
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBi1UIOBd9YVkYQiVVcrLIsQ/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/madan.webp" group-title="GRAND PLUS | O'ZBEKISTON", Madaniyat va ma'rifat
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBuFC7kg2Se_WhWYmRuDcwQM/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/dtv.webp" group-title="GRAND PLUS | O'ZBEKISTON", Dasturxon
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBoAKEGLMm7s7sUCwK7iRPpM/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/dunyo.webp" group-title="GRAND PLUS | O'ZBEKISTON", Dunyo Bo'ylab
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBneBZ_6_t9MDO2nX3OC7aoI/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/uz24.webp" group-title="GRAND PLUS | O'ZBEKISTON", O'zbekiston-24
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBsZfyNZuctJVjpFfrBZFAn0/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/tarix.webp" group-title="GRAND PLUS | O'ZBEKISTON", O'zbekiston tarixi
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBqd1LE2TNplJXJDU55SQxpk/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/mahO'zbekistona.webp" group-title="GRAND PLUS | O'ZBEKISTON", MahO'zbekistona
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBicv0XOWBpUAfLgJyfknfzk/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/report.webp" group-title="GRAND PLUS | O'ZBEKISTON", Uzreport
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBsLVoWOlS0iYsIOkjiQ0lZg/m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/sport.webp" group-title="GRAND PLUS | O'ZBEKISTON", Sport uz
+http://128.140.55.5:80/play/vpIqEVZSQmDd0qcUoIYaBiExCoENnujpnYeNewP2gG4/m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="GRAND PLUS | LIVE USA",  A&E US Eastern Feed
 https://tvpass.org/live/AEEast/sd
@@ -3264,6 +3639,160 @@ http://lb.wisp.cat/lb0/BCUActionHD/mpegts?token=nPfO4rRaax
 http://lb.wisp.cat/lb0/BCUMarvelHD/mpegts?token=nPfO4rRaax
 
 
+
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/769.png" group-title="GRAND PLUS | BCU TEAM",  BCU Action HD
+http://nl.team.ga:80/ch769/mono.m3u8?token=rl_vitek.v2_45CeyROr46wA--VjeCXUAzap7NlBcee-XipMhVnQDKKMDu7L6h1a5R3yb4V6jXpdzaKjrcViqa16
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/770.png" group-title="GRAND PLUS | BCU TEAM",  BCU Catastrophe HD
+http://nl.team.ga:80/ch770/mono.m3u8?token=rl_vitek.v2_LBpdoZb4rNiLk8POPo0T4pWlk6Nwu5Vf8iyz21VLZY3kA0Nq9stVBa3IxlNkXllVHKZqB3H_s4zt
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/771.png" group-title="GRAND PLUS | BCU TEAM",  BCU Cinema HD
+http://nl.team.ga:80/ch771/mono.m3u8?token=rl_vitek.v2_Jd8ml3c2QtRIXywAloYTp9FotXQTVLmhvHQF6cRPhimrIf8-FJ5G0FzB1xvS4BvseKRv0XPsAEhC
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/834.png" group-title="GRAND PLUS | BCU TEAM",  BCU Cinema+ HD
+http://nl.team.ga:80/ch834/mono.m3u8?token=rl_vitek.v2_sed24imR9CvnujwMu7HJ_JLh4X13wX8U6PuutR635G7R9_s6Nq2W1ngIDxBGPszgW6ARwSjJHuTy
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1000.png" group-title="GRAND PLUS | BCU TEAM",  BCU Comedy HD
+http://nl.team.ga:80/ch1000/mono.m3u8?token=rl_vitek.v2_4qBPN9V_TOuRSaMzwIeXPQE1hy0S00ZIBRDbwv3w8pzrCLOZcqv3TPXxabVbIMVgIkJjveuVxo_A0g
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/773.png" group-title="GRAND PLUS | BCU TEAM",  BCU Fantastic HD
+http://nl.team.ga:80/ch773/mono.m3u8?token=rl_vitek.v2_YrwbKyHykaN7JgTjthaWHFLnm6do9blSMRcmZplO5Ydz_buOXX_r8jXpBB2H4eCVIbHXbondqGsw
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/774.png" group-title="GRAND PLUS | BCU TEAM",  BCU Filmystic HD
+http://nl.team.ga:80/ch774/mono.m3u8?token=rl_vitek.v2_1i7yy2oI1q1YnCQ-KqSelA14cmCPBJTPuXIwqJjx8L_rVeHm1tc6mv17fA_iRuRPPpAJxAGk7mB7
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/776.png" group-title="GRAND PLUS | BCU TEAM",  BCU Kinorating HD
+http://nl.team.ga:80/ch776/mono.m3u8?token=rl_vitek.v2_bzswYGIbB6GI4_P5GxJ_UnNw8giwRVRe9LQ4q9N7YQGqkULcVrsZUnvo2IjgMKJ5yumueR69hkH7
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/311.png" group-title="GRAND PLUS | BCU TEAM",  BCU Marvel HD
+http://nl.team.ga:80/ch311/mono.m3u8?token=rl_vitek.v2_JApgmDpzA2oNk1aPxX3DroXwTFsVlOELawOs2_Tl_Mi9hI7EitXFzxFWhvaIrDCJEfY9a58yyLqi
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/835.png" group-title="GRAND PLUS | BCU TEAM",  BCU Stars HD
+http://nl.team.ga:80/ch835/mono.m3u8?token=rl_vitek.v2_dySOpBPVYlbcRghdWwnDueiNkP1m33KVzmJj07kmPKOaFe03x2xpeVB94QH_KYpZjrv9VqRMlbD9
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/785.png" group-title="GRAND PLUS | BCU TEAM",  BCU Reality HD
+http://nl.team.ga:80/ch785/mono.m3u8?token=rl_vitek.v2_MgiPkXnjLY0jo-Gz2lKuye3YtYrj06qjNZIcMT-6SqfkC1TcLCDXITSr2Lz1aQAxZVedg4Ky-7Av
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2743.png" group-title="GRAND PLUS | BCU TEAM",  BCU Reality OLD HD
+http://nl.team.ga:80/ch2743/mono.m3u8?token=rl_vitek.v2_KHrhEYo55M-qb_HbM0vLzkcGmBXEj6TsnZYFxyZT0BW-K24d5QrIH0eVmpZoLZxhRcwhrcyQY0JWjA
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/778.png" group-title="GRAND PLUS | BCU TEAM",  BCU Premiere HD
+http://nl.team.ga:80/ch778/mono.m3u8?token=rl_vitek.v2_6f7sCOwkVwnCo760G2uKs4R_43WxZmGGyk2CmT8YE9G53uQbVnAfY-rQ4LT7uxXRjXP9cIHY98gC
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/782.png" group-title="GRAND PLUS | BCU TEAM",  BCU Premiere 1 HD
+http://nl.team.ga:80/ch782/mono.m3u8?token=rl_vitek.v2__65cL5SU8plb7p51N2nX6h7A1gRd8229YKHWsPOIWpDOPGCGr0JG7qOm_AeFTW_NTCKZluugVQ_O
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/783.png" group-title="GRAND PLUS | BCU TEAM",  BCU Premiere 2 HD
+http://nl.team.ga:80/ch783/mono.m3u8?token=rl_vitek.v2_Sf8nMPiSlF6HB6lE4znl-L7_W_ml83Bkz0OO_XmQoUAPnXp9LVT9cfkwpDdLvwcRn6RqhlOJXOdl
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/784.png" group-title="GRAND PLUS | BCU TEAM",  BCU Premiere 3 HD
+http://nl.team.ga:80/ch784/mono.m3u8?token=rl_vitek.v2_pmGff9FMwIaJa0VliuZX2ZbZlg7Z-mvkOD1gCEgd6zaKz-eDvu4Fw-gpGL5Dn5-SuoUPiW_4Bi_z
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/779.png" group-title="GRAND PLUS | BCU TEAM",  BCU Romantic HD
+http://nl.team.ga:80/ch779/mono.m3u8?token=rl_vitek.v2_4496uvnsTwii64TFihPor0gFJib5PQmwApFf0vIa9fjX0v4N-Q5RoOJszE4lWsBQhwrNg5eK0JTB
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1545.png" group-title="GRAND PLUS | BCU TEAM",  BCU Romantic OLD
+http://nl.team.ga:80/ch1545/mono.m3u8?token=rl_vitek.v2_QV1O8-dPUWnRDWwyENaEuzXtbyQxhHQsDt9oqI1b5042apLRLBNb1qukRg0UJUvPW_2pVKOdfJToWA
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/775.png" group-title="GRAND PLUS | BCU TEAM",  BCU History HD
+http://nl.team.ga:80/ch775/mono.m3u8?token=rl_vitek.v2_tpkLmcjWKwHhYsrfoknWuCwGhOvIudKW9gLVQzJ0ZAa8usvjJWBVU9ywToaJIpiI8mrQ2vd60L0g
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/780.png" group-title="GRAND PLUS | BCU TEAM",  BCU Russian HD
+http://nl.team.ga:80/ch780/mono.m3u8?token=rl_vitek.v2_q9YUF6eTSur3jKH1OgTMFJiHviVXe5P0FDBwAx4oSlVGSukPGmj_vCU9LCNDsEa4DxkgQAMz9l3o
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2744.png" group-title="GRAND PLUS | BCU TEAM",  BCU Russia 90s HD
+http://nl.team.ga:80/ch2744/mono.m3u8?token=rl_vitek.v2_bupFJNQFrWQF_t4i7bkYW-3n1Y-AaiVAiaI9lVLg4QoRYR24WKGSkolUVUVfKRa67OIhZWKPr96etA
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/781.png" group-title="GRAND PLUS | BCU TEAM",  BCU VHS HD
+http://nl.team.ga:80/ch781/mono.m3u8?token=rl_vitek.v2_2yVnl3WFlVHORKvzrEAvafNKT-AhIWDji9iQg-ASXDNu6FfPFyYzmvYf_V8enhyICr-cJ5Ax214O
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/788.png" group-title="GRAND PLUS | BCU TEAM",  BCU RUSerial HD
+http://nl.team.ga:80/ch788/mono.m3u8?token=rl_vitek.v2_Tkqu7xscaOnLQpTxY6qnrhMgrPxGIw7DUM9EKR72Fi5XLU3e8Ea0OhLWSdEmmB44t86KLHCYD2j8
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/789.png" group-title="GRAND PLUS | BCU TEAM",  BCU СССР HD
+http://nl.team.ga:80/ch789/mono.m3u8?token=rl_vitek.v2_d1oJDNf0gS1Ngr3Gpny7B_uWPXR-ojBIiW6HpOBSIxcJZRcr2BUXT6XURs-S1lBbWAi0olLwcmFR
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/790.png" group-title="GRAND PLUS | BCU TEAM",  BCU Media HD
+http://nl.team.ga:80/ch790/mono.m3u8?token=rl_vitek.v2_ajXkV356ZP8Zwhdrb0xS8vSVq7HMZGmWu4ljMVeRIBb0rYNTFdf016A2cvFK4IyMH2CNgmsQHvIg
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/590.png" group-title="GRAND PLUS | BCU TEAM",  BCU Media OLD
+http://nl.team.ga:80/ch590/mono.m3u8?token=rl_vitek.v2_Qh0ZBZkYOmB17CngjAyI611wuJUga6FpgaKoJ-7uIysqju7KQ_aa305cQwEHlFqXRAFbpHBUF1HZ
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1026.png" group-title="GRAND PLUS | BCU TEAM",  BCU Cosmo HD
+http://nl.team.ga:80/ch1026/mono.m3u8?token=rl_vitek.v2_1ZinptiebQrbemwSkVn-IjBoiqg4onORXT-efNXBzjhFltKau8LbeTlGV-sFDpNEOARAbUmLBX76vQ
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1429.png" group-title="GRAND PLUS | BCU TEAM",  BCU TruMotion HD
+http://nl.team.ga:80/ch1429/mono.m3u8?token=rl_vitek.v2_ylp3DsLfb6u7fSa34qbsicpXX_ya4hB98NhD8psC4Jcv4If8t5UTIv8czmuvOunFYD9HFHkgWjukbw
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/145.png" group-title="GRAND PLUS | BCU TEAM",  BCU Сваты HD
+http://nl.team.ga:80/ch145/mono.m3u8?token=rl_vitek.v2_RJQh8KFZ8DeIF4DeSwC5iAyDH_Cq4pwYR5tmpReKYZkFLPoi3wh6m6vRGjAapsopJ7ReyZvV2HHq
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/827.png" group-title="GRAND PLUS | BCU TEAM",  BCU Criminal HD
+http://nl.team.ga:80/ch827/mono.m3u8?token=rl_vitek.v2_WQVeHD1WjSXjYdvJJ5sGCZMm_SAM8yHSdPemWZ-LSKtiKq8KkKjzyRKBiTxRVu4aD8uLWd8ET508
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1444.png" group-title="GRAND PLUS | BCU TEAM",  BCU Survival HD
+http://nl.team.ga:80/ch1444/mono.m3u8?token=rl_vitek.v2_qFmysPp9Z2_hEcogucNownJYjRNF_QXprCkl-iWkKj48eMu1YxA8HvJlsGqaNheeLSYCqSVLBOONSQ
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1445.png" group-title="GRAND PLUS | BCU TEAM",  BCU Survival OLD
+http://nl.team.ga:80/ch1445/mono.m3u8?token=rl_vitek.v2_dyEB8UT1ih2e1W_ianu_iHIbp8UMnheoON4rJqcEgEqfZpnmeKCTYfeLPaOT2nzmc1xblDtAXMO-mw
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1254.png" group-title="GRAND PLUS | BCU TEAM",  MM Приключения HD
+http://nl.team.ga:80/ch1254/mono.m3u8?token=rl_vitek.v2_yRNGc85HiGB8z8fq8KcU68ltTJaEA12du_RAqAAVtzHlo2xbBcUUaKwN_kVC3mI7NNiNLVkkdoK80Q
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/849.png" group-title="GRAND PLUS | BCU TEAM",  BCU Ultra 4K
+http://nl.team.ga:80/ch849/mono.m3u8?token=rl_vitek.v2_-KgPvX5VYXAGl5FPAEvV5158Y522E_eXWEZe16WJIM7g2V1T7Bc-2ZL9NsSsyV9tF6KjqA7imJR5
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1428.png" group-title="GRAND PLUS | BCU TEAM",  BCU Kids 4K
+http://nl.team.ga:80/ch1428/mono.m3u8?token=rl_vitek.v2_0JBHy9Rbb4aaz06kYsKgKoq1K53qeY8BQP2uHoQ97-SQNYIqxU6WZ4aHB0FQUyMpC-4lQVLwdiioJw
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/553.png" group-title="GRAND PLUS | BCU TEAM",  BCU Premiere Ultra 4K
+http://nl.team.ga:80/ch553/mono.m3u8?token=rl_vitek.v2_6sVeg8Uy6DiY7rmcExBDKBeuj4OrHJAt0DYZp4a4TeHJATCNIOcBwO8cPbQAfYloZsIfY73Lc7n9
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2706.png" group-title="GRAND PLUS | BCU TEAM",  BCU Premiere HDR
+http://nl.team.ga:80/ch2706/mono.m3u8?token=rl_vitek.v2_rDIeEaWce2hMXYVPWCSKp956wwt9hV2jcbeCuFobKzIC7ilLSKn73zYOs36fq27lVkbCD5DhHHG7dQ
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2745.png" group-title="GRAND PLUS | BCU TEAM",  BCU Premiere 1 HDR
+http://nl.team.ga:80/ch2745/mono.m3u8?token=rl_vitek.v2_JVMF1MP7IuPXGURS08kSj5VaxVNEODuMxq28JpjodmCNM95UyzAB7TFPQUl8HbL5E7rnPX5TjUqFcQ
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2746.png" group-title="GRAND PLUS | BCU TEAM",  BCU Premiere 2 HDR
+http://nl.team.ga:80/ch2746/mono.m3u8?token=rl_vitek.v2_O3XLzruo_JY5PaY5GRHunbSr8pvFPRU_bp4JL1qzjLk3VC5OGb5vYWbSsQvg7JbP6G1B50cD9yzgyg
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2747.png" group-title="GRAND PLUS | BCU TEAM",  BCU Premiere 3 HDR
+http://nl.team.ga:80/ch2747/mono.m3u8?token=rl_vitek.v2_RgoZE5G4gQ7_1njsncmJtUkLhtnjwzGoqcrOlrmiZM93NFle0yOZ5XwoF8qUVGtwXM95kYa_nOpyBg
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2705.png" group-title="GRAND PLUS | BCU TEAM",  BCU Fantastic HDR
+http://nl.team.ga:80/ch2705/mono.m3u8?token=rl_vitek.v2_altwvHwlHU6IvgPt1FJfoV7eUTefcfBQGw1yPgtpDGHOh7GdBgNPjA2U9mrlPfWLxFaU9nathTMXWg
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/772.png" group-title="GRAND PLUS | BCU TEAM",  BCU Comedy HDR
+http://nl.team.ga:80/ch772/mono.m3u8?token=rl_vitek.v2_vvsesj30LASl_wrmezQCnrRd4HddKIMbswx0p9ezI6g2xkNGSSQ1FtPIwAwBm0oz-GGrgiG4M4hT
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1003.png" group-title="GRAND PLUS | BCU TEAM",  BCU Cosmo HDR
+http://nl.team.ga:80/ch1003/mono.m3u8?token=rl_vitek.v2_wyZnbQPVEBedZo6pPc1Rc_aoIAIkJnVPS_QD5mjTXByxWKb_K3u5hU9keNnD0iqTGrBrVasA8CK8hg
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/786.png" group-title="GRAND PLUS | BCU TEAM",  BCU Kids HD
+http://nl.team.ga:80/ch786/mono.m3u8?token=rl_vitek.v2_wD0SjnWwD9hls_clE7lO1dVj45w_Ly_usvzPSSYHnnfo_1UepW9XoerugKn2WEtZcGHox1MmM4Rq
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/559.png" group-title="GRAND PLUS | BCU TEAM",  BCU Kids+ HD
+http://nl.team.ga:80/ch559/mono.m3u8?token=rl_vitek.v2_q2sCw3ak5b1klS77CU6pH7RYtuhyLkCjHRMJefZLrRE1v1Cj8SbRROWnDP9KMFevWjHsI6TafSyO
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/787.png" group-title="GRAND PLUS | BCU TEAM",  BCU Мультсериал HD
+http://nl.team.ga:80/ch787/mono.m3u8?token=rl_vitek.v2_vE4IYwMiXxDEUEHZMyuBD3GTOGNCjRS2f8yeyLDV9kSuUAmoei_Podqdg3_kolWB7R-Ukqxp260I
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1634.png" group-title="GRAND PLUS | BCU TEAM",  BCU Little HD
+http://nl.team.ga:80/ch1634/mono.m3u8?token=rl_vitek.v2_ywsaZT4m5HC_LYginODrmwg-tpQdbUl0O20LBGb8wEtJ347F86GVfy1HkpZDx9EpMsoFnqzVBMIFfg
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1746.png" group-title="GRAND PLUS | BCU TEAM",  Liberty Pixar FHD
+http://nl.team.ga:80/ch1746/mono.m3u8?token=rl_vitek.v2_lJWz7F8kweUgRkI9RcFdiWexgHez3oSf_Z-yGK_e4RAI0_BcUeohIVoMMuLu768VKbV2CNIyIg_ooQ
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1546.png" group-title="GRAND PLUS | BCU TEAM",  BCU Charm HD
+http://nl.team.ga:80/ch1546/mono.m3u8?token=rl_vitek.v2_M1K2gtjy8AgH4-0q3MEaxPaEZ5-R1wFugJHWefVFbsVczg6BUdKXJNIPSzD906ioY0sFKZg-sItrfg
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-action.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU ACTION HDR
 http://50.7.28.226/8876/index.m3u8
 
@@ -4279,7 +4808,19 @@ https://132544.edgevideo.ru/streams/132544_797405/1325441080/index.m3u8
 
 
 
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",VIJU TV1000 НОВЕЛЛА 
+http://nl.team.ga:80/ch3075/mono.m3u8?token=rl_vitek.v2_t50SMDFvcsHExn4EpBtp2yjVw7Vaf24ALY2PRyzqOpSdgu2qMn8hkXKiSU1UKNB2NnNvXOUwUnfzXg
 
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",VIJU TV1000 ROMANTICA
+http://nl.team.ga:80/ch3074/mono.m3u8?token=rl_vitek.v2__etORrj9g3cYyrlIephFClQO3GvSET9iN5opcRCtwD1P7WOPHVMnWMQhdybegi7uwBhtNkVTL3d0mQ
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Любимое
+http://nl.team.ga:80/ch139/mono.m3u8?token=rl_vitek.v2_6OEwnRgWFgosEFHN5F05jMNDYUP-SFeKMiSHr4LzPu7SM_JiAWEEtwGR46irirn46mb5EvGwe7Gx
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Душевное
+http://nl.team.ga:80/ch140/mono.m3u8?token=rl_vitek.v2_UBL1qbkZW9s0qtuyrkUTBoyEkETn9D6JCq810UqWh7nDSq6R2OWgebQDkYQ3Y__j8m1QfJfEizT1
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Лавстори
+http://nl.team.ga:80/ch3312/mono.m3u8?token=rl_vitek.v2_XjqtBljYKQH5o7INt5DJ6M_9xFY6o9AitVDcAsaX2rHOy8-w9wkICWQav2amcBSi3xlnZbS7ss2X_Q
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", HORROR 
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/WCKQ3HC3UMGVLG/31708/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA",Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA", Следствие Вели
