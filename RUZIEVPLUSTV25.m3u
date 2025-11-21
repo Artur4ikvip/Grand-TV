@@ -1126,11 +1126,11 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&"group-title="RUZIEV+ IPTV| РОССИЯ",GRAND TV  
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&"group-title="GRAND PLUS| РОССИЯ",GRAND TV  
 http://195.9.195.3:8080/hls/215088.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&" group-title="RUZIEV+ IPTV| РОССИЯ",GRAND TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&" group-title="GRAND PLUS| РОССИЯ",GRAND TV
 http://saveukraine.1ce.xyz/7759/video.m3u8?token=99jkYSXX7E
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&" group-title="RUZIEV+ IPTV| РОССИЯ",GRAND Radio
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&" group-title="GRAND PLUS| РОССИЯ",GRAND Radio
 http://91.107.125.87:1060/stream
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="GRAND PLUS| РОССИЯ",  ТВОЕ ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
@@ -1151,7 +1151,7 @@ https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy-kanal-eu.png" group-title="GRAND PLUS| РОССИЯ", Первый канал Европа 
 https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",Первый канал HD Спорт
+#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ",Первый канал HD Спорт
 https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
 
 
@@ -1232,25 +1232,25 @@ http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 tvg-logo="http://epg.one/img/7258.png" group-title="GRAND PLUS| РОССИЯ",  НТВ Мир
 
 
-#EXTINF:-1group-title="RUZIEV+ IPTV| РОССИЯ",НТВ
+#EXTINF:-1group-title="GRAND PLUS| РОССИЯ",НТВ
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1group-title="RUZIEV+ IPTV| РОССИЯ",НТВ HD
+#EXTINF:-1group-title="GRAND PLUS| РОССИЯ",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1group-title="RUZIEV+ IPTV| РОССИЯ",НТВ +1
+#EXTINF:-1group-title="GRAND PLUS| РОССИЯ",НТВ +1
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1group-title="RUZIEV+ IPTV| РОССИЯ",НТВ +2
+#EXTINF:-1group-title="GRAND PLUS| РОССИЯ",НТВ +2
 https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1group-title="RUZIEV+ IPTV| РОССИЯ",НТВ +4
+#EXTINF:-1group-title="GRAND PLUS| РОССИЯ",НТВ +4
 https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1group-title="RUZIEV+ IPTV| РОССИЯ",НТВ +7
+#EXTINF:-1group-title="GRAND PLUS| РОССИЯ",НТВ +7
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
-#EXTINF:-1group-title="RUZIEV+ IPTV| РОССИЯ",НТВ Хит
+#EXTINF:-1group-title="GRAND PLUS| РОССИЯ",НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1group-title="RUZIEV+ IPTV| РОССИЯ",НТВ Сериал
+#EXTINF:-1group-title="GRAND PLUS| РОССИЯ",НТВ Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1group-title="RUZIEV+ IPTV| РОССИЯ",НТВ Право
+#EXTINF:-1group-title="GRAND PLUS| РОССИЯ",НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-#EXTINF:-1group-title="RUZIEV+ IPTV| РОССИЯ",НТВ Стиль
+#EXTINF:-1group-title="GRAND PLUS| РОССИЯ",НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", НТВ HD
 https://cdn2.ntv.ru/ntv0_hd/index.m3u8  
@@ -1299,7 +1299,7 @@ https://cdn2.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ,  СТС International
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
-#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",СТС Киселёвск 
+#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ",СТС Киселёвск 
 http://81.161.126.82:80/1230/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", СТС HD
 http://188.190.222.53/CTC_HD/tracks-v1a1/mono.ts.m3u8
@@ -1383,7 +1383,7 @@ https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ",  ТВ 3
 
-#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",ТВ3
+#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ",ТВ3
 
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ",  ТВ3
 
@@ -1437,23 +1437,23 @@ https://tv.streams.baikal-telecom.net/U/index.m3u8
 http://tv.streams.baikal-telecom.net:8080/U/mpegts
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", 2x2 HD
 
-#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",2x2
+#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ",2x2
 http://95.142.88.250/2x2/index.m3u8
 
 
 #EXTINF:-1 tvg-name="МИР International" tvg-logo="https://i.ibb.co/LrSTPbc/image-12.png" group-title="GRAND PLUS| РОССИЯ", МИР International
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
-#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",Мир HD
+#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epgx.site/p/mir.png" group-title="GRAND PLUS| РОССИЯ", Мир
 http://31.148.6.9:10018/index.m3u8
-#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",Мир +2
+#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ",Мир +2
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",Мир +4
+#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ",Мир +4
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",МИР +7
+#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ",МИР +7
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:-1 group-title="RUZIEV+ IPTV| РОССИЯ",МИР 24
+#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ",МИР 24
 
 
 
@@ -1508,7 +1508,7 @@ http://serv25.vintera.tv:8081/temp/zotechestvo/playlist.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", Первый Медицинский Канал 
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png" group-title="RUZIEV+ IPTV| РОССИЯ",24 Канал 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png" group-title="GRAND PLUS| РОССИЯ",24 Канал 
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", ОКино
 http://v4.proofix.ru/okino-tv/index.m3u8
