@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://dl.dropbox.com/s/wuh2pj661fv42qe/%3A150%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C.mp4
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВЛЕНИЕ 2025/11/21 23:01}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВЛЕНИЕ 2025/11/23 21:13}", ОБНОВИЛ }™
 https://dl.dropbox.com/s/ubtsmk82baz5jmk/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%20%D0%B2%D0%B8%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D1%80.mp4
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/PLUSGRANDNAV
 https://dl.dropbox.com/s/6ehiymxbcvp88zw/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%BA%D1%83%D0%B1%D0%B8%D0%BA%20%D1%80%D1%83%D0%B1%D0%B8%D0%BA%D0%B0.mp4
@@ -853,6 +853,17 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
 
 
 
+#EXTINF:-1 group-title="GRAND PLUS| БЕЛАРУСЬ",Первый Информационный By
+https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w707519564_b1460000_sleng.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| БЕЛАРУСЬ",  Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| БЕЛАРУСЬ",  Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", WB TV
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
@@ -1563,40 +1574,6 @@ http://hitfm.hostingradio.ru/hitfm128.mp3
 http://ic7.101.ru:8000/v5_1
 
 
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", Монте Карло
-http://radio.pnzradio.ru:9123/mc_64
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", NRJ
-https://pub0201.101.ru/stream/reg/mp3/128/region_energy_20
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", Детское Радио
-https://pub0201.101.ru/stream/reg/mp3/128/region_deti_27
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", Рекорд
-http://online2.gkvr.ru:8000/record_srt_64.aac
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", Ваня
-https://vanyareg.hostingradio.ru/saratov.vanya128.mp3
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", Камеди
-https://pub0201.101.ru/stream/reg/mp3/128/region_comedy_77
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", Комсомольская Правда 
-https://kpradio.hostingradio.ru:8003/saratov.radiokp128.mp3
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", Наше Радио
-https://nashereg.hostingradio.ru/saratov.nashe128.mp3
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", Хит ФМ
-http://hitfmreg.hostingradio.ru/saratov.hitfm128.mp3
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", Релакс ФМ
-https://srv12.gpmradio.ru:8443/stream/reg/mp3/128/region_relax_110
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", Юмор
-http://pub0102.101.ru:8000/stream/reg/mp3/128/region_humor_28
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", Авторадио
-http://online2.gkvr.ru:8000/avtoradio_srt_64.aac
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", Шансон
-https://online2.gkvr.ru:8001/shanson_srt_64.aac
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", Ретро ФМ 
-http://online2.gkvr.ru:8000/retro_srt_64.aac
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", ,Лайк ФМ
-http://pub0101.101.ru:8000/stream/reg/mp3/128/region_like_66
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", Русское
-http://online2.gkvr.ru:8000/rusradio_srt_64.aac
-#EXTINF:0 group-title="GRAND PLUS| SARATOV RADIO", Лав Радио
-http://online-1.gkvr.ru:8000/love_srt_64.aac
 
 
 
@@ -5457,54 +5434,6 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
 
-#EXTINF:-1 group-title="GRAND PLUS | BCU", BCU Action HD
-http://178.217.72.72/BCUActionHD/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | BCU",  BCU Catastrophe HD
-http://178.217.72.72/BCUCatastropheHD/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | BCU",  BCU Comedy HD
-http://178.217.72.72/BCUComedyHD/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | BCU",  BCU Fantastic HD
-http://178.217.72.72/BCUFantasticHD/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | BCU",  BCU Romantic HD
-http://178.217.72.72/BCURomanticHD/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | BCU",  BCU Stars HD
-http://178.217.72.72/BCUStarsHD/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | BCU",  BCU VHS HD
-http://178.217.72.72/BCUVHSHD/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | BCU",  BCU Kinorating HD
-http://178.217.72.72/BCUKinoratingHD/index.m3u8
-
-
-
-#EXTINF:-1 group-title="GRAND PLUS | BCU 2",BCU STARS HD
-http://lb.wisp.cat/lb0/BCUStarsHD/mpegts?token=nPfO4rRaax
-#EXTINF:-1 group-title="GRAND PLUS | BCU 2",BCU VHS HD
-http://lb.wisp.cat/lb0/BCUVHSHD/mpegts?token=nPfO4rRaax
-#EXTINF:-1 group-title="GRAND PLUS | BCU 2",BCU USSR HD
-http://lb.wisp.cat/lb0/BCUSSSRHD/mpegts?token=nPfO4rRaax
-#EXTINF:-1 group-title="GRAND PLUS | BCU 2",BCU KINORATING HD
-http://lb.wisp.cat/lb0/BCUKinoratingHD/mpegts?token=nPfO4rRaax
-#EXTINF:-1 group-title="GRAND PLUS | BCU 2",BCU ROMANTIC HD
-http://lb.wisp.cat/lb0/BCURomanticHD/mpegts?token=nPfO4rRaax
-#EXTINF:-1 group-title="GRAND PLUS | BCU 2",BCU FANTASTIC HD
-http://lb.wisp.cat/lb0/BCUFantasticHD/mpegts?token=nPfO4rRaax
-#EXTINF:-1 group-title="GRAND PLUS | BCU 2",BCU COMEDY HD
-http://lb.wisp.cat/lb0/BCUComedyHD/mpegts?token=nPfO4rRaax
-#EXTINF:-1 group-title="GRAND PLUS | BCU 2",BCU CATASTROPHE HD
-http://lb.wisp.cat/lb0/BCUCatastropheHD/mpegts?token=nPfO4rRaax
-#EXTINF:-1 group-title="GRAND PLUS | BCU 2",BCU ACTION HD
-http://lb.wisp.cat/lb0/BCUActionHD/mpegts?token=nPfO4rRaax
-#EXTINF:-1 group-title="GRAND PLUS | BCU 2",BCU MARVEL HD
-http://lb.wisp.cat/lb0/BCUMarvelHD/mpegts?token=nPfO4rRaax
-
-
 
 
 #EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/769.png" group-title="GRAND PLUS | BCU TEAM",  BCU Action HD
@@ -5659,283 +5588,6 @@ http://nl.team.ga:80/ch1546/mono.m3u8?token=rl_vitek.v2_M1K2gtjy8AgH4-0q3MEaxPaE
 
 
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-action.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU ACTION HDR
-http://50.7.28.226/8876/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-catastrophe.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU Catastrophe HD
-http://50.7.28.226/8877/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-charm.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU CHARM HD
-http://50.7.28.226/8978/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-cinema.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU CINEMA HD
-http://50.7.28.226/8891/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-comedy.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU COMEDY
-http://50.7.28.226/8878/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-cosmo.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU COSMO HD
-http://50.7.28.226/8480/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/1f/e86eff09d0d497a5f39ed7f97295931f.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU FANTASTIC HDr
-http://50.7.28.226/8879/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-filmystic.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU FILMYSTIC
-http://50.7.28.226/8479/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-filmystic.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU FILMYSTIC HD
-http://50.7.28.226/8880/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-history.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU HISTORY HD
-http://50.7.28.226/8881/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-kids.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU Kids
-http://50.7.28.226/8458/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-kids-plus.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU Kids+
-http://50.7.28.226/8454/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-kinorating.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU Kinorating
-http://50.7.28.226/8455/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-little.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU LITTLE HD
-http://50.7.28.226/8979/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU MARVEL HD
-http://50.7.28.226/8476/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-marvel.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU MARVEL HD
-http://50.7.28.226/8822/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-multserial.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU MULTSERIAL HD
-http://50.7.28.226/8874/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/76/b28f9a24ab24b870e6a9d055e7971c76.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU PREMIERE 2 HDR
-http://50.7.28.226/8473/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/60/a826c10d58d494a7f6c835e4ab5c5a60.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU PREMIERE 3 HDR
-http://50.7.28.226/8474/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/60/a826c10d58d494a7f6c835e4ab5c5a60.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU PREMIERE 4 HDR
-http://50.7.28.226/8475/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/60/a826c10d58d494a7f6c835e4ab5c5a60.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU PREMIERE 5 HDR
-http://50.7.28.226/8872/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/60/a826c10d58d494a7f6c835e4ab5c5a60.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU PREMIERE 6 HDR
-http://50.7.28.226/8873/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/60/a826c10d58d494a7f6c835e4ab5c5a60.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU PREMIERE 7 HDR
-http://50.7.28.226/8883/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i117.fastpic.org/big/2022/0515/87/5f5a31eca8ae7dd43257e4ad50228a87.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU PREMIERE HDR
-http://50.7.28.226/8468/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-reality.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU REALITY HD
-http://50.7.28.226/8910/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-romantic.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU Romantic HD
-http://50.7.28.226/8884/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-stars.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU STARS HD
-http://50.7.28.226/8885/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-survival.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU SURVIVAL HD
-http://50.7.28.226/8912/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-trumotion.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU TruMotion HD
-http://50.7.28.226/8977/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-svaty.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU Сваты
-http://50.7.28.226/8889/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bcu-svaty.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BCU СВАТЫ HD
-http://lb.wisp.cat/lb0/BCUSvatiHD/mpegts?token=nPfO4rRaax
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Bollywood
-http://50.7.28.226/8240/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Bollywood HD
-http://193.27.209.122/bollywood/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img/2138.png" group-title="GRAND PLUS| FDC PREMIUM KINO", BOLT UA HD
-http://141.95.55.143/CH1279/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/box-gangster.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Box Gangster HD
-http://50.7.28.226/8985/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/box-serial.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Box Serial HD
-http://50.7.28.226/8988/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/box-spy.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Box Spy HD
-http://50.7.28.226/8354/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/box-stories.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Box Stories HD
-http://50.7.28.226/8429/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/box-travel.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Box Travel HD
-http://50.7.28.226/8416/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/box-zombie.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Box Zombie HD
-http://50.7.28.226/8418/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cine-plus-ledend.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Cine+ Legend HD
-http://193.27.209.122/cine_plus_legend/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Cinema
-http://46.8.46.14/cinema/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Cinema
-http://50.7.28.226/8949/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan
-http://50.7.28.226/9121/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan
-http://50.7.28.226/8812/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 1
-http://50.7.28.226/8821/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 10
-http://50.7.28.226/8960/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 2
-http://50.7.28.226/8824/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 3
-http://50.7.28.226/8825/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 4
-http://50.7.28.226/8826/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 5
-http://50.7.28.226/8951/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 6
-http://50.7.28.226/8952/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 7
-http://50.7.28.226/8955/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 8
-http://50.7.28.226/8957/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.one/img2/4682.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan 9
-http://50.7.28.226/8959/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/cineman.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Cineman HD AM
-http://185.57.68.33:80/255/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-miniseries.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan MiniSeries
-http://50.7.28.226/8961/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-thriller.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan Thriller
-http://50.7.28.226/8954/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-vhs.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan VHS
-http://50.7.28.226/8807/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-rukino.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan РуКино
-http://50.7.28.226/8871/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cineman-simps.png" group-title="GRAND PLUS| FDC PREMIUM KINO", CineMan Симпсоны
-http://50.7.28.226/8833/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/paramount-comedy.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Comedy CENTRAL
-http://46.8.46.14/paramountcomedy/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/paramount-comedy.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Comedy Central
-http://195.64.140.147:10065/65
-
-#EXTINF:-1 tvg-logo="http://i115.fastpic.org/big/2021/0926/15/3a5527db1fd8dd978aa0b67fa4328f15.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Dizi
-http://193.27.209.122/dizi/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="GRAND PLUS| FDC PREMIUM KINO", FAN
-http://46.8.46.14/FAN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="GRAND PLUS| FDC PREMIUM KINO", Fan HD
-http://50.7.28.226/8386/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/goldline-exist.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  GOLD Line EXIST
-http://50.7.28.226/8489/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/goldline-psy.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  GOLD Line PSYCHO
-http://50.7.28.226/8483/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/minimax-celebrity.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM Celebrity HD
-http://50.7.28.226/8991/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/ce/745861e1531293225ae01eba2cbc82ce.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM Honey
-http://50.7.28.226/8895/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/67/62aeccbb469d167b69accea176cfa867.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM Newfilm 3
-http://50.7.28.226/8743/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/b5/fe2d7dc8d1ffd4e9bbb91370af0c04b5.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM Relax
-http://50.7.28.226/8793/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/25/4cfadf26f7fa18a0c0bc2399e895e125.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM UFO
-http://50.7.28.226/8410/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/ca/5a101308449e9e73914982264176d0ca.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM WALT DISNEY
-http://50.7.28.226/8914/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/25/4cfadf26f7fa18a0c0bc2399e895e125.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM БОЕКВИК КЛАССИК
-http://50.7.28.226/8411/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/minimax-drama.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM Драма HD
-http://50.7.28.226/8634/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/05/d119ad955ad24518dd336e1422aea505.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM Макромир
-http://50.7.28.226/8636/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/25/4cfadf26f7fa18a0c0bc2399e895e125.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM СЕМЕЙНЫЙ
-http://50.7.28.226/8442/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/6c/9e184f4462f6e4c1d8abdb63516c796c.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM СЕМЕЙНЫЙ 2
-http://50.7.28.226/8449/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/minimax-skorost.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM СКОРОСТЬ HD
-http://50.7.28.226/8916/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0903/5a/24644cf4ed1bd65f0843b467882bd95a.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  MM СУПЕРГЕРОИ
-http://50.7.28.226/8710/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/shot-tv.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  Shot TV
-http://50.7.28.226/8358/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  TV 1000
-http://50.7.28.226/8048/index.m3u8
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/0627/26/3384af4c78dc084b8abdf1a2153d3f26.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  VHS-ka
-http://50.7.28.226/8962/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-cee.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  Viasat Kino
-http://50.7.28.226/9020/index.m3u8
-#EXTINF:-1 tvg-logo="http://i122.fastpic.org/big/2023/1129/9b/a4d1081fbd267ad9e8ecf9c6991d009b.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  viju TV1000 Новелла
-http://50.7.28.226/8973/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-serial.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  VIP Serial
-http://50.7.28.226/9222/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/blokbaster.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  БЛОКБАСТЕР
-http://50.7.28.226/8939/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/domkino.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  Дом кино
-http://50.7.28.226/8136/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kineko.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  Кинеко
-http://50.7.28.226/8370/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кинокомедия.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  КИНОКЛАСИКА
-http://50.7.28.226/9461/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinokult.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  КИНОКУЛЬТ
-http://50.7.28.226/9469/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/romantichnoe-hd.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  Романтичное HD
-http://50.7.28.226/8948/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sts-love.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  СТС Love
-http://50.7.28.226/8174/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tvoyo-tv-hd.png" group-title="GRAND PLUS| FDC PREMIUM KINO",  Твое ТВ
-http://50.7.28.226/9236/index.m3u8
-
-
-
-
-
-
 
 
 
@@ -6014,14 +5666,343 @@ http://45.11.139.43:8555/365dney/index.m3u8
 http://95.67.12.82:9069
 
 
+
+
+
 #EXTINF:-1 group-title="GRAND PLUS| SPORT",Удар HD
 http://95.85.109.219:7000/play/a066
-#EXTINF:-1 group-title="GRAND PLUS| SPORT",Удар HD
-http://lb.wisp.cat/lb0/UFCHD/mpegts?token=nPfO4rRaax
-#EXTINF:-1 group-title="GRAND PLUS| SPORT",ОККО ФУТБОЛ 
-http://50.7.28.226/9170/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS| SPORT",ОККО СПОРТ
-http://50.7.28.226/9183/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  EUROSPORT 1 HD
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/211
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  EUROSPORT 2 HD
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/216
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Setanta Sports+ Ukraine HD
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/207
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Setanta Qazaqstan
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1100
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Setanta Sports 1 HD
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1112
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Setanta Sports 2 HD
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1113
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Окко Спорт HD
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1608
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Окко Футбол HD
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1610
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/okko-sport.png" group-title="GRAND PLUS| SPORT",  Окко 1
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1013
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/okko-sport.png" group-title="GRAND PLUS| SPORT",  Окко 2
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1607
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/okko-sport.png" group-title="GRAND PLUS| SPORT",  Окко 3
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1609
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Megogo Спорт HD
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1603
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Megogo Футбол 1 HD
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1604
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Megogo Футбол 2 HD
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1281
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Megogo Футбол 3 HD
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1605
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Megogo Футбол 4 HD
+http://boxviptv.net:25461/Mhmn0028/3U3smSKML8/1606
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  КХЛ ТВ
+http://94.232.127.28:8080/khlhd/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Sport 1 HD
+http://94.232.127.28:8080/sport1/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Go3 Sport 2 HD LV
+http://94.232.127.28:8080/tvplaysportsplus/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  EUROSPORT 1 HD
+http://195.191.208.11:8087/udp/238.2.48.145:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч ТВ
+http://195.191.208.11:8087/udp/238.2.3.5:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! +2
+http://195.191.208.11:8087/udp/238.2.2.191:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! +4
+http://195.191.208.11:8087/udp/238.2.2.221:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! +6
+http://195.191.208.11:8087/udp/238.2.2.241:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! АРЕНА
+http://195.191.208.11:8087/udp/238.9.64.136:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! ИГРА
+http://195.191.208.11:8087/udp/238.9.64.153:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! СТРАНА
+http://195.191.208.11:8087/udp/238.9.64.134:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ ПРЕМЬЕР
+http://195.191.208.11:8087/udp/238.9.64.37:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! БОЕЦ
+http://195.191.208.11:8087/udp/238.9.64.30:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! ФУТБОЛ 1
+http://195.191.208.11:8087/udp/238.9.64.54:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! ФУТБОЛ 2
+http://195.191.208.11:8087/udp/238.9.64.205:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Футбол 3 HD
+http://195.191.208.11:8087/udp/238.2.49.73:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  ЕХ Extreme
+http://195.191.208.11:8087/udp/238.9.64.53:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  БОКС ТВ
+http://195.191.208.11:8087/udp/224.0.191.59:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  MMA-TV.COM
+http://195.191.208.11:8087/udp/224.0.191.63:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Удар
+http://195.191.208.11:8087/udp/238.9.64.233:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Viasat Sport
+http://195.191.208.11:8087/udp/238.9.64.77:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  KHL
+http://195.191.208.11:8087/udp/238.9.64.149:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  KHL Prime HD
+http://195.191.208.11:8087/udp/238.9.64.177:1234
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  qazsport
+http://87.76.32.36:8001/qazsport
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  MMA-TV.COM
+http://87.76.32.36:8001/m1global
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Eurosport 1 HD
+http://87.76.32.36:8001/eurosport1hd
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Планета
+http://87.76.32.36:8001/matchplaneta
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Бокс ТВ
+http://87.76.32.36:8001/bokstv
+
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Мир Баскетбола
+http://146.120.14.239:3001/play/a0bw
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  БОКС ТВ
+http://146.120.14.239:3001/play/a08c
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Футбол
+http://146.120.14.239:3001/play/a0fp
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  KHL Prime
+http://146.120.14.239:3001/play/a0dv
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  MMA-TV.COM
+http://146.120.14.239:3001/play/a08k
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Eurosport 1 HD
+http://146.120.14.239:3001/play/a07b
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Eurosport 2 HD
+http://146.120.14.239:3001/play/a07c
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Беларусь 5
+http://146.120.14.239:3001/play/a06l
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  KHL
+http://95.66.188.74/KHL/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Боец
+http://95.66.188.74/MatchBoec/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Игра
+http://95.66.188.74/MatchIgra/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! HD
+http://91.207.115.228:5000/c101
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Футбол
+http://91.207.115.228:5000/c102
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Планета
+http://91.207.115.228:5000/c156
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! АРЕНА HD
+http://91.207.115.228:5000/c103
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! ИГРА HD
+http://91.207.115.228:5000/c104
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ ПРЕМЬЕР
+http://91.207.115.228:5000/c105
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! СТРАНА HD
+http://91.207.115.228:5000/c106
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! БОЕЦ
+http://91.207.115.228:5000/c107
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  KHL
+http://91.207.115.228:5000/c108
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Extreme Sports
+http://91.207.115.228:5000/c112
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! ФУТБОЛ 1 HD
+http://91.207.115.228:5000/c114
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! ФУТБОЛ 2 HD
+http://91.207.115.228:5000/c115
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! ФУТБОЛ 3 HD
+http://91.207.115.228:5000/c116
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Eurosport 1 HD
+http://91.207.115.228:5000/c153
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Eurosport 2 HD
+http://91.207.115.228:5000/c154
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  viju+ Sport
+http://91.207.115.228:5000/c113
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Футбол 1
+http://188.190.222.53/Match_Futbol_1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Футбол 2
+http://188.190.222.53/Match_Futbol_2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Футбол 3
+http://188.190.222.53/Match_Futbol_3/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Футбол
+http://188.190.222.53/Football/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Футбол 1
+http://193.25.8.59:8000/fut
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Футбол 2
+http://193.25.8.59:8000/fut
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Футбол 3
+http://193.25.8.59:8000/fut3
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  KHL HD
+http://193.25.8.59:8000/khl
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Арена
+http://193.25.8.59:8000/sport1
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Viasat Sport
+http://193.25.8.59:8000/viasatsport
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  FightBox
+http://193.25.8.59:8000/box
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Старт
+http://91.194.191.241:8081/chid231/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Футбол
+http://91.194.191.241:8081/chid50/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Страна
+http://91.194.191.241:8081/chid56/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Планета
+http://91.194.191.241:8081/chid52/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Игра
+http://91.194.191.241:8081/chid53/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Боец
+http://91.194.191.241:8081/chid143/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Арена
+http://91.194.191.241:8081/chid54/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч ТВ
+http://91.194.191.241:8081/chid18/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч Премьер
+http://91.194.191.241:8081/chid172/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Viasat Sport
+http://91.194.191.241:8081/chid51/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  VIASAT History
+http://91.194.191.241:8081/chid105/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  VIASAT Explore
+http://91.194.191.241:8081/chid106/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  KHL
+http://91.194.191.241:8081/chid55/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч ТВ HD
+http://178.212.71.253:8000/play/34/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Страна
+http://178.212.71.253:8000/play/51/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Арена
+http://178.212.71.253:8000/play/54/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Боец
+http://178.212.71.253:8000/play/55/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Игра
+http://178.212.71.253:8000/play/56/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч Премьер
+http://178.212.71.253:8000/play/57/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Футбол 1
+http://178.212.71.253:8000/play/58/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Русский Экстрим
+http://178.212.71.253:8000/play/118/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Старт
+http://178.212.71.253:8000/play/81/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  KHL Prime
+http://194.143.148.28:8080/KHL_HD/mpegts
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! БОЕЦ
+http://87.120.142.11:18000/Match!
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! АРЕНА
+http://87.120.142.11:18000/Match!Arena
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  МАТЧ! Игра
+http://87.120.142.11:18000/Match!Igra
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Trace Sport Stars HD
+http://87.120.142.11:18000/Rossiya1
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Матч! Футбол 3
+http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="GRAND PLUS| SPORT",OKKO
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| SPORT", МАТЧ ТВ
@@ -6458,6 +6439,60 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunkl
 
 #EXTINF:-1 group-title="GRAND PLUS| SPORT", UNBEATEN
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Women's Sports Network
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  World Billiards TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68b9f334fc12601028c5651e.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Wired2Fish
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-608a2c722957c9002c6a617b.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  UFC
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66ccae1a78822c7edc4b6df1.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  TNA Wrestling Channel
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  The World Poker Tour
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-656fa24bdbcce28c3a417415.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Tennis+
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6761f91555e174e95ccc4e4c.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Strongman Champions
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-644b13a3a1c0a5b2024c8403.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  SportsGrid
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5ef11485d33ab9004048a1ca.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Racing America
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-61a945156547ba4d6d238dc9.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  RACER International
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f90ebc726350a002d40b136.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Poker Night TV
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-60afc726623f2f002c5bb49f.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  PFL MMA
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-643f0ecd76de2b4015ae6c01.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Motorsport tv
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6408c82eebb23ab878e8ddbb.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Monster Jam
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  K-Baseball TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  FTF Sports
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-605a309dc5acdc002c7a20aa.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| SPORT",  Fight Network
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8
+
 
 
 
@@ -6498,6 +6533,460 @@ https://7pal.short.gy/fox506au
 #EXTINF:-1 group-title="GRAND PLUS| SPORT WORLD",Fox Sports 507
 https://7pal.short.gy/fox507au
 
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="GRAND PLUS| Спортивные",Setanta VIDEO
+https://setantasports.com/wp-content/uploads/2025/08/VIDEO-FOR-SITE_1.mp4
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="GRAND PLUS| Спортивные",Setanta Sports 1 HD
+https://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="GRAND PLUS| Спортивные",Setanta Sports 2 HD
+https://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="GRAND PLUS| Спортивные",Setanta Sports 1 HD
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="GRAND PLUS| Спортивные",Setanta Sports 2 HD
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="GRAND PLUS| Спортивные",Setanta Sports 1 HD
+http://94.43.1.138:8081/setanta1/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="GRAND PLUS| Спортивные",Setanta Sports 1 HD
+http://141.95.55.143/CH1147/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="GRAND PLUS| Спортивные",Setanta Sports 2 HD
+http://94.43.1.138:8081/setanta2/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",СЕТАНТА+ UA
+http://141.95.55.143/CH7609/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Megogo Футбол 1 HD.png" group-title="GRAND PLUS| Спортивные",Megogo Футбол 1 HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31483/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Megogo Футбол 2 HD.png" group-title="GRAND PLUS| Спортивные",Megogo Футбол 2 HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31505/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Megogo Футбол 3 HD.png" group-title="GRAND PLUS| Спортивные",Megogo Футбол 3 HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31504/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Megogo Футбол 4 HD.png" group-title="GRAND PLUS| Спортивные",Megogo Футбол 4 HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31613/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Megogo Футбол 5 HD.png" group-title="GRAND PLUS| Спортивные",Megogo Футбол 5 HD
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/31614/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Setanta Sport HD
+http://95.85.109.219:7000/play/a067
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Setanta Sport HD
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="GRAND PLUS| Спортивные",Setanta Sports 2 HD
+http://95.85.109.219:7000/play/a068
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="GRAND PLUS| Спортивные",Setanta Sports 1 HD
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Dazn 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/19158/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Dazn 2
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2532/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Dazn 3
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/7062/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Dazn 4
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2534/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Dazn 5
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2535/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",DAZN PRO LEAGUE 1
+http://185.236.230.212:9982/play/a09q
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 1.png" group-title="GRAND PLUS| Спортивные",Матч! Футбол 1
+http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 2.png" group-title="GRAND PLUS| Спортивные",Матч! Футбол 2
+http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 2.png" group-title="GRAND PLUS| Спортивные",Матч! Футбол 2
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/530/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 1.png" group-title="GRAND PLUS| Спортивные",Матч! Футбол 1
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/222/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Футбол 3.png" group-title="GRAND PLUS| Спортивные",Матч! Футбол 3
+http://22fdd620.kazaktelekom.com/iptv/8KSD5KFDXA6H88/206/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",OnlineTV
+http://185.221.213.254:8080/Okko/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",97.XSPORT+
+http://176.122.99.7:7000/ch117/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",FIGHTBOX
+http://176.122.99.7:7000/ch118/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Ovacion TV
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",PROSTO DRIVE
+http://176.122.99.7:7000/ch326/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Red Bull TV.png" group-title="GRAND PLUS| Спортивные",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Trace Sport Stars
+http://176.122.99.7:7000/ch236/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Viasat Sport
+http://176.122.99.7:7000/ch282/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",XStream
+http://176.122.99.7:7000/ch313/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Extreme Sports.png" group-title="GRAND PLUS| Спортивные",Extreme Sports
+http://188.113.190.15/39/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Старт.png" group-title="GRAND PLUS| Спортивные",Старт
+http://188.113.190.15/127/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Red Bull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Billiards+
+http://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Hoop TV
+http://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Homerun TV
+http://streams2.sofast.tv/WiseM3U8_29/sofast/cleanhls/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Automotion
+http://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Fight TV
+http://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Goal TV
+http://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Kung Fu+
+http://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Eurosport 1.png" group-title="GRAND PLUS| Спортивные",Eurosport 1
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Арена.png" group-title="GRAND PLUS| Спортивные",Матч! Арена
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju+ Sport.png" group-title="GRAND PLUS| Спортивные",Viju+ Sport
+http://178.134.1.158:8081/viasatsport/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",КХЛ
+http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime.png" group-title="GRAND PLUS| Спортивные",KHL Prime
+http://194.143.148.28:8080/KHL_HD/mpegts
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Trace Sport Start
+http://87.120.142.11:18000/Rossiya1
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Матч! Арена.png" group-title="GRAND PLUS| Спортивные",Матч! Арена
+http://87.120.142.11:18000/Match!Arena
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Матч Игра
+http://87.120.142.11:18000/Match!Igra
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Russian Extreme.png" group-title="GRAND PLUS| Спортивные",Russian Extreme
+http://195.26.83.96:7029/play/a008
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Polsat Sport 1
+http://185.236.229.62:9981/play/a07n
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Polsat Sport 2
+http://185.236.229.62:9981/play/a07q
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Polsat Sport 3
+http://185.236.229.62:9981/play/a06m
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Polsat Sport Fight
+http://185.236.229.62:9981/play/a06l
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Игра
+http://31.148.48.15:80/Match_Igra/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",beIN SPORTS 1
+http://176.119.29.7:80/0c55573d-12d8-43af-823b-25c94d67b190.m3u8?md5=V6ymFri4EVXELp66KZLYVA&expires=1750309589
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",DSPORTS 2
+http://181.78.106.127:9000/play/ca026/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",SKY SPORT LA LIGA
+http://181.78.106.127:9000/play/ca030/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ESPN 2
+http://181.205.130.194:4000/play/a07i
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Turkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Premier Sport 2 UK
+http://tiger-hub.vercel.app/Premier_Sports-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",CANAL + SPORT
+http://116.202.237.33:8080/CNLS3/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",CANAL + SPORT 2
+http://116.202.237.33:8080/CNLS2/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Okko Спорт
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ARENA PREM 2
+http://tiger-hub.vercel.app/Arena-Sports/Premium_2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ARENA 2
+http://tiger-hub.vercel.app/Arena-Sports/2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ARENA 3
+http://tiger-hub.vercel.app/Arena-Sports/3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ARENA 4
+http://tiger-hub.vercel.app/Arena-Sports/4/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ARENA 5
+http://tiger-hub.vercel.app/Arena-Sports/5/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ARENA 6
+http://tiger-hub.vercel.app/Arena-Sports/6/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ARENA 7
+http://tiger-hub.vercel.app/Arena-Sports/7/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ARENA 8
+http://tiger-hub.vercel.app/Arena-Sports/8/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",CANAL+ Sport
+http://116.202.237.33:8080/CNLS1/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",NOVA SPORT 1
+http://185.236.230.212:9982/play/a0an
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",NOVA SPORT 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2555/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",NOVA SPORT 5
+http://116.202.237.33:8080/NS5/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",NOVA SPORT 5
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",CANAL+ SPORT 2
+http://185.236.230.212:9982/play/a0b9
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",CT SPORT
+http://185.236.230.212:9982/play/a0b3
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",CT SPORT
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",SPORT 1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",SPORT 2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",MAX SPORT 1
+http://213.169.39.30:5138
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",MAX SPORT 2
+http://213.169.39.30:5140
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",MAX SPORT 3
+http://213.169.39.30:5142
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",MAX SPORT 4
+http://213.169.39.30:5130
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Nova Sport
+http://213.169.39.30:5102
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Diema Sport 1
+http://213.169.39.30:5134
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Diema Sport 2
+http://213.169.39.30:5136
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Diema Sport 3
+http://213.169.39.30:5216
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Digi Sport 1
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2523/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Digi Sport 2
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2522/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Digi Sport 3
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2524/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Digi Sport 4
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2538/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.pnghttp://rafail1982.uz/logo/sport2.png" group-title="СпортивныеСпортивные",ZIGGO SPORT LIVEZIGGO SPORT 1
+http://185.236.230.212:9982/play/a09f
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ZIGGO SPORT 2
+http://185.236.230.212:9982/play/a099
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.pnghttp://rafail1982.uz/logo/sport2.png" group-title="СпортивныеСпортивные",ZIGGO SPORT 2ZIGGO SPORT 3
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ZIGGO SPORT 6
+http://185.236.230.212:9982/play/a09a
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",NOVA SPORT 5
+http://185.236.230.212:9982/play/a09w
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",JOJ SPORT
+http://185.236.230.212:9982/play/a0ax
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ESPN VIVO
+http://190.60.56.41:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ESPN 5
+http://190.60.56.41:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",FOX SPORTS 1
+http://45.167.255.254:8010/play/a045/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",FOX SPORTS 2
+http://45.167.255.254:8010/play/a046/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",FOX SPORTS 3
+http://45.167.255.254:8010/play/a047/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Deportes TVC
+http://45.195.15.240:8000/play/a097/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",TELEFE
+http://200.115.120.1:8000/play/ca016/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",GOLTV
+http://176.65.146.237:8401/play/a09k/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",DSPORTS 1
+http://190.117.20.37:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",UNIMAS
+http://172.93.102.112:8989/158753_.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ESPN
+http://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",SkySports 2 New Zealand
+http://tiger-hub.vercel.app/SkySports-2_NZ/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",X SPORT
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Q Sport Kyrgyzstan
+http://95.85.109.219:7000/play/a05u
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",INFOSPORT
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",STAR SPORTS 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Sport5
+http://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ESPN
+http://200.12.41.194:8000/play/a060/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ESPN PREMIUM
+http://190.102.246.93:9005/play/a00x
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ESPN PREMIUM
+http://190.102.246.93:9005/play/a029
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ESPN 3
+http://190.102.246.93:9005/play/a02l
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.pnghttp://rafail1982.uz/logo/sport2.png" group-title="СпортивныеСпортивные",EUROSPORT 1RING
+http://213.169.39.30:5210
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",4 Sports
+http://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",30A Golf Kingdom
+http://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Abu Dhabi Sports 1
+http://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Abu Dhabi Sports 2
+http://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ACC Digital Network
+http://livetv-fa.tubi.video/accdn2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ACI Sport TV
+http://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Africa 24 Sport
+http://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Alkass Five
+http://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Alkass Four
+http://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4azq/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Alkass One
+http://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1muytrdc/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Alkass SHOOF
+http://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Alkass Six
+http://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6buzay/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Alkass Three
+http://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vakazq/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Alkass Two
+http://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hefazq/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",AntenaSport
+http://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",A Spor
+http://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Astrahan.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",BEK Sports West
+http://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Bellator MMA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Billiard TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df0cff66eec8000897b3a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc775-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36e4c683-680e-486f-91f0-ce1f0f88c4b6
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",CampusLore
+http://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Canal do Inter
+http://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CBC Sport.png" group-title="GRAND PLUS| Спортивные",CBC Sport
+http://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",CBS Sports Golazo Network
+http://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",CBS Sports HQ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",DAZN Combat Poland
+http://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",DD Sports
+http://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Dubai Racing 2
+http://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Dubai Racing 3
+http://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Dubai Racing
+http://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Dubai Sports 1
+http://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Dubai Sports 2
+http://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Dubai Sports 3
+http://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Equidia
+http://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ESPN Deportes
+http://e3.thetvapp.to/hls/espn-deportes/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",FanDuel Racing
+http://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FB TV.png" group-title="GRAND PLUS| Спортивные",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",FITE 24/7
+http://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Football
+http://31.148.48.15/Futbol_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",FTV
+http://master.tucableip.com/ftvhd/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Fubo Sports Network
+http://livetv-fa.tubi.video/fubo/master.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",FUTV
+http://live20.bozztv.com/akamaissh101/ssh101/livefutvcr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Game+
+http://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",GEM Fit
+http://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=http://ca-rt.onetv.app/gemfit/index-0.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Geo Super
+http://116.90.120.149:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Glory Kickboxing
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Hard Knocks
+http://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Horse TV
+http://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",HTV Sports
+http://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Insight TV
+http://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",IRIB 3
+http://ncdn.telewebion.com/tv3/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",KCMN-LD6
+http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/KHL Prime.png" group-title="GRAND PLUS| Спортивные",KHL Prime
+http://194.143.148.28:8080/KHL_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Kozoom TV
+http://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Swerve Sports
+http://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",talkSPORT
+http://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Teledeporte
+http://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Teletrak TV
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Tennis Channel
+http://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Tigo Sports
+http://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TJK TV.png" group-title="GRAND PLUS| Спортивные",TJK TV
+http://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Trace Sport Stars
+http://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",TR Sport
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",TSN The Ocho
+http://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",TVRI Sport
+http://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",TVS Bowling Network
+http://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",TVS Boxing
+http://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",TVS Classic Sports
+http://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",TVS Sports
+http://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",TVS Sports Bureau
+http://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",TVS Turbo
+http://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",TVS Women Sports
+http://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Unbeaten
+http://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Vital Basketball
+http://vslive.pw/stream/48684/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Vital Drive
+http://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Vital Football
+http://vslive.pw/stream/48682/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Vital Plus
+http://vslive.pw/stream/48683/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Vital Sport
+http://vslive.pw/stream/48527/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Vital Tennis
+http://vslive.pw/stream/48685/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",World of Freesports
+http://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",World Poker Tour Germany
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00010-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=74cccc9f-4a89-4a77-9d46-ad68b9e23890
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ADO TV
+http://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Asharq News Portrait
+http://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Yas TV
+http://vo-live-media.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Dong Nai TV 2
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",ITV Deportes
+http://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Right Now TV
+http://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Konniy mir
+http://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Outdoor Channel.png" group-title="GRAND PLUS| Спортивные",Outdoor Channel
+http://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",RTI La 3
+http://69.64.57.208/la3/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",MTRK
+http://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",TV BRICS Portuguese
+http://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",Auto Motor og Sport TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7954-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=419fb478-b5bb-4f2f-b6f0-d53563fbc250
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/sport2.png" group-title="GRAND PLUS| Спортивные",PSN
+http://srspsn.live/live/livestream.m3u8
 
 
 
@@ -6676,6 +7165,8 @@ https://132544.edgevideo.ru/streams/132544_797405/1325441080/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="GRAND PLUS | CINEMA",  KinoMan AM
+http://saveukraine.1ce.xyz/7759/video.m3u8?token=crfQShRf4v
 #EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="GRAND PLUS | CINEMA",  ԿԻՆՈՄԱՆ
 http://fc1qlunj.tvclub.xyz/iptv/WWEX4VRHZ4XEK4/282/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="GRAND PLUS | CINEMA",  ԿԻՆՈՄԱՆ
@@ -26066,63 +26557,6 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE_Max.m3u8
 
 
 
-
-#EXTINF:-1 group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+", Беларусь 5 HD
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+", Беларусь 5
-http://194.158.222.36:6109
-
-#EXTINF:-1 group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+", Беларусь 5 Интернет HD
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",Беларусь 1 Могилев
-http://82.209.197.187:8080/udp/239.0.100.1:1234
-
-#EXTINF:-1 tvg-logo="https://epgx.site/p/grodno-plus.png" group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",Гродно Плюс HD
-http://82.209.219.165:1234/gp
-
-#EXTINF:-1 tvg-logo="https://epgx.site/p/grodno-plus.png" group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",Гродно Плюс
-http://82.209.219.165:1235/gpsd
-
-#EXTINF:-1 tvg-logo="https://epgx.site/p/pervy-gorodskoy-gom.png" group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",Первый Городской (Гомель)
-http://195.9.195.3:8080/hls/165178.m3u8
-
-#EXTINF:-1 tvg-logo="https://epgx.site/p/pinsk-tv.png" group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",Пинск ТВ
-http://178.124.207.1:1780/tvp
-
-#EXTINF:-1 tvg-logo="https://epgx.site/p/pinsk-tv.png" group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",Пинск ТВ HD
-http://178.124.207.1:1780/tvphd
-
-#EXTINF:-1 group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",Беларусь 1
-http://194.158.222.36:6101
-
-#EXTINF:-1 group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",Беларусь 1 HD
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",Беларусь 2
-http://194.158.222.36:6107
-
-#EXTINF:-1 group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",Беларусь 2 HD
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",Беларусь 3
-http://194.158.222.36:6108
-
-#EXTINF:-1 group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",Беларусь 3 HD
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",СТВ
-http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",Беларусь 24 HD
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",НТВ-Беларусь
-http://194.158.222.36:6106
-
-#EXTINF:-1 group-title="RUZIEV+ IPTV| БЕЛАРУСЬ+",ТВ-3 Беларусь
-http://82.209.197.187:8080/udp/239.0.100.20:1234
 
 
 
