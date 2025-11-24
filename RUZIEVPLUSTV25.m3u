@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://dl.dropbox.com/s/wuh2pj661fv42qe/%3A150%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C.mp4
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВЛЕНИЕ 2025/11/23 21:45}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВЛЕНИЕ 2025/11/24 21:43}", ОБНОВИЛ }™
 https://dl.dropbox.com/s/ubtsmk82baz5jmk/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%20%D0%B2%D0%B8%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D1%80.mp4
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/PLUSGRANDNAV
 https://dl.dropbox.com/s/6ehiymxbcvp88zw/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%BA%D1%83%D0%B1%D0%B8%D0%BA%20%D1%80%D1%83%D0%B1%D0%B8%D0%BA%D0%B0.mp4
@@ -64,8 +64,22 @@ http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4805/stream.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="TEST GG!!", Phoenix TV
+https://karapuztv.catcast.tv/content/33418/index.m3u8
+#EXTINF:-1 group-title="TEST GG!!", KBOOM
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 group-title="TEST GG!!", Movee Toper
+http://195.9.195.3:8080/hls/214749.m3u8
+#EXTINF:-1 group-title="TEST GG!!", КиноJam
+http://195.9.195.3:8080/hls/210182.m3u8
+#EXTINF:-1 group-title="TEST GG!!", КиноФраншиза
+http://195.9.195.3:8080/hls/218193.m3u8
+#EXTINF:-1 group-title="TEST GG!!", VHS TV
+http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:-1 group-title="TEST GG!!", НСТ
+http://195.9.195.3:8080/hls/217855.m3u8
+#EXTINF:-1 group-title="TEST GG!!", ФИЛЬМЫ 24/7
+http://195.9.195.3:8080/hls/218251.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GojoKgE.png" group-title="TEST GG!!",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
 
@@ -723,6 +737,54 @@ https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/c
 
 
 
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Китай ТВ HD
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Start World
+http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Мир 24
+https://streamer1.connectto.com/409/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Русский бестселлер
+https://streamer1.connectto.com/464/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Русский роман
+https://streamer1.connectto.com/466/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Русский детектив
+https://streamer1.connectto.com/467/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", СТС Love
+https://streamer1.connectto.com/471/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", В мире животных
+https://streamer1.connectto.com/513/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Комедия
+https://streamer1.connectto.com/516/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", ТВЦ
+https://streamer3.connectto.com/300/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Мультимузыка
+https://streamer3.connectto.com/372/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Премиальное HD
+https://streamer3.connectto.com/373/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Супергерои
+https://streamer3.connectto.com/374/mono.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg" group-title="GRAND PLUS| NEW TEST",   CHD-TV RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 
@@ -757,17 +819,6 @@ http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| NEW TEST",   Мужское кино
 http://157.90.0.245:8070/muzhskoe_kino/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| NEW TEST",   TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=hZWnyL3PjfiNzIPx31b0Nw&e=1763954365&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-
-#EXTINF:-1 group-title="GRAND PLUS| NEW TEST",   TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ScX16w4SdARDkCF0ymhgfA&e=1763954385&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-
-#EXTINF:-1 group-title="GRAND PLUS| NEW TEST",   viju TV1000 romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=ppPZwasa5HGUlyAsyHZV3Q&e=1763954420&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-
-#EXTINF:-1 group-title="GRAND PLUS| NEW TEST",   Fightbox
-https://stream2.somon.tv/Fightbox/index.m3u8
 
 
 
@@ -853,6 +904,140 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8
 
 
 
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Матч Премьер
+http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Матч! Страна
+http://95.163.85.128/streams/media/match-strana_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Россия К
+http://95.163.85.128/streams/media/kultura_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", НТВ
+http://95.163.85.128/streams/media/ntv_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Рен ТВ
+http://95.163.85.128/streams/media/ren-tv_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", ТНТ
+http://95.163.85.128/streams/media/tnt_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", TV1000 action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", TV25 GE
+http://80.77.52.3/streams/media/tv-25_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", a2
+http://95.163.85.128/streams/media/a2_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", СТС
+http://95.163.85.128/streams/media/ctc_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Карусель
+http://95.163.85.128/streams/media/karusel_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Музыка Первого
+http://95.163.85.128/streams/media/muzyka-pervogo_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", ТВЦ
+http://95.163.85.128/streams/media/tv-centr_720x576/index.m3u8
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", 365 дней
+http://45.11.139.43:8555/365dney/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", РБК
+http://45.11.139.43:8555/rbk/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Телекафе
+http://45.11.139.43:8555/telekafe/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Мосфильм. Золотая коллекция
+http://5.8.11.96:8099/mosfilmhd/index.m3u8
+
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Про бизнес
+http://176.107.219.20:9000/play/a003/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Светлое ТВ
+http://176.107.219.20:9000/play/a009/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", 8 канал
+http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Крик-ТВ
+http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Просвещение
+http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Arirang Korea
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", 9 ВОЛНА
+http://185.46.48.18:80/asvtv/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Cinema
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Осетия Иристон
+http://185.46.48.18:80/iriston/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", МАТЧ ТВ
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Матч ТВ
+http://tv.tuva.ru/machtv/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Звезда (+4)
+http://vod.tuva.ru/zvezda/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Пятница
+http://vod.tuva.ru/friday/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Русский Роман
+http://vod.tuva.ru/rusroman/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Kino TV
+http://vod.tuva.ru/kinotv/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", НСТ
+http://vod.tuva.ru/nst/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Еврокино
+http://vod.tuva.ru/eurokino/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", 24 Тува
+http://vod.tuva.ru/tuva24/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", Наука 2.0
+http://vod.tuva.ru/nauka2/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| NEW TEST", OVAA TV
+http://vod.tuva.ru/ovaa/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10150/logo_256_1655387037.png" group-title="GRAND PLUS| NEW TEST", Волга
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10539/logo_256_1655389509.png" group-title="GRAND PLUS| NEW TEST", 4 канал
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10459/logo_128_1652790001.png" group-title="GRAND PLUS| NEW TEST", Прима
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+
+
+
+
+
 
 
 
@@ -894,6 +1079,299 @@ http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
 http://stream1.dc.beltelecom.by:1935/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| БЕЛАРУСЬ",  Радио Юмор BY
 http://player.humorfm.by/mylive/humStudio-low/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Россия К
+http://146.120.14.239:3001/play/a083
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Беларусь 1
+http://146.120.14.239:3001/play/a06d
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", ОНТ
+http://146.120.14.239:3001/play/a06e
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", СТВ
+http://146.120.14.239:3001/play/a06f
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Мир
+http://146.120.14.239:3001/play/a09j
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Первый Информационный
+http://146.120.14.239:3001/play/a06h
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", РТР Беларусь
+http://146.120.14.239:3001/play/a06i
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", НТВ Право
+http://146.120.14.239:3001/play/a079
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", НТВ Стиль
+http://146.120.14.239:3001/play/a07a
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", НТВ Сериал
+http://146.120.14.239:3001/play/a0bx
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", НТВ Беларусь
+http://146.120.14.239:3001/play/a06j
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Беларусь 3
+http://146.120.14.239:3001/play/a06k
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Беларусь 2
+http://146.120.14.239:3001/play/a0kh
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Загородная жизнь
+http://146.120.14.239:3001/play/a0bp
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Моя Планета
+http://146.120.14.239:3001/play/a06v
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Наука
+http://146.120.14.239:3001/play/a06w
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Глазами Туриста
+http://146.120.14.239:3001/play/a0bs
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Investigation Discovery
+http://146.120.14.239:3001/play/a06x
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Discovery Channel
+http://146.120.14.239:3001/play/a06y
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Animal Planet
+http://146.120.14.239:3001/play/a06z
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Тайны Галактики
+http://146.120.14.239:3001/play/a08j
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Моя Стихия
+http://146.120.14.239:3001/play/a089
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Оружие
+http://146.120.14.239:3001/play/a09a
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Совершенно Секретно
+http://146.120.14.239:3001/play/a0fo
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Точка РФ
+http://146.120.14.239:3001/play/a0jh
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Дикая Охота HD
+http://146.120.14.239:3001/play/a0ji
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Дикая Рыбалка HD
+http://146.120.14.239:3001/play/a0jk
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Ocean TV
+http://146.120.14.239:3001/play/a06s
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Домашний
+http://146.120.14.239:3001/play/a06n
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Перец International
+http://146.120.14.239:3001/play/a06o
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", ТНТ International
+http://146.120.14.239:3001/play/a08i
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", 5 International
+http://146.120.14.239:3001/play/a08q
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Сарафан
+http://146.120.14.239:3001/play/a06q
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Успех
+http://146.120.14.239:3001/play/a06r
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Hollywood HD
+http://146.120.14.239:3001/play/a06t
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Amedia Premium HD
+http://146.120.14.239:3001/play/a06u
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Киноман
+http://146.120.14.239:3001/play/a0fv
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Дом кино
+http://146.120.14.239:3001/play/a073
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Время
+http://146.120.14.239:3001/play/a0be
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Победа
+http://146.120.14.239:3001/play/a076
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", НСТ
+http://146.120.14.239:3001/play/a077
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Театр
+http://146.120.14.239:3001/play/a07d
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Мир 24
+http://146.120.14.239:3001/play/a07e
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Наша Тема
+http://146.120.14.239:3001/play/a0gi
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Amedia 1
+http://146.120.14.239:3001/play/a07g
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Мужской
+http://146.120.14.239:3001/play/a0br
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Amedia 2
+http://146.120.14.239:3001/play/a07i
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Amedia HIT HD
+http://146.120.14.239:3001/play/a07j
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Дорама
+http://146.120.14.239:3001/play/a07k
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Индийское Кино
+http://146.120.14.239:3001/play/a07p
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Кинокомедия
+http://146.120.14.239:3001/play/a07t
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Киномикс
+http://146.120.14.239:3001/play/a07q
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Киносвидание
+http://146.120.14.239:3001/play/a07r
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Кинопремьера HD
+http://146.120.14.239:3001/play/a0ds
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Киносемья
+http://146.120.14.239:3001/play/a082
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Киносерия
+http://146.120.14.239:3001/play/a07x
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Кинохит
+http://146.120.14.239:3001/play/a07s
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Мужское Кино
+http://146.120.14.239:3001/play/a07y
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", НАШЕ НОВОЕ КИНО
+http://146.120.14.239:3001/play/a0ih
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Родное Кино
+http://146.120.14.239:3001/play/a07z
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", 365 дней ТВ
+http://146.120.14.239:3001/play/a07m
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Авто Плюс
+http://146.120.14.239:3001/play/a07n
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Слуцк ТВ 2
+http://146.120.14.239:3001/play/a085
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", КВН ТВ
+http://146.120.14.239:3001/play/a086
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Кто есть кто
+http://146.120.14.239:3001/play/a07u
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Кухня ТВ
+http://146.120.14.239:3001/play/a07v
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Ностальгия
+http://146.120.14.239:3001/play/a081
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Kazakh TV
+http://146.120.14.239:3001/play/a0bt
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Suspense
+http://146.120.14.239:3001/play/a08o
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Анекдот ТВ
+http://146.120.14.239:3001/play/a08p
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", БелРос
+http://146.120.14.239:3001/play/a0gk
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Women's Magazine
+http://146.120.14.239:3001/play/a08w
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Слуцк ТВ
+http://146.120.14.239:3001/play/a06m
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Союз
+http://146.120.14.239:3001/play/a0bn
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Любимое Кино
+http://146.120.14.239:3001/play/a095
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Мир сериала
+http://146.120.14.239:3001/play/a096
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Дом Кино Премиум
+http://146.120.14.239:3001/play/a097
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Феникс+Кино
+http://146.120.14.239:3001/play/a099
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Детский Мир
+http://146.120.14.239:3001/play/a0fc
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", СТС Kids
+http://146.120.14.239:3001/play/a0ob
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Уникум
+http://146.120.14.239:3001/play/a084
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", О!
+http://146.120.14.239:3001/play/a07l
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", В Гостях У Сказки
+http://146.120.14.239:3001/play/a078
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Duck TV
+http://146.120.14.239:3001/play/a075
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Cartoon Classic
+http://146.120.14.239:3001/play/a08h
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Беларусь 1
+http://146.120.14.239:3001/play/a06d
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", ОНТ
+http://146.120.14.239:3001/play/a06e
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", СТВ
+http://146.120.14.239:3001/play/a06f
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Мир
+http://146.120.14.239:3001/play/a09j
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Первый Информационный
+http://146.120.14.239:3001/play/a06h
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", РТР Беларусь
+http://146.120.14.239:3001/play/a06i
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", НТВ Право
+http://146.120.14.239:3001/play/a079
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", НТВ Стиль
+http://146.120.14.239:3001/play/a07a
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", НТВ Сериал
+http://146.120.14.239:3001/play/a0bx
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", НТВ Беларусь
+http://146.120.14.239:3001/play/a06j
+
+#EXTINF:-1 group-title="GRAND PLUS| ОС БЕЛАРУСЬ", Беларусь 3
+http://146.120.14.239:3001/play/a06k
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="RUZIEV+ ПРЕМИУМ ТВ", WB TV
@@ -1605,6 +2083,206 @@ http://hitfm.hostingradio.ru/hitfm128.mp3
 http://ic7.101.ru:8000/v5_1
 
 
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  НТВ Хит
+http://193.25.8.59:8000/Paramount
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Россия К
+http://193.25.8.59:8000/rossiak
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Рен ТВ
+http://193.25.8.59:8000/ren
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  ТНТ4
+http://193.25.8.59:8000/tntcomedy
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Galaxy
+http://193.25.8.59:8000/galaxy
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  История
+http://193.25.8.59:8000/History
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Охота и рыбалка
+http://193.25.8.59:8000/ohota
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Моя планета
+http://193.25.8.59:8000/myplanet
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Terra
+http://193.25.8.59:8000/natgeo
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Viasat Nature
+http://193.25.8.59:8000/nature
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Наука 2.0
+http://193.25.8.59:8000/nauka
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  RTG HD
+http://193.25.8.59:8000/rtg
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Пятый канал
+http://193.25.8.59:8000/5
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Поехали!
+http://193.25.8.59:8000/360
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  DocuBox
+http://193.25.8.59:8000/24Doc
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  2x2
+http://193.25.8.59:8000/2x2
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Amedia 1
+http://193.25.8.59:8000/amedia1
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Amedia 2
+http://193.25.8.59:8000/amedia2
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Fast & FunBox
+http://193.25.8.59:8000/Avto24
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Беларусь 24
+http://193.25.8.59:8000/belarus24
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Домашний
+http://193.25.8.59:8000/dom
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Дом Кино
+http://193.25.8.59:8000/domkino
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Драйв
+http://193.25.8.59:8000/drive
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Еврокино
+http://193.25.8.59:8000/eurokino
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  СТС
+http://193.25.8.59:8000/ESPN
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Кинеко
+http://193.25.8.59:8000/fox
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Hollywood
+http://193.25.8.59:8000/interaz
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Мир 24
+http://193.25.8.59:8000/mir24
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Мир сериала
+http://193.25.8.59:8000/mirseriala
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Мир
+http://193.25.8.59:8000/mir
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Москва 24
+http://193.25.8.59:8000/moskva24
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Мужской
+http://193.25.8.59:8000/muzhskoy
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  НСТ
+http://193.25.8.59:8000/nst
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Усадьба
+http://193.25.8.59:8000/usadba
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  ОТР
+http://193.25.8.59:8000/otr
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Outdoor
+http://193.25.8.59:8000/outdoor
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Че
+http://193.25.8.59:8000/perec
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Пятница
+http://193.25.8.59:8000/pyatnitsa
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  РБК
+http://193.25.8.59:8000/RBK
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Ретро
+http://193.25.8.59:8000/retro
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Русский роман
+http://193.25.8.59:8000/rusroman
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  .Red
+http://193.25.8.59:8000/set
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  .Sci-Fi
+http://193.25.8.59:8000/axn
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Союз
+http://193.25.8.59:8000/soyuz
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Спас
+http://193.25.8.59:8000/spas
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Театр
+http://193.25.8.59:8000/teatr
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Телекафе
+http://193.25.8.59:8000/telecafe
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Timeless Dizi Channel
+http://193.25.8.59:8000/tlc
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Мосфильм. Золотая коллекция
+http://193.25.8.59:8000/tnv
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Победа
+http://193.25.8.59:8000/tochka
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  TV1000
+http://193.25.8.59:8000/TV1000
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  TV1000 Русское кино
+http://193.25.8.59:8000/TV1000RU
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  ТВ3
+http://193.25.8.59:8000/tv3
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  ТВЦ
+http://193.25.8.59:8000/tvc
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Ю
+http://193.25.8.59:8000/u
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Время
+http://193.25.8.59:8000/vremya
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  TV XXI
+http://193.25.8.59:8000/XXI
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Зоопарк
+http://193.25.8.59:8000/zoo
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Звезда
+http://193.25.8.59:8000/zvezda
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Карусель
+http://193.25.8.59:8000/karusel
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Бобёр
+http://193.25.8.59:8000/bober
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Европа плюс ТВ
+http://193.25.8.59:8000/vh1
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Bridge TV Шлягер
+http://193.25.8.59:8000/mtv
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Bridge TV Русский Хит
+http://193.25.8.59:8000/rusong
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Музыка первого
+http://193.25.8.59:8000/muzika
+
+#EXTINF:-1 group-title="GRAND PLUS| SAYT TV",  Шансон ТВ
+http://193.25.8.59:8000/shanson
 
 
 
@@ -3561,6 +4239,143 @@ http://85.112.114.10:8087/udp/233.170.170.244:58631
 http://85.112.114.10:8087/udp/233.170.170.245:58631
 #EXTINF:-1 group-title="GRAND PLUS| IHOME LLC",  Kids TV HD
 http://85.112.114.10:8087/udp/233.170.170.251:58631
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png" group-title="GRAND PLUS| RELAX PROSTO TV", Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LMHrQJu.png" group-title="GRAND PLUS| RELAX PROSTO TV", Better Life Nature Channel
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| RELAX PROSTO TV", Stingray Naturescape
+https://stream.ads.ottera.tv/cl/240211cn4j7g65sur7fq378vpg/1920x1080_5711200_3_f.m3u8
+
+#EXTINF:-1 tvg-logo="https://tgtv.ua/images/tgtv_logo.png" group-title="GRAND PLUS| RELAX PROSTO TV", Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Relaxon
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png" group-title="GRAND PLUS| RELAX PROSTO TV", Камин
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00522.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Пейзаж
+http://iptv.prosto.tv:7000/ch343/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00297.png" group-title="GRAND PLUS| RELAX PROSTO TV", Space Stream
+http://iptv.prosto.tv:7000/ch314/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png" group-title="GRAND PLUS| RELAX PROSTO TV", Про Факт
+http://iptv.prosto.tv:7000/ch315/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png" group-title="GRAND PLUS| RELAX PROSTO TV", Зоо
+http://iptv.prosto.tv:7000/ch319/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Свет вокруг
+http://iptv.prosto.tv:7000/ch351/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00509.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Терраса
+http://iptv.prosto.tv:7000/ch336/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00564.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Горная долина
+http://iptv.prosto.tv:7000/ch302/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Просто Украина
+http://iptv.prosto.tv:7000/ch303/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Дожди
+http://iptv.prosto.tv:7000/ch304/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00561.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Подводный мир
+http://iptv.prosto.tv:7000/ch305/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Avia Stream
+http://iptv.prosto.tv:7000/ch306/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00295.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Катастрофы
+http://iptv.prosto.tv:7000/ch312/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00302.png" group-title="GRAND PLUS| RELAX PROSTO TV", ЭКО система
+http://iptv.prosto.tv:7000/ch316/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00318.png" group-title="GRAND PLUS| RELAX PROSTO TV", Stream City
+http://iptv.prosto.tv:7000/ch321/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00348.png" group-title="GRAND PLUS| RELAX PROSTO TV", Аквариум
+http://iptv.prosto.tv:7000/ch325/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Комната релакс
+http://iptv.prosto.tv:7000/ch328/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00491.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Зима
+http://iptv.prosto.tv:7000/ch327/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00555.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Ночь
+http://iptv.prosto.tv:7000/ch349/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00500.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Водопад
+http://iptv.prosto.tv:7000/ch329/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00503.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Лес
+http://iptv.prosto.tv:7000/ch330/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00504.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Огонь
+http://iptv.prosto.tv:7000/ch331/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Пляж
+http://iptv.prosto.tv:7000/ch332/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00508.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Тропики
+http://iptv.prosto.tv:7000/ch335/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00512.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Река
+http://iptv.prosto.tv:7000/ch338/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00513.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Джунгли
+http://iptv.prosto.tv:7000/ch339/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00514.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Горы
+http://iptv.prosto.tv:7000/ch340/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00515.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Озеро
+http://iptv.prosto.tv:7000/ch341/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Рыбалка
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00533.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Бассейн
+http://iptv.prosto.tv:7000/ch345/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00536.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Флора
+http://iptv.prosto.tv:7000/ch346/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00537.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Сад
+http://iptv.prosto.tv:7000/ch347/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg" group-title="GRAND PLUS| RELAX PROSTO TV", Железная дорога
+http://iptv.prosto.tv:7000/ch348/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| RELAX PROSTO TV", Парк
+http://iptv.prosto.tv:7000/ch350/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900005NW_20241010T194656SQUARE.png" group-title="GRAND PLUS| RELAX PROSTO TV", Cozy Vibes
+https://d2esizdt2xkmhp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qw5vkd4gzoaia/SONO60.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US2900005NW
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png" group-title="GRAND PLUS| RELAX PROSTO TV", Stingray Holidayscapes
+https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500038R6
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20240520T212618SQUARE.png" group-title="GRAND PLUS| RELAX PROSTO TV", Stingray Naturescape
+https://d2kil4r771hni8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c6pkjy2v9xudz/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USAK3508705A
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" group-title="GRAND PLUS| RELAX PROSTO TV", Stingray Spa
+https://d9rd4243pcy92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e4dxftqz7hlvi/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500013DG
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20240520T212949SQUARE.png" group-title="GRAND PLUS| RELAX PROSTO TV", ZenLIFE by Stingray
+https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500027DS
 
 
 
@@ -7171,18 +7986,23 @@ http://nl.team.ga:80/ch3312/mono.m3u8?token=rl_vitek.v2_XjqtBljYKQH5o7INt5DJ6M_9
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SG49NCTDPC8T3M9B2735V2L9/31708/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA", HORROR 
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/275EP3V8V4MZHG8KQGLFDPSK/31708/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Шеф
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" group-title="GRAND PLUS | CINEMA", НТВ Сериалы Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA", Следствие Вели
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Скорая Помощь 
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg" group-title="GRAND PLUS | CINEMA", НТВ Сериалы Скорая помощь 
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Пёс
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg" group-title="GRAND PLUS | CINEMA", НТВ Сериалы Пёс
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Первый Отдел
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg" group-title="GRAND PLUS | CINEMA", НТВ Сериалы Первый отдел
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Невский
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg" group-title="GRAND PLUS | CINEMA", НТВ Сериалы Невский
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" group-title="GRAND PLUS | CINEMA", НТВ Сериалы Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" group-title="GRAND PLUS | CINEMA", НТВ Сериалы Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA", Романтичное HD
 http://46.8.46.14/Romantichnoe_HD/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA", Русский Роман HD
