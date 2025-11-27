@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://dl.dropbox.com/s/wuh2pj661fv42qe/%3A150%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C.mp4
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВЛЕНИЕ 2025/11/26 22:16}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВЛЕНИЕ 2025/11/27 20:54}", ОБНОВИЛ }™
 https://dl.dropbox.com/s/ubtsmk82baz5jmk/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%20%D0%B2%D0%B8%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D1%80.mp4
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/PLUSGRANDNAV
 https://dl.dropbox.com/s/6ehiymxbcvp88zw/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%BA%D1%83%D0%B1%D0%B8%D0%BA%20%D1%80%D1%83%D0%B1%D0%B8%D0%BA%D0%B0.mp4
@@ -63,89 +63,93 @@ http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4805/stream.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://kino-stream.online/logo/logo.png" group-title="GRAND PLUS| КИНОЗАЛЫ", DTR ZONA 1 (HD)
+https://kino-stream.online/hls/DTRZONA1.m3u8
 
-#EXTINF:-1 group-title="TEST GG!!", Phoenix TV
+#EXTINF:-1 tvg-logo="https://kino-stream.online/logo/logo.png" group-title="GRAND PLUS| КИНОЗАЛЫ",DTR ZONA 1 (Адаптивная HD)
+https://217.114.0.151/hls/DTRZONA1.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",Phoenix TV
 https://karapuztv.catcast.tv/content/33418/index.m3u8
-#EXTINF:-1 group-title="TEST GG!!", KBOOM
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",KBOOM
 https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1 group-title="TEST GG!!", Movee Toper
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",Movee Toper
 http://195.9.195.3:8080/hls/214749.m3u8
-#EXTINF:-1 group-title="TEST GG!!", КиноJam
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",КиноJam
 http://195.9.195.3:8080/hls/210182.m3u8
-#EXTINF:-1 group-title="TEST GG!!", КиноФраншиза
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",КиноФраншиза
 http://195.9.195.3:8080/hls/218193.m3u8
-#EXTINF:-1 group-title="TEST GG!!", VHS TV
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",VHS TV
 http://195.9.195.3:8080/hls/218531.m3u8
-#EXTINF:-1 group-title="TEST GG!!", НСТ
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",НСТ
 http://195.9.195.3:8080/hls/217855.m3u8
-#EXTINF:-1 group-title="TEST GG!!", ФИЛЬМЫ 24/7
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",ФИЛЬМЫ 24/7
 http://195.9.195.3:8080/hls/218251.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GojoKgE.png" group-title="TEST GG!!",1Filmax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GojoKgE.png" group-title="GRAND PLUS| КИНОЗАЛЫ",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="TEST GG!!",2Filmax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ztaVYk.png" group-title="GRAND PLUS| КИНОЗАЛЫ",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 group-title="TEST GG!!", Horror TV 24/7
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",Horror TV 24/7
 http://195.9.195.3:8080/hls/212682.m3u8
-#EXTINF:-1 group-title="TEST GG!!",F K S
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",F K S
 http://195.9.195.3:8080/hls/215291.m3u8
-#EXTINF:-1 group-title="TEST GG!!", Katastroff
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",Katastroff
 http://195.9.195.3:8080/hls/208789_master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xYSNpid.png" group-title="TEST GG!!",Katastroff HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xYSNpid.png" group-title="GRAND PLUS| КИНОЗАЛЫ",Katastroff HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/208789.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZxH435.png" group-title="TEST GG!!",VHDV TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZxH435.png" group-title="GRAND PLUS| КИНОЗАЛЫ",VHDV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://ix.goodgame.ru/hls/214536.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fgptVqr.png" group-title="TEST GG!!",4K Hits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fgptVqr.png" group-title="GRAND PLUS| КИНОЗАЛЫ",4K Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://ix.goodgame.ru/hls/206513.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hqCDDql.png" group-title="TEST GG!!",Кошмар HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hqCDDql.png" group-title="GRAND PLUS| КИНОЗАЛЫ",Кошмар HD
 http://195.9.195.3:8080/hls/204709.m3u8
-#EXTINF:-1 group-title="TEST GG!!",   Страх HD
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",  Страх HD
 http://195.9.195.3:8080/hls/202127.m3u8
-#EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1436027_vOPJ.jpg" group-title="TEST GG!!",Фантастика HD
+#EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1436027_vOPJ.jpg" group-title="GRAND PLUS| КИНОЗАЛЫ",Фантастика HD
 http://195.9.195.3:8080/hls/187241.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2359.png" group-title="TEST GG!!",  FAN HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/2359.png" group-title="GRAND PLUS| КИНОЗАЛЫ", FAN HD
 http://195.9.195.3:8080/hls/157239.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="TEST GG!!",  Видеокассета HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/6005.png" group-title="GRAND PLUS| КИНОЗАЛЫ", Видеокассета HD
 http://195.9.195.3:8080/hls/176975.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j6bJFcU.png" group-title="TEST GG!!",  VKTV CINEMA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6bJFcU.png" group-title="GRAND PLUS| КИНОЗАЛЫ", VKTV CINEMA HD
 http://195.9.195.3:8080/hls/173945.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ygId8ZV.png" group-title="TEST GG!!",  Alpha Cinema HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ygId8ZV.png" group-title="GRAND PLUS| КИНОЗАЛЫ", Alpha Cinema HD
 http://195.9.195.3:8080/hls/205072.m3u8
-#EXTINF:-1 group-title="TEST GG!!",VHDV TV
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",VHDV TV
 http://195.9.195.3:8080/hls/214536.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v8DZcXJ.png" group-title="TEST GG!!",  KinoJam HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v8DZcXJ.png" group-title="GRAND PLUS| КИНОЗАЛЫ", KinoJam HD
 http://195.9.195.3:8080/manifest/210182_master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/15BHvsQ.png" group-title="TEST GG!!",  Bogul TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15BHvsQ.png" group-title="GRAND PLUS| КИНОЗАЛЫ", Bogul TV HD
 http://195.9.195.3:8080/hls/132451.m3u8
-#EXTINF:-1 group-title="TEST GG!!", Music 
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",Music 
 http://195.9.195.3:8080/hls/196745.m3u8
 
 
-#EXTINF:-1 group-title="TEST GG!!",КРИНЖ
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",КРИНЖ
 http://195.9.195.3:8080/manifest/208391_master.m3u8
-#EXTINF:-1 group-title="TEST GG!!",Yansima Muzik TV
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",Yansima Muzik TV
 http://195.9.195.3:8080/hls/214752.m3u8
 
-#EXTINF:-1 group-title="TEST GG!!",ЗВУКИ ДОЖДЯ 24/7
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",ЗВУКИ ДОЖДЯ 24/7
 http://195.9.195.3:8080/hls/198378.m3u8
 
 
-#EXTINF:-1 group-title="TEST GG!!"МУЗЫКА
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",МУЗЫКА
 http://195.9.195.3:8080/hls/194731.m3u8
-#EXTINF:-1 group-title="TEST GG!!",Mega Radio
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",Mega Radio
 http://195.9.195.3:8080/hls/175789.m3u8
-#EXTINF:-1 group-title="TEST GG!!", Party 
+#EXTINF:-1 group-title="GRAND PLUS| КИНОЗАЛЫ",Party 
 http://195.9.195.3:8080/hls/215020.m3u8
 
 
@@ -336,402 +340,7 @@ https://132544.edgevideo.ru/streams/132544_931325/1325441080/index.m3u8
 
 
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Action HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvzEj2x0XEeMI6rA045IV93A/m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Comedy HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5i3KKRDEFclwXgMvoGvE-4/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Drama HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3e-t54Tj6uyfr4aP26ytbo/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Fresh HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_9pVu8efkn4HIQtrjD45q8/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Investigation
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv7iBjd1FcvqzGdB3i5BKWl8/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Jackie Chan HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-A1Vmz5q9x_RISxlXByrhs/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Mix HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4sDkjGT2MqRJIdRvEfHtFA/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",CPS Cartoon HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_VcLQAzF4jIzyOcCmtICI4/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Paradise HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1ymZnvpdA7VVeBxPbKNLXM/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Paradox HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv0mGTLZyQSBtfDUezq77YFc/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Premiere HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3hp8mt7jGjo2mZDYp8o-aw/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Premium HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvxGlyIqJpKzz60JdDaXkvfY/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Thriller HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv69RTspOGaN2X9tv9oBUIwo/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",USSR HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyINZ1goWbX7bHaFmofDHME/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",РуКино HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4v6E3GAxRPzSZFpK7g6XRU/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Боевик
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwlgYR9qr1eyz4PjODcA3ZI/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Netflix
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9K80Kj9919zeURQC1ls5-Q/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Ужасы VHS
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1vcMzfvQsg3qIv2w4TyFSI/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Комедия
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4WajS2b09aCFvYL5e94y5Q/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Фантастика
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv49INV_Q3fmz3vc6KLVMLiY/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Gamefilm
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9ilh616q4OXW1P_wmg5R_c/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Семейный
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv2rbJdyAm9SQytYhL4-XGdI/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Драмы
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3cw3AYcpykIevuuHuTNLHo/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K КиноФраншизы
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwTy_xynfL02EvcZe17vsIM/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Русские сериалы
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1FuqOHg8H8BrXSp5tXXeds/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Фэнтези
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvykLh0twtzi_g6SbofMifbQ/m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",Clarity4K Asia
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6nnBpBDCvrcw2Wti3VqPhA/m3u8
-
-
-#EXTINF:-1 group-title="GRAND PLUS | КИНОЗАЛ ТЕСТ",MM Скорость HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4QZFqoSHwsiXQK62f-XB84/m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="GRAND PLUS| TEST", 2M Monde +1 (1080p)
-https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/NASA TV.png" group-title="GRAND PLUS| TEST", A TV HU
-http://178.23.88.55/ATV/index.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/NASA TV.png" group-title="GRAND PLUS| TEST", A TV Kosovo
-http://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="GRAND PLUS| TEST", Afarin TV
-https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", Afgh International
-https://hls.afintl.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="GRAND PLUS| TEST", Aflam
-https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hVNIwgE.png" group-title="GRAND PLUS| TEST", Ajman TV (1080p)
-https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", akamai
-http://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2rfrQ8.png" group-title="GRAND PLUS| TEST", Al Aqsa Channel
-http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="GRAND PLUS| TEST", Al Arabiya Programs
-https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WcRlHQm.png" group-title="GRAND PLUS| TEST", Al Ekhbariya
-https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WcRlHQm.png" group-title="GRAND PLUS| TEST", Al Ekhbariya (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8kb4Rc0H/aleshraqtv.png" group-title="GRAND PLUS| TEST", Al Eshraq TV
-http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TkjdGhy.png" group-title="GRAND PLUS| TEST", Al Etejah TV
-http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Шант Serial HD.png" group-title="GRAND PLUS| TEST", Al Horreya TV
-http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Шант Serial HD.png" group-title="GRAND PLUS| TEST", Al Horreya TV
-http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Шант Serial HD.png" group-title="GRAND PLUS| TEST", Al Horreya TV
-http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNsnZvcd/aljanoubtv.png" group-title="GRAND PLUS| TEST", Al Janoub TV
-http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Kvartal tv.png" group-title="GRAND PLUS| TEST", Al Jazeera
-http://live-hls-web-aja.getaj.net/AJA/05.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Kvartal tv.png" group-title="GRAND PLUS| TEST", Al Khalij
-http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVOeM3P.png" group-title="GRAND PLUS| TEST", Al Madina (720p)
-https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UeTseMV.png" group-title="GRAND PLUS| TEST", Al Mamlaka TV
-https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="GRAND PLUS| TEST", Al Masirah Mubacher
-https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c2bwn4G.png" group-title="GRAND PLUS| TEST", Al Najah News (720p)
-https://streaming.najah.edu:8443/hls/AlNajah.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zkBT0C8.png" group-title="GRAND PLUS| TEST", Al Qamar TV
-https://streamer3.premio.link/alqamar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A2fJysM.png" group-title="GRAND PLUS| TEST", Al Quran Al Kareem TV
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="GRAND PLUS| TEST", Al Saudiya
-https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="GRAND PLUS| TEST", Al Saudiya (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="GRAND PLUS| TEST", Al Saudiya Alaan
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/Global Star tv.png" group-title="GRAND PLUS| TEST", Al Shallal TV
-https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="GRAND PLUS| TEST", Al Sunnah Al Nabawiyah TV
-https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="GRAND PLUS| TEST", Al Yaum TV (1080p)
-https://iko-live.akamaized.net/AlyuamTV/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", Al-Istiqama
-http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UVndAta.png" group-title="GRAND PLUS| TEST", Al-Sahat TV (720p)
-https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="GRAND PLUS| TEST", AL24 News (1080p)
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", ALHorreya TV
-http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", Alhurra
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0MGPcf3/alhurrairaq.png" group-title="GRAND PLUS| TEST", Alhurra Iraq (720p)
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="GRAND PLUS| TEST", Angel TV Hebrew (720p)
-https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", Asharq News
-https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", Asharq News Portrait
-https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/WbG7N3Mr/asiltv.png" group-title="GRAND PLUS| TEST", Asil TV
-https://live.asil.tv/asiltv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JazFBkW.jpeg" group-title="GRAND PLUS| TEST", Avar TV (1080p)
-https://avr.host247.net/live/AvarTv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="GRAND PLUS| TEST", Bab Al Hara (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b" group-title="GRAND PLUS| TEST", Big Time Plus (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png" group-title="GRAND PLUS| TEST", Channel 8 Kurdish
-https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/opBXx1K.png" group-title="GRAND PLUS| TEST", CNBC Arabiya (1080p)
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1BWb5sh/dijlahtv.png" group-title="GRAND PLUS| TEST", Dijlah TV (1080p)
-https://ghaasiflu.online/Dijlah/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x4KCQlH.png" group-title="GRAND PLUS| TEST", FarmodaTV (1080p)
-https://avr.host247.net/live/FarmodaTV/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", Hadi TV
-https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="GRAND PLUS| TEST", Hadi TV Azeri and Russian (720p)
-https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="GRAND PLUS| TEST", Hadi TV English and Urdu (720p)
-https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt0LVTHy/haditv4.png" group-title="GRAND PLUS| TEST", Hadi TV Farsi (720p)
-https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="GRAND PLUS| TEST", Hadi TV Hausa (720p)
-https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXzEtF8.png" group-title="GRAND PLUS| TEST", Hadi TV Pashto and Persian (720p)
-https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="GRAND PLUS| TEST", I24 News Arabic
-https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" group-title="GRAND PLUS| TEST", I24 News French
-https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", I24 News Hebrew
-https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.i24news.tv/images/favicon.png" group-title="GRAND PLUS| TEST", i24NEWS Hebrew
-https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWXs7csN/en.png" group-title="GRAND PLUS| TEST", Iran Jewish TV
-http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="GRAND PLUS| TEST", ITV Life (2160p)
-https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OyMxcRG.png" group-title="GRAND PLUS| TEST", Kolalnas TV
-https://htvint.mada.ps/kolalnas/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kG0d8Ay.png" group-title="GRAND PLUS| TEST", KTV 1
-https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="GRAND PLUS| TEST", Kurdistan 24 (720p)
-https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cC16pwn1/kurdsat.png" group-title="GRAND PLUS| TEST", Kurdsat (1080p)
-https://iko-live.akamaized.net/KurdsatTV/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kj94xjPP/kurdsatnews.png" group-title="GRAND PLUS| TEST", Kurdsat News (1080p)
-https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KSUny9D.jpeg" group-title="GRAND PLUS| TEST", Libya Al Wataniya
-https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg" group-title="GRAND PLUS| TEST", Majid Al Mohandis (1080p)
-https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtN8v94c/makkahtv.png" group-title="GRAND PLUS| TEST", Makkah TV (576p)
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8wE1Lbp.png" group-title="GRAND PLUS| TEST", Manoto TV
-https://late-sky-0e1a.zahsytwdtjgjhasxby.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8
-
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png" group-title="GRAND PLUS| TEST", Maraya (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D0LxiPE.png" group-title="GRAND PLUS| TEST", MBC Iraq
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="GRAND PLUS| TEST", MBC Masr Drama
-https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4FXiyjn.png" group-title="GRAND PLUS| TEST", MBC Persia (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="GRAND PLUS| TEST", Minimax (576p) [Not 24/7]
-http://116.90.120.149:8000/play/a01c/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WHeH5i7.png" group-title="GRAND PLUS| TEST", Mixkurdy (1080p)
-https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/juM3k8B.jpg" group-title="GRAND PLUS| TEST", Musayof (Israel)
-http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rBftT9x.png" group-title="GRAND PLUS| TEST", Oman TV
-https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| TEST", Payam Javan TV
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZLrc9VV/payamtv.png" group-title="GRAND PLUS| TEST", Payam TV (720p) [Not 24/7]
-https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s142626/images/logod.jpg" group-title="GRAND PLUS| TEST", Radio Fann Jordan Studio
-http://45.63.116.205/hls2/stream1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wHOQU0R.png" group-title="GRAND PLUS| TEST", Radio Yaqeen Jordan City View
-http://45.63.116.205/hls4/stream1.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rayatv.ps/images/logo_tv.png" group-title="GRAND PLUS| TEST", Raya 1 (1080p)
-https://htvmada.mada.ps:4443/raya/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="GRAND PLUS| TEST", Reshet 13
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i116.fastpic.org/big/2021/1030/4c/00f55c99a4e54353f0ea422c4f12934c.png" group-title="GRAND PLUS| TEST", Reshet 13
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/42noysO.png" group-title="GRAND PLUS| TEST", Rojava TV (1080p)
-https://iko-streamline-live1.akamaized.net/RojavaTV/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JSvJpD8.png" group-title="GRAND PLUS| TEST", Ronahi TV (1080p)
-https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DLDfFpu.png" group-title="GRAND PLUS| TEST", Rotana Aflam+ (1080p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xGDjlp5.png" group-title="GRAND PLUS| TEST", Rotana Radio Jordan Studio
-http://45.63.116.205/hls/stream1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NjgOBts.png" group-title="GRAND PLUS| TEST", Rotana Tarab Jordan City View
-http://45.63.116.205/hls3/stream1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r3U4A1P.png" group-title="GRAND PLUS| TEST", Samaa TV (576p) [Not 24/7]
-http://116.90.120.149:8000/play/a01g/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg" group-title="GRAND PLUS| TEST", Saudi Thaqafiya TV (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="GRAND PLUS| TEST", SBC
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Cyz4Bn.png" group-title="GRAND PLUS| TEST", Shabab FM (720p) [Not 24/7]
-https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yXcczMq.png" group-title="GRAND PLUS| TEST", Simaye Azadi (1080p)
-https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ0pG0jK/t2movies.png" group-title="GRAND PLUS| TEST", T2 Movies
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="GRAND PLUS| TEST", TV Arbëria 1 (720p)
-https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kLl3ar5.png" group-title="GRAND PLUS| TEST", TV Dielli (720p) [Not 24/7]
-http://stream.tvdielli.com:8081/dielli/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hxi4Qiq.png" group-title="GRAND PLUS| TEST", TV Opoja (720p) [Not 24/7]
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jdr22Sk.jpeg" group-title="GRAND PLUS| TEST", Watar TV (720p) [Not 24/7]
-http://htvint.mada.ps:8889/orient/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4" group-title="GRAND PLUS| TEST", Welat TV (1080i)
-https://stream.badinan.xyz/welat/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XBHvR5J.png" group-title="GRAND PLUS| TEST", Zindagi TV (576p) [Not 24/7]
-https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 
 
 
@@ -1036,12 +645,99 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 
 
 
+#EXTINF:-1 group-title="GRAND PLUS",FANTHD1
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_ellamilano/content/vid01.mp4
+#EXTINF:-1 group-title="GRAND PLUS",FANTHD2
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_anikkaalbrite_tiffanyfox/content/vid01.mp4
+#EXTINF:-1 group-title="GRAND PLUS",FANTHD3
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_caprianderson/content/vid01.mp4
+#EXTINF:-1 group-title="GRAND PLUS",FANTHD4
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_natalieheart_chloefoster/content/vid01.mp4
+#EXTINF:-1 group-title="GRAND PLUS",FANTHD5
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_alicemarch/content/vid01.mp4
+#EXTINF:-1 group-title="GRAND PLUS",FANTHD6
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_hollymichaels/content/vid01.mp4
+#EXTINF:-1 group-title="GRAND PLUS",FANTHD7
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_conniecarter051514/content/vid01.mp4
+#EXTINF:-1 group-title="GRAND PLUS",FANTHD7
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_emilygrey080514/content/vid01.mp4
 
 
 
 
 
 
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 1.png" group-title="GRAND PLUS| БЕЛАРУСЬ", Беларусь 1
+http://http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS1.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 1 HD.png" group-title="GRAND PLUS| БЕЛАРУСЬ", Беларусь 1 HD
+http://http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS1HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 2.png" group-title="GRAND PLUS| БЕЛАРУСЬ", Беларусь 2
+http://http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS2.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 2 HD.png" group-title="GRAND PLUS| БЕЛАРУСЬ", Беларусь 2 HD
+http://http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS2HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 3.png" group-title="GRAND PLUS| БЕЛАРУСЬ", Беларусь 3
+http://http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS3.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 3 HD.png" group-title="GRAND PLUS| БЕЛАРУСЬ", Беларусь 3 HD
+http://http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS3HD.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ", Беларусь 5 Интернет
+http://http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ", Беларусь 5
+http://http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5_INT.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ", Беларусь 5
+http://http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5_INTHD.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ", Беларусь
+http://http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS24.m3u8
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png" group-title="GRAND PLUS| БЕЛАРУСЬ", Беларусь 24
+http://http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS24HD.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ", Первый информационный
+http://http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNY.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ", Первый информационный
+http://http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ", БелРос
+http://http://dmitry-tv.ddns.net/hls/blrus/CH_BELROS.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ",  Первый информационный Беларусь
+https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ",  Беларусь 1 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ",  Беларусь 24
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ",  ОНТ Беларусь
+https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ",  Беларусь 5 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ",  Беларусь 5 Интернет
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/chunklist_b2660000_sleng.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ",  Беларусь 2 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ",  СТВ Беларусь
+https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| БЕЛАРУСЬ",  Беларусь 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
+
+0
 #EXTINF:-1 group-title="GRAND PLUS| БЕЛАРУСЬ", Беларусь 1
 http://194.158.222.36:6101
 #EXTINF:-1 group-title="GRAND PLUS| БЕЛАРУСЬ", Беларусь 1 HD
@@ -1652,6 +1348,12 @@ http://195.9.195.3:8080/hls/215088.m3u8
 http://saveukraine.1ce.xyz/7759/video.m3u8?token=99jkYSXX7E
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&" group-title="GRAND PLUS| РОССИЯ",GRAND Radio
 http://91.107.125.87:1060/stream
+#EXTINF:0 tvg-rec="3",ATV Kinoman HD AM
+#EXTGRP:GRAND PLUS| РОССИЯ
+http://8ff2abfa.ottclub.xyz/iptv/Y2LKNBFLHNZD9T/282/index.m3u8
+#EXTINF:0 tvg-rec="3",Cineman HD AM
+#EXTGRP:GRAND PLUS| РОССИЯ
+http://8ff2abfa.ottclub.xyz/iptv/Y2LKNBFLHNZD9T/283/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="GRAND PLUS| РОССИЯ",  ТВОЕ ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png" group-title="GRAND PLUS| РОССИЯ",  ТВОЕ ТВ HD - ЮМОР
@@ -2081,6 +1783,446 @@ http://hitfm.hostingradio.ru/hitfm128.mp3
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/yumor-fm.png" group-title="GRAND PLUS| РОССИЯ RADIO",   Юмор FM
 http://ic7.101.ru:8000/v5_1
+
+
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",110 HD
+http://85.112.114.10:8087/udp/238.2.48.110:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",125 HD
+http://85.112.114.10:8087/udp/238.2.48.125:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",137 HD
+http://85.112.114.10:8087/udp/238.2.48.137:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",140 HD
+http://85.112.114.10:8087/udp/238.2.48.140:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",141 HD
+http://85.112.114.10:8087/udp/238.2.48.141:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",143 HD
+http://85.112.114.10:8087/udp/238.2.48.143:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",144 HD
+http://85.112.114.10:8087/udp/238.2.48.144:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",145 HD
+http://85.112.114.10:8087/udp/238.2.48.145:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",146 HD
+http://85.112.114.10:8087/udp/238.2.48.146:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",148 HD
+http://85.112.114.10:8087/udp/238.2.48.148:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",154 HD
+http://85.112.114.10:8087/udp/238.2.48.154:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",162 HD
+http://85.112.114.10:8087/udp/238.2.48.162:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",142 HD
+http://85.112.114.10:8087/udp/238.2.48.142:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",173 HD
+http://85.112.114.10:8087/udp/238.2.48.173:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",174 HD
+http://85.112.114.10:8087/udp/238.2.48.174:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",176 HD
+http://85.112.114.10:8087/udp/238.2.48.176:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",178 HD
+http://85.112.114.10:8087/udp/238.2.48.178:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",177 HD
+http://85.112.114.10:8087/udp/238.2.48.177:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",179 HD
+http://85.112.114.10:8087/udp/238.2.48.179:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",180 HD
+http://85.112.114.10:8087/udp/238.2.48.180:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",183 HD
+http://85.112.114.10:8087/udp/238.2.48.183:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",186 HD
+http://85.112.114.10:8087/udp/238.2.48.186:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",189 HD
+http://85.112.114.10:8087/udp/238.2.48.189:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",188 HD
+http://85.112.114.10:8087/udp/238.2.48.188:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",190 HD
+http://85.112.114.10:8087/udp/238.2.48.190:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",194 HD
+http://85.112.114.10:8087/udp/238.2.48.194:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",195 HD
+http://85.112.114.10:8087/udp/238.2.48.195:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",187 HD
+http://85.112.114.10:8087/udp/238.2.48.187:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",198 HD
+http://85.112.114.10:8087/udp/238.2.48.198:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",219 HD
+http://85.112.114.10:8087/udp/238.2.48.219:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",220 HD
+http://85.112.114.10:8087/udp/238.2.48.220:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",227 HD
+http://85.112.114.10:8087/udp/238.2.48.227:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",244 HD
+http://85.112.114.10:8087/udp/238.2.48.244:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",250 HD
+http://85.112.114.10:8087/udp/238.2.48.250:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3868
+http://85.112.114.10:8087/udp/238.2.15.28:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3903
+http://85.112.114.10:8087/udp/238.2.15.63:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3902
+http://85.112.114.10:8087/udp/238.2.15.62:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3907
+http://85.112.114.10:8087/udp/238.2.15.67:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3904
+http://85.112.114.10:8087/udp/238.2.15.64:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3913
+http://85.112.114.10:8087/udp/238.2.15.73:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3926
+http://85.112.114.10:8087/udp/238.2.15.86:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3923
+http://85.112.114.10:8087/udp/238.2.15.83:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3933
+http://85.112.114.10:8087/udp/238.2.15.93:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3981
+http://85.112.114.10:8087/udp/238.2.15.141:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3978
+http://85.112.114.10:8087/udp/238.2.15.138:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3979
+http://85.112.114.10:8087/udp/238.2.15.139:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3980
+http://85.112.114.10:8087/udp/238.2.15.140:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3983
+http://85.112.114.10:8087/udp/238.2.15.143:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3982
+http://85.112.114.10:8087/udp/238.2.15.142:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3984
+http://85.112.114.10:8087/udp/238.2.15.144:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3987
+http://85.112.114.10:8087/udp/238.2.15.147:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3988
+http://85.112.114.10:8087/udp/238.2.15.148:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3977
+http://85.112.114.10:8087/udp/238.2.15.137:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3986
+http://85.112.114.10:8087/udp/238.2.15.146:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3989
+http://85.112.114.10:8087/udp/238.2.15.149:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3990
+http://85.112.114.10:8087/udp/238.2.15.150:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3991
+http://85.112.114.10:8087/udp/238.2.15.151:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",3995
+http://85.112.114.10:8087/udp/238.2.15.155:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4000
+http://85.112.114.10:8087/udp/238.2.15.160:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",N/A
+http://85.112.114.10:8087/udp/238.2.15.156:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4004
+http://85.112.114.10:8087/udp/238.2.15.164:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4012
+http://85.112.114.10:8087/udp/238.2.15.172:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4077
+http://85.112.114.10:8087/udp/238.2.15.237:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4079
+http://85.112.114.10:8087/udp/238.2.15.239:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4080
+http://85.112.114.10:8087/udp/238.2.15.240:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4083
+http://85.112.114.10:8087/udp/238.2.15.243:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4082
+http://85.112.114.10:8087/udp/238.2.15.242:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4081
+http://85.112.114.10:8087/udp/238.2.15.241:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4078
+http://85.112.114.10:8087/udp/238.2.15.238:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4087
+http://85.112.114.10:8087/udp/238.2.15.247:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4088
+http://85.112.114.10:8087/udp/238.2.15.248:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4085
+http://85.112.114.10:8087/udp/238.2.15.245:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4084
+http://85.112.114.10:8087/udp/238.2.15.244:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4086
+http://85.112.114.10:8087/udp/238.2.15.246:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",4095
+http://85.112.114.10:8087/udp/238.2.15.255:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",601
+http://85.112.114.10:8087/udp/238.2.2.89:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",600
+http://85.112.114.10:8087/udp/238.2.2.88:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",627
+http://85.112.114.10:8087/udp/238.2.2.115:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",678
+http://85.112.114.10:8087/udp/238.2.2.166:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",679
+http://85.112.114.10:8087/udp/238.2.2.167:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",676
+http://85.112.114.10:8087/udp/238.2.2.164:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",677
+http://85.112.114.10:8087/udp/238.2.2.165:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",681
+http://85.112.114.10:8087/udp/238.2.2.169:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",684
+http://85.112.114.10:8087/udp/238.2.2.172:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",682
+http://85.112.114.10:8087/udp/238.2.2.170:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",685
+http://85.112.114.10:8087/udp/238.2.2.173:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",683
+http://85.112.114.10:8087/udp/238.2.2.171:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",704
+http://85.112.114.10:8087/udp/238.2.2.192:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",702
+http://85.112.114.10:8087/udp/238.2.2.190:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",703
+http://85.112.114.10:8087/udp/238.2.2.191:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",701
+http://85.112.114.10:8087/udp/238.2.2.189:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",705
+http://85.112.114.10:8087/udp/238.2.2.193:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",717
+http://85.112.114.10:8087/udp/238.2.2.205:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",714
+http://85.112.114.10:8087/udp/238.2.2.202:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",719
+http://85.112.114.10:8087/udp/238.2.2.207:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",713
+http://85.112.114.10:8087/udp/238.2.2.201:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",715
+http://85.112.114.10:8087/udp/238.2.2.203:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",716
+http://85.112.114.10:8087/udp/238.2.2.204:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",732
+http://85.112.114.10:8087/udp/238.2.2.220:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",731
+http://85.112.114.10:8087/udp/238.2.2.219:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",737
+http://85.112.114.10:8087/udp/238.2.2.225:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",735
+http://85.112.114.10:8087/udp/238.2.2.223:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",733
+http://85.112.114.10:8087/udp/238.2.2.221:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",736
+http://85.112.114.10:8087/udp/238.2.2.224:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",740
+http://85.112.114.10:8087/udp/238.2.2.228:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",734
+http://85.112.114.10:8087/udp/238.2.2.222:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",741
+http://85.112.114.10:8087/udp/238.2.2.229:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",742
+http://85.112.114.10:8087/udp/238.2.2.230:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",738
+http://85.112.114.10:8087/udp/238.2.2.226:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",745
+http://85.112.114.10:8087/udp/238.2.2.233:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",739
+http://85.112.114.10:8087/udp/238.2.2.227:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",747
+http://85.112.114.10:8087/udp/238.2.2.235:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",744
+http://85.112.114.10:8087/udp/238.2.2.232:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",750
+http://85.112.114.10:8087/udp/238.2.2.238:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",751
+http://85.112.114.10:8087/udp/238.2.2.239:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",743
+http://85.112.114.10:8087/udp/238.2.2.231:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",748
+http://85.112.114.10:8087/udp/238.2.2.236:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",753
+http://85.112.114.10:8087/udp/238.2.2.241:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",746
+http://85.112.114.10:8087/udp/238.2.2.234:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",749
+http://85.112.114.10:8087/udp/238.2.2.237:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",754
+http://85.112.114.10:8087/udp/238.2.2.242:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",757
+http://85.112.114.10:8087/udp/238.2.2.245:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",752
+http://85.112.114.10:8087/udp/238.2.2.240:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",761
+http://85.112.114.10:8087/udp/238.2.2.249:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",762
+http://85.112.114.10:8087/udp/238.2.2.250:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",756
+http://85.112.114.10:8087/udp/238.2.2.244:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",758
+http://85.112.114.10:8087/udp/238.2.2.246:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",755
+http://85.112.114.10:8087/udp/238.2.2.243:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",760
+http://85.112.114.10:8087/udp/238.2.2.248:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",766
+http://85.112.114.10:8087/udp/238.2.2.254:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",767
+http://85.112.114.10:8087/udp/238.2.2.255:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",765
+http://85.112.114.10:8087/udp/238.2.2.253:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",763
+http://85.112.114.10:8087/udp/238.2.2.251:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",764
+http://85.112.114.10:8087/udp/238.2.2.252:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",N/A HD
+http://85.112.114.10:8087/udp/229.66.28.190:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",N/A
+http://85.112.114.10:8087/udp/229.66.28.192:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",N/A
+http://85.112.114.10:8087/udp/229.66.28.191:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",N/A
+http://85.112.114.10:8087/udp/229.66.28.254:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",BRIDGE TV Schlager
+http://85.112.114.10:8087/udp/224.0.191.245:1234
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",MATCH IGRA HD
+http://85.112.114.10:8087/udp/233.170.170.2:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",MATCH FOOTBALL 2 HD
+http://85.112.114.10:8087/udp/233.170.170.6:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",MATCH ARENA HD
+http://85.112.114.10:8087/udp/233.170.170.3:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",MATCH PREMIER HD
+http://85.112.114.10:8087/udp/233.170.170.4:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",N/A HD
+http://85.112.114.10:8087/udp/233.170.170.5:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",MATCH FOOTBALL 3 HD
+http://85.112.114.10:8087/udp/233.170.170.7:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",KHL Prime HD
+http://85.112.114.10:8087/udp/233.170.170.8:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",viju TV1000 Action HD
+http://85.112.114.10:8087/udp/233.170.170.13:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",viju TV1000 RuKino HD
+http://85.112.114.10:8087/udp/233.170.170.14:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",viju History HD
+http://85.112.114.10:8087/udp/233.170.170.16:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Curiosity Stream HD
+http://85.112.114.10:8087/udp/233.170.170.22:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",viju Sport HD
+http://85.112.114.10:8087/udp/233.170.170.26:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",viju TV1000 HD
+http://85.112.114.10:8087/udp/233.170.170.12:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Silk HD
+http://85.112.114.10:8087/udp/233.170.170.38:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Muzhskoe kino HD
+http://85.112.114.10:8087/udp/233.170.170.47:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Zhara HD
+http://85.112.114.10:8087/udp/233.170.170.49:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",1 Vegetable HD
+http://85.112.114.10:8087/udp/233.170.170.57:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Babes TV HD
+http://85.112.114.10:8087/udp/233.170.170.58:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",360 Novosti HD
+http://85.112.114.10:8087/udp/233.170.170.60:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",360 HD
+http://85.112.114.10:8087/udp/233.170.170.61:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Kinosemya HD
+http://85.112.114.10:8087/udp/233.170.170.62:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Kinohit HD
+http://85.112.114.10:8087/udp/233.170.170.63:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Kinosvidanie HD
+http://85.112.114.10:8087/udp/233.170.170.64:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Kinopremiera HD
+http://85.112.114.10:8087/udp/233.170.170.46:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Kinomiks HD
+http://85.112.114.10:8087/udp/233.170.170.65:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Russian Extreme TV Ultra
+http://85.112.114.10:8087/udp/233.170.170.72:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Izvestiya HD
+http://85.112.114.10:8087/udp/233.170.170.59:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",TV-3 OTT HD
+http://85.112.114.10:8087/udp/233.170.170.79:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Russian Extreme TV Ultra Cinema
+http://85.112.114.10:8087/udp/233.170.170.74:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Galaxy HD
+http://85.112.114.10:8087/udp/233.170.170.81:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",BigAsia  HD
+http://85.112.114.10:8087/udp/233.170.170.84:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Travel+Adventure HD
+http://85.112.114.10:8087/udp/233.170.170.80:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",TRACE SPORTS INTER HD
+http://85.112.114.10:8087/udp/233.170.170.85:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Football HD
+http://85.112.114.10:8087/udp/233.170.170.87:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Russia-1 OTT +0 HD
+http://85.112.114.10:8087/udp/233.170.170.86:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",TNT OTT HD
+http://85.112.114.10:8087/udp/233.170.170.78:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Dialogiorybalke HD
+http://85.112.114.10:8087/udp/233.170.170.90:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Mezzo Live HD
+http://85.112.114.10:8087/udp/233.170.170.94:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",viju Nature HD
+http://85.112.114.10:8087/udp/233.170.170.92:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",AIVA HD
+http://85.112.114.10:8087/udp/233.170.170.103:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Dorama-HD
+http://85.112.114.10:8087/udp/233.170.170.110:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",2x2 OTT HD
+http://85.112.114.10:8087/udp/233.170.170.118:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Pyatniza OTT HD
+http://85.112.114.10:8087/udp/233.170.170.112:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Shant Premium HD
+http://85.112.114.10:8087/udp/233.170.170.119:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Kinoseriya HD
+http://85.112.114.10:8087/udp/233.170.170.123:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Nasha Sibir 4K
+http://85.112.114.10:8087/udp/233.170.170.125:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",TNT-4 OTT HD
+http://85.112.114.10:8087/udp/233.170.170.130:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",RuExtreme HD
+http://85.112.114.10:8087/udp/233.170.170.129:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Sapphire HD
+http://85.112.114.10:8087/udp/233.170.170.131:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Mir 24 OTT HD
+http://85.112.114.10:8087/udp/233.170.170.114:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Kineko HD
+http://85.112.114.10:8087/udp/233.170.170.132:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Terra HD
+http://85.112.114.10:8087/udp/233.170.170.133:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Dikaya ohota HD
+http://85.112.114.10:8087/udp/233.170.170.135:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",KIDS HD
+http://85.112.114.10:8087/udp/233.170.170.145:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",FOOD Time HD
+http://85.112.114.10:8087/udp/233.170.170.158:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Shant Serial HD
+http://85.112.114.10:8087/udp/233.170.170.156:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Shant Music HD
+http://85.112.114.10:8087/udp/233.170.170.157:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",START HD
+http://85.112.114.10:8087/udp/233.170.170.159:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",viju Serial HD
+http://85.112.114.10:8087/udp/233.170.170.169:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",1HD
+http://85.112.114.10:8087/udp/233.170.170.170:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Star Family HD
+http://85.112.114.10:8087/udp/233.170.170.174:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Star Cinema HD
+http://85.112.114.10:8087/udp/233.170.170.173:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Bolt HD
+http://85.112.114.10:8087/udp/233.170.170.175:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Blue Hustler HD
+http://85.112.114.10:8087/udp/233.170.170.190:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Sony .Red HD
+http://85.112.114.10:8087/udp/233.170.170.192:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",English Class HD
+http://85.112.114.10:8087/udp/233.170.170.189:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Multilandia HD
+http://85.112.114.10:8087/udp/233.170.170.198:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",F 4K
+http://85.112.114.10:8087/udp/233.170.170.211:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",TRACE URBAN INTER HD
+http://85.112.114.10:8087/udp/233.170.170.216:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Kluch HD
+http://85.112.114.10:8087/udp/233.170.170.214:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Shot TV HD
+http://85.112.114.10:8087/udp/233.170.170.219:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Shant Kids HD
+http://85.112.114.10:8087/udp/233.170.170.223:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",START TRIUMPH HD
+http://85.112.114.10:8087/udp/233.170.170.221:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Extreme Russia HD
+http://85.112.114.10:8087/udp/233.170.170.234:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",RENTV (+0) OTT HD
+http://85.112.114.10:8087/udp/233.170.170.235:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",CTC +0 OTT HD
+http://85.112.114.10:8087/udp/233.170.170.237:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Match OTT HD
+http://85.112.114.10:8087/udp/233.170.170.244:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Kinouzhas HD
+http://85.112.114.10:8087/udp/233.170.170.245:58631
+#EXTINF:-1 group-title="GRAND PLUS| IHOME",Kids TV HD
+http://85.112.114.10:8087/udp/233.170.170.251:58631
+
+
 
 
 #EXTINF:-1 group-title="GRAND PLUS| IHOME РОССИЯ",  ВОТ ТВ HD
@@ -5511,6 +5653,56 @@ http://nl.team.ga:80/ch1546/mono.m3u8?token=rl_vitek.v2_M1K2gtjy8AgH4-0q3MEaxPaE
 
 
 
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ", Сити Эдем - КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ", Сити Эдем - КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ", Сити Эдем - КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ", Сити Эдем - КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ", Сити Эдем - КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ", Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ", Сити Эдем - КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ",Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ", Сити Эдем - КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ", Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ", Сити Эдем - Теленовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ", Сити Эдем - Бирма Play
+https://cityeden.catcast.tv/content/34100/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ", Сити Эдем - Классическая Музыка
+https://cityeden.catcast.tv/content/47400/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ", Сити Эдем - Сиртаки ТВ
+https://cityeden.catcast.tv/content/46421/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ", Сити Эдем - АвтоГид
+https://cityeden.catcast.tv/content/47515/index.m3u8
+
+#EXTINF:-1  group-title="GRAND PLUS| СИТИ ЭДЕМ", Сити Эдем - МедЗдрав
+https://cityeden.catcast.tv/content/47519/index.m3u8
+
+
+
 
 
 
@@ -6946,6 +7138,35 @@ https://streaming.thestream.cyou/live/618-req_offset_28000000-req_window_0-3k_v5
 https://streaming.televizor-24-tochka.ru/live/6-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS| KZ",24KZ
+https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| KZ",31 Kanal
+https://hls.live.31kz.adapto.kz/forward_live_31kz/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| KZ",Alau TV
+https://otv.wotom.net/alau/stream.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| KZ",KTK
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| KZ",MTRK
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| KZ",MuzzOne
+https://hls.live.31kz.adapto.kz/muzzone/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| KZ",Novoe televidenie
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| KZ",Manas TV
+http://212.42.111.152:8080/hls/manas.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| KZ",КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 
 
 #EXTINF:-1 group-title="GRAND PLUS | KZ",  Первый канал Евразия
