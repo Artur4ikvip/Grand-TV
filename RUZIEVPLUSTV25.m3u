@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://dl.dropbox.com/s/wuh2pj661fv42qe/%3A150%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C.mp4
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВЛЕНИЕ 2025/12/05 20:59}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВЛЕНИЕ 2025/12/07 06:46}", ОБНОВИЛ }™
 https://dl.dropbox.com/s/ubtsmk82baz5jmk/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%20%D0%B2%D0%B8%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D1%80.mp4
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/PLUSGRANDNAV
 https://dl.dropbox.com/s/6ehiymxbcvp88zw/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%BA%D1%83%D0%B1%D0%B8%D0%BA%20%D1%80%D1%83%D0%B1%D0%B8%D0%BA%D0%B0.mp4
@@ -62,6 +62,667 @@ http://lime-pi2.tlgx.ru:8987/CH_TVOETV_HUMOR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" group-title="GRAND PLUS| ТВОЁ ТВ",  Твоё ТВ HD Юмор v7 (Vivamax)
 http://162.249.126.236/TvoeTVHumor/index.m3u8?token=TvoeTV
+
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Первый HD
+http://50.7.28.226/8150/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", ТНТ HD
+http://50.7.28.226/8311/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", НТВ HD
+http://50.7.28.226/8156/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", НТВ-Мир
+http://50.7.28.226/8011/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", НТВ
+http://50.7.28.226/8298/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", ТНТ4
+http://50.7.28.226/8058/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Россия 1 HD
+http://50.7.28.226/8152/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Travel+Adventure
+http://50.7.28.226/8170/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Travel Channel HD
+http://50.7.28.226/8315/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Viasat History
+http://50.7.28.226/9017/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", История
+http://50.7.28.226/8082/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Discovery HD
+http://50.7.28.226/8748/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", History HD
+http://50.7.28.226/8356/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Точка РФ
+http://50.7.28.226/8175/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Galaxy
+http://50.7.28.226/8337/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Глазами туриста
+http://50.7.28.226/8904/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", National Geographic
+http://50.7.28.226/8080/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Top Secret
+http://50.7.28.226/8073/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Travelxp
+http://50.7.28.226/8680/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Дикая рыбалка HD
+http://50.7.28.226/8316/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Охота и рыбалка
+http://50.7.28.226/8065/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Оружие
+http://50.7.28.226/8206/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Наука 2.0
+http://50.7.28.226/8104/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Наша Сибирь HD
+http://50.7.28.226/8677/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Первый космический HD
+http://50.7.28.226/8369/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Quadro 4К
+http://50.7.28.226/8681/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", RTG HD
+http://50.7.28.226/8151/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", СТС Love
+http://50.7.28.226/8174/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Bollywood
+http://50.7.28.226/8240/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Среда
+http://50.7.28.226/8295/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Спас
+http://50.7.28.226/8301/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Беларусь 1 HD
+http://50.7.28.226/8546/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Беларусь 2 HD
+http://50.7.28.226/8302/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Беларусь 24
+http://50.7.28.226/8144/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", БелРос
+http://50.7.28.226/8381/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Shot TV
+http://50.7.28.226/8358/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Docu Box
+http://50.7.28.226/8528/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Fan HD
+http://50.7.28.226/8386/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Fox
+http://50.7.28.226/8168/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Gold Line Детектив HD
+http://50.7.28.226/8573/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Кинеко
+http://50.7.28.226/8370/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Fan HD
+http://50.7.28.226/8386/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Box СССР 4K
+http://50.7.28.226/8445/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Box Apocalypse HD
+http://50.7.28.226/8441/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Box Autotrend HD
+http://50.7.28.226/8440/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Box Fantasy HD
+http://50.7.28.226/8430/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Box Lo-Fi HD
+http://50.7.28.226/8446/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Box Mayday HD
+http://50.7.28.226/8434/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Box Ultrastars 4k
+http://50.7.28.226/8444/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Box Spy HD
+http://50.7.28.226/8354/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Box Travel HD
+http://50.7.28.226/8416/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Box Zombie HD
+http://50.7.28.226/8418/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Box Stories HD
+http://50.7.28.226/8429/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Box Gangster HD
+http://50.7.28.226/8985/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Box Serial HD
+http://50.7.28.226/8988/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", BCU Action HD
+http://50.7.28.226/8478/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", BCU Kids HD
+http://50.7.28.226/8458/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", BCU Premiere HD
+http://50.7.28.226/8475/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", BCU Russian HD
+http://50.7.28.226/8457/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", BCU Kids+
+http://50.7.28.226/8454/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", BCU Kinorating
+http://50.7.28.226/8455/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS|FDC", BCU Catastrophe HD
+http://50.7.28.226/8877/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", BCU Romantic HD
+http://50.7.28.226/8884/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", BCU Сваты
+http://50.7.28.226/8889/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Продвижение
+http://50.7.28.226/8665/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Наше Мужское HD
+http://50.7.28.226/8740/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Honey
+http://50.7.28.226/8895/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Драма HD
+http://50.7.28.226/8634/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Макромир
+http://50.7.28.226/8636/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Newfilm 3
+http://50.7.28.226/8743/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Relax
+http://50.7.28.226/8793/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Celebrity HD
+http://50.7.28.226/8991/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Newfilm 1 HD
+http://50.7.28.226/8741/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM NewFilm RU HD
+http://50.7.28.226/8706/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Rock HD
+http://50.7.28.226/8679/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM UFO HD
+http://50.7.28.226/8410/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Боевик HD
+http://50.7.28.226/8411/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Катастрофа HD
+http://50.7.28.226/8746/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Комедия HD
+http://50.7.28.226/8708/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Комедия Classic HD
+http://50.7.28.226/8744/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Кунг-Фу HD
+http://50.7.28.226/8559/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Мегамир HD
+http://50.7.28.226/8770/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Нуар HD
+http://50.7.28.226/8733/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Роскино HD
+http://50.7.28.226/8709/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Супергерои HD
+http://50.7.28.226/8710/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MM Ужасы HD
+http://50.7.28.226/8725/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", CineMan VHS
+http://50.7.28.226/8807/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", CineMan Симпсоны
+http://50.7.28.226/8833/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Cinema
+http://50.7.28.226/8949/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", CineMan Thriller
+http://50.7.28.226/8954/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", CineMan MiniSeries
+http://50.7.28.226/8961/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", 8812
+http://50.7.28.226/8812/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", CineMan РуКино
+http://50.7.28.226/8871/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Романтичное HD
+http://50.7.28.226/8948/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Viasat Kino
+http://50.7.28.226/9020/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Домашний
+http://50.7.28.226/9204/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", 1+1 Марафон UA
+http://50.7.28.226/8116/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", ICTV
+http://50.7.28.226/8092/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Новий Канал
+http://50.7.28.226/8130/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", СТБ
+http://50.7.28.226/8090/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Дом кино
+http://50.7.28.226/8136/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Киномикс
+http://50.7.28.226/8040/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Кинопремьера HD
+http://50.7.28.226/8199/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Киноужас HD
+http://50.7.28.226/8357/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Родное кино
+http://50.7.28.226/8096/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", VIP Serial
+http://50.7.28.226/9222/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Твоё ТВ
+http://50.7.28.226/9236/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Твоё ТВ Юмор
+http://50.7.28.226/9246/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Бигуди
+http://50.7.28.226/9328/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Enter-фільм
+http://50.7.28.226/9327/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", 2x2
+http://50.7.28.226/8045/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", 5 канал
+http://50.7.28.226/8093/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Amedia 1
+http://50.7.28.226/8035/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Bolywood HD
+http://50.7.28.226/8240/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", RTVI
+http://50.7.28.226/8118/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Shot TV
+http://50.7.28.226/8358/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", TV XXI
+http://50.7.28.226/8213/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", TV1000
+http://50.7.28.226/8048/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Авто плюс
+http://50.7.28.226/8095/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Вопросы и ответы
+http://50.7.28.226/8053/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Время
+http://50.7.28.226/8012/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Дом кино
+http://50.7.28.226/8136/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Еда
+http://50.7.28.226/8140/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Жара
+http://50.7.28.226/8361/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Звезда
+http://50.7.28.226/8037/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Индия
+http://50.7.28.226/8155/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Квартал ТВ
+http://50.7.28.226/8345/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Кино ТВ HD
+http://50.7.28.226/8207/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Конный мир
+http://50.7.28.226/8326/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Красная линия
+http://50.7.28.226/8390/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Мосфильм. Золотая коллекция HD
+http://50.7.28.226/8707/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Наше любимое HD
+http://50.7.28.226/8310/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", ОТР
+http://50.7.28.226/8146/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Планета РТР
+http://50.7.28.226/8121/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Победа
+http://50.7.28.226/8391/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Продвижение
+http://50.7.28.226/8665/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Пятница
+http://50.7.28.226/8066/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Пятый канал
+http://50.7.28.226/8009/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", РБК
+http://50.7.28.226/8197/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Русский бестселлер
+http://50.7.28.226/8162/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Русский детектив
+http://50.7.28.226/8161/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Русский роман
+http://50.7.28.226/8010/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Сарафан
+http://50.7.28.226/8020/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Союз
+http://50.7.28.226/8401/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Спас
+http://50.7.28.226/8301/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Среда HD
+http://50.7.28.226/8295/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", СТС
+http://50.7.28.226/8005/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", ТВ3
+http://50.7.28.226/8114/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", ТВЦ
+http://50.7.28.226/8006/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Театр
+http://50.7.28.226/8670/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Успех
+http://50.7.28.226/8164/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Центральное телевидение
+http://50.7.28.226/8575/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Че
+http://50.7.28.226/8008/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MCM Top HD
+http://50.7.28.226/8351/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Mezzo
+http://50.7.28.226/8031/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", МузТВ
+http://50.7.28.226/8190/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Музыка первого
+http://50.7.28.226/8135/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", ТНТ Music
+http://50.7.28.226/8350/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MTV 80s
+http://50.7.28.226/8137/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", М2 HD UA
+http://50.7.28.226/8336/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Bridge TV
+http://50.7.28.226/8527/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Bridge TV Classic
+http://50.7.28.226/8450/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Bridge TV Hits
+http://50.7.28.226/9202/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Bridge TV Rock
+http://50.7.28.226/9229/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Bridge TV Фрэш
+http://50.7.28.226/9230/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Bridge TV Этно
+http://50.7.28.226/9231/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Russian Music Box
+http://50.7.28.226/8189/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Лапки Live
+http://50.7.28.226/8551/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Мульт
+http://50.7.28.226/8223/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Киномульт
+http://50.7.28.226/8576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Карусель
+http://50.7.28.226/8057/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", О!
+http://50.7.28.226/8664/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Bolt
+http://50.7.28.226/9329/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Солнце
+http://50.7.28.226/8054/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Мульт
+http://50.7.28.226/8157/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Лёва HD
+http://50.7.28.226/8375/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Рыжий
+http://50.7.28.226/9224/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч HD
+http://50.7.28.226/8179/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч Боец
+http://50.7.28.226/8671/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч ТВ
+http://50.7.28.226/8016/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Арена
+http://50.7.28.226/8018/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Планета
+http://50.7.28.226/8549/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Футбол 1 HD
+http://50.7.28.226/8236/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Футбол 2 HD
+http://50.7.28.226/8237/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Футбол 3
+http://50.7.28.226/8029/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Viasat Sport
+http://50.7.28.226/8015/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Sport 1 HD
+http://50.7.28.226/8705/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Setanta Sport 1 HD
+http://50.7.28.226/8379/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Setanta Sports 2 HD
+http://50.7.28.226/8676/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Беларусь 5 HD
+http://50.7.28.226/8694/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Eurosport 1 HD
+http://50.7.28.226/8013/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Eurosport 2 HD
+http://50.7.28.226/8014/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", KHL Prime
+http://50.7.28.226/8297/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", KHL
+http://50.7.28.226/8025/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч ТВ
+http://50.7.28.226/8179/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Окко Футбол HD
+http://50.7.28.226/9170/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Окко Спорт 2 HD
+http://50.7.28.226/9183/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", ТВ Спорт
+http://50.7.28.226/9187/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Волейбол
+http://50.7.28.226/9192/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", NBA HD
+http://50.7.28.226/8061/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", KHL Prime
+http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", MMA-TV.COM
+http://45.145.32.13:20440/mmatv/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", КХЛ ТВ
+http://45.145.32.13:20440/telekanal_khl/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч HD
+http://45.145.32.13:20440/match_hd/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч ТВ
+http://45.145.32.13:20440/match/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Арена
+http://45.145.32.13:20440/match_arena/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Арена HD
+http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Боец
+http://45.145.32.13:20440/match_boets/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Игра
+http://45.145.32.13:20440/match_igra/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Игра HD
+http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Страна
+http://45.145.32.13:20440/match_strana/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Футбол 1
+http://45.145.32.13:20440/match_football1/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Футбол 1 HD
+http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Футбол 2
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Футбол 2 HD
+http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Футбол 3
+http://45.145.32.13:20440/match_football3/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Матч! Футбол 3 HD
+http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Мир баскетбола
+http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Viasat Sport
+http://45.145.32.13:20440/viasat_sport/index.m3u8?token=test
+
+#EXTINF:-1 group-title="GRAND PLUS|FDC", Extreme sports
+http://45.145.32.13:20440/extreme_sports/index.m3u8?token=test
 
 
 
