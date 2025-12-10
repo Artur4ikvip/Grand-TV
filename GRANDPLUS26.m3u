@@ -15,7 +15,7 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН",Silk Way UZ
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
-#EXTINF:-1 group-title="GRAND PLUS| SALOM UZ",Silk Way UZ
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН",Silk Way UZ
 http://pop3.akamaized.net/SilkwayUzbek.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/J1X3QmF7XeYqjSzb0680kdrNlUYiVLg44VO3T_cY23-fq9VTxa55x4e31x00zoK1H7E=w240-h480-rw" group-title="GRAND PLUS | УЗБЕКИСТАН",  Travel-tv (O'zbekiston)
 https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
@@ -41,11 +41,11 @@ https://stream2.cinerama.uz/1245/index.m3u8
 https://stream2.cinerama.uz/1282/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", iTV Cinema
 https://stream2.cinerama.uz/4000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png" group-title="GRAND PLUS| SALOM UZ", ITV Cinema
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png" group-title="GRAND PLUS | УЗБЕКИСТАН", ITV Cinema
 https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/05/01//ac76145a39e0a0e5086a5fc7d1651999-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", iTV Music
 https://stream2.cinerama.uz/4001/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png" group-title="GRAND PLUS| SALOM UZ", ITV Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png" group-title="GRAND PLUS | УЗБЕКИСТАН", ITV Music
 https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН", Lux TV HD
@@ -97,7 +97,7 @@ https://stream2.cinerama.uz/1216/index.m3u8
 http://milliy.tv/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН",  Milliy tv
 http://serv1.milliy.tv/hls/index_720.m3u8
-#EXTINF:-1 group-title="GRAND PLUS| SALOM UZ", MY5 UZBEKISTAN 
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН", MY5 UZBEKISTAN 
 https://st.my5.media/hls/hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", MY5 HD
 https://stream2.cinerama.uz/1012/index.m3u8
