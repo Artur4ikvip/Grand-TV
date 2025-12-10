@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://dl.dropbox.com/s/wuh2pj661fv42qe/%3A150%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C.mp4
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВЛЕНИЕ 2025/12/10 12:54}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="✓ { ОБНОВЛЕНИЕ 2025/12/10 19:06}", ОБНОВИЛ }™
 https://dl.dropbox.com/s/ubtsmk82baz5jmk/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%20%D0%B2%D0%B8%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D1%80.mp4
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/PLUSGRANDNAV
 https://dl.dropbox.com/s/6ehiymxbcvp88zw/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%BA%D1%83%D0%B1%D0%B8%D0%BA%20%D1%80%D1%83%D0%B1%D0%B8%D0%BA%D0%B0.mp4
@@ -10,6 +10,208 @@ https://dl.dropbox.com/s/6ehiymxbcvp88zw/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
+
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН",TAS-IX-MEDIA
+https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН",Silk Way UZ
+https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| SALOM UZ",Silk Way UZ
+http://pop3.akamaized.net/SilkwayUzbek.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/J1X3QmF7XeYqjSzb0680kdrNlUYiVLg44VO3T_cY23-fq9VTxa55x4e31x00zoK1H7E=w240-h480-rw" group-title="GRAND PLUS | УЗБЕКИСТАН",  Travel-tv (O'zbekiston)
+https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН", Солнечный ТВ
+https://fl.biztv.media/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://biztv.uz/static/media/logo.5f993187.png" group-title="GRAND PLUS | УЗБЕКИСТАН",  BIZ TV
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН", BizTV HD 
+https://stream2.cinerama.uz/1211/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg" group-title="GRAND PLUS | УЗБЕКИСТАН",  BIZ Music
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН", Biz Music HD
+https://stream2.cinerama.uz/1212/index.m3u8
+#EXTINF:-1 tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="GRAND PLUS | УЗБЕКИСТАН",  BIZ Cinema 
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН", Biz Cinema HD
+https://stream2.cinerama.uz/1213/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН", S Cinema 
+https://stream2.cinerama.uz/1498/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН", S Music
+https://stream2.cinerama.uz/1245/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН", S-IKBOL
+https://stream2.cinerama.uz/1282/index.m3u8
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", iTV Cinema
+https://stream2.cinerama.uz/4000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png" group-title="GRAND PLUS| SALOM UZ", ITV Cinema
+https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/05/01//ac76145a39e0a0e5086a5fc7d1651999-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", iTV Music
+https://stream2.cinerama.uz/4001/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png" group-title="GRAND PLUS| SALOM UZ", ITV Music
+https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН", Lux TV HD
+https://stream2.cinerama.uz/1210/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН",  Qiziq TV
+https://stream2.cinerama.uz/1291/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН",  Retro UZ
+https://stream2.cinerama.uz/1290/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН", FTV HD
+https://stream2.cinerama.uz/1018/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН", Myday TV HD
+https://stream2.cinerama.uz/1265/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН", Sevimli TV HD
+https://stream2.cinerama.uz/1017/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | УЗБЕКИСТАН",  Sevimili HD
+http://31.148.197.2:7001/
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Узбекистан
+https://stream2.cinerama.uz/1001/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/O'zbekiston.png" group-title="GRAND PLUS | УЗБЕКИСТАН",  O'zbekiston
+http://31.148.197.2:5001/
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Ёшлар
+https://stream2.cinerama.uz/1002/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//96e9b1e79d2d9442b778115079e09d21-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Ташкент
+https://stream2.cinerama.uz/1003/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//f79dce2ae2bd9ef84b6888f226fbb293-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Sport UZ HD
+https://stream2.cinerama.uz/1004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/01/07//20d9335019d646e341e84482f3b5679b-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Futbol TV
+https://stream2.cinerama.uz/1010/index.m3u8
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/01/07//20d9335019d646e341e84482f3b5679b-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН",Futbol TV
+https://flussonic.salomtv.uz/FutbolTV/video.m3u8
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", O'zbekiston 24 HD
+https://stream2.cinerama.uz/1011/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/01/15//c78b4b29689e79a2d7e1cd3fefe6300d-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", ZO'R TV HD
+https://stream2.cinerama.uz/1016/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", ZO'R TV FHD
+https://stream2.cinerama.uz/1286/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//fa77872772e7f7406369bd0fe4e48e47-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Milliy TV HD
+https://stream2.cinerama.uz/1014/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Milliy SD
+https://stream2.cinerama.uz/1216/index.m3u8
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН",  Milliy
+http://milliy.tv/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН",  Milliy tv
+http://serv1.milliy.tv/hls/index_720.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| SALOM UZ", MY5 UZBEKISTAN 
+https://st.my5.media/hls/hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", MY5 HD
+https://stream2.cinerama.uz/1012/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", MY5 SD
+https://stream2.cinerama.uz/1217/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/01/24//4a4b31ebb4248789549263ad774c2c61-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Renessans TV
+https://stream2.cinerama.uz/1221/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/04/26//d130432ae16fe60b68f22d3874a4493d-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", DasturxonTV
+https://stream2.cinerama.uz/1206/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//6184bdb718f893d4c4480ed8db4aeaa3-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Bolajon
+https://stream2.cinerama.uz/1007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/03/23//bc4fba2dcb3166bd9aaa3d73229f6ef0-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Aqlvoy
+https://stream2.cinerama.uz/1205/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/08/23//2b3a36d6b5ad122598ce23f472f908ce-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Navo
+https://stream2.cinerama.uz/1008/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//95737b9a2b913a6fadf576f61933a635-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Madaniyat va Marifat
+https://stream2.cinerama.uz/1005/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//27e8188e91570f9ccf5c29121c183e6a-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Mahalla
+https://stream2.cinerama.uz/1013/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Kinoteatr HD
+https://stream2.cinerama.uz/1009/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", O'zbekiston tarixi FHD
+https://stream2.cinerama.uz/1209/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Dunyo bo`ylab
+https://stream2.cinerama.uz/1006/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//6f5be573ae591540e132f03c6dd242a5-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Uzreport HD
+https://stream2.cinerama.uz/1015/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/08/19//ae399dbe120262ce79931f6f22e84ba4-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Taraqqiyot TV
+https://stream2.cinerama.uz/1204/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Gold Television
+https://stream2.cinerama.uz/4007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Ruxsor TV
+https://stream2.cinerama.uz/4008/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Nurafshon TV
+https://stream2.cinerama.uz/1220/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Fergana MTRK
+https://stream2.cinerama.uz/1458/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Xorazm MTRK
+https://stream2.cinerama.uz/1464/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Vodiy TV
+https://stream2.cinerama.uz/4012/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Shifo TV
+https://stream2.cinerama.uz/1469/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Mimi TV
+https://stream2.cinerama.uz/1470/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", TTV
+https://stream2.cinerama.uz/1494/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", TTV Kino
+https://stream2.cinerama.uz/1486/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", TTV Musiqa
+https://stream2.cinerama.uz/1485/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН", NTV- NAVOIY
+https://stream2.cinerama.uz/1284/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | УЗБЕКИСТАН",Istiqlol TV
+https://stream2.cinerama.uz/1283/index.m3u8
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Jizzax TV
+https://stream2.cinerama.uz/1488/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", ishonch TV
+https://stream2.cinerama.uz/1489/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Ellikqala TV
+https://stream2.cinerama.uz/1495/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", 8TV
+https://stream2.cinerama.uz/1496/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Amudaryo TV
+https://stream2.cinerama.uz/1491/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Nasaf TV
+https://stream2.cinerama.uz/1492/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Jaslar TV
+https://stream2.cinerama.uz/1490/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Muloqot TV
+https://stream2.cinerama.uz/1285/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/08/22//42581c5407b1ecfcc533a153c0d3dc19-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", LiveTV
+https://stream2.cinerama.uz/1475/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", MakonTV HD
+https://stream2.cinerama.uz/1497/index.m3u8
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", MakonTV 
+https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН",Makon TV
+https://flussonic.salomtv.uz/Makon_TV/video.m3u8
+#EXTINF:-1 tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg" group-title="GRAND PLUS | УЗБЕКИСТАН", Denov TV
+https://stream2.cinerama.uz/1499/tracks-v1a1/mono.m3u8
 
 
 
@@ -4275,22 +4477,8 @@ http://95.142.86.181:9000/
 
 
 
-#EXTINF:-1 group-title="GRAND PLUS| SALOM UZ",O'zbekiston
-http://31.148.197.2:5001/
-#EXTINF:-1 group-title="GRAND PLUS| SALOM UZ", MY5 UZBEKISTAN 
-https://st.my5.media/hls/hd/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS| SALOM UZ",   Солнечный ТВ
-https://fl.biztv.media/stv_720_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND PLUS| SALOM UZ",  Sevimil
-http://31.148.197.2:7001/
-#EXTINF:-1 group-title="GRAND PLUS| SALOM UZ",Silk Way UZ
-http://pop3.akamaized.net/SilkwayUzbek.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png" group-title="GRAND PLUS| SALOM UZ", ITV Cinema
-https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png" group-title="GRAND PLUS| SALOM UZ", ITV Music
-https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS| SALOM UZ",  Уникум
 https://flussonic.salomtv.uz/Detskiy/video.m3u8
@@ -4304,8 +4492,7 @@ https://flussonic.salomtv.uz/domkino/video.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| SALOM UZ",  EURONEWS
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| SALOM UZ",  Makon TV
-https://flussonic.salomtv.uz/Makon_TV/video.m3u8
+
 
 #EXTINF:-1 group-title="GRAND PLUS| SALOM UZ",  Русский детектив
 https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
@@ -4325,182 +4512,7 @@ https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| SALOM UZ",  Eurosport 2 HD
 https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| SALOM UZ",  Futbol TV
-https://flussonic.salomtv.uz/FutbolTV/video.m3u8
 
-
-
-
-
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",  Denov TV
-https://stream2.cinerama.uz/1499/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",  Qiziq TV
-https://stream2.cinerama.uz/1291/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",  Retro UZ
-https://stream2.cinerama.uz/1290/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Dasturxon TV 
-https://stream2.cinerama.uz/1206/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Zo'r TV HD 
-https://stream2.cinerama.uz/1016/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Sevimli TV HD
-https://stream2.cinerama.uz/1017/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", My5 
-https://stream2.cinerama.uz/1012/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Milliy TV 
-https://stream2.cinerama.uz/1014/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", S Cinema 
-https://stream2.cinerama.uz/1498/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", S Music
-https://stream2.cinerama.uz/1245/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png" group-title="GRAND PLUS | CINERAMA UZ",  ITV Cinema
-https://stream2.cinerama.uz/4000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png" group-title="GRAND PLUS | CINERAMA UZ",  ITV Music
-https://stream2.cinerama.uz/4001/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Myday TV HD
-https://stream2.cinerama.uz/1265/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Renessans TV 
-https://stream2.cinerama.uz/1221/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Nurafshon TV UZ
-https://stream2.cinerama.uz/1220/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Aqlvoy
-https://stream2.cinerama.uz/1205/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Sevimlijon
-https://stream2.cinerama.uz//index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",MIMI TV
-https://stream2.cinerama.uz/1470/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", BizTV HD 
-https://stream2.cinerama.uz/1211/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Biz Music HD
-https://stream2.cinerama.uz/1212/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Biz Cinema HD
-https://stream2.cinerama.uz/1213/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Uzreport HD
-https://stream2.cinerama.uz/1015/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Lux TV HD
-https://stream2.cinerama.uz/1210/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Taraqqiyot TV 
-https://stream2.cinerama.uz/1204/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", S-IKBOL
-https://stream2.cinerama.uz/1282/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",  Gold Television 
-https://stream2.cinerama.uz/1019/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Ruxsor TV
-https://stream2.cinerama.uz/1260/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", FTV HD
-https://stream2.cinerama.uz/1018/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", NTV- NAVOIY
-https://stream2.cinerama.uz/1284/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",Istiqlol TV
-https://stream2.cinerama.uz/1283/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",Vodiy TV
-https://stream2.cinerama.uz/4012/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",TTV
-https://stream2.cinerama.uz/1494/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",TTV Kino
-https://stream2.cinerama.uz/1486/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",TTV MUSIQA
-https://stream2.cinerama.uz/1485/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",Makon TV
-https://stream2.cinerama.uz/1497/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",Jizzax TV
-https://stream2.cinerama.uz/1488/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",Ishonch TV
-https://stream2.cinerama.uz/1489/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",Ellikqola TV
-https://stream2.cinerama.uz/1495/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",8TV
-https://stream2.cinerama.uz/1496/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",AmudaryoTV
-https://stream2.cinerama.uz/1491/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",Nasaf TV
-https://stream2.cinerama.uz/1492/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",Jaslar TV
-https://stream2.cinerama.uz/1490/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",Live TV
-https://stream2.cinerama.uz/1475/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Muloqot TV
-https://stream2.cinerama.uz//index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",Shifo TV
-https://stream2.cinerama.uz/1469/index.m3u8
-
-
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Ozbekiston
-https://stream2.cinerama.uz/1001/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Yoshlar
-https://stream2.cinerama.uz/1002/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Toshkent
-https://stream2.cinerama.uz/1003/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Sport UZ HD
-https://stream2.cinerama.uz/1004/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Futbol TV
-https://stream2.cinerama.uz/1010/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Uzbekistan 24
-https://stream2.cinerama.uz/1011/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Bolajon
-https://stream2.cinerama.uz/1007/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Navo
-https://stream2.cinerama.uz/1008/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Madaniyat va Ma'rifat 
-https://stream2.cinerama.uz/1005/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Mahalla 
-https://stream2.cinerama.uz/1013/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Kinoteatr
-https://stream2.cinerama.uz/1009/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Ozbekiston Tarixi HD
-https://stream2.cinerama.uz/1209/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ", Dunyo bo`ylab 
-https://stream2.cinerama.uz/1006/index.m3u8
-#EXTINF:-1 group-title="GRAND PLUS | CINERAMA UZ",Fargona MTRK
-https://stream2.cinerama.uz/1458/index.m3u8
-
-
-
-#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",TAS-IX-MEDIA
-https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS | UZB TEST",Silk Way UZ
-https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="GRAND PLUS | UZB TEST",  BIZ Cinema (1080p)
-https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg" group-title="GRAND PLUS | UZB TEST",  BIZ Music (1080p)
-https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://biztv.uz/static/media/logo.5f993187.png" group-title="GRAND PLUS | UZB TEST",  BIZ TV (1080p)
-https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST", ITV CINEMA
-http://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  Makon TV
-https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v4FBm26.png" group-title="GRAND PLUS | UZB TEST",  Milliy
-http://milliy.tv/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v4FBm26.png" group-title="GRAND PLUS | UZB TEST",  Milliy tv
-http://serv1.milliy.tv/hls/index_480.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="../Channel/Logo/O'zbekiston.png" group-title="GRAND PLUS | UZB TEST",  O'zbekiston
-http://31.148.197.2:5001/
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | UZB TEST",  Sevimili HD
-http://31.148.197.2:7001/
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/J1X3QmF7XeYqjSzb0680kdrNlUYiVLg44VO3T_cY23-fq9VTxa55x4e31x00zoK1H7E=w240-h480-rw" group-title="GRAND PLUS | UZB TEST",  Travel-tv (O'zbekiston)
-https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
 
 
 
@@ -36817,1032 +36829,6 @@ http://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8
 #EXTINF:-1 group-title="GRAND+ | DIGITAL ТВ",   Eurosport 1
 http://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png" group-title="GRAND+ | IPORG TEST", Первый канал HD
-http://ip1.orgip.net/101/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png" group-title="GRAND+ | IPORG TEST", Первый канал
-http://ip1.orgip.net/0101/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png" group-title="GRAND+ | IPORG TEST", Первый канал (+2)
-http://ip1.orgip.net/180/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png" group-title="GRAND+ | IPORG TEST", Первый канал (+4)
-http://ip1.orgip.net/181/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png" group-title="GRAND+ | IPORG TEST", Первый канал (+6)
-http://ip1.orgip.net/192/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png" group-title="GRAND+ | IPORG TEST", Первый канал (+9)
-http://ip1.orgip.net/159/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_1_kanal.png" group-title="GRAND+ | IPORG TEST", Первый канал (-1)
-http://ip1.orgip.net/137/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png" group-title="GRAND+ | IPORG TEST", Россия 1 HD
-http://ip1.orgip.net/102/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png" group-title="GRAND+ | IPORG TEST", Россия 1
-http://ip1.orgip.net/0102/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png" group-title="GRAND+ | IPORG TEST", Россия 1 (+2)
-http://ip1.orgip.net/182/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png" group-title="GRAND+ | IPORG TEST", Россия 1 (+4)
-http://ip1.orgip.net/183/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png" group-title="GRAND+ | IPORG TEST", Россия 1 (+6)
-http://ip1.orgip.net/194/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png" group-title="GRAND+ | IPORG TEST", Россия 1 (+9)
-http://ip1.orgip.net/160/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya-1-ru.png" group-title="GRAND+ | IPORG TEST", Россия 1 (-1)
-http://ip1.orgip.net/138/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/rtr_planeta_ru.png" group-title="GRAND+ | IPORG TEST", РТР-Планета Европа
-http://ip1.orgip.net/131/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png" group-title="GRAND+ | IPORG TEST", НТВ HD
-http://ip1.orgip.net/103/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png" group-title="GRAND+ | IPORG TEST", НТВ
-http://ip1.orgip.net/0103/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png" group-title="GRAND+ | IPORG TEST", НТВ (+2)
-http://ip1.orgip.net/184/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png" group-title="GRAND+ | IPORG TEST", НТВ (+4)
-http://ip1.orgip.net/185/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png" group-title="GRAND+ | IPORG TEST", НТВ (+7)
-http://ip1.orgip.net/161/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png" group-title="GRAND+ | IPORG TEST", НТВ (-1)
-http://ip1.orgip.net/139/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv-hit-ru.png" group-title="GRAND+ | IPORG TEST", НТВ Хит
-http://ip1.orgip.net/1670/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru_serial.png" group-title="GRAND+ | IPORG TEST", НТВ Сериал
-http://ip1.orgip.net/661/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru_pravo.png" group-title="GRAND+ | IPORG TEST", НТВ Право
-http://ip1.orgip.net/662/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru_styl.png" group-title="GRAND+ | IPORG TEST", НТВ Стиль
-http://ip1.orgip.net/663/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-ru.png" group-title="GRAND+ | IPORG TEST", ТНТ HD
-http://ip1.orgip.net/104/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-ru.png" group-title="GRAND+ | IPORG TEST", ТНТ
-http://ip1.orgip.net/0104/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-ru.png" group-title="GRAND+ | IPORG TEST", ТНТ (+2)
-http://ip1.orgip.net/186/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-ru.png" group-title="GRAND+ | IPORG TEST", ТНТ (+4)
-http://ip1.orgip.net/177/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-ru.png" group-title="GRAND+ | IPORG TEST", ТНТ (+7)
-http://ip1.orgip.net/197/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-int.png" group-title="GRAND+ | IPORG TEST", ТНТ-International
-http://ip1.orgip.net/135/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt4-ru.png" group-title="GRAND+ | IPORG TEST", ТНТ4
-http://ip1.orgip.net/121/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ren-tv-ru.png" group-title="GRAND+ | IPORG TEST", РЕН ТВ HD
-http://ip1.orgip.net/106/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ren-tv-ru.png" group-title="GRAND+ | IPORG TEST", РЕН ТВ
-http://ip1.orgip.net/0106/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ren-tv-ru.png" group-title="GRAND+ | IPORG TEST", РЕН ТВ (+2)
-http://ip1.orgip.net/188/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ren-tv-ru.png" group-title="GRAND+ | IPORG TEST", РЕН ТВ (+5)
-http://ip1.orgip.net/193/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-ru.png" group-title="GRAND+ | IPORG TEST", СТС HD
-http://ip1.orgip.net/107/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-ru.png" group-title="GRAND+ | IPORG TEST", СТС
-http://ip1.orgip.net/0107/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-ru.png" group-title="GRAND+ | IPORG TEST", СТС (+2)
-http://ip1.orgip.net/189/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-ru.png" group-title="GRAND+ | IPORG TEST", СТС (+4)
-http://ip1.orgip.net/164/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-ru.png" group-title="GRAND+ | IPORG TEST", СТС (+6)
-http://ip1.orgip.net/190/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-love-ru.png" group-title="GRAND+ | IPORG TEST", СТС Love
-http://ip1.orgip.net/125/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/subbota-ru.png" group-title="GRAND+ | IPORG TEST", Суббота
-http://ip1.orgip.net/126/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/u_tv_ru.png" group-title="GRAND+ | IPORG TEST", Ю ТВ
-http://ip1.orgip.net/124/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/domashniy-ru.png" group-title="GRAND+ | IPORG TEST", Домашний
-http://ip1.orgip.net/110/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/domashniy-ru.png" group-title="GRAND+ | IPORG TEST", Домашний +2
-http://ip1.orgip.net/179/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/domashniy-ru.png" group-title="GRAND+ | IPORG TEST", Домашний +4
-http://ip1.orgip.net/174/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/domashniy-ru.png" group-title="GRAND+ | IPORG TEST", Домашний +6
-http://ip1.orgip.net/173/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_centr_ru.png" group-title="GRAND+ | IPORG TEST", ТВЦ
-http://ip1.orgip.net/109/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_centr_ru.png" group-title="GRAND+ | IPORG TEST", ТВ Центр +4
-http://ip1.orgip.net/176/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tvci.png" group-title="GRAND+ | IPORG TEST", ТВ Центр International
-http://ip1.orgip.net/141/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/5_kanal_ru.png" group-title="GRAND+ | IPORG TEST", Пятый Канал
-http://ip1.orgip.net/105/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/5_kanal_ru.png" group-title="GRAND+ | IPORG TEST", Пятый Канал (+2)
-http://ip1.orgip.net/187/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/5_kanal_ru.png" group-title="GRAND+ | IPORG TEST", Пятый Канал (+5)
-http://ip1.orgip.net/171/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/5_kanal_ru.png" group-title="GRAND+ | IPORG TEST", Пятый Канал (+7)
-http://ip1.orgip.net/168/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_zvezda_ru.png" group-title="GRAND+ | IPORG TEST", Звезда HD
-http://ip1.orgip.net/0108/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_zvezda_ru.png" group-title="GRAND+ | IPORG TEST", Звезда
-http://ip1.orgip.net/108/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_zvezda_ru.png" group-title="GRAND+ | IPORG TEST", Звезда (+2)
-http://ip1.orgip.net/191/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_zvezda_ru.png" group-title="GRAND+ | IPORG TEST", Звезда (+4)
-http://ip1.orgip.net/167/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_zvezda_ru.png" group-title="GRAND+ | IPORG TEST", Звезда (+6)
-http://ip1.orgip.net/198/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_3_ru.png" group-title="GRAND+ | IPORG TEST", ТВ3
-http://ip1.orgip.net/119/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_3_ru.png" group-title="GRAND+ | IPORG TEST", ТВ3 +3
-http://ip1.orgip.net/178/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_3_ru.png" group-title="GRAND+ | IPORG TEST", ТВ3 +5
-http://ip1.orgip.net/175/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/che-ru.png" group-title="GRAND+ | IPORG TEST", Че
-http://ip1.orgip.net/111/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/che-ru.png" group-title="GRAND+ | IPORG TEST", Че +2
-http://ip1.orgip.net/172/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/che-ru.png" group-title="GRAND+ | IPORG TEST", Че +4
-http://ip1.orgip.net/195/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/mir_ru.png" group-title="GRAND+ | IPORG TEST", Мир
-http://ip1.orgip.net/122/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/kvn_ru.png" group-title="GRAND+ | IPORG TEST", КВН ТВ
-http://ip1.orgip.net/120/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/anekdot_tv_ru.png" group-title="GRAND+ | IPORG TEST", Анекдот ТВ
-http://ip1.orgip.net/127/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/pyat_nitsa_ru.png" group-title="GRAND+ | IPORG TEST", Пятница HD
-http://ip1.orgip.net/112/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/pyat_nitsa_ru.png" group-title="GRAND+ | IPORG TEST", Пятница
-http://ip1.orgip.net/0112/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/pyat_nitsa_ru.png" group-title="GRAND+ | IPORG TEST", Пятница (+2)
-http://ip1.orgip.net/196/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/pyat_nitsa_ru.png" group-title="GRAND+ | IPORG TEST", Пятница (+4)
-http://ip1.orgip.net/169/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/centralnoe-tv-ru.png" group-title="GRAND+ | IPORG TEST", Центральное телевидение
-http://ip1.orgip.net/1400/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/sarafan_ru.png" group-title="GRAND+ | IPORG TEST", Сарафан
-http://ip1.orgip.net/133/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/rbk_tv_ru.png" group-title="GRAND+ | IPORG TEST", РБК-ТВ
-http://ip1.orgip.net/118/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/euronews_fr.png" group-title="GRAND+ | IPORG TEST", Euronews
-http://ip1.orgip.net/140/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya_24.png" group-title="GRAND+ | IPORG TEST", Россия-24
-http://ip1.orgip.net/113/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/360-degree-novosti-ru.png" group-title="GRAND+ | IPORG TEST", 360° Новости HD
-http://ip1.orgip.net/136/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/izvestiatv-ru.png" group-title="GRAND+ | IPORG TEST", Известия
-http://ip1.orgip.net/134/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/mir_24_ru.png" group-title="GRAND+ | IPORG TEST", Мир 24
-http://ip1.orgip.net/132/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/moskva_24_ru.png" group-title="GRAND+ | IPORG TEST", Москва 24
-http://ip1.orgip.net/114/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dozhd_ru.png" group-title="GRAND+ | IPORG TEST", Дождь
-http://ip1.orgip.net/130/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya_kultura.png" group-title="GRAND+ | IPORG TEST", Россия К +0
-http://ip1.orgip.net/117/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya_kultura.png" group-title="GRAND+ | IPORG TEST", Россия К +3
-http://ip1.orgip.net/170/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/otr_ru.png" group-title="GRAND+ | IPORG TEST", ОТР
-http://ip1.orgip.net/123/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal-spas-ru.png" group-title="GRAND+ | IPORG TEST", Спас
-http://ip1.orgip.net/128/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/soyuz_ru.png" group-title="GRAND+ | IPORG TEST", Союз
-http://ip1.orgip.net/129/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/gtrk_groznyj_ru.png" group-title="GRAND+ | IPORG TEST", Грозный
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/rgvk_dagestan_ru.png" group-title="GRAND+ | IPORG TEST",  РГВК Дагестан
-https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/belarus_by_1.png" group-title="GRAND+ | IPORG TEST",Беларусь 1
-http://ip1.orgip.net/381/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/belarus2.png" group-title="GRAND+ | IPORG TEST",Беларусь 2
-http://ip1.orgip.net/382/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/belarus3.png" group-title="GRAND+ | IPORG TEST",Беларусь 3
-http://ip1.orgip.net/383/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/vtv_by.png" group-title="GRAND+ | IPORG TEST",ВТВ Беларусь
-http://ip1.orgip.net/384/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/belros-ru.png" group-title="GRAND+ | IPORG TEST",БелРос
-http://ip1.orgip.net/380/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/stv-by.png" group-title="GRAND+ | IPORG TEST",СТВ Беларусь
-http://ip1.orgip.net/385/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/pervy-kanal-eurasia-kz.png" group-title="GRAND+ | IPORG TEST",Первый канал Евразия
-http://ip1.orgip.net/2110/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/kazakhstan.png" group-title="GRAND+ | IPORG TEST",Qazaqstan
-http://ip1.orgip.net/2103/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/astana-tv-kz.png" group-title="GRAND+ | IPORG TEST",Astana
-http://ip1.orgip.net/2107/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/7kanal-kz.png" group-title="GRAND+ | IPORG TEST",7 канал KZ
-http://ip1.orgip.net/2108/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ktk-kz.png" group-title="GRAND+ | IPORG TEST",КТК
-http://ip1.orgip.net/2109/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/xabar.png" group-title="GRAND+ | IPORG TEST",Хабар
-http://ip1.orgip.net/2106/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/khabar-24-kz.png" group-title="GRAND+ | IPORG TEST",Хабар 24
-http://ip1.orgip.net/2101/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/31-kanal-kz.png" group-title="GRAND+ | IPORG TEST",31 канал KZ
-http://ip1.orgip.net/2104/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ntk-kz.png" group-title="GRAND+ | IPORG TEST",НТК
-http://ip1.orgip.net/2105/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg" group-title="GRAND+ | IPORG TEST",МТРК
-http://ip1.orgip.net/2102/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg" group-title="GRAND+ | IPORG TEST",1 TV - Грузия
-http://ip1.orgip.net/5401/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg" group-title="GRAND+ | IPORG TEST",2 TV
-http://ip1.orgip.net/5402/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg" group-title="GRAND+ | IPORG TEST",Imedi
-http://ip1.orgip.net/5403/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/milliy.png" group-title="GRAND+ | IPORG TEST",Milliy
-http://ip1.orgip.net/5201/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/zor_tv.png" group-title="GRAND+ | IPORG TEST",Zor TV
-http://ip1.orgip.net/5202/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tv-biz-cinema.jpg" group-title="GRAND+ | IPORG TEST",Biz Cinema
-http://ip1.orgip.net/5203/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/biz_music.png" group-title="GRAND+ | IPORG TEST",Biz Music
-http://ip1.orgip.net/5205/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/my5-uz.png" group-title="GRAND+ | IPORG TEST",My 5
-http://ip1.orgip.net/5204/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/aztv.png" group-title="GRAND+ | IPORG TEST",AzTV
-http://ip1.orgip.net/5001/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/idman.png" group-title="GRAND+ | IPORG TEST",Idman
-http://ip1.orgip.net/5006/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/medeniyyet.png" group-title="GRAND+ | IPORG TEST",Medeniyyet TV
-http://ip1.orgip.net/5012/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ictimai-tv.png" group-title="GRAND+ | IPORG TEST",Ictimai
-http://ip1.orgip.net/5013/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg" group-title="GRAND+ | IPORG TEST",Azad Azərbaycan (ATV)
-http://ip1.orgip.net/5002/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/xezer.png" group-title="GRAND+ | IPORG TEST",Xezer
-http://ip1.orgip.net/5005/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/cbc-az.png" group-title="GRAND+ | IPORG TEST",CBC AZ
-http://ip1.orgip.net/5004/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/cbc-sport.png" group-title="GRAND+ | IPORG TEST",CBC Sport
-http://ip1.orgip.net/5008/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg" group-title="GRAND+ | IPORG TEST",Real TV Azərbaycan
-http://ip1.orgip.net/5014/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg" group-title="GRAND+ | IPORG TEST",Space TV
-http://ip1.orgip.net/5009/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg" group-title="GRAND+ | IPORG TEST",MTV Azərbaycan
-http://ip1.orgip.net/5011/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg" group-title="GRAND+ | IPORG TEST",Dünya TV Azərbaycan
-http://ip1.orgip.net/5010/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/belarus2.png" group-title="GRAND+ | IPORG TEST",Беларусь 2
-http://ip1.orgip.net/382/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/belarus3.png" group-title="GRAND+ | IPORG TEST",Беларусь 3
-http://ip1.orgip.net/383/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/vtv_by.png" group-title="GRAND+ | IPORG TEST",ВТВ Беларусь
-http://ip1.orgip.net/384/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/belros-ru.png" group-title="GRAND+ | IPORG TEST",БелРос
-http://ip1.orgip.net/380/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/stv-by.png" group-title="GRAND+ | IPORG TEST",СТВ Беларусь
-http://ip1.orgip.net/385/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/pervy-kanal-eurasia-kz.png" group-title="GRAND+ | IPORG TEST",Первый канал Евразия
-http://ip1.orgip.net/2110/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/kazakhstan.png" group-title="GRAND+ | IPORG TEST",Qazaqstan
-http://ip1.orgip.net/2103/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/astana-tv-kz.png" group-title="GRAND+ | IPORG TEST",Astana
-http://ip1.orgip.net/2107/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/7kanal-kz.png" group-title="GRAND+ | IPORG TEST",7 канал KZ
-http://ip1.orgip.net/2108/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ktk-kz.png" group-title="GRAND+ | IPORG TEST",КТК
-http://ip1.orgip.net/2109/video.m3u8?token=M4f082ab4c
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/CineMan.png" group-title="GRAND+ | IPORG TEST", CineMan
-http://ip1.orgip.net/682/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman_premium.png" group-title="GRAND+ | IPORG TEST", CineMan Premium
-http://ip1.orgip.net/1664/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManTOP.png" group-title="GRAND+ | IPORG TEST", CineMan Top
-http://ip1.orgip.net/683/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManAction.png" group-title="GRAND+ | IPORG TEST", CineMan Action
-http://ip1.orgip.net/689/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManMARVEL.png" group-title="GRAND+ | IPORG TEST", CineMan Marvel
-http://ip1.orgip.net/688/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManMelodrama.png" group-title="GRAND+ | IPORG TEST", CineMan Melodrama
-http://ip1.orgip.net/690/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManComedy.png" group-title="GRAND+ | IPORG TEST", CineMan Комедия
-http://ip1.orgip.net/691/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManThiller.png" group-title="GRAND+ | IPORG TEST", CineMan Thriller
-http://ip1.orgip.net/686/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-katastrofy.png" group-title="GRAND+ | IPORG TEST", CineMan Катастрофы
-http://ip1.orgip.net/693/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManUzhasy.png" group-title="GRAND+ | IPORG TEST", CineMan Ужасы
-http://ip1.orgip.net/692/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManVHS.png" group-title="GRAND+ | IPORG TEST", CineMan VHS
-http://ip1.orgip.net/685/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-skorpom.png" group-title="GRAND+ | IPORG TEST", CineMan Скорая помощь
-http://ip1.orgip.net/694/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManMiniSeries.png" group-title="GRAND+ | IPORG TEST", CineMan MiniSeries
-http://ip1.orgip.net/1662/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/Cineman-MW.png" group-title="GRAND+ | IPORG TEST", CineMan Ментовские Войны
-http://ip1.orgip.net/1657/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/CineMan-Pes.png" group-title="GRAND+ | IPORG TEST", CineMan ПёС
-http://ip1.orgip.net/1658/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/Cineman-Forester.png" group-title="GRAND+ | IPORG TEST", CineMan Лесник
-http://ip1.orgip.net/1659/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/amedia-premium-ru.png" group-title="GRAND+ | IPORG TEST", Amedia Premium
-http://ip1.orgip.net/624/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/amedia-hit-ru.png" group-title="GRAND+ | IPORG TEST", Amedia Hit
-http://ip1.orgip.net/625/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/a_media_ru_1.png" group-title="GRAND+ | IPORG TEST", А1 HD
-http://ip1.orgip.net/640/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/a_media_ru_2.png" group-title="GRAND+ | IPORG TEST", A2 HD
-http://ip1.orgip.net/641/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_premyera.png" group-title="GRAND+ | IPORG TEST", КИНОПРЕМЬЕРА HD
-http://ip1.orgip.net/613/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-premiere-se.png" group-title="GRAND+ | IPORG TEST", VIP Premiere
-http://ip1.orgip.net/605/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-megahit-se.png" group-title="GRAND+ | IPORG TEST", VIP Megahit
-http://ip1.orgip.net/606/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-comedy-se.png" group-title="GRAND+ | IPORG TEST", VIP Comedy
-http://ip1.orgip.net/607/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_hit.png" group-title="GRAND+ | IPORG TEST", КИНОХИТ
-http://ip1.orgip.net/608/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_miks.png" group-title="GRAND+ | IPORG TEST", КИНОМИКС
-http://ip1.orgip.net/609/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_semja.png" group-title="GRAND+ | IPORG TEST", КИНОСЕМЬЯ
-http://ip1.orgip.net/610/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_svidanie.png" group-title="GRAND+ | IPORG TEST", КИНОСВИДАНИЕ
-http://ip1.orgip.net/614/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_muzhskoe_kino.png" group-title="GRAND+ | IPORG TEST", МУЖСКОЕ КИНО
-http://ip1.orgip.net/633/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_medija.png" group-title="GRAND+ | IPORG TEST", Кинокомедия
-http://ip1.orgip.net/654/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/kinouzhas-ru.png" group-title="GRAND+ | IPORG TEST", Киноужас HD
-http://ip1.orgip.net/642/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/kinopokaz_ru.png" group-title="GRAND+ | IPORG TEST", Кинопоказ
-http://ip1.orgip.net/611/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/premialnoe-ru.png" group-title="GRAND+ | IPORG TEST", Премиальное HD
-http://ip1.orgip.net/612/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/hit-ru.png" group-title="GRAND+ | IPORG TEST", Хит HD
-http://ip1.orgip.net/665/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/kino_tv_ru.png" group-title="GRAND+ | IPORG TEST", КИНО ТВ
-http://ip1.orgip.net/600/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ostrosyuzhetnoye-ru.png" group-title="GRAND+ | IPORG TEST", Остросюжетное HD
-http://ip1.orgip.net/604/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/blokbaster-ru.png" group-title="GRAND+ | IPORG TEST", Блокбастер HD
-http://ip1.orgip.net/668/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/kinojam1.png" group-title="GRAND+ | IPORG TEST", Киноджем 1 HD
-http://ip1.orgip.net/698/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/kinojam2.png" group-title="GRAND+ | IPORG TEST", Киноджем 2 HD
-http://ip1.orgip.net/699/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/premierehd1.png" group-title="GRAND+ | IPORG TEST", Premiere HD 1
-http://ip1.orgip.net/1651/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/premierehd2.png" group-title="GRAND+ | IPORG TEST", Premiere HD 2
-http://ip1.orgip.net/1652/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/premierehd3.png" group-title="GRAND+ | IPORG TEST", Premiere HD 3
-http://ip1.orgip.net/1653/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/premierehd4.png" group-title="GRAND+ | IPORG TEST", Premiere HD 4
-http://ip1.orgip.net/1654/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_east.png" group-title="GRAND+ | IPORG TEST", TV 1000
-http://ip1.orgip.net/622/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_action.png" group-title="GRAND+ | IPORG TEST", TV1000 Action
-http://ip1.orgip.net/623/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/kinosat-ru.png" group-title="GRAND+ | IPORG TEST", Киносат
-http://ip1.orgip.net/653/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/kinoliving.png" group-title="GRAND+ | IPORG TEST", KinoLiving
-http://ip1.orgip.net/1663/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/kamedi.png" group-title="GRAND+ | IPORG TEST", Камеди HD
-http://ip1.orgip.net/676/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/komediynoe-ru.png" group-title="GRAND+ | IPORG TEST", Комедийное HD
-http://ip1.orgip.net/617/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/russkaya_komediya_ru.png" group-title="GRAND+ | IPORG TEST", Комедия
-http://ip1.orgip.net/671/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/shokiruyushchee-hd.png" group-title="GRAND+ | IPORG TEST", Шокирующее HD
-http://ip1.orgip.net/1661/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/strashnoe_hd_ru.png" group-title="GRAND+ | IPORG TEST", Страшное HD
-http://ip1.orgip.net/618/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/trashtv.png" group-title="GRAND+ | IPORG TEST", Trash
-http://ip1.orgip.net/674/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nastoyashee_strashnoe_tv_ru.png" group-title="GRAND+ | IPORG TEST", НСТ
-http://ip1.orgip.net/660/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/hollywood-hd-us-ru.png" group-title="GRAND+ | IPORG TEST", Hollywood HD
-http://ip1.orgip.net/669/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/hollywood-ru.png" group-title="GRAND+ | IPORG TEST", Hollywood
-http://ip1.orgip.net/634/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/paramount_comedy_ru.png" group-title="GRAND+ | IPORG TEST", Paramount Comedy Russia
-http://ip1.orgip.net/645/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/mir_seriala_ru.png" group-title="GRAND+ | IPORG TEST", Мир Сериала
-http://ip1.orgip.net/627/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_seriya.png" group-title="GRAND+ | IPORG TEST", Киносерия
-http://ip1.orgip.net/650/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dom_kino_ru_premium.png" group-title="GRAND+ | IPORG TEST", Дом Кино Премиум
-http://ip1.orgip.net/603/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dom_kino_ru.png" group-title="GRAND+ | IPORG TEST", Дом Кино
-http://ip1.orgip.net/635/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_nashe_novoe_kino.png" group-title="GRAND+ | IPORG TEST", Наше новое кино
-http://ip1.orgip.net/620/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nashe-ru.png" group-title="GRAND+ | IPORG TEST", Наше HD
-http://ip1.orgip.net/616/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nash-kinopokaz.png" group-title="GRAND+ | IPORG TEST", Наш Кинопоказ HD
-http://ip1.orgip.net/666/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_russkoe_kino.png" group-title="GRAND+ | IPORG TEST", TV1000 Русское кино
-http://ip1.orgip.net/621/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManRuKino.png" group-title="GRAND+ | IPORG TEST", CineMan РуКино
-http://ip1.orgip.net/687/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_rodnoe_kino.png" group-title="GRAND+ | IPORG TEST", Родное кино
-http://ip1.orgip.net/678/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/pobeda-ru.png" group-title="GRAND+ | IPORG TEST", Победа
-http://ip1.orgip.net/632/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/arsenal-ru.png" group-title="GRAND+ | IPORG TEST", Арсенал HD
-http://ip1.orgip.net/664/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_roman_ru.png" group-title="GRAND+ | IPORG TEST", Русский роман
-http://ip1.orgip.net/629/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nash_kinoroman_ru.png" group-title="GRAND+ | IPORG TEST", Наш Кинороман
-http://ip1.orgip.net/615/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/pro-lyubov.png" group-title="GRAND+ | IPORG TEST", Про Любовь HD
-http://ip1.orgip.net/667/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/romantichnoe-ru.png" group-title="GRAND+ | IPORG TEST", Романтичное HD
-http://ip1.orgip.net/1660/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dushevnoe-hd.png" group-title="GRAND+ | IPORG TEST", Душевное кино HD
-http://ip1.orgip.net/697/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_bestseller_ru.png" group-title="GRAND+ | IPORG TEST", Русский бестселлер
-http://ip1.orgip.net/630/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_detektiv_ru.png" group-title="GRAND+ | IPORG TEST", Русский детектив
-http://ip1.orgip.net/679/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_illusion_ru.png" group-title="GRAND+ | IPORG TEST", Русский Иллюзион
-http://ip1.orgip.net/631/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/illusion_plus.png" group-title="GRAND+ | IPORG TEST", Иллюзион +
-http://ip1.orgip.net/638/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/fenix_plus_kino.png" group-title="GRAND+ | IPORG TEST", Феникс+ Кино
-http://ip1.orgip.net/680/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/mosfilm.png" group-title="GRAND+ | IPORG TEST", Мосфильм. Золотая коллекция
-http://ip1.orgip.net/659/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/lubimoe_kino.png" group-title="GRAND+ | IPORG TEST", РТВ Любимое кино
-http://ip1.orgip.net/619/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/retro_tv_ru.png" group-title="GRAND+ | IPORG TEST", Ретро
-http://ip1.orgip.net/658/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/sony_scifi_ru.png" group-title="GRAND+ | IPORG TEST", Sony Sci-Fi
-http://ip1.orgip.net/648/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/fan-ru.png" group-title="GRAND+ | IPORG TEST", FAN HD
-http://ip1.orgip.net/518/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dorama-uk.png" group-title="GRAND+ | IPORG TEST", Дорама
-http://ip1.orgip.net/675/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/fox_global.png" group-title="GRAND+ | IPORG TEST", Fox
-http://ip1.orgip.net/626/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/fox-life-us.png" group-title="GRAND+ | IPORG TEST", Fox Life
-http://ip1.orgip.net/646/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/shot-tv-ru.png" group-title="GRAND+ | IPORG TEST", Shot TV
-http://ip1.orgip.net/657/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/epic-drama-se.png" group-title="GRAND+ | IPORG TEST", Epic Drama
-http://ip1.orgip.net/656/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/bolt.png" group-title="GRAND+ | IPORG TEST", Bolt
-http://ip1.orgip.net/637/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/telekarta_ru_cinema.png" group-title="GRAND+ | IPORG TEST", Cinema
-http://ip1.orgip.net/628/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tv21_lv.png" group-title="GRAND+ | IPORG TEST", TV XXI
-http://ip1.orgip.net/601/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/eurokino.png" group-title="GRAND+ | IPORG TEST", Еврокино
-http://ip1.orgip.net/602/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManSvaty.png" group-title="GRAND+ | IPORG TEST", CineMan Сваты
-http://ip1.orgip.net/684/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/star-cinema-ru.png" group-title="GRAND+ | IPORG TEST", Star Cinema
-http://ip1.orgip.net/643/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/star-family-ua.png" group-title="GRAND+ | IPORG TEST", Star Family
-http://ip1.orgip.net/673/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/kineko.png" group-title="GRAND+ | IPORG TEST", Кинеко
-http://ip1.orgip.net/639/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/sapfir.png" group-title="GRAND+ | IPORG TEST", Сапфир
-http://ip1.orgip.net/647/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg" group-title="GRAND+ | IPORG TEST", Кинозал! Интерны ТВ
-http://ip1.orgip.net/1655/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg" group-title="GRAND+ | IPORG TEST", Кинозал! Универ ТВ
-http://ip1.orgip.net/1656/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/sony.png" group-title="GRAND+ | IPORG TEST", .red
-http://ip1.orgip.net/695/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/sony-turbo.png" group-title="GRAND+ | IPORG TEST", .black
-http://ip1.orgip.net/649/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/bollywood_ru_hd.png" group-title="GRAND+ | IPORG TEST", Bollywood
-http://ip1.orgip.net/644/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_indisjkoe_kino.png" group-title="GRAND+ | IPORG TEST", Индийское кино
-http://ip1.orgip.net/651/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="https://mitv-cinema.ru/epg/logo.png" group-title="GRAND+ | IPORG TEST",  MiTV Фронт
-http://server-1.mitv-iptv.ru/0002/index.m3u8?token=aXB0dnNoYW1zOnNhbTU1NTU1
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/CartoonsBIG.png" group-title="GRAND+ | IPORG TEST",Cartoons Big
-http://ip1.orgip.net/520/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/CartoonsSHORT.png" group-title="GRAND+ | IPORG TEST",Cartoons Short
-http://ip1.orgip.net/521/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/Cartoons90.png" group-title="GRAND+ | IPORG TEST",Cartoons 90
-http://ip1.orgip.net/519/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-simps.png" group-title="GRAND+ | IPORG TEST",CineMan Симпсоны
-http://ip1.orgip.net/522/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/mult_ru.png" group-title="GRAND+ | IPORG TEST",Мульт
-http://ip1.orgip.net/501/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/karusel_tv.png" group-title="GRAND+ | IPORG TEST",Карусель
-http://ip1.orgip.net/116/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/unicum.png" group-title="GRAND+ | IPORG TEST",Уникум
-http://ip1.orgip.net/503/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/v_gostyakh_u_skazki_ru.png" group-title="GRAND+ | IPORG TEST",В гостях у сказки
-http://ip1.orgip.net/505/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/detski_mir_ru.png" group-title="GRAND+ | IPORG TEST",Детский мир
-http://ip1.orgip.net/510/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_o_ru.png" group-title="GRAND+ | IPORG TEST",О!
-http://ip1.orgip.net/515/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-kids-ru.png" group-title="GRAND+ | IPORG TEST",СТС Kids HD
-http://ip1.orgip.net/517/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/supergeroi.png" group-title="GRAND+ | IPORG TEST",Супергерои
-http://ip1.orgip.net/525/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/multilandia-ru.png" group-title="GRAND+ | IPORG TEST",Мультиландия
-http://ip1.orgip.net/516/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tiji_fr_russia.png" group-title="GRAND+ | IPORG TEST",Tiji
-http://ip1.orgip.net/502/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/gulli-girl-fr-ru.png" group-title="GRAND+ | IPORG TEST",Gulli Girl
-http://ip1.orgip.net/511/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg" group-title="GRAND+ | IPORG TEST",Солнце
-http://ip1.orgip.net/500/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nickelodeon_us_hd.png" group-title="GRAND+ | IPORG TEST",Nickelodeon HD
-http://ip1.orgip.net/504/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nickelodeon_us.png" group-title="GRAND+ | IPORG TEST",Nickelodeon
-http://ip1.orgip.net/0504/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nick_jr_us.png" group-title="GRAND+ | IPORG TEST",Nick Jr
-http://ip1.orgip.net/512/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/cartoon_network_global.png" group-title="GRAND+ | IPORG TEST",Cartoon Network HD
-http://ip1.orgip.net/506/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/boomerang_global.png" group-title="GRAND+ | IPORG TEST",Boomerang
-http://ip1.orgip.net/514/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_2x2_ru.png" group-title="GRAND+ | IPORG TEST",2x2
-http://ip1.orgip.net/524/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/jimjam-uk.png" group-title="GRAND+ | IPORG TEST",JimJam
-http://ip1.orgip.net/507/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/multimuzyka.png" group-title="GRAND+ | IPORG TEST",МультиМузыка
-http://ip1.orgip.net/523/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/malyatko_tv.png" group-title="GRAND+ | IPORG TEST",Малятко TV
-http://ip1.orgip.net/508/video.m3u8?token=M4f082ab4c
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/match-premier-ru.png" group-title="GRAND+ | IPORG TEST",МАТЧ ПРЕМЬЕР
-http://ip1.orgip.net/208/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/match-premier-ru.png" group-title="GRAND+ | IPORG TEST",МАТЧ ПРЕМЬЕР SD
-http://ip1.orgip.net/0208/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_tv.png" group-title="GRAND+ | IPORG TEST",Матч ТВ
-http://ip1.orgip.net/207/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_futbol_1.png" group-title="GRAND+ | IPORG TEST",Матч! Футбол 1
-http://ip1.orgip.net/202/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_futbol_2.png" group-title="GRAND+ | IPORG TEST",Матч! Футбол 2
-http://ip1.orgip.net/203/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_futbol_3.png" group-title="GRAND+ | IPORG TEST",Матч! Футбол 3
-http://ip1.orgip.net/204/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_igra.png" group-title="GRAND+ | IPORG TEST",Матч! Игра
-http://ip1.orgip.net/205/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_arena.png" group-title="GRAND+ | IPORG TEST",Матч! Арена
-http://ip1.orgip.net/206/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_planeta.png" group-title="GRAND+ | IPORG TEST",Матч! Планета
-http://ip1.orgip.net/211/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/match-strana-ru.png" group-title="GRAND+ | IPORG TEST",МАТЧ! СТРАНА
-http://ip1.orgip.net/209/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_boets.png" group-title="GRAND+ | IPORG TEST",МАТЧ! Боец
-http://ip1.orgip.net/210/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta-ua.png" group-title="GRAND+ | IPORG TEST",Setanta Sports Ukraine HD
-http://ip1.orgip.net/222/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta-plus-ua.png" group-title="GRAND+ | IPORG TEST",SETANTA SPORTS+ HD
-http://ip1.orgip.net/214/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta-kz.png" group-title="GRAND+ | IPORG TEST",Setanta Qazaqstan HD
-http://ip1.orgip.net/228/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta_sports_1.jpg" group-title="GRAND+ | IPORG TEST",SETANTA SPORTS HD
-http://ip1.orgip.net/220/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta_sports_2.jpg" group-title="GRAND+ | IPORG TEST",Setanta Sports 2
-http://ip1.orgip.net/221/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/sport1_ua.png" group-title="GRAND+ | IPORG TEST",Спорт 1
-http://ip1.orgip.net/213/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_1.png" group-title="GRAND+ | IPORG TEST",Eurosport
-http://ip1.orgip.net/200/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_2.png" group-title="GRAND+ | IPORG TEST",Eurosport 2
-http://ip1.orgip.net/201/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat-sport-east-se.png" group-title="GRAND+ | IPORG TEST",Viasat Sport
-http://ip1.orgip.net/215/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/m-1-global-tv-ru.png" group-title="GRAND+ | IPORG TEST",M-1 Global
-http://ip1.orgip.net/223/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/fight_box_hd.png" group-title="GRAND+ | IPORG TEST",FightBox
-http://ip1.orgip.net/224/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ufc-tv-rossiya-us-ru.png" group-title="GRAND+ | IPORG TEST",Удар HD
-http://ip1.orgip.net/227/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/boks_tv_ru.png" group-title="GRAND+ | IPORG TEST",Бокс ТВ
-http://ip1.orgip.net/216/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/x-sport-ua.png" group-title="GRAND+ | IPORG TEST",XSPORT
-http://ip1.orgip.net/217/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/khl_ru_hd.png" group-title="GRAND+ | IPORG TEST",КХЛ HD
-http://ip1.orgip.net/218/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/khl_ru.png" group-title="GRAND+ | IPORG TEST",КХЛ ТВ
-http://ip1.orgip.net/225/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/belorys5.jpg" group-title="GRAND+ | IPORG TEST",Беларусь 5
-http://ip1.orgip.net/219/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_start.png" group-title="GRAND+ | IPORG TEST",Старт
-http://ip1.orgip.net/226/video.m3u8?token=M4f082ab4c
-
-
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nat_geo_us.png" group-title="GRAND+ | IPORG TEST", National Geographic HD
-http://ip1.orgip.net/402/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/discovery-channel-east-us.png" group-title="GRAND+ | IPORG TEST", Discovery Channel HD
-http://ip1.orgip.net/401/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/discovery-science-france-us-fr.png" group-title="GRAND+ | IPORG TEST", Discovery Science HD
-http://ip1.orgip.net/444/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/hdl-ru.png" group-title="GRAND+ | IPORG TEST", HDL HD
-http://ip1.orgip.net/412/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nauka_ru.png" group-title="GRAND+ | IPORG TEST", Наука HD
-http://ip1.orgip.net/406/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/kosmichesky.png" group-title="GRAND+ | IPORG TEST", Первый космический
-http://ip1.orgip.net/418/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/galaxy_tv_ru.png" group-title="GRAND+ | IPORG TEST", Galaxy
-http://ip1.orgip.net/447/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/tlc_uk.png" group-title="GRAND+ | IPORG TEST", TLC
-http://ip1.orgip.net/413/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/discovery_turbo_us_xtra.png" group-title="GRAND+ | IPORG TEST", DTX HD
-http://ip1.orgip.net/445/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/investigation_discovery_us.png" group-title="GRAND+ | IPORG TEST", ID Xtra
-http://ip1.orgip.net/443/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/animal-planet-us.png" group-title="GRAND+ | IPORG TEST", Animal Planet
-http://ip1.orgip.net/400/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nat_geo_wild_us.png" group-title="GRAND+ | IPORG TEST", Nat Geo Wild
-http://ip1.orgip.net/403/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/love_nature_ca.png" group-title="GRAND+ | IPORG TEST", Love Nature 4K
-http://ip1.orgip.net/446/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat-nature-history-hd.png" group-title="GRAND+ | IPORG TEST", Viasat Nature/History HD
-http://ip1.orgip.net/407/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_nature_hd.png" group-title="GRAND+ | IPORG TEST", Viasat Nature
-http://ip1.orgip.net/449/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/rtg_russian_travel_guide.png" group-title="GRAND+ | IPORG TEST", RTG TV
-http://ip1.orgip.net/411/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/travel_channel_us.png" group-title="GRAND+ | IPORG TEST", Travel Channel
-http://ip1.orgip.net/409/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/travel_adventure_channel_ru.png" group-title="GRAND+ | IPORG TEST", Travel+Adventure
-http://ip1.orgip.net/416/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/moya-planeta-ru.png" group-title="GRAND+ | IPORG TEST", Моя Планета
-http://ip1.orgip.net/404/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_explore_ru.png" group-title="GRAND+ | IPORG TEST", Viasat Explore
-http://ip1.orgip.net/417/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/history_us.png" group-title="GRAND+ | IPORG TEST", History
-http://ip1.orgip.net/414/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/h2-latinoamerica-us.png" group-title="GRAND+ | IPORG TEST", History2
-http://ip1.orgip.net/415/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/terra-ru.png" group-title="GRAND+ | IPORG TEST", Terra
-http://ip1.orgip.net/0402/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_history.png" group-title="GRAND+ | IPORG TEST", Viasat History
-http://ip1.orgip.net/410/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/365_dnei_tv_ru.png" group-title="GRAND+ | IPORG TEST", 365 дней ТВ
-http://ip1.orgip.net/432/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/avto24_ru.png" group-title="GRAND+ | IPORG TEST", Авто24
-http://ip1.orgip.net/408/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/soversheno_sekretno_ru.png" group-title="GRAND+ | IPORG TEST", Совершенно секретно
-http://ip1.orgip.net/430/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/vremya_ru.png" group-title="GRAND+ | IPORG TEST", Время
-http://ip1.orgip.net/431/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nostalgia_ru.png" group-title="GRAND+ | IPORG TEST", Ностальгия
-http://ip1.orgip.net/433/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/kto_est_kto_ru.png" group-title="GRAND+ | IPORG TEST", Кто есть кто
-http://ip1.orgip.net/434/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/ohotnik-i-rybolov-ru.png" group-title="GRAND+ | IPORG TEST", Охотник и рыболов
-http://ip1.orgip.net/405/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/dikiy.png" group-title="GRAND+ | IPORG TEST", Дикий
-http://ip1.orgip.net/439/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/okhota-i-rybalka-ru.png" group-title="GRAND+ | IPORG TEST", Охота и Рыбалка
-http://ip1.orgip.net/438/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/bober_tv_ru.png" group-title="GRAND+ | IPORG TEST", Бобёр
-http://ip1.orgip.net/436/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/kuhnya_tv.png" group-title="GRAND+ | IPORG TEST", Кухня ТВ
-http://ip1.orgip.net/435/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/telecafe_ru.png" group-title="GRAND+ | IPORG TEST", Телекафе
-http://ip1.orgip.net/437/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal-doktor-ru.png" group-title="GRAND+ | IPORG TEST", Доктор
-http://ip1.orgip.net/448/video.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/nasha_sibir.png" group-title="GRAND+ | IPORG TEST", Наша Сибирь
-http://ip1.orgip.net/429/video.m3u8?token=M4f082ab4c
 
 
 
