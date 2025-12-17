@@ -475,47 +475,47 @@ http://195.9.195.3:8080/hls/208789.m3u8
 #EXTGRP:GRAND PLUS| КИНОStream
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/manifest/215425_master.m3u8
-#EXTINF:-1 tvg-name="Orb3" tvg-logo="https://headicon.trovo.live/user/ylhhabqaaaaaazmme4nrkeo3cy.png" group-title="🎞️ Вечерний КиноStream", Orb3
+#EXTINF:-1 tvg-name="Orb3" tvg-logo="https://headicon.trovo.live/user/ylhhabqaaaaaazmme4nrkeo3cy.png" group-title="GRAND PLUS| КИНОStream", Orb3
 #EXTGRP:GRAND PLUS| КИНОStream
 #EXTVLCOPT:http-referrer=https://trovo.live/
 https://liveplay.trovo.live/live/73846_108056258_108056258.m3u8?bizid=73846&txSecret=ae1af9264b9f8da624d9da3694fc4249&txTime=6729f87a&_bmlj_t=ChxYeW5LbEZ2TW93UlJSMU1PYVh0QklsM3JBYkk9EiRhZjljNGRiOC1iZjQ5LTQxOTEtYjcwMC1iODk0ZDBkZWQxOGEaHjEwODA1NjI1OF8xMDgwNTYyNThfMTczMDE5OTAzNCDxpIS5BjIZNzM4NDZfMTA4MDU2MjU4XzEwODA1NjI1OEINODkuMTYzLjIzMS42NkobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUAQ%3D
-#EXTINF:-1 tvg-name="Melek___" tvg-logo="https://headicon.trovo.live/user/2l7xgbqaaaaaby365l2bw4g2cy.jpeg" group-title="🎞️ Вечерний КиноStream", Melek___
+#EXTINF:-1 tvg-name="Melek___" tvg-logo="https://headicon.trovo.live/user/2l7xgbqaaaaaby365l2bw4g2cy.jpeg" group-title="GRAND PLUS| КИНОStream", Melek___
 #EXTGRP:GRAND PLUS| КИНОStream
 #EXTVLCOPT:http-referrer=https://trovo.live/
 https://liveplay.trovo.live/live/73846_108265426_108265426.m3u8?bizid=73846&txSecret=459913d4b17f833811ef1e752596246b&txTime=672a4fab&_bmlj_t=ChxIcmxJN1FONUV3TWM5S1VhUzFJZnQ4Vko5d3M9EiQwZDI1ZTY5ZC01ZWU0LTQ3ZWEtOTBjMC0wMDY4MWI5YzQxMDcaHjEwODI2NTQyNl8xMDgyNjU0MjZfMTczMDIyMTM1NSDhrIS5BjIZNzM4NDZfMTA4MjY1NDI2XzEwODI2NTQyNkINODkuMTYzLjIzMS42NkobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUAQ%3D
-#EXTINF:-1 tvg-name="Ben_Dementev" tvg-logo="https://headicon.trovo.live/user/va5iabqaaaaablmh4cs5eppdcy.jpeg" group-title="🎞️ Вечерний КиноStream", Ben_Dementev
+#EXTINF:-1 tvg-name="Ben_Dementev" tvg-logo="https://headicon.trovo.live/user/va5iabqaaaaablmh4cs5eppdcy.jpeg" group-title="GRAND PLUS| КИНОStream", Ben_Dementev
 #EXTGRP:GRAND PLUS| КИНОStream
 #EXTVLCOPT:http-referrer=https://trovo.live/
 https://liveplay.trovo.live/live/73846_109066920_109066920.flv?bizid=73846&txSecret=065c5648cc425386052c7c5d22e0f35c&txTime=67e940c6&_bmlj_t=ChwvYWxqcmVteUlQSFptU3h2eEF1di9oakhxZE09EiQ0OWNlYjZiYS1mMzUyLTRkNWMtYjhiNi1jMDYxNGY3OTkyM2QaHjEwOTA2NjkyMF8xMDkwNjY5MjBfMTc0MjczNDkxOCCM3oC%2FBiiP%2BMQ3Mhk3Mzg0Nl8xMDkwNjY5MjBfMTA5MDY2OTIwQg40Ni4xMzguMTUxLjIzMUobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSNTIzODA4ODcwNDI1MDMxOTA4kAEE&playScene=innerSite&pvid=523808870425031908&_f_=1742745361055
-#EXTINF:-1 tvg-name="uze_Ne_devo4ka" tvg-logo="https://headicon.trovo.live/user/j64ogbqaaaaaa4r3y33mebnvc4.jpeg" group-title="🎞️ Вечерний КиноStream", uze_Ne_devo4ka
+#EXTINF:-1 tvg-name="uze_Ne_devo4ka" tvg-logo="https://headicon.trovo.live/user/j64ogbqaaaaaa4r3y33mebnvc4.jpeg" group-title="GRAND PLUS| КИНОStream", uze_Ne_devo4ka
 #EXTGRP:GRAND PLUS| КИНОStream
 #EXTVLCOPT:http-referrer=https://trovo.live/
 https://liveplay.trovo.live/live/73846_115587151_115587151.flv?bizid=73846&txSecret=305f1b3d1852b166b090184c596d35b8&txTime=692477ac&_bmlj_t=ChxTb3puNmJSRjJUQXZ1bU9LMmtldTVCMFdiOUE9EiQ1YWMzNDJhOS00MGY5LTQ0ODYtYThlNy0wNzgxMzJhNmE4MGMaHjExNTU4NzE1MV8xMTU1ODcxNTFfMTc2MzM5MjgxMiClv%2B3IBiiP%2BMQ3Mhk3Mzg0Nl8xMTU1ODcxNTFfMTE1NTg3MTUxQg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSOTgyMTk0MDczNjI1MDkxMDIwkAEE&playScene=innerSite&pvid=982194073625091020&_f_=1763401638917
-#EXTINF:-1 tvg-name="Doza_LLIokolada" tvg-logo="https://headicon.trovo.live/user/hjpuabqaaaaaa3a7436l6t73cy.png" group-title="🎞️ Вечерний КиноStream",Doza_LLIokolada
+#EXTINF:-1 tvg-name="Doza_LLIokolada" tvg-logo="https://headicon.trovo.live/user/hjpuabqaaaaaa3a7436l6t73cy.png" group-title="GRAND PLUS| КИНОStream", Doza_LLIokolada
 #EXTGRP:GRAND PLUS| КИНОStream
 #EXTVLCOPT:http-referrer=https://trovo.live/
 https://liveplay.trovo.live/live/73846_104881978_104881978.m3u8?bizid=73846&txSecret=f09cc0c2cf62f4d7f12e742441252900&txTime=6729fe25&_bmlj_t=Chx3K3JtdlZ2M0MvVDY3enlGNTBVTlpMb0dFczA9EiQ1ODEzOTYxZC1hNTZmLTQzOTEtYTA4ZC0wZGE1N2FhYWVlY2UaHjEwNDg4MTk3OF8xMDQ4ODE5NzhfMTczMDIwMDQ4NSCo94O5BjIZNzM4NDZfMTA0ODgxOTc4XzEwNDg4MTk3OEINODkuMTYzLjIzMS42NkobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUAQ%3D
-#EXTINF:-1 tvg-name="AutisticCulture" tvg-logo="https://headicon.trovo.live/user/hrgtobqaaaaaai5ny34lhkezcy.png" group-title="🎞️ Вечерний КиноStream",AutisticCulture
+#EXTINF:-1 tvg-name="AutisticCulture" tvg-logo="https://headicon.trovo.live/user/hrgtobqaaaaaai5ny34lhkezcy.png" group-title="GRAND PLUS| КИНОStream", AutisticCulture
 #EXTGRP:GRAND PLUS| КИНОStream
 #EXTVLCOPT:http-referrer=https://trovo.live/
 https://liveplay.trovo.live/live/73846_104287548_104287548.flv?bizid=73846&txSecret=297a61c13cf7ae66999d7dbd8f67e270&txTime=68b1ab09&_bmlj_t=ChxMbTYwbU5LWHVsc2t1bzNwN0d5M1YzR0lVME09EiRkZDFmYTBjMC1kMjE4LTQyZmMtODg4My0xY2U4Y2JkODFmMjkaHjEwNDI4NzU0OF8xMDQyODc1NDhfMTc1NTg2OTMyMSCNvqLFBiiP%2BMQ3Mhk3Mzg0Nl8xMDQyODc1NDhfMTA0Mjg3NTQ4Qg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoQNDgwMzE3NDQyNTA0MTkwOJABBA%3D%3D&playScene=innerSite&pvid=4803174425041908&_f_=1755881233708
-#EXTINF:-1 tvg-name="Hecate" tvg-logo="https://i.pinimg.com/474x/17/8f/8f/178f8f95b7012a784067c1a8dd764309.jpg" group-title="🎞️ Вечерний КиноStream",Hecate
+#EXTINF:-1 tvg-name="Hecate" tvg-logo="https://i.pinimg.com/474x/17/8f/8f/178f8f95b7012a784067c1a8dd764309.jpg" group-title="GRAND PLUS| КИНОStream", Hecate
 #EXTGRP:GRAND PLUS| КИНОStream
 #EXTVLCOPT:http-referrer=https://trovo.live/
 https://liveplay.trovo.live/live/73846_110718418_110718418.flv?bizid=73846&txSecret=46c4d538bd66ac89675a494db318d635&txTime=68b31abd&_bmlj_t=ChxQV1crYmltbXlFWnVNVGE0M2xUNlk2TzA3alU9EiQ1NmYyYmEyMy0yYjc2LTQ1YWMtYWJhNy1kZTUwNTVjNGFiZjgaHjExMDcxODQxOF8xMTA3MTg0MThfMTc1NTk2MzQ1MyDF06fFBijr19szMhk3Mzg0Nl8xMTA3MTg0MThfMTEwNzE4NDE4Qg0xNzIuMjUuMzAuMTc4ShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4OTA1MDM0NzUyMjQxMTAxMTaQAQQ%3D&playScene=innerSite&pvid=4803174425041908&_f_=1755965943172
-#EXTINF:-1 tvg-name="Yaasya_" tvg-logo="https://headicon.trovo.live/user/l3mgebqaaaaaamtqxktm5komcy.jpeg" group-title="🎞️ Вечерний КиноStream",Yaasya_
+#EXTINF:-1 tvg-name="Yaasya_" tvg-logo="https://headicon.trovo.live/user/l3mgebqaaaaaamtqxktm5komcy.jpeg" group-title="GRAND PLUS| КИНОStream", Yaasya_
 #EXTGRP:GRAND PLUS| КИНОStream
 #EXTVLCOPT:http-referrer=https://trovo.live/
 https://liveplay.trovo.live/live/73846_107141214_107141214.flv?bizid=73846&txSecret=bfb891d85da7d19891f997f09078b6ef&txTime=68b31502&_bmlj_t=Chw5Zyt6cmNsQjd2UllVNEdlZ0VFbysvV28xOUE9EiQ5YzFhMjUwNi0wZjgwLTQ5YzUtODFlOC1jNDAyOTE2NzNlY2YaHjEwNzE0MTIxNF8xMDcxNDEyMTRfMTc1NTk2MTk4NiCq1afFBiiP%2BMQ3Mhk3Mzg0Nl8xMDcxNDEyMTRfMTA3MTQxMjE0Qg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoQNDgwMzE3NDQyNTA0MTkwOJABBA%3D%3D&playScene=innerSite&pvid=4803174425041908&_f_=1755966126417
-#EXTINF:-1 tvg-name="wisewolf" tvg-logo="https://headicon.trovo.live/user/qwyfkbqaaaaaamxrfgvjyhv7cy.jpeg" group-title="🎞️ Вечерний КиноStream",wisewolf
+#EXTINF:-1 tvg-name="wisewolf" tvg-logo="https://headicon.trovo.live/user/qwyfkbqaaaaaamxrfgvjyhv7cy.jpeg" group-title="GRAND PLUS| КИНОStream", wisewolf
 #EXTGRP:GRAND PLUS| КИНОStream
 #EXTVLCOPT:http-referrer=https://trovo.live/
 https://sto-prod-catalyst-3.livepeer.fun/video+8079n1t2oi109tnw.flv?accessKey=4803174425041908&buffer=10&livepeer=1&startunix=-10&trovoFlv=1&video=5000kbps&_bmlj_t=ChxGeUFiM05zaFpIQTgvZ2d4L1AyOHNZcGluZlU9EiQwNzAxOTRjZi04ZjRhLTQwYzYtODgwYy04ZjA3YWNjYjQzN2QaHjEwNjI3OTA0NV8xMDYyNzkwNDVfMTc1NTk2MjA5OCC916fFBiiP%2BMQ3MhA4MDc5bjF0Mm9pMTA5dG53ONg2Qg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoQNDgwMzE3NDQyNTA0MTkwOJABBA%3D%3D&playScene=innerSite&pvid=4803174425041908&_f_=1755966403297
-#EXTINF:-1 tvg-name="DeS66" tvg-logo="https://headicon.trovo.live/user/urnv6bqaaaaaalluyramrh6mcy.jpeg" group-title="🎞️ Вечерний КиноStream",DeS66
+#EXTINF:-1 tvg-name="DeS66" tvg-logo="https://headicon.trovo.live/user/urnv6bqaaaaaalluyramrh6mcy.jpeg" group-title="GRAND PLUS| КИНОStream", DeS66
 #EXTGRP:GRAND PLUS| КИНОStream
 #EXTVLCOPT:http-referrer=https://trovo.live/
 https://sto-prod-catalyst-0.livepeer.fun/video+7bdegsutisc3icoa.flv?accessKey=4803174425041908&buffer=10&livepeer=1&startunix=-10&trovoFlv=1&video=5000kbps&_bmlj_t=Chx4Rm54TzA3UXJVUTVra3hTb0s0dGI2V3prdEk9EiQyOGMwNGViYy04MDUxLTQ3MTItOGNhOC1iNWMxYzY3ZGMyZGIaHjEwNjkxMjY3Nl8xMDY5MTI2NzZfMTc1NjIyODI0MiC%2B1LzFBiiP%2BMQ3MhA3YmRlZ3N1dGlzYzNpY29hONg2Qg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoQNDgwMzE3NDQyNTA0MTkwOJABBA%3D%3D&playScene=innerSite&pvid=4803174425041908&_f_=1756310085308
-#EXTINF:-1 tvg-name="AkellaPrm59" tvg-logo="https://custom-file.trovo.live/file/space_face/104273410/1727903194.png" group-title="🎞️ Вечерний КиноStream",AkellaPrm59
+#EXTINF:-1 tvg-name="AkellaPrm59" tvg-logo="https://custom-file.trovo.live/file/space_face/104273410/1727903194.png" group-title="GRAND PLUS| КИНОStream", AkellaPrm59
 #EXTGRP:GRAND PLUS| КИНОStream
 #EXTVLCOPT:http-referrer=https://trovo.live/
 https://sto-prod-catalyst-0.livepeer.fun/video+a1981zrcjvhoc729.flv?accessKey=982194073625091020&buffer=10&livepeer=1&startunix=-10&trovoFlv=1&video=5000kbps&_bmlj_t=ChxFb3N3eVRpSFBtcE0xZ2VXcTl0dXFFMzhFcnM9EiQ0NTk5MGZkYi04Y2E0LTQ5ZTQtOTBiOS04YWEyNzQxMGFiMTcaHjEwNDI3MzQxMF8xMDQyNzM0MTBfMTc1NzUxNTYyNiCV74bGBiiP%2BMQ3MhBhMTk4MXpyY2p2aG9jNzI5ONg2Qg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSOTgyMTk0MDczNjI1MDkxMDIwkAEE&playScene=innerSite&pvid=982194073625091020&_f_=1757525915466
@@ -646,7 +646,7 @@ https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8
 #EXTINF:-1 tvg-name="КиноСезон" tvg-logo="https://www.cableman.ru/sites/default/files/kinosezon.png?1570452106", КиноСезон
 #EXTGRP:GRAND PLUS| КИНОStream
 https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d3db48c1eca37527e836ab81636ac589b9/lvl1.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="Кинозалы" tvg-logo="https://cinemaplex.ru/wp-content/uploads/2018/03/unnamed-optimized.jpg", Star Media
+#EXTINF:-1 tvg-id="no_epg" group-title="GRAND PLUS| КИНОStream" tvg-logo="https://cinemaplex.ru/wp-content/uploads/2018/03/unnamed-optimized.jpg", Star Media
 #EXTGRP:GRAND PLUS| КИНОStream
 https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kino-i-zhizn" tvg-name="Кино и жизнь" tvg-logo="https://sun9-49.userapi.com/impg/5Mf8OrjKw5p0V2PpayneFcA35XuVsPWeJxgOCw/vNwHk1FvHF8.jpg?size=800x800&quality=95&sign=635199fd6f73fe35d2621912eee1976b&type=album", Кино и Жизнь
