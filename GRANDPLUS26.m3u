@@ -438,6 +438,516 @@ http://195.9.195.3:8080/hls/175789.m3u8
 http://195.9.195.3:8080/hls/215020.m3u8
 
 
+#EXTINF:-1 tvg-name="Мультимания" tvg-logo="https://i.ibb.co/1d5f5Xs/Screenshot-1.png" group-title="GRAND PLUS| МультStream", Мультимания
+#EXTGRP:GRAND PLUS| МультStream
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Пингвин Лоло" tvg-logo="https://www.cableman.ru/sites/default/files/pingvin_lolo_obychnyy_0_0.png" group-title="GRAND PLUS| МультStream", Пингвин Лоло
+#EXTGRP:GRAND PLUS| МультStream
+http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Мультики и Сказки HD" tvg-logo="https://goodgame.ru/files/logotypes/ch_198446_JH9R_logo.png" group-title="GRAND PLUS| МультStream", Мультики и Сказки HD
+#EXTGRP:GRAND PLUS| МультStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/198446_master.m3u8
+#EXTINF:-1 tvg-name="retromult" tvg-logo="https://goodgame.ru/files/avatars/av_1669916_vf8h.jpg" group-title="GRAND PLUS| МультStream", retromult
+#EXTGRP:GRAND PLUS| МультStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/213086.m3u8
+#EXTINF:-1 tvg-name="FoxKids_Exclusive" tvg-logo="https://goodgame.ru/files/avatars/av_1681149_U75H.jpg" group-title="GRAND PLUS| МультStream", FoxKids_Exclusive
+#EXTGRP:GRAND PLUS| МультStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/215291.m3u8
+#EXTINF:-1 tvg-name="Мамонтёнок ТВ" tvg-logo="https://avatars.mds.yandex.net/i?id=0c6148fd35f61df9267454a3963c08d5_l-5244383-images-thumbs&n=13" group-title="GRAND PLUS| МультStream", Мамонтёнок ТВ
+#EXTGRP:GRAND PLUS| МультStream
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1323072_lUog.jpg" tvg-name="VKTV HD CINEMA",VKTV HD CINEMA
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/173945.m3u8
+#EXTINF:-1 tvg-logo="https://static.goodgame.ru/files/avatars/av_1301254_55T4.jpg" tvg-name="katastroff", Katastroff
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/208789.m3u8
+#EXTINF:-1 tvg-name="STEEL-Man" tvg-logo="https://goodgame.ru/files/avatars/av_1682321_6csX.jpg" group-title="GRAND PLUS| КИНОStream", STEEL-Man
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/215425_master.m3u8
+#EXTINF:-1 tvg-name="Orb3" tvg-logo="https://headicon.trovo.live/user/ylhhabqaaaaaazmme4nrkeo3cy.png" group-title="🎞️ Вечерний КиноStream", Orb3
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://liveplay.trovo.live/live/73846_108056258_108056258.m3u8?bizid=73846&txSecret=ae1af9264b9f8da624d9da3694fc4249&txTime=6729f87a&_bmlj_t=ChxYeW5LbEZ2TW93UlJSMU1PYVh0QklsM3JBYkk9EiRhZjljNGRiOC1iZjQ5LTQxOTEtYjcwMC1iODk0ZDBkZWQxOGEaHjEwODA1NjI1OF8xMDgwNTYyNThfMTczMDE5OTAzNCDxpIS5BjIZNzM4NDZfMTA4MDU2MjU4XzEwODA1NjI1OEINODkuMTYzLjIzMS42NkobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUAQ%3D
+#EXTINF:-1 tvg-name="Melek___" tvg-logo="https://headicon.trovo.live/user/2l7xgbqaaaaaby365l2bw4g2cy.jpeg" group-title="🎞️ Вечерний КиноStream", Melek___
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://liveplay.trovo.live/live/73846_108265426_108265426.m3u8?bizid=73846&txSecret=459913d4b17f833811ef1e752596246b&txTime=672a4fab&_bmlj_t=ChxIcmxJN1FONUV3TWM5S1VhUzFJZnQ4Vko5d3M9EiQwZDI1ZTY5ZC01ZWU0LTQ3ZWEtOTBjMC0wMDY4MWI5YzQxMDcaHjEwODI2NTQyNl8xMDgyNjU0MjZfMTczMDIyMTM1NSDhrIS5BjIZNzM4NDZfMTA4MjY1NDI2XzEwODI2NTQyNkINODkuMTYzLjIzMS42NkobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUAQ%3D
+#EXTINF:-1 tvg-name="Ben_Dementev" tvg-logo="https://headicon.trovo.live/user/va5iabqaaaaablmh4cs5eppdcy.jpeg" group-title="🎞️ Вечерний КиноStream", Ben_Dementev
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://liveplay.trovo.live/live/73846_109066920_109066920.flv?bizid=73846&txSecret=065c5648cc425386052c7c5d22e0f35c&txTime=67e940c6&_bmlj_t=ChwvYWxqcmVteUlQSFptU3h2eEF1di9oakhxZE09EiQ0OWNlYjZiYS1mMzUyLTRkNWMtYjhiNi1jMDYxNGY3OTkyM2QaHjEwOTA2NjkyMF8xMDkwNjY5MjBfMTc0MjczNDkxOCCM3oC%2FBiiP%2BMQ3Mhk3Mzg0Nl8xMDkwNjY5MjBfMTA5MDY2OTIwQg40Ni4xMzguMTUxLjIzMUobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSNTIzODA4ODcwNDI1MDMxOTA4kAEE&playScene=innerSite&pvid=523808870425031908&_f_=1742745361055
+#EXTINF:-1 tvg-name="uze_Ne_devo4ka" tvg-logo="https://headicon.trovo.live/user/j64ogbqaaaaaa4r3y33mebnvc4.jpeg" group-title="🎞️ Вечерний КиноStream", uze_Ne_devo4ka
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://liveplay.trovo.live/live/73846_115587151_115587151.flv?bizid=73846&txSecret=305f1b3d1852b166b090184c596d35b8&txTime=692477ac&_bmlj_t=ChxTb3puNmJSRjJUQXZ1bU9LMmtldTVCMFdiOUE9EiQ1YWMzNDJhOS00MGY5LTQ0ODYtYThlNy0wNzgxMzJhNmE4MGMaHjExNTU4NzE1MV8xMTU1ODcxNTFfMTc2MzM5MjgxMiClv%2B3IBiiP%2BMQ3Mhk3Mzg0Nl8xMTU1ODcxNTFfMTE1NTg3MTUxQg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSOTgyMTk0MDczNjI1MDkxMDIwkAEE&playScene=innerSite&pvid=982194073625091020&_f_=1763401638917
+#EXTINF:-1 tvg-name="Doza_LLIokolada" tvg-logo="https://headicon.trovo.live/user/hjpuabqaaaaaa3a7436l6t73cy.png" group-title="🎞️ Вечерний КиноStream",Doza_LLIokolada
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://liveplay.trovo.live/live/73846_104881978_104881978.m3u8?bizid=73846&txSecret=f09cc0c2cf62f4d7f12e742441252900&txTime=6729fe25&_bmlj_t=Chx3K3JtdlZ2M0MvVDY3enlGNTBVTlpMb0dFczA9EiQ1ODEzOTYxZC1hNTZmLTQzOTEtYTA4ZC0wZGE1N2FhYWVlY2UaHjEwNDg4MTk3OF8xMDQ4ODE5NzhfMTczMDIwMDQ4NSCo94O5BjIZNzM4NDZfMTA0ODgxOTc4XzEwNDg4MTk3OEINODkuMTYzLjIzMS42NkobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUAQ%3D
+#EXTINF:-1 tvg-name="AutisticCulture" tvg-logo="https://headicon.trovo.live/user/hrgtobqaaaaaai5ny34lhkezcy.png" group-title="🎞️ Вечерний КиноStream",AutisticCulture
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://liveplay.trovo.live/live/73846_104287548_104287548.flv?bizid=73846&txSecret=297a61c13cf7ae66999d7dbd8f67e270&txTime=68b1ab09&_bmlj_t=ChxMbTYwbU5LWHVsc2t1bzNwN0d5M1YzR0lVME09EiRkZDFmYTBjMC1kMjE4LTQyZmMtODg4My0xY2U4Y2JkODFmMjkaHjEwNDI4NzU0OF8xMDQyODc1NDhfMTc1NTg2OTMyMSCNvqLFBiiP%2BMQ3Mhk3Mzg0Nl8xMDQyODc1NDhfMTA0Mjg3NTQ4Qg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoQNDgwMzE3NDQyNTA0MTkwOJABBA%3D%3D&playScene=innerSite&pvid=4803174425041908&_f_=1755881233708
+#EXTINF:-1 tvg-name="Hecate" tvg-logo="https://i.pinimg.com/474x/17/8f/8f/178f8f95b7012a784067c1a8dd764309.jpg" group-title="🎞️ Вечерний КиноStream",Hecate
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://liveplay.trovo.live/live/73846_110718418_110718418.flv?bizid=73846&txSecret=46c4d538bd66ac89675a494db318d635&txTime=68b31abd&_bmlj_t=ChxQV1crYmltbXlFWnVNVGE0M2xUNlk2TzA3alU9EiQ1NmYyYmEyMy0yYjc2LTQ1YWMtYWJhNy1kZTUwNTVjNGFiZjgaHjExMDcxODQxOF8xMTA3MTg0MThfMTc1NTk2MzQ1MyDF06fFBijr19szMhk3Mzg0Nl8xMTA3MTg0MThfMTEwNzE4NDE4Qg0xNzIuMjUuMzAuMTc4ShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4OTA1MDM0NzUyMjQxMTAxMTaQAQQ%3D&playScene=innerSite&pvid=4803174425041908&_f_=1755965943172
+#EXTINF:-1 tvg-name="Yaasya_" tvg-logo="https://headicon.trovo.live/user/l3mgebqaaaaaamtqxktm5komcy.jpeg" group-title="🎞️ Вечерний КиноStream",Yaasya_
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://liveplay.trovo.live/live/73846_107141214_107141214.flv?bizid=73846&txSecret=bfb891d85da7d19891f997f09078b6ef&txTime=68b31502&_bmlj_t=Chw5Zyt6cmNsQjd2UllVNEdlZ0VFbysvV28xOUE9EiQ5YzFhMjUwNi0wZjgwLTQ5YzUtODFlOC1jNDAyOTE2NzNlY2YaHjEwNzE0MTIxNF8xMDcxNDEyMTRfMTc1NTk2MTk4NiCq1afFBiiP%2BMQ3Mhk3Mzg0Nl8xMDcxNDEyMTRfMTA3MTQxMjE0Qg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoQNDgwMzE3NDQyNTA0MTkwOJABBA%3D%3D&playScene=innerSite&pvid=4803174425041908&_f_=1755966126417
+#EXTINF:-1 tvg-name="wisewolf" tvg-logo="https://headicon.trovo.live/user/qwyfkbqaaaaaamxrfgvjyhv7cy.jpeg" group-title="🎞️ Вечерний КиноStream",wisewolf
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://sto-prod-catalyst-3.livepeer.fun/video+8079n1t2oi109tnw.flv?accessKey=4803174425041908&buffer=10&livepeer=1&startunix=-10&trovoFlv=1&video=5000kbps&_bmlj_t=ChxGeUFiM05zaFpIQTgvZ2d4L1AyOHNZcGluZlU9EiQwNzAxOTRjZi04ZjRhLTQwYzYtODgwYy04ZjA3YWNjYjQzN2QaHjEwNjI3OTA0NV8xMDYyNzkwNDVfMTc1NTk2MjA5OCC916fFBiiP%2BMQ3MhA4MDc5bjF0Mm9pMTA5dG53ONg2Qg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoQNDgwMzE3NDQyNTA0MTkwOJABBA%3D%3D&playScene=innerSite&pvid=4803174425041908&_f_=1755966403297
+#EXTINF:-1 tvg-name="DeS66" tvg-logo="https://headicon.trovo.live/user/urnv6bqaaaaaalluyramrh6mcy.jpeg" group-title="🎞️ Вечерний КиноStream",DeS66
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://sto-prod-catalyst-0.livepeer.fun/video+7bdegsutisc3icoa.flv?accessKey=4803174425041908&buffer=10&livepeer=1&startunix=-10&trovoFlv=1&video=5000kbps&_bmlj_t=Chx4Rm54TzA3UXJVUTVra3hTb0s0dGI2V3prdEk9EiQyOGMwNGViYy04MDUxLTQ3MTItOGNhOC1iNWMxYzY3ZGMyZGIaHjEwNjkxMjY3Nl8xMDY5MTI2NzZfMTc1NjIyODI0MiC%2B1LzFBiiP%2BMQ3MhA3YmRlZ3N1dGlzYzNpY29hONg2Qg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoQNDgwMzE3NDQyNTA0MTkwOJABBA%3D%3D&playScene=innerSite&pvid=4803174425041908&_f_=1756310085308
+#EXTINF:-1 tvg-name="AkellaPrm59" tvg-logo="https://custom-file.trovo.live/file/space_face/104273410/1727903194.png" group-title="🎞️ Вечерний КиноStream",AkellaPrm59
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://sto-prod-catalyst-0.livepeer.fun/video+a1981zrcjvhoc729.flv?accessKey=982194073625091020&buffer=10&livepeer=1&startunix=-10&trovoFlv=1&video=5000kbps&_bmlj_t=ChxFb3N3eVRpSFBtcE0xZ2VXcTl0dXFFMzhFcnM9EiQ0NTk5MGZkYi04Y2E0LTQ5ZTQtOTBiOS04YWEyNzQxMGFiMTcaHjEwNDI3MzQxMF8xMDQyNzM0MTBfMTc1NzUxNTYyNiCV74bGBiiP%2BMQ3MhBhMTk4MXpyY2p2aG9jNzI5ONg2Qg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSOTgyMTk0MDczNjI1MDkxMDIwkAEE&playScene=innerSite&pvid=982194073625091020&_f_=1757525915466
+#EXTINF:-1 tvg-name="VARVARA" tvg-logo="https://images.live.vkplay.ru/user/19331165/avatar?change_time=1724252574&croped=1&mh=140&mw=140", VARVARA
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://liveplay.trovo.live/live/73846_117033954_117033954_1080pv2.flv?bizid=73846&txSecret=6bc23eab47dab415836c051a931f9395&txTime=68ff8167&_bmlj_t=ChxQMlYwNjhlalRzKzg4cmNaeVlBbFlnaVo5WU09EiQ2YjEwZjVlZS1lMTFmLTQ5NWMtOGQ1NS02MmZhZDU3OGJmMTkaHjExNzAzMzk1NF8xMTcwMzM5NTRfMTc2MDk3MDQ3MSCI7NnHBiiP%2BMQ3MiE3Mzg0Nl8xMTcwMzM5NTRfMTE3MDMzOTU0XzEwODBwdjI4iCdCDjQ2LjEzOC4xNDYuMjIzShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI5ODIxOTQwNzM2MjUwOTEwMjCQAQQ%3D&playScene=innerSite&pvid=982194073625091020&_f_=1760982540930
+#EXTINF:-1 tvg-name="Аль" tvg-logo="https://headicon.trovo.live/user/va452bqaaaaaazgqc6jbddfdc4.jpeg", Аль
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://liveplay.trovo.live/live/73846_115161512_115161512.flv?bizid=73846&txSecret=d475a9748a21ddf03e13d8a7a9e8c63b&txTime=68ffa434&_bmlj_t=ChxKTkRPbW4wbEVRNDE1MHM2VktrTnVJNnlqd2s9EiQ4N2YzMDBlOC04ZjMwLTQ2ZWItYjdhOS01NGRmNzhhYTQ3MTIaHjExNTE2MTUxMl8xMTUxNjE1MTJfMTc2MDk3OTM4MCD67dnHBiiP%2BMQ3Mhk3Mzg0Nl8xMTUxNjE1MTJfMTE1MTYxNTEyQg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSOTgyMTk0MDczNjI1MDkxMDIwkAEE&playScene=innerSite&pvid=982194073625091020&_f_=1760982782882
+#EXTINF:-1 tvg-name="I_BLONDA" tvg-logo="https://headicon.trovo.live/user/mlmhqbqaaaaaaxldlurxlvo4cy.png", I_BLONDA
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://liveplay.trovo.live/live/73846_108583010_108583010_1080px.flv?bizid=73846&txSecret=f3423b38db7f4abf27e5ba6e1e5664c8&txTime=69354217&_bmlj_t=Chx2a096eGNYZjNnN1dsd3FzNXFTakNJTkxwVUk9EiRlYzg2NjBlNC1hNzJkLTQ1OWYtODQ2Ny1iNjAzNTgyOTdiZDAaHjEwODU4MzAxMF8xMDg1ODMwMTBfMTc2NDQ5MzIwNyCN07HJBiiP%2BMQ3MiA3Mzg0Nl8xMDg1ODMwMTBfMTA4NTgzMDEwXzEwODBweDjYNkIONDYuMTM4LjE0Ni4yMjNKG2xpdmUtcmVhZGVyLXN2cl9HZXRMaXZlSW5mb1AEYAJ6Ejk4MjE5NDA3MzYyNTA5MTAyMJABBA%3D%3D&playScene=innerSite&pvid=982194073625091020&_f_=1764518290464
+#EXTINF:-1 tvg-name="SOVA" tvg-logo="https://custom-file.trovo.live/file/team_icon/107635710/7zrwubqaaaaabjxknf7fompbc4.png", SOVA
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://sto-prod-catalyst-4.lp-playback.studio/video+54a4z9o8lv6apj1l.flv?accessKey=523808870425031908&buffer=10&livepeer=1&startunix=-10&trovoFlv=1&video=5000kbps&_bmlj_t=ChxrYTNGMFFYTDBJc1BWRFd2d1k1SElwNlYwczg9EiQ4YWE4NDcwZC1hMTY2LTQyYWMtODI1YS03YTJkMTRlZWU0YTcaHjEwODM5ODk2MV8xMDgzOTg5NjFfMTc0MjM3ODYzMSDth%2B%2B%2BBiiP%2BMQ3MhA1NGE0ejlvOGx2NmFwajFsONg2Qg40Ni4xMzguMTUxLjIzMUobbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSNTIzODA4ODcwNDI1MDMxOTA4kAEE&playScene=innerSite&pvid=523808870425031908&_f_=1742455795576
+#EXTINF:-1 tvg-name="WelZeVooL" tvg-logo="https://headicon.trovo.live/user/3nh3kbqaaaaabemz5uwygusuc4.jpeg", WelZeVooL
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://liveplay.trovo.live/live/73846_112545755_112545755.flv?bizid=73846&txSecret=b93f3d172cd19f74f1639ce51b71e7a3&txTime=691fdd5b&_bmlj_t=ChwrZW1Sd2VCSzluZzRhZjFuZ2JOYkdGbTltcnM9EiQ5ZmY3MTY4My0zMTVjLTQ1NWYtYWQzYS1lZDIxMTIxMjNhNDYaHjExMjU0NTc1NV8xMTI1NDU3NTVfMTc2MzA5MTE2MyCIxdzIBiiP%2BMQ3Mhk3Mzg0Nl8xMTI1NDU3NTVfMTEyNTQ1NzU1Qg40Ni4xMzguMTQ2LjIyM0obbGl2ZS1yZWFkZXItc3ZyX0dldExpdmVJbmZvUARgAnoSOTgyMTk0MDczNjI1MDkxMDIwkAEE&playScene=innerSite&pvid=982194073625091020&_f_=1763123849123
+#EXTINF:-1 tvg-name="wihail" tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140", wihail
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-referrer=https://trovo.live/
+https://liveplay.trovo.live/live/73846_111884435_111884435.m3u8?bizid=73846&txSecret=1b031a178564476d9a199848b09c81b2&txTime=6945aceb&_bmlj_t=ChxRbm90b1JIWHRTVHpEVHJYMWMyYlpUdGt6OFU9EiQ3MjI1NDRjOS0zNGJjLTRmNzYtYmIyZC1iMDM4NzFjNTYxM2EaHjExMTg4NDQzNV8xMTE4ODQ0MzVfMTc2NTU2OTEzMSC0y%2FXJBiiP%2BMQ3Mhk3Mzg0Nl8xMTE4ODQ0MzVfMTExODg0NDM1Qg00Ni4xMzguMTQ4LjgyShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI5ODIxOTQwNzM2MjUwOTEwMjCQAQQ%3D
+#EXTINF:-1 tvg-id="41333" tvg-name="Сити Эдем - КиноЭкшен" tvg-logo="https://i123.fastpic.org/big/2024/0708/e8/025585d63ecd857a98e0cb11049e5ae8.png?md5=kyEN39AL3-denlMSJVjnXg&expires=1727773200", Сити Эдем - КиноЭкшен
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
+#EXTINF:-1 tvg-id="41327" tvg-name="Сити Эдем - КиноДетектив" tvg-logo="https://i123.fastpic.org/big/2024/0707/b9/9c1ab9278c817afbb761a02a90048eb9.png?md5=1gxgzDjKv5FlVJUNUktbLA&expires=1727773200", Сити Эдем - КиноДетектив
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
+#EXTINF:-1 tvg-id="40783" tvg-name="Сити Эдем - КиноМистика" tvg-logo="https://i123.fastpic.org/big/2024/0707/ab/6d8bdad588de5a4a0b683ad4d2cd7bab.png?md5=3mITiES8iPpMoUvB_HoyEg&expires=1727773200", Сити Эдем - КиноМистика
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
+#EXTINF:-1 tvg-id="41331" tvg-name="Сити Эдем - КиноКомедия" tvg-logo="https://i123.fastpic.org/big/2024/0708/8b/e5dd42ddad571125b365e5004157c38b.png?md5=Q-Vr19ryzpSKOQfwkwPmnQ&expires=1727773200", Сити Эдем - КиноКомедия
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
+#EXTINF:-1 tvg-id="34185" tvg-name="Сити Эдем - КиноКлассика" tvg-logo="https://i123.fastpic.org/big/2024/0707/8d/07172bb838000bcf26b24fa953d53c8d.png?md5=K7ruKF7nnNMiAAjZtsluWg&expires=1727773200", Сити Эдем - КиноКлассика
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cityeden.catcast.tv/content/34185/index.m3u8?token=eedcbaef9723990f462ed5ec343de5ca
+#EXTINF:-1 tvg-id="38128" tvg-name="Сити Эдем - КиноСемья" tvg-logo="https://i123.fastpic.org/big/2024/0707/af/e4ae33edca0e150e90c0f6b4494e9aaf.png?md5=kLpY1uGGkH0trfmazgJBCA&expires=1727773200", Сити Эдем - КиноСемья
+#EXTGRP:GRAND PLUS| КИНОStream
+https://autopilot.catcast.tv/content/38128/index.m3u8?token=2c25bdb20383b2533f44f6073ddfa2b6
+#EXTINF:-1 tvg-name="Сити Эдем - КиноАрт" tvg-logo="https://i123.fastpic.org/big/2024/0707/fe/90245379e74f15e531ae986e72b2dbfe.png?md5=Ygwh213-bP1m3NXE9Va0TA&expires=1730887200", Сити Эдем - КиноАрт
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cityeden.catcast.tv/content/38398/index.m3u8?token=8bf1c1fd44f97f9b58fab4a266a4567e
+#EXTINF:-1 tvg-id="34393" tvg-name="Сити Эдем - КиноАзия" tvg-logo="https://i123.fastpic.org/big/2024/0707/2f/6dafba57550b8f780842e575d927542f.png?md5=8LTGgUKGd-CnqxF1OSU2cw&expires=1730887200", Сити Эдем - КиноАзия
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
+#EXTINF:-1 tvg-id="45268" tvg-name="Сити Эдем - КиноФантастика" tvg-logo="https://i123.fastpic.org/big/2024/0707/66/a4c30fc86117e97731b2aaacf346cf66.png?md5=7JnnPYcbSwF_wBoaT_IUMg&expires=1727773200", Сити Эдем - КиноФантастика
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb9894d7c7ba6
+#EXTINF:-1 tvg-id="45269" tvg-name="Сити Эдем - КиноДрама" tvg-logo="https://i123.fastpic.org/big/2024/0707/0a/9bdfb6276a238246f5d3c70f5939be0a.png?md5=GtC3Y1KVxR9ftQMKS64cVA&expires=1727773200", Сити Эдем - КиноДрама
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
+#EXTINF:-1 tvg-id="46209" tvg-name="Сити Эдем - ТелеНовелла" tvg-logo="https://i123.fastpic.org/big/2024/0707/65/fbf0da54ae81671db61b3ec6cb71cd65.png?md5=LKi3wbIXy_YKTLwZ1rkpeg&expires=1730887200", Сити Эдем - ТелеНовелла
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cityeden.catcast.tv/content/46209/index.m3u8?token=085e0f93cd0d35977e08d1135585c6f5
+#EXTINF:-1 tvg-id="34246" tvg-name="Сити Эдем ТВ" tvg-logo="https://i123.fastpic.org/big/2024/0707/b3/ffe9bcb9e22ba24237d5b55f2c916bb3.png?md5=Dk0MaXO4P5l3ihytmGAfMQ&expires=1737648000", Сити Эдем ТВ
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0682a2f5ce8f
+#EXTINF:-1 tvg-id="46503" tvg-name="Сити Эдем - Рождественский" tvg-logo="https://img.catcast.tv/uploads/01102025/logos/8253-68dd059524477.png", Сити Эдем - Рождественский
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cityeden.catcast.tv/content/46503/index.m3u8?token=
+#EXTINF:-1 tvg-id="44051" tvg-name="MGM HD" tvg-logo="https://img.catcast.tv/uploads/13122024/logos/44051-675c3cf73abc2.jpg", MGM HD
+#EXTGRP:GRAND PLUS| КИНОStream
+https://v2.catcast.tv/content/44051/index.m3u8?token=015651eb554972ed5ef50890a2f49965
+#EXTINF:-1 tvg-id="48063" tvg-name="MGM int" tvg-logo="https://img.catcast.tv/uploads/10062025/banners/42871-68484731df754.jpg", MGM int
+#EXTGRP:GRAND PLUS| КИНОStream
+https://v2.catcast.tv/content/48063/index.m3u8?token=0bd54025ca73a1d47c2ce983edfb6ca3
+#EXTINF:-1 tvg-id="Фантастика HD" tvg-name="Фантастика HD" tvg-logo="http://1lot.tv/ch/6814.png", Фантастика HD
+#EXTGRP:GRAND PLUS| КИНОStream
+https://s.catcast.tv/content/39533/index.m3u8?token=3012bdd9225fb18023b43d6c6928a274
+#EXTINF:-1 tvg-id="Страх" tvg-name="Страх HD" tvg-logo="http://1lot.tv/ch/8505.png", Страх HD
+#EXTGRP:GRAND PLUS| КИНОStream
+https://s.catcast.tv/content/34816/index.m3u8?token=1fe059b2f58a583e3b42dec7e6432744
+#EXTINF:-1 tvg-id="38617" tvg-name="Кино 1 International" tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png", Кино 1 International
+#EXTGRP:GRAND PLUS| КИНОStream
+https://kino-1.catcast.tv/content/38617/index.m3u8?token=0ee1b810cb70fabf816a92c7fbac144a
+#EXTINF:-1 tvg-id="38720" tvg-name="Детское кино International" tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png", Детское кино International
+#EXTGRP:GRAND PLUS| КИНОStream
+https://autopilot.catcast.tv/content/38720/index.m
+
+#EXTINF:-1 tvg-name="Смотрим 100% Мужское" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/753/954/1.png", Смотрим 100% Мужское
+#EXTGRP:GRAND PLUS| КИНОStream
+https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+#EXTINF:-1 tvg-name="СТРК HD" tvg-logo="https://iptvx.one/picons/strk.png", СТРК HD
+#EXTGRP:GRAND PLUS| КИНОStream
+http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="43-tuapse" tvg-name="СТРК 43 канал HD" tvg-logo="https://iptvx.one/picons/43-tuapse.png" group-title="GRAND PLUS| КИНОStream", СТРК 43 канал HD
+#EXTGRP:GRAND PLUS| КИНОStream
+http://sochinskayatrk.ru/hdtv/hls/43K_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="ТВОЁ ТВ HD" tvg-logo="https://static8.tgcnt.ru/posts/_0/44/4450f14311c01793ce7b20eab7e118b9.jpg", ТВОЁ ТВ HD
+#EXTGRP:GRAND PLUS| КИНОStream
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-name="KINO24" tvg-logo="https://tvprogviewer.ru/images/thumbs/0000163_kino24_220.png", KINO24
+#EXTGRP:GRAND PLUS| КИНОStream
+http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="PRO100" tvg-logo="https://iptvx.one/picons/pro100.png", PRO100
+#EXTGRP:GRAND PLUS| КИНОStream
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-name="Konul TV" tvg-logo="https://tr.canlitv.watch/channels/konul-tv.png", Konul TV
+#EXTGRP:GRAND PLUS| КИНОStream
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u
+#EXTINF:-1 tvg-name="LIVETVAZ" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26846/logo_256_1719316009.png", LIVETVAZ
+#EXTGRP:GRAND PLUS| КИНОStream
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1 tvg-id="312-kino" tvg-logo="https://iptvx.one/picons/312-kino.png",312 Кино
+#EXTGRP:GRAND PLUS| КИНОStream
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="312-serial" tvg-logo="https://iptvx.one/picons/312-serial.png",312 Сериал
+#EXTGRP:GRAND PLUS| КИНОStream
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-id="tv1-kg-hd" tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png",TV1 KG HD 
+#EXTGRP:GRAND PLUS| КИНОStream
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ktk-kz" tvg-name="КТК" tvg-logo="https://i.imgur.com/BurrNTo.png",КТК
+#EXTGRP:GRAND PLUS| КИНОStream
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w657273664_b6128000_slrus.m3u8
+#EXTINF:-1 tvg-name="TV PRO" tvg-logo="http://tvpro-online.ru/images/logo.png", TV PRO
+#EXTGRP:GRAND PLUS| КИНОStream
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 tvg-id="31-kanal-kz" tvg-logo="https://static10.tgstat.ru/channels/_0/bc/bcfe79dc51bc6f5a9bca596d7cf191f6.jpg", 31 Канал
+#EXTGRP:GRAND PLUS| КИНОStream
+https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8
+#EXTINF:-1 tvg-name="КиноСезон" tvg-logo="https://www.cableman.ru/sites/default/files/kinosezon.png?1570452106", КиноСезон
+#EXTGRP:GRAND PLUS| КИНОStream
+https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d3db48c1eca37527e836ab81636ac589b9/lvl1.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозалы" tvg-logo="https://cinemaplex.ru/wp-content/uploads/2018/03/unnamed-optimized.jpg", Star Media
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kino-i-zhizn" tvg-name="Кино и жизнь" tvg-logo="https://sun9-49.userapi.com/impg/5Mf8OrjKw5p0V2PpayneFcA35XuVsPWeJxgOCw/vNwHk1FvHF8.jpg?size=800x800&quality=95&sign=635199fd6f73fe35d2621912eee1976b&type=album", Кино и Жизнь
+#EXTGRP:GRAND PLUS| КИНОStream
+http://188.208.197.173/kinojizn/video.m3u8?token=Rblztg5NZwI9x2
+#EXTINF:-1 tvg-id="rus-hualiang-tv" tvg-name="Китай ТВ" tvg-logo="https://chntv.ru/wp-content/uploads/2022/06/logo_chinatv150.png", Китай ТВ
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1 tvg-id="tcb" tvg-name="Китай ТВ" tvg-logo="https://iptvx.one/picons/tcb.png", ТСВ
+#EXTGRP:GRAND PLUS| КИНОStream
+https://tsv.md/stream/hls/tsv-online/0_1/index.m3u8
+
+
+#EXTINF:-1 tvg-name="FantasticMistyc" tvg-logo="http://telik.live/images/fmc-tv.png" group-title="GRAND PLUS| КИНОStream", FantasticMistyc
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/187741.m3u8
+#EXTINF:-1 tvg-name="Новый Русский" tvg-logo="https://sun9-70.userapi.com/impg/-qQ0swpvv4ukHHV7FIihEucilRQRbI_yFaFVHg/DeLqQCSUANc.jpg?size=1440x1080&quality=95&sign=78c1c3713c42497c514e655209d99305&type=album", Новый Русский
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
+#EXTINF:-1 tvg-name="Mr. Bean" tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w780/cEL2zvrJCGF7GwyE3ESCInQyRk8.jpg", Mr. Bean
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Шоу Бенни Хилла" tvg-logo="https://sun9-53.userapi.com/c639231/v639231387/15071/-upK0-b5hek.jpg", Шоу Бенни Хилла
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Rvision Movies" tvg-logo="https://rvision.tv/wp-content/uploads/2020/09/rvision-1024x453.png", Rvision Movies
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1003.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Rvision Кинопанорама" tvg-logo="https://rvision.tv/wp-content/uploads/2020/09/rvision-1024x453.png", Rvision Кинопанорама
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="dtr" tvg-name="DTR" tvg-logo="https://images.live.vkvideo.ru/user/20829998/avatar?change_time=1750604548&croped=1&mh=140&mw=140", DTR-ZONA1
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:epg-url="https://dtr.kino-stream.online/dtr.xml"
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:-1 tvg-name="CyberTV" tvg-logo="https://avatars.mds.yandex.net/i?id=75390ab61692f5392bd3bd01e2abcea6_l-8097642-images-thumbs&n=13", CyberTV 
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live20.bozztv.com/akamaissh101/ssh101/cybertv/chunks.m3u8
+#EXTINF:-1 tvg-name="CyberTV 2" tvg-logo="https://avatars.mds.yandex.net/i?id=75390ab61692f5392bd3bd01e2abcea6_l-8097642-images-thumbs&n=13", CyberTV 2
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live20.bozztv.com/akamaissh101/ssh101/cybertv2/chunks.m3u8
+#EXTINF:-1 tvg-name="CyberTV 3" tvg-logo="https://avatars.mds.yandex.net/i?id=75390ab61692f5392bd3bd01e2abcea6_l-8097642-images-thumbs&n=13", CyberTV 3
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live20.bozztv.com/akamaissh101/ssh101/cybertvrus/chunks.m3u8
+#EXTINF:-1 tvg-name="FilmON" tvg-logo="https://img.catcast.tv/uploads/26012021/logos/39749-600fef81376fc.png", FilmON
+#EXTGRP:GRAND PLUS| КИНОStream
+https://stream.ushba.tv/akamaiushba/ushba64/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="FilmOFF" tvg-logo="https://img.catcast.tv/uploads/26012021/logos/39749-600fef81376fc.png", FilmOFF
+#EXTGRP:GRAND PLUS| КИНОStream
+https://stream.ushba.tv/akamaiushba/ushba65/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Logovo Films" tvg-logo="https://img.catcast.tv/uploads/13052022/logos/41660-627e5adaa9772.png", Logovo Films
+#EXTGRP:GRAND PLUS| КИНОStream
+https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="К-ПОКАЗ" tvg-logo="https://img.catcast.tv/uploads/04112023/banners/44404-6545ea806ffe7.png", К-ПОКАЗ
+#EXTGRP:GRAND PLUS| КИНОStream
+https://stream.ushba.tv/akamaiushba/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Кинорейс" tvg-logo="https://img.catcast.tv/logos/1d545e850f06eafd2f85526e1913c07e.png", Кинорейс
+#EXTGRP:GRAND PLUS| КИНОStream
+https://stream.ushba.tv/akamaiushba/ushba82/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Film Visit" tvg-logo="https://www.giniko.com/logos/190x110/1578.jpg", Film Visit
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Film Zone" tvg-logo="https://www.giniko.com/logos/190x110/1589.png", Film Zone
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Globus TV" tvg-logo="https://www.giniko.com/logos/190x110/1628.png", Globus TV
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="LentaKino" tvg-logo="https://www.giniko.com/logos/190x110/1657.png", LentaKino
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1001.bozztv.com/ushba-films-w/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="KinoMag" tvg-logo="https://www.giniko.com/logos/190x110/1649.jpg", KinoMag
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Cinemator" tvg-logo="https://www.giniko.com/logos/190x110/1576.jpg", Cinemator
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1003.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="KinoFilm" tvg-logo="https://www.giniko.com/logos/190x110/1637.jpg", KinoFilm
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sinema 360" tvg-logo="https://www.giniko.com/logos/190x110/1644.png", Sinema 360
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="SSAFilm" tvg-logo="https://www.giniko.com/logos/190x110/1654.jpg", SSAFilm
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Popcorn Theatre" tvg-logo="https://www.giniko.com/logos/190x110/1600.jpg", Popcorn Theatre
+#EXTGRP:GRAND PLUS| КИНОStream
+https://stream.ushba.tv/akamaiushba/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="LAV-KINO" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg", LAV-KINO
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="KINO FILE" tvg-logo="https://img.catcast.tv/uploads/18092020/logos/39156-5f6542ae48f04.png", KINO FILE
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live21.bozztv.com/giatvplayout7/ushba99/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="K1HO" tvg-logo="https://img.catcast.tv/uploads/25082020/logos/39026-5f44dbde74fb8.png", K1HO
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live20.bozztv.com/giatvplayout7/ushba100/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="UniMed" tvg-logo="https://img.catcast.tv/uploads/13032020/37979-5e6acb3f5820b.jpg", UniMed
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live20.bozztv.com/giatvplayout7/ushba101/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="KINOSTREAM" tvg-logo="https://img.catcast.tv/uploads/20092019/37126-5d84d7f922438.jpg", KINOSTREAM
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live20.bozztv.com/giatvplayout7/ushba102/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Любимые фильмы" tvg-logo="https://smotret.tv/images/otechestvennye-filmy.webp", Любимые фильмы
+#EXTGRP:GRAND PLUS| КИНОStream
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Сов.Ком" tvg-logo="https://img.catcast.tv/logo_c747_359.png", Сов.Ком
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="ЗОВ ТВ" tvg-logo="https://img.plvideo.ru/images/fp-2025-images/c/cover/af/40/af404a7c55effb6d4375089e8bdde394/original6877fe3f031440.08412772.jpg", ЗОВ ТВ
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
+#EXTINF:-1 tvg-name="TV Series" tvg-logo="https://cdn.imgbin.com/8/6/24/imgbin-television-show-kodi-film-series-Q965sauX6xFnXRpmYEGEuEiG5.jpg", TV Series
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/186021.m3u8
+#EXTINF:-1 tvg-name="Кинозал" tvg-logo="https://img.catcast.tv/uploads/01022025/logos/43750-679e05e11b30e.jpg", Кинозал
+#EXTGRP:GRAND PLUS| КИНОStream
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1 tvg-name="Frost Horror" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZSzRxBSsBX4pO-DJswwv6PqtSQ_j3brc0a5xsHHplunAw.png",Frost Horror
+#EXTGRP:GRAND PLUS| КИНОStream
+http://46.224.1.162:80/Shamilbro/ShamsTV/1903.m3u8
+#EXTINF:-1 tvg-name="Frost Movie" tvg-logo="http://46.224.1.162:80/images/QiHKx-4peObMPS1xjGtZSzRxBSsBX4pO-DJswwv6PqvIo29iB6IkwuOB8-HIYHYp.png",Frost Movie
+#EXTGRP:GRAND PLUS| КИНОStream
+http://46.224.1.162:80/Shamilbro/ShamsTV/1904.m3u8
+#EXTINF:-1 tvg-name="Видеокассета VHS" tvg-logo="http://ru.epg.one/img2/6005.png", Видеокассета VHS
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+#EXTINF:-1 tvg-name="FILM-best TV" tvg-logo="https://static.goodgame.ru/files/avatars/av_1668477_RMdH.jpg", FILM-best TV
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live20.bozztv.com/akamaissh101/ssh101/livefilmbest20e/chunks.m3u8
+#EXTINF:-1 tvg-name="1autotvru" tvg-logo="https://avatars.mds.yandex.net/i?id=fa8601353664fa387397b901d8a3aa19_sr-8289735-images-thumbs&n=13", 1autotvru
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/206355.m3u8
+#EXTINF:-1 tvg-name="ScripachTV" tvg-logo="https://smotret.tv/images/scripach-tv.webp", ScripachTV
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
+#EXTINF:-1 tvg-name="SeleCaoTV" tvg-logo="https://i.ibb.co/HV9Mmb4/image-8.png", SeleCaoTV
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+#EXTINF:-1 tvg-name="SeleCaoTV 2" tvg-logo="https://i.ibb.co/HV9Mmb4/image-8.png", SeleCaoTV 2
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V0Qp189.png",VHDV TV
+#EXTGRP:GRAND PLUS| КИНОStream
+https://live20.bozztv.com/akamaissh101/ssh101/1vhdvtvstriming/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg",НТВ Сериалы Скорая помощь
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg",НТВ Сериалы Пёс
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg",НТВ Сериалы Первый отдел
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg",НТВ Сериалы Шеф
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg",НТВ Сериалы Невский
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg",НТВ Сериалы Балабол
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg",НТВ Сериалы Пять минут тишины
+#EXTGRP:GRAND PLUS| КИНОStream
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-name="Millennium" tvg-logo="https://static.goodgame.ru/files/logotypes/ch_208653_HurB_logo.png", Millennium
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/206461.m3u8
+#EXTINF:-1 tvg-name="KinoMix Юрич" tvg-logo="https://sun1-14.userapi.com/s/v1/ig1/ipIyCev4KHEIcx4urmZVzULjxRdlDBM6jxwVi854MGxUw6jagkf8ISPD9X5pzagyMY4hxCN1.jpg?quality=96&crop=0,0,500,500&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&cs=240x240", KinoMix Юрич
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/216612.m3u8
+#EXTINF:-1 tvg-name="KinoJam" tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png", KinoJam
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/210182.m3u8
+#EXTINF:-1 tvg-name="MetalAlex" tvg-logo="https://images.live.vkvideo.ru/user/19124566/avatar?change_time=1718891416&croped=1&mh=140&mw=140", MetalAlex
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/211351.m3u8
+#EXTINF:-1 tvg-id="43064" tvg-name="Малдер Всё ТВ" tvg-logo="https://img.catcast.tv/uploads/29102025/logos/43064-6902200d38c2a.png", Малдер Всё ТВ
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/153640.m3u8
+#EXTINF:-1 tvg-name="AlexVira" tvg-logo="https://images.live.vkvideo.ru/user/19479404/avatar?change_time=1740343386&croped=1&mh=140&mw=140", AlexVira
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/106103.m3u8
+#EXTINF:-1 tvg-name="MovieToper" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg", MovieToper
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/214749.m3u8
+#EXTINF:-1 tvg-name="Akudji" tvg-logo="https://images.live.vkvideo.ru/user/19223927/avatar?change_time=1753304099&croped=1&mh=140&mw=140", Akudji
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/5346.m3u8
+#EXTINF:-1 tvg-name="ZubrilomFilm" tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140", ZubrilomFilm
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218251.m3u8
+#EXTINF:-1 tvg-name="ZubrilomFranchise" tvg-logo="https://images.live.vkplay.ru/user/18929766/avatar?change_time=1715176122&croped=1&mh=140&mw=140", ZubrilomFranchise
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218193.m3u8
+#EXTINF:-1 tvg-name="Фантом" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-fantom-tv.jpg", Фантом
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204722.m3u8
+#EXTINF:-1 tvg-name="Восход ТВ" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-voskhod-tv_1.jpg", Восход ТВ
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/202997_master.m3u8
+#EXTINF:-1 tvg-name="1FILMAX" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-1filmax.jpg", 1FILMAX
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:-1 tvg-name="2FILMAX" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-2filmax_0.jpg", 2FILMAX
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1 tvg-name="Podpischik" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/p_boy_podpischik-profile_image-def226fdd113b6dc-70x70.png", Podpischik
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/40391_prem.m3u8
+#EXTINF:-1 tvg-logo="https://bittv.ltd/images/icon/200x200/kino/koshmarhd.png", Кошмар HD
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1 tvg-name="PZN FILMS" tvg-logo="https://ritsatv.ru/files/poster/medium/900989.jpg", PZN FILMS
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/12949_prem.m3u8
+#EXTINF:-1 tvg-name="ВИДЕОСАЛОН VHSTV" tvg-logo="https://goodgame.ru/files/avatars/av_1146773_9DIu.jpg", ВИДЕОСАЛОН VHSTV
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/175764.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pf3wtFTm/FAN.png", FAN HD
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:-1 tvg-name="VHS кино" tvg-logo="https://goodgame.ru/files/avatars/av_1643167_Q5gP.jpg", VHS кино
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218531.m3u8
+#EXTINF:-1 tvg-name="OXO" tvg-logo="https://play-lh.googleusercontent.com/NRXYo-xmDpO_pmFLLcDGm2G2nKlmuZC_jO22qE9Dxtesr2eTqmFE20xpwyvMdWg6lfK6", OXO
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/218475.m3u8
+#EXTINF:-1 tvg-name="runepi" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/runepi-profile_image-c0bd9afc3384e576-70x70.jpeg", runepi
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/210953.m3u8
+#EXTINF:-1 tvg-name="Video_Channel" tvg-logo="https://goodgame.ru/files/avatars/av_1684385_xhlq.jpg", Video_Channel
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/215741_master.m3u8
+#EXTINF:-1 tvg-name="SeverTV" tvg-logo="https://static.goodgame.ru/files/avatars/av_1116296_BCRx.png", SeverTV
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/146065.m3u8
+#EXTINF:-1 tvg-name="Сериалы с любовью" tvg-logo="https://sun1-88.userapi.com/s/v1/ig2/QesVj1nmUFA9k7uY-E1dgW0igWRuRqcm5IMGmycgT0Z5NhA6FQQdFjE_q6Iqfgk8ZLm9gBjcjsH09ym9Jerb2MUP.jpg?quality=95&crop=0,0,1000,1000&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720&ava=1&cs=540x540", Сериалы с любовью
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/manifest/196074_master.m3u8
+#EXTINF:-1 tvg-name="Dimpon TV" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg", Dimpon TV
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/210470.m3u8
+#EXTINF:-1 tvg-name="GRAND TV" tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&",GRAND TV  
+#EXTGRP:GRAND PLUS| КИНОStream
+#EXTVLCOPT:http-user-agent=SmartTV
+http://195.9.195.3:8080/hls/215088.m3u8
+#EXTINF:-1 tvg-name="Кинолаффка" tvg-logo="https://sun1-22.userapi.com/impg/RNM6W5WFDyaOLSgnsTzQltwrhIqEFJ4vXMNTcg/F46j34IKhNc.jpg?size=320x180&quality=95&sign=a49a698984a518a76d1ae4a2be825f99&c_uniq_tag=IouPj_8lLghGnEwt685DgdLXQo32O8o0FJXtLGKb2BE&type=video_thumb", Кинолаффка
+#EXTGRP:GRAND PLUS| КИНОStream
+http://188.208.197.173/kinolafka/video.m3u8?token=tvon
+#EXTINF:-1 tvg-name="Киножелезо" tvg-logo="https://pic.rutubelist.ru/video/2025-03-25/75/f6/75f62fef88b9efbdbc55810553515d53.jpg?width=300", Киножелезо
+#EXTGRP:GRAND PLUS| КИНОStream
+http://188.208.197.173/kinojelezo/video.m3u8?token=tvon
+#EXTINF:-1 tvg-name="Kinowalk_tv" tvg-logo="https://images.live.vkvideo.ru/user/20428041/avatar?change_time=1741480828&croped=1&mh=140&mw=140", Kinowalk_tv
+#EXTGRP:GRAND PLUS| КИНОStream
+https://kinowalk.hopto.org/kinowalk_live
+
+#EXTINF:-1 tvg-name="Kin0ZALL" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0e6bc225-2783-4ba8-a24e-57cf5f40bc87-profile_image-70x70.png" group-title="GRAND PLUS| КИНОStream", Kin0ZALL
+#EXTGRP:GRAND PLUS| КИНОStream
+https://eun13.playlist.ttvnw.net/v1/playlist/CrcGiH0v5L7gVpUZTJSWRgNarS8RsOhfcV8COpnpayaIV-RyPTASOektU1ER7KV33GEQWL33O3mNC_hxFZUudunURGji95ggERNPeD_ZOCeuk83qkY82rce1eyR2z6nannThBfdF4c9PXB3EugLRWo5xktlbpYF3L4aaMcH7s11-f_xCSNELPv9b7-PkpxwAkORG8lG44P4-4qOjZTe_khwLPRqMEFREiI1Bnao15liVT_tXwqf9W6B3qb8HmicuGE66D4aDJztVKm0Q2hk92nswu5jlZQ2-NbO64_Gf3mR4DnDdYtGzqvXZJ8ihyBq7txsGkNH_sTuaj2l2XlWfSgYMTZrQ-kuQ9m1d3zsL0r_6HoeTp26Ii91Zbw_LH8LV59-mGLAbkNq6DE5pU8FIileu9wok9fMDrfF7dmIeVRMEQcqmgXmSzWGfLyPFrzDicx1WulMg2nQNjO5np3cPC4un6Hi9fCBW9qRlWnL5NNR57hk7iynS2NalshPEolTG6X-lDrmQe3GQSYZdoZhyObpm5LGfBlLUVjnI4HO3ZOeRlWPEQV_Eo6lyyg4uwH1sZW20TVuOfhoAE4TUQ68O_3bnoUKZALXEDTaPxyF9qhJFk7SrJzSx2soYcdGYUiUmJGjVr0YqtbEYAyYjNtFFfOW7---FShYEH3FxSPg3GkgsLMeWFlqQ3Oo-h647mn_bqOGz-pzf72lctfuytFALjH6EGyGRc82aJn0A6Tj6RQPboURBo3XbnAwDzP_fgUsa2vFvxCH6dAjoF41tO-CV7ig8nbi7D8NkohGSt33WuFWo7OthJeSLGza9PedHU1mcAPTVWkEz99ny1GDpnm2oOGSioY6MyKHYPNXBHAEaa0n4WyXNEIUvPgsRsWgxJ5VxQf2lJSxkPBsIrWLjekkw4yTvAIg_1EGXsSI1qTqGXRh1APglQgZRbJB686cm7j-mx9o9mxreZ1QfFAnWT4KmLCxztYqINRFppZVNm8awNMbjDpPWj5VCANS1VJ5HaoTwfHwR9ir3CqkddUjf6hwDV6kmit-Y8wOovKKdiB3pQfq3SFPIjIj-TW9Ut-WTLPIQB_RAJj1kN6xbOxoMCuV966R12oIVSUeVIAEqCWV1LXdlc3QtMjD8DQ.m3u8
+#EXTINF:-1 tvg-name="KinoPoka33" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/76b65b5f-e11c-4fbb-8f0b-99a262bf8f49-profile_image-70x70.png" group-title="GRAND PLUS| КИНОStream", KinoPoka33
+#EXTGRP:GRAND PLUS| КИНОStream
+https://eun12.playlist.ttvnw.net/v1/playlist/CsAGc4lbDXDeZwE_IJbuWirGjWTfHj1wPW0cSRyDFtfRpC_bpGlB5M5WtzHMN20kVO8rj8SJSntBW8aVu3em7w7WP_Wx8Ss1irueZsj29O98cK1COC4ONOAh7xA3zEYJP0Bjfj-Ce0l96-PsBes3LschzmaoCPC7YM5XoCpmBF-U8eOZdTWi-M0pNGm0sMJEKvzf-P-r9TUTLDXDkRsR7kPg62VbOOPiZwH-cu31_V_ydhXTfP3RgUKKE8deT8OM7_uRfLHLRhIMBTFW8lK-dcDqutn-eiKL7km6RJpwnQdpnvcJq33EIXfWgxLgRYwVP_Z5Gh_Fbzk3cSC9h75O-o07jzgvqWqqM_CMWkz-m9YR3X5CxwkeeLqjBqQQjKzOSBPTIm-p1PibUeDWWXxau0xq8mxKCBzfG4jj_08WIB5cHL8huabkui_dL3gZcZnjnIOKv3n7tHGYw5dlugO4NtXyhSPDT6ytULlTxIOkOauZxLkHOvZIdc_9oFtJ6WMKWWr09DEhd3JZsufV7x3JVXEKchXlysUCFEqd4ZoEkGZzfcagYocAFn58CQCvV8X_O8iMsS9Xti00A9MmPjaOn5McHXnNWBHKUV5FPFAIUkVbKN0Ts6qGLrTsW5VwsvYx6NuLFqkN7GUEU5iEOpeuNQbvXdSUbKCwZu-UmrnVdE7rZHss6I9gd6EJOCo62uq-lceoQyoC8LLYnJZmGNmjgY3CLKlXs1xWTvLzMy9kHksg9cgZ2iq4vpiijrqqVpFD5L8v-eMOQj-DUGBlNY5f8HRjg70Ax7fNLbsu8-laRB82TNvIgI3XjctkECOATmWZIT1cpmfMmmt-2xnc0GF3Uio_PR3GwF8C5bFKmd57LCRPDdNCKnwfm1Ex4BCj96O5FQ-cmQGEEi-gpLuKD8gtP1Pa1Up081wTuUny57PnI38z9rOf0LOaWrfAysVsA6FOPBPXfuDlQ-umUbMbEoZCf1YIv8cZ64AZCuADu57XJqdYrdriLmFV6eRznttIyloYw1oC_PfUQPIH83ryxUeXplZ30r99ZQ_4IKjRfkeeUoCpf0K74NmiI10AKZ-jrEmF5gitXfiQFsXNyEVbDIzKD9vO7RoMibpD1MBhjJqDsC6dIAEqCWV1LXdlc3QtMjD8DQ.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -6239,15 +6749,15 @@ http://saveukraine.1ce.xyz/8764/video.m3u8?token=99jkYSXX7E
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV IDOL
 http://saveukraine.1ce.xyz/10039/video.m3u8?token=99jkYSXX7E
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV IDOL
-http://ru2.team.ga/ch2752/index.m3u8?token=karimov_rashid.v2_vqw5zNnLQNA5ncT-okYxaLddq4pRamkTieyZlPIHAKE_lw-wv50pUDQbZRXo26o1yFIenBUs1MTaLDxM4BYcwQ
+http://9.team.ga/ch2752/mono.m3u8?token=rl_awip.v2_vmdrzeVUvVeiZc_OCNB87lcvw7RQ0tyl35hvIUwjdtn_CtyasqgUwCKGgAY5CucYvqzSG1jVO6Eq
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV PULSE 
 http://saveukraine.1ce.xyz/10040/video.m3u8?token=99jkYSXX7E
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV PULSE
-http://ru2.team.ga/ch2758/index.m3u8?token=karimov_rashid.v2_7hlIs2tEGgGgZMJ9gBKxUe-IRcHCEBY2hWDxOp-N65GzxlZ6IvD90H12o8ii0n31MyqS15rFbeoe2Na0p7G6tg
+http://9.team.ga/ch2758/mono.m3u8?token=rl_awip.v2_U6EelmhIk8OyHC5BrGujIE3E0nCUypOkbBcX8wzNsWAf4zKYJ7gR2CGEvOo6wE5i3SHlWTh7a_BX
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV BASE 
 http://saveukraine.1ce.xyz/10041/video.m3u8?token=99jkYSXX7E
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV BASE
-http://ru2.team.ga/ch2766/index.m3u8?token=karimov_rashid.v2_3oXwMCuCDQKRjWpgJgYAC5sEGehsUbyFkvaAv18t7RFdL64sDunSEQYXdfEYU2kqLX-frh4UYdhT-C1PbVOePw
+http://9.team.ga/ch2766/mono.m3u8?token=rl_awip.v2_DpE9Vbwx-UlK1-uaKqQCTzkWBXiWluY1HP7k8LQc9l7-jaK4wZul3ANI8qN5EUYOrmx4H28px68q
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV MOVIE HITS 
 https://jmp2.uk/plu-6331a4df44111b00076b15f7.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV CLASSICS
@@ -7345,6 +7855,441 @@ http://9.team.ga/ch3314/mono.m3u8?token=rl_awip.v2_nrFbX5pnvuVcF5w_NEIy-YzRcdHIC
 #EXTINF:0 tvg-id="tvg_1116" tvg-logo="http://team.ga/images/chIcons/1116.png" timeshift="0", C More Hits HD
 #EXTGRP:GRAND PLUS | CINEMA TEAM
 http://9.team.ga/ch1116/mono.m3u8?token=rl_awip.v2_loaVwC5itiEbUU2lh989TJHotojiem7GywiZgmu3siXoltiZAzj00y9lIZJs80r1vYG9XxZAJ-EI
+
+
+
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1573.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", Fresh Rock
+http://16.team.ga:80/ch1573/mono.m3u8?token=lexanchik1.JYBLp5FCxSxWg0kl0TGf8Qf5q6-EyAvfUh-mCfeVm6asr6myyauGVp1QiVttbqgx
+
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/1757.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", Liberty Music Mix FHD
+http://16.team.ga:80/ch1757/mono.m3u8?token=lexanchik1.JYBLp5FCxSxWg0kl0TGf8ccnhg1EDC6M7Y9BesHCkucRy41b7J13yUJLyMrzXrTv
+
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2790.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", Liberty Music Dj FHD
+http://16.team.ga:80/ch2790/mono.m3u8?token=lexanchik1.JYBLp5FCxSxWg0kl0TGf8YEqtu_z7jfglZ0J1Pb-hlAwXcqIURP6xmQefIWhHfo0
+
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2791.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", Liberty Music Rock FHD
+http://16.team.ga:80/ch2791/mono.m3u8?token=lexanchik1.JYBLp5FCxSxWg0kl0TGf8X4dpVt654eX6dDxDX2Sxx-cLjD928FYb4AV1kdSodbC
+
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2792.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", Liberty Music Jazz FHD
+http://16.team.ga:80/ch2792/mono.m3u8?token=lexanchik1.JYBLp5FCxSxWg0kl0TGf8RulaXbMuBe6IUJVbgiqgm1sLYiLlw3oRkR_IHsN_zNk
+
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2793.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", Liberty Music K-POP FHD
+http://16.team.ga:80/ch2793/mono.m3u8?token=lexanchik1.JYBLp5FCxSxWg0kl0TGf8aq_VDWYCLhPXeqO9m1dvkd6blT_w0OcWQQynxyphZ13
+
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2796.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", Liberty Music Pop FHD
+http://16.team.ga:80/ch2796/mono.m3u8?token=lexanchik1.JYBLp5FCxSxWg0kl0TGf8SKSVjBf2jIqrA02qOC_ELptGKqWu-Yo-V4UB2sXbGoJ
+
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2794.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", Liberty Music Hip-Hop FHD
+http://16.team.ga:80/ch2794/mono.m3u8?token=lexanchik1.JYBLp5FCxSxWg0kl0TGf8WoaY51y6qYM7V8_INYM2FvVR3_Ur0JSulkRDIMp84Xe
+
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2795.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", Liberty Music 90s Hits FHD
+http://16.team.ga:80/ch2795/mono.m3u8?token=lexanchik1.JYBLp5FCxSxWg0kl0TGf8d_3iHM7889a3iDV7pneKuP7H1pqFPn4DbDm2AaIVkR5
+
+#EXTINF:-1 tvg-logo="http://troya.info/images/chIcons/2797.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", Liberty Music latino FHD
+http://16.team.ga:80/ch2797/mono.m3u8?token=lexanchik1.JYBLp5FCxSxWg0kl0TGf8TIk1bcaIgifG3_o_RPlYN1vlTAE900w0_IhomxNc9xG
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/428.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Channel 11 HD
+http://3.team.ga:80/ch428/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHnbZdF9yxbsS8H_qn1Z9NE5Xp1ENzwJDgv1EBEH21b1D
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/429.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Channel 12 HD
+http://3.team.ga:80/ch429/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHmZbKmaLBv2yabrDj-PTGelfEPOtQpyLRFUYjHa24LyM
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/430.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Channel 13 HD
+http://3.team.ga:80/ch430/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHuHlAM0tQlsk6xjW2Q2jLCi18BwDbu22Fi12rnXSDtsG
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1119.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Channel 14 HD
+http://3.team.ga:80/ch1119/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHlZPR1YjSDRwSwwESA3OX2Wpc_iW7dGabp7H1TwXa4dL
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2824.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: i24 News
+http://3.team.ga:80/ch2824/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHjxiXrMbK1p2xXoJh6MM5PdHhrz9eCJNRuZEh-5rvYQQ
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1178.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Humor Channel
+http://3.team.ga:80/ch1178/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHgD8RiBmY3DhFszfjVWVnD58QyP2OQMrprOLHn1OC7Nl
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1174.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: HOT Comedy Central HD
+http://3.team.ga:80/ch1174/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHtCdHLHo5WNLSOY8xVRHUUWP-qY9GZmZLwJBCzrie1bh
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2540.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Tv Comedy HD
+http://3.team.ga:80/ch2540/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHsTWuUOGl7iLCXGsfBYw8fFssnZgbgw3wdwJKFt4RjA2
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1161.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: HOT Cinema 1 HD
+http://3.team.ga:80/ch1161/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHkcH0VFj64nIaeHnDcdPSABS0s2YEFZ11PbLeNdA_npc
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1172.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: HOT Cinema 2 HD
+http://3.team.ga:80/ch1172/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHhc7zN1ACk7aHiNh5X1dAnwz7binZPmGZi5K-1lt6UMG
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1140.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: HOT Cinema 3 HD
+http://3.team.ga:80/ch1140/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHuYa3yBFUVDgwJIbq14XtX1FZQYsTKFQmMPf1_Z-FOvR
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1192.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: HOT Cinema 4 HD
+http://3.team.ga:80/ch1192/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHne9HAMgDLQGdthLcUFkUYVWNUNB_IjxCMDWevLfXWAF
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1153.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: HOT Cinema Family HD
+http://3.team.ga:80/ch1153/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHv9DtUjkPV1v4W1pZkzwDwA0aVnKAmIfBaG87r3lLjFS
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1133.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: HOT Cinema Israeli HD
+http://3.team.ga:80/ch1133/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHvMXTuc4900ZiuOVTVlG4kFyuQZjhwwpMGtkMO_hynTV
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1148.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: YES Movies Action HD
+http://3.team.ga:80/ch1148/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHqtO-BiBpRw4FmuaKLc0Zcqj-GQu1hbUMgbQMg1K06WJ
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1149.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: YES Movies Comedy HD
+http://3.team.ga:80/ch1149/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHml6n2sKWkRaIb9s2v6Ji1BIntdZyRpa8dL1JAU2uhzC
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1150.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: YES Movies Drama HD
+http://3.team.ga:80/ch1150/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHpW23BUacA6GQhmXf6Y0FxCyMzq3RC1mq0mOBthP7IXH
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/3030.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: YES Plus Diamonds HD
+http://3.team.ga:80/ch3030/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHkW_duObtuhpKtu8ssgaJ_Sq0w8bZCiORLfRS7Vu3Mwb
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2030.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: YES Israeli Cinema HD
+http://3.team.ga:80/ch2030/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHuHcYZdVwT3JZDDMTMnuECL0GowOokqs6VRz4h0dj-WN
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1151.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: YES Movies Kids HD
+http://3.team.ga:80/ch1151/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHq8t2ODAAxWuKKpuznXBFm7qaWbolt93luhnO8k4rRCe
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2537.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Movies Action HD
+http://3.team.ga:80/ch2537/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHr8dXukfdCVjQHgbwEPhCWxBXzgXVI1JXaRTbkbwKAZZ
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1915.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: YES Plus Cinema HD
+http://3.team.ga:80/ch1915/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHs8suv_wEiK-R1OkjMMHJNsCfJgEYvRBqC3lmWFnrJiQ
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2536.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Movies Romantic HD
+http://3.team.ga:80/ch2536/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHgi1BYKhlbuU-9ONCVdPh_Nt4tg15IvWw7nJohX6qyUP
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1193.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Movies Comedy HD
+http://3.team.ga:80/ch1193/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHu8r37GSzskXKrSOWsTg-gQrF1mhHJioYt1q3Grl5jCq
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2534.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Movies Drama HD
+http://3.team.ga:80/ch2534/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHnDy6wZxjBdwQu4WKDxnBWxQ0Ri7iFEDVBJqtU4qHgzh
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2535.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Movies Horror HD
+http://3.team.ga:80/ch2535/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHqyw5k3mcjRQUUx2J8svmxr7BdqpE6dC0-M0QM7Hp4fB
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2538.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Israeli Movies HD
+http://3.team.ga:80/ch2538/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHgQ8EfQqb-f9duJ3mpkEPscSCkd-CU3LW-kX14ApWzhH
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2495.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Cellcom Movies Action HD
+http://3.team.ga:80/ch2495/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHhBIe6W1QgtPH2tH1pscGKVoTKkIpvUQltorF3UExQmh
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1147.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: HOT 3 HD
+http://3.team.ga:80/ch1147/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHu-24sz02bhZKQrTYkaN9gsEnIJ12LOqbXbxOI1qcb_P
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1163.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: HOT Bidur HD
+http://3.team.ga:80/ch1163/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHmTLn5IhynuaOhRvaPsoV6JKemMWGKdpW3vZA8zDPYPu
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1175.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: HOT HBO HD
+http://3.team.ga:80/ch1175/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHqV1Pk-OLJ2hGx7XyD6SQzuXy2RoxTLbX6ypXH2bog90
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1144.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: HOT 8 HD
+http://3.team.ga:80/ch1144/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHoByoxO6N8A1FrDUQlu0CnBptBvbUQCzKX1wla6IBBLd
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1158.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: YES TV Action HD
+http://3.team.ga:80/ch1158/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHv-TNOK26OyBtUje-vzTo_rTIfZbUfFOc4xiGxAenqqC
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1159.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: YES TV Comedy HD
+http://3.team.ga:80/ch1159/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHsV0bHaRpFu4hNsKNmBtUw7UCTYixOSn00bps2iGyFkw
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1160.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: YES TV Drama HD
+http://3.team.ga:80/ch1160/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHgKZ9ZRyP2ZM-LG2tKFD38DhZGY0Hobt5cvwWzSTAeEa
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1137.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: YES Docu HD
+http://3.team.ga:80/ch1137/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHm9dYKzSqV_9t10RFZlHop6moU9Y97DEEg_8CvyP3qN5
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2539.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Tv Drama HD
+http://3.team.ga:80/ch2539/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHsfpA-9TQLxGAs0A0g2fysEESafLqTRO9qBkuYjB02v3
+
+
+
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2533.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Series Global HD
+http://3.team.ga:80/ch2533/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHn6QxkbnQemj2mmNuIOSvFcD3axFQ5FO430SkCBWZ7FQ
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2499.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Cellcom Israel
+http://3.team.ga:80/ch2499/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHtsCA4eWtnzCrQKQt2AJXDSM9ey7omxl5GY3NvgXYtCh
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2639.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Cellcom TV Shows HD
+http://3.team.ga:80/ch2639/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHt4dcyQJ6JW7tffQJAYLwE2D9kE0E2cQMW_wm0n_nT_d
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1142.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Channel 24
+http://3.team.ga:80/ch1142/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHpgJ-UVfzXUOZ8zl2V50pL7-d9aowcWTCOPBFaOQEK2M
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1122.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: E!
+http://3.team.ga:80/ch1122/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHkey9kOCufJIDZLZ_V1_3KrGrsOTtM6TgFWdfOH5jkmA
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2642.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Fashion
+http://3.team.ga:80/ch2642/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHuZNP3s0_GYwZ75Elk3oQyo54rrrbBmqgAc4yIP_sZQm
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2623.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: MTV HD
+http://3.team.ga:80/ch2623/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHl7NwArsBDv0tpVR61Z5riUkGVmtGfmyEeEXpXeLH0FX
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2617.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Movies Family HD
+http://3.team.ga:80/ch2617/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHiqpK1mvj9guJOjwW1hv3NGA3g-Worx3C5UtKm7ZPM8b
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2616.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Bollywood HD
+http://3.team.ga:80/ch2616/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHhi38XQQqe_Q-33TlJRzDyDlkM1-srzIM9ro0SsAadv8
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2628.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: CBS Reality
+http://3.team.ga:80/ch2628/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHuctMyX6gRIblBsxxuyNXykAtA4pJlMZyEuJ8f4eXpSx
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2640.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Cellcom Doco HD
+http://3.team.ga:80/ch2640/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHr02QNe1Dt2GOjKpsBQ0d35ltim8i-LcEyb0IoNbOn1c
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1120.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Discovery Channel HD
+http://3.team.ga:80/ch1120/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHobPW86QH_ccN1qAA92BqY7Y2WoagxF07TC8oXtBGHl8
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2498.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Ego Total
+http://3.team.ga:80/ch2498/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHpLntjpbHlsoLkQq5eE9gDDMi5gzDLqyUp1GOV1br9zp
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2496.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Eurosport 1 HD
+http://3.team.ga:80/ch2496/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHiXluwkQJoBxjCqBakbunxrX1h60zobutp0tTdIIDqPm
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2497.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Eurosport 2 HD
+http://3.team.ga:80/ch2497/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHl2FatYmtUfdTetKl0YzUtG1UCkJy_5fsabrsbnAWHsz
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2629.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Edge Sport HD
+http://3.team.ga:80/ch2629/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHlTiyV-8WQe9sN3u7ePIbZwQdfVhxDnomcxMDRNThYdS
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2544.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Erez Nehederet HD
+http://3.team.ga:80/ch2544/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHqBUPodiUZu51pGt0fBbDtQIaiY7eIBKPNlDyrwvgj4X
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2541.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Tv Lifestyle HD
+http://3.team.ga:80/ch2541/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHtciFmhBdiFIDjmFO77X-ePpBok9HSU3_Ug2NgAXSIPp
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2542.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Tv Cooking HD
+http://3.team.ga:80/ch2542/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHm5rBCAbdpkbbUSyfE74fh_4zmE947w2hASMkA77Xr6-
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2543.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Tv Doco HD
+http://3.team.ga:80/ch2543/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHn3qM9BXAjhBbdzDQH-zxkQ1QXXlBHiwKGIJwo0uM1Ig
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1124.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Food Channel HD
+http://3.team.ga:80/ch1124/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHqGrUXZIZ7biKj40vcwz9yzAaD05-8rbbXhcmRqWFit6
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2630.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Foody HD
+http://3.team.ga:80/ch2630/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHqNfzEfyPp7oV4_iLazeHzhYx0Nblafb2sr8LXqbHQIP
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2627.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Fomo
+http://3.team.ga:80/ch2627/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHtx1iOJmRle6BMBvWW8EALefiuoCsI4qv5DNKVld9hEv
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1141.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Good Life TV HD
+http://3.team.ga:80/ch1141/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHuWiCn_rAdV1SG8tJs9Us6CYOdzYlXyCCfT2_LC2oZ61
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1143.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: History HD
+http://3.team.ga:80/ch1143/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHrqwvhM8DI6eAucR034VWazpXcbII0IsaVgN4UTizeO-
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1167.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Star Channel
+http://3.team.ga:80/ch1167/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHq8J2O26R_U8-SLHMN3AYNFhIuXaYVrUbzG6ujdk8HHJ
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1176.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Health Channel HD
+http://3.team.ga:80/ch1176/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHgZaSHFDgHMduFmVjJTAjS1x9wJGN_1IPXREiGtt3GLt
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1173.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: HOT Real HD
+http://3.team.ga:80/ch1173/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHoBEW1_rz2LfIu-Lp834LeQyYjWJsPU17nM1v4nFVd8T
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1139.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: HOT Zone HD
+http://3.team.ga:80/ch1139/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHlmwlyCLsUHua5GsfwTJTB_WcJeG0Rshz4fF100KqmwH
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2614.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: HOT Buzz HD
+http://3.team.ga:80/ch2614/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHv2bHp1vPj5LynEtvTXiDZ-48-VGLEZq3kE54vHHKG2u
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2631.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Home Plus
+http://3.team.ga:80/ch2631/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHnckqMpmCsCZqvp1WBTuPoHW8DDOKCIc_N28Ked7FWVK
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2645.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Jim Jam
+http://3.team.ga:80/ch2645/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHq_DzPPO9ZlKYYM1pNHb-Cj3KvQqkqPWpNNMYFvUZiPs
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1171.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Kan Chinuchit 23
+http://3.team.ga:80/ch1171/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHvmAJFJCc8BWNx0SLdG_T7-N49TJhkcVLnwhltwKCtra
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1181.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Makan 33 HD
+http://3.team.ga:80/ch1181/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHt1WXAfRRe8Kisv5FyoFlGZuaQCuCn6YpeIm7kszUP0z
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1185.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Nick HD
+http://3.team.ga:80/ch1185/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHtl_cA3XkiEgRYpYrw3QW9h4Uz-Q8j4lDWnLEljTqlUw
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2637.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Nick Jr HD
+http://3.team.ga:80/ch2637/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHkvcf18BrMxMcSpROdi3S3PBY-_NfljL1di_auXF_6QX
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1126.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Nat Geo HD
+http://3.team.ga:80/ch1126/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHjekaQIggavsMpI5mzePBk1iPcejwRAkH0nw3GC07INS
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1138.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Nat Geo Wild
+http://3.team.ga:80/ch1138/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHpkTxkMDstlhiYGksxmreFgC_fDo1CYKCvyD9vbpgAq1
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1195.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: ONE Doco
+http://3.team.ga:80/ch1195/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHnoxa1CLq0MrkqUg9pTaLmUX_Jmg2qmF0MfjKU2obydI
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1186.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: ONE 1 HD
+http://3.team.ga:80/ch1186/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHrDtmhUmcsGhhQkcFKIiJU9j6MU-sJVfwi-JQckGV6Px
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1145.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: ONE 2 HD
+http://3.team.ga:80/ch1145/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHvleiimyMyQPJN3nuKBzvVyHzu3a2OrMAsKFSfbzUGDD
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1182.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Reality HD
+http://3.team.ga:80/ch1182/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHvYLytGX7jk-kZWe6JWkyQBxVV80M5MEKIfhAuP0aKMU
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1128.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Sport 1 FHD
+http://3.team.ga:80/ch1128/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHmegN053zXBMl0oN-uy12ITEI89bZm2zX8owppyScE4k
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1183.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Tv Hatuna HD
+http://3.team.ga:80/ch1183/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHjPyfhmaelE-ZoqfWNyDvs95hR4fZSGy738fdpsMyrkP
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1129.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Sport 2 FHD
+http://3.team.ga:80/ch1129/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHvwc6mKyBQzcuWFUQcfpzFHC3lYLyWtESvcQc6tKRmue
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2086.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Tv Karaoke HD
+http://3.team.ga:80/ch2086/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHocpPLwi7CBm0bHk_JlTC_agd6SiIEdSx3CaKIIGWK3R
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1130.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Sport 3 FHD
+http://3.team.ga:80/ch1130/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHv-kM3R5TjG6NwcCsKk2vZGtBbFYAPaGi9Dm32YsaaDy
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2087.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Tv Kohav Haba HD
+http://3.team.ga:80/ch2087/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHiflxQyPVh8ePm6JO-HgJIbWyemdV8hPgWsUi8aYS-uy
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1131.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Sport 4 FHD
+http://3.team.ga:80/ch1131/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHphwL6McOx1ETL90UHzwb9F4SztQiPd0ZSIX6_uLXv4H
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1132.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Sport 5
+http://3.team.ga:80/ch1132/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHsgZgri1TKNlSCnM3b7N6EtIHT8sLJa3xNwpB5VdxLb5
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2211.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Sport 5 4K
+http://3.team.ga:80/ch2211/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHuhUbKVg0xUqq7FFVcr6LaErWEhhSHU6qUSyl_wKnaHm
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1155.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Sport 5 Livе
+http://3.team.ga:80/ch1155/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHptd43nPYlUeFemHz98G_j_nO7TPnUMVIntwm7j9V3Ry
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1134.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Sport 5 Plus
+http://3.team.ga:80/ch1134/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHkB1psi3QqtPpUmPwxh4LFshUwV99qynLEJvpLMHdCTb
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1135.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Sport 5 Gold
+http://3.team.ga:80/ch1135/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHn55hzujQW8UIqc8-9TQ5H0tbkFEK7JcJ6C0DR8cwHHz
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1156.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Sport 5 Stars
+http://3.team.ga:80/ch1156/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHrHj_d7dkk1bduZtCr8NawDOEimuMo0i1jYG4MadPx0C
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2618.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Sport TO GO 1
+http://3.team.ga:80/ch2618/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHrDh8XqcnsJxVObXXEAkunNuSeuG29OYdbh3qjIXFc78
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2619.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Sport TO GO 2
+http://3.team.ga:80/ch2619/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHo0hkFpYffeQZ0vXNYdqZt7W09W-m3i8EOdQ4W9Bstna
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2545.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Savri HD
+http://3.team.ga:80/ch2545/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHs5-3e_suE0EBME0Mpp6PYcPEUN9Aj2ZOGNs2zMBOAYS
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1136.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Travel Channel HD
+http://3.team.ga:80/ch1136/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHnODUULuZvgn2JdSUdBcjbCGZSMQ7zWnDyzj6eCKcj8a
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2028.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Turkish Drama Plus
+http://3.team.ga:80/ch2028/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHvnBNGkM-j1xtRTO6CwYEcfsmUdoWoe02_ll8Lmry0tB
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2029.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Turkish Drama 2
+http://3.team.ga:80/ch2029/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHjYL_jATJBfTpqZXZLNGlHvCLuBJTDzm6QKQEjEwpI3N
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2611.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Turkish Drama 3
+http://3.team.ga:80/ch2611/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHghCmRnd4mAjkJPLMurxg5atkC877-fEToIjOusXjcq2
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2500.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: TeenNick
+http://3.team.ga:80/ch2500/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHgeDsEmwEf9mkwcI2-8ifCZKu0NypsYusQMDeU3HhMLu
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1184.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Junior
+http://3.team.ga:80/ch1184/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHpRx1_3za6dAwiWJt304s4GgdvrpEsXUxVktM7nCnTef
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2632.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: TLC HD
+http://3.team.ga:80/ch2632/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHmDNYhtp-9i1jEH2q3AseysZXk99YxaNvIJePF3gxAHE
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1189.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Viva
+http://3.team.ga:80/ch1189/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHn1yMUfKQmzq8v-hUFk_rFnFBtwhIlSJ6uoTZ3D49IS0
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1190.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Viva+
+http://3.team.ga:80/ch1190/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHtuUkpPXbORQolWNZolI670SjjwvqGNRjnPZHA9a4ZlK
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1146.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Viva Vintage
+http://3.team.ga:80/ch1146/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHia_61skgMbaTSUJkLiOjyKlFuBwt9f3G0z-AqRczZsT
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1188.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Viva Premium HD
+http://3.team.ga:80/ch1188/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHiQKVNaqyyuND7liJ3UxJORDoj1AuXlLn_ODiI7t4OzO
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2641.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Spanish Drama Channel 1 HD
+http://3.team.ga:80/ch2641/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHqU6zLZlHiuXVXdjmYDLObSTY2pJj4WIj0LxXAontX52
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2624.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Animal Planet HD
+http://3.team.ga:80/ch2624/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHu_u-UGpgd21cY6jB2vxTR1xraeimwpxvJEBpNeH9e4t
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1191.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Yam Tihoni HD
+http://3.team.ga:80/ch1191/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHvzjg-jHZvCZr6gYAq3QG-yoZJaxJY5244X_8JUhMB6m
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1164.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Yam Tihoni 2
+http://3.team.ga:80/ch1164/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHgdJElP65rc_FCigCaEGQMLOUVp9VyqnRvqoF43yuHsx
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1152.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Yam Tihoni Plus
+http://3.team.ga:80/ch1152/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHkh0ZLkbyHlJob3c2RJoIrH-kW5KoUSu0Z0ibFGy6RFj
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2625.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: YoYo
+http://3.team.ga:80/ch2625/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHj27fZLGD_BbwPPlt-xwQUJ-7PfMxvLEDOjf2l58sc-a
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2646.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Yalduti
+http://3.team.ga:80/ch2646/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHsIB-nQtIOtvNfTN4hoP3WkSLpzCc4SD1t98Yg5iz2pn
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1170.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Luli
+http://3.team.ga:80/ch1170/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHtPVBYQsi2Hxj63sOaWLvVZ7Pn7xzIOmDpJP1omXJxTy
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1154.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Hop
+http://3.team.ga:80/ch1154/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHn8ttt2C7-hzbNszaHItwqtt4mEHP7kAnXB2Y-lf3brf
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2031.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Wiz
+http://3.team.ga:80/ch2031/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHgur1fSJmy543uTTwXH_eVrQtq_DcxJByPMGg0fhWZhk
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2643.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Zoom
+http://3.team.ga:80/ch2643/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHkkgDP9dEPTtb_N98M-e_trqAgwTnMqkxnNHB-MzEWTJ
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2644.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Zoom Toon HD
+http://3.team.ga:80/ch2644/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHgs9lCyUDsjsmP9MJqw8Ab2xXrlWyV8YCZ8SQn5gSoMD
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1162.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Disney Jr.
+http://3.team.ga:80/ch1162/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHsGV6l-Bx71GJ3oDe0zI7jByinMBNk9wGKeY3dSqfDQH
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2613.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: HOT Senior HD
+http://3.team.ga:80/ch2613/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHjg__BZDdlbXrs-0FUSWf1YS0akplRdgt_W70TAGz8sI
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1194.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Cellcom Movies Kids HD
+http://3.team.ga:80/ch1194/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHlbNG2PFI8fj47K-4mroU0BIT1y9VP_sTEtAJWtQ5tJY
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2626.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Logi
+http://3.team.ga:80/ch2626/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHjnx8TPrdvHZScWupTrPst26JvpCvN_Pjr5CMltKhFes
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1121.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Disney Channel HD
+http://3.team.ga:80/ch1121/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHpVFfQzsY0HEAv2lobOtM9AInnAUyQU3Ahc-9pdjBtAO
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1118.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Baby TV
+http://3.team.ga:80/ch1118/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHuzOlihqcj0-kgrQWKqEfnRBgNtCmc921CNWcsEb6XOe
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2934.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Aruch Sdarot Hahodiot
+http://3.team.ga:80/ch2934/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHnd4PTIFoL3MwvZB3d5OuIC8SgeFH_66TGu7QKIIB2Xg
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2935.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Aruch Sdarot Hahodiot 2
+http://3.team.ga:80/ch2935/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHlkWibh13E6giQJb37XDvmXGQ7TrHAHosj0shf7sU8x9
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/3036.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Tv Feel Good
+http://3.team.ga:80/ch3036/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHjnjH1vdIQeqDSB35mis4AhL1zBP0unyw7aFnfo3Qigq
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2138.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Hop Israeli Childhood
+http://3.team.ga:80/ch2138/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHgvdF2IuMP0elu1HB95QaayHwbQbyUTwUOaRRsakmsXZ
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2003.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Hop Pele HD
+http://3.team.ga:80/ch2003/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHq9ayeKf3BBR2XULvNaaGYvficYGn9104mEtDwAYujZw
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/3134.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Kalkala 10 HD
+http://3.team.ga:80/ch3134/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHppx6X6QHoCTMyLzvT-4ATgqkIedq4hLlrQapcgqey_l
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/3133.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Spanish Drama Channel 2 HD
+http://3.team.ga:80/ch3133/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHtj4_FS33pZaif6C8uqveTzPnR6aGCuTYAMOd8ehZeVz
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/3224.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: Free Movies 10 Stars HD
+http://3.team.ga:80/ch3224/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHmM0sBrsB4nWD0tuQQywBlc0DB2SdYrQCizWyncATa7h
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/3174.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: YES World Action HD
+http://3.team.ga:80/ch3174/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHsTg48RGPBJBsXuSv6OGP23WvjFBhDEU4Nb1JqhAzfc7
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/3175.png" group-title="GRAND PLUS| ИЗРАИЛЬ TEAM", IL: YES World Action 2 HD
+http://3.team.ga:80/ch3175/index.m3u8?token=iitzhaki.CMN27g2zX9aspCloaotWHkeaAQAbOLOSAtxSnTWX7x49Q5U9fst4uT6mTF24QaaL
 
 
 
@@ -16254,6 +17199,780 @@ https://o8.anwap.be/ohls/qKKqV1Nnm7pUil_P4sB_tQ/1706810659/Master_i_Margarita-40
 
 #EXTINF:-1 tvg-logo="https://m.anwap.movie/films/screen/40583.jpg" group-title="RUZIEV+ IPTV| ВИДЕОПРОКАТ", Вождь орков
 https://o8.anwap.be/ohls/J3aHAE-RS-DbE0-6xWwCPw/1705283793/Vozhdq_orkov-40583_(anwap.org).m3u8
+
+
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Джон Уик 2 [США/2017]
+http://dmitry-tv.ddns.net/hls/film/DJONUIK2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Джон Уик 3 [США/2019]
+http://dmitry-tv.ddns.net/hls/film/DJONUIK3.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Другой мир [США/2003]
+http://dmitry-tv.ddns.net/hls/film/DRUGOYMIR.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Другой мир 2: Эволюция [США/2006]
+http://dmitry-tv.ddns.net/hls/film/DRUGOYMIR2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Другой мир. Восстание ликанов [США/2008]
+http://dmitry-tv.ddns.net/hls/film/DRUGOYMIR_VOSSTANIE_LIKANOV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Другой мир. Войны крови [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DRUGOYMIR_VOINY_KROVI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Прогулка среди могил [США/2014]
+http://dmitry-tv.ddns.net/hls/film/PSM.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Книга Илая [США/2010]
+http://dmitry-tv.ddns.net/hls/film/KNIGAILAYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Остров проклятых [США/2009]
+http://dmitry-tv.ddns.net/hls/film/OP.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Медальон [США/2012]
+http://dmitry-tv.ddns.net/hls/film/MEDALON.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Иностранец [США/2017]
+http://dmitry-tv.ddns.net/hls/film/INOSTRANETZ.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Репродукция [США/2018]
+http://dmitry-tv.ddns.net/hls/film/REPRODUKCIYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ловушка времени [США/2017]
+http://dmitry-tv.ddns.net/hls/film/LOVUSHKA_VREMENI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Морской бой [США/2012]
+http://dmitry-tv.ddns.net/hls/film/MORSKOY_BOY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",После нашей эры [США/2013]
+http://dmitry-tv.ddns.net/hls/film/POSLE_NASHEY_ERY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Разлом времени [США/2017]
+http://dmitry-tv.ddns.net/hls/film/RAZLOM_VREMENI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Соник в кино [США/2020]
+http://dmitry-tv.ddns.net/hls/film/SONIC_V_KINO.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Сквозь снег [США/2013]
+http://dmitry-tv.ddns.net/hls/film/SKVOZ_SNEG.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ван Хельсинг [США/2004]
+http://dmitry-tv.ddns.net/hls/film/VAN_HELSING.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Черная дыра [США/2000]
+http://dmitry-tv.ddns.net/hls/film/CHERNAYA_DYRA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Хроники Риддика [США/2004]
+http://dmitry-tv.ddns.net/hls/film/HRONIKI_RIDDIKA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Дивергент [США/2014]
+http://dmitry-tv.ddns.net/hls/film/DIVERGENT.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Дивергент. глава 2: Инсургент [США/2015]
+http://dmitry-tv.ddns.net/hls/film/DIVERGENT2_INSURGENT.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Дивергент. глава 3: За стеной [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DIVERGENT3_ZA_STENOY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Морские паразиты [США/2019]
+http://dmitry-tv.ddns.net/hls/film/MORSKIE_PARAZITY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",47 ронинов [США/2013]
+http://dmitry-tv.ddns.net/hls/film/47RONINOV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Джек Ричер [США/2012]
+http://dmitry-tv.ddns.net/hls/film/DZHEK_RICHER.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Джек Ричер 2: Никогда не возвращайся [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DZHEK_RICHER2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Смокинг [США/2002]
+http://dmitry-tv.ddns.net/hls/film/SMOKING.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Патруль времени [КИТАЙ/2010]
+http://dmitry-tv.ddns.net/hls/film/PATRUL_VREMENI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Черная молния [РОССИЯ/2009]
+http://dmitry-tv.ddns.net/hls/film/CHERNAYA_MOLNIYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Интерстеллар [США/2014]
+http://dmitry-tv.ddns.net/hls/film/INTERSTELLAR.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Гемини [США/2019]
+http://dmitry-tv.ddns.net/hls/film/GEMINI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Человек из стали [США/2013]
+http://dmitry-tv.ddns.net/hls/film/CHELOVEK_IZ_STALI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Матрица [США/1999]
+http://dmitry-tv.ddns.net/hls/film/THE_MATRIX.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Матрица: Перезагрузка [США/2003]
+http://dmitry-tv.ddns.net/hls/film/THE_MATRIX_PEREZAGRUZKA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Матрица: Революция [США/2003]
+http://dmitry-tv.ddns.net/hls/film/THE_MATRIX_REVOLYUCIYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Пол: Секретный материальчик [США/2011]
+http://dmitry-tv.ddns.net/hls/film/POL_SEKRETNY_MATERIALCHIK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Потрошители [США/2009]
+http://dmitry-tv.ddns.net/hls/film/POTROSHITELI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Дитя робота [США/2018]
+http://dmitry-tv.ddns.net/hls/film/DITYA_ROBOTA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Где-то во времени [США/2018]
+http://dmitry-tv.ddns.net/hls/film/GDETO_VO_VREMENI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ремнант: Всё ещё вижу тебя [США/2018]
+http://dmitry-tv.ddns.net/hls/film/REMNANT_VSE_ESHE_VIZHU_TEBYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Пришелец [РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/PRISHELEC.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Континуум [США/2014]
+http://dmitry-tv.ddns.net/hls/film/KONTINUUM.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Гравитация [США/2013]
+http://dmitry-tv.ddns.net/hls/film/GRAVITACIYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Обливион [США/2013]
+http://dmitry-tv.ddns.net/hls/film/OBLIVION.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Призрачный патруль [США/2013]
+http://dmitry-tv.ddns.net/hls/film/PRIZRACHNY_PATRUL.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Фантом [РОССИЯ/США/2011]
+http://dmitry-tv.ddns.net/hls/film/FANTOM.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Я легенда [США/2007]
+http://dmitry-tv.ddns.net/hls/film/YA_LEGENDA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Нечто [США/2011]
+http://dmitry-tv.ddns.net/hls/film/NECHTO.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Призрак [РОССИЯ/2015]
+http://dmitry-tv.ddns.net/hls/film/PRIZRAK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Призрак в доспехах [США/2017]
+http://dmitry-tv.ddns.net/hls/film/PRIZRAK_V_DOSPEHAH.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Кловерфилд 10 [США/2016]
+http://dmitry-tv.ddns.net/hls/film/KLOVERFILD.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Потерянный остров [РОССИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/POTERYANNY_OSTROV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Джиперс Криперс [США/2001]
+http://dmitry-tv.ddns.net/hls/film/DZHIPERS_KRIPERS.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Поезд в Пусан [КОРЕЯ/2016]
+http://dmitry-tv.ddns.net/hls/film/POEZDVPUSAN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Проклятие Спящей красавицы [США/2015]
+http://dmitry-tv.ddns.net/hls/film/PROKLYATIESPYASHEYKRASAVITSY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Аниара: Космическая обитель [США/2018]
+http://dmitry-tv.ddns.net/hls/film/ANIARA_KOSMICHESKAYAOBITEL.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ледяной капкан [США/2020]
+http://dmitry-tv.ddns.net/hls/film/LEDYANOY_KAPKAN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Салют-7 [РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/SALYUT7.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Мумия [США/1999]
+http://dmitry-tv.ddns.net/hls/film/MUMIYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Мумия возвращается [США/2001]
+http://dmitry-tv.ddns.net/hls/film/MUMIYA_VOZVRASHAETSYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Мумия: Гробница Императора Драконов [США/2008]
+http://dmitry-tv.ddns.net/hls/film/MUMIYA_GROBNITSAIMPERATORADRAKONOV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Царь скорпионов [США/2002]
+http://dmitry-tv.ddns.net/hls/film/TSAR_SKORPIONOV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Тёмная башня [США/2017]
+http://dmitry-tv.ddns.net/hls/film/TEMNAYA_BASHNYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Война миров Z [США/2013]
+http://dmitry-tv.ddns.net/hls/film/VOYNA_MIROV_Z.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Новый Человек-паук: Высокое напряжение [США/2014]
+http://dmitry-tv.ddns.net/hls/film/NEW_CHELOVEK_PAUK_VYSOKOENAPRYAZHENIE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Человек-паук. Возвращение домой [США/2017]
+http://dmitry-tv.ddns.net/hls/film/CHELOVEK_PAUK_VOZVRASHENIEDOMOY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Человек-паук: Вдали от дома [США/2019]
+http://dmitry-tv.ddns.net/hls/film/CHELOVEK_PAUK_VDALI_OT_DOMA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Веном [США/2018]
+http://dmitry-tv.ddns.net/hls/film/VENOM.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Дитя человеческое [США/2006]
+http://dmitry-tv.ddns.net/hls/film/DITYA_CHELOVECHESKOE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Водный мир [США/1995]
+http://dmitry-tv.ddns.net/hls/film/VODNYI_MIR.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ёлки [РОССИЯ/2010]
+http://dmitry-tv.ddns.net/hls/film/ELKI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ёлки 2 [РОССИЯ/2011]
+http://dmitry-tv.ddns.net/hls/film/ELKI2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ёлки 3 [РОССИЯ/2013]
+http://dmitry-tv.ddns.net/hls/film/ELKI3.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ёлки 1914 [РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/film/ELKI1914.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ёлки 5 [РОССИЯ/2016]
+http://dmitry-tv.ddns.net/hls/film/ELKI5.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ёлки новые [РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/ELKI_NOVYE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ёлки лохматые [РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/film/ELKI_LOHMATYE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Джунгли [РОССИЯ/2012]
+http://dmitry-tv.ddns.net/hls/film/DZHUNGLI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Наша Russia: Яйца судьбы [РОССИЯ/2010]
+http://dmitry-tv.ddns.net/hls/film/NASHA_RUSSIA_YAYTSASUDBY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Призрачный гонщик [США/2007]
+http://dmitry-tv.ddns.net/hls/film/PRIZRACHNY_GONSHIK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Трансформеры [США/2007]
+http://dmitry-tv.ddns.net/hls/film/TRANSFORMERY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Трансформеры 2: Месть падших [США/2009]
+http://dmitry-tv.ddns.net/hls/film/TRANSFORMERY2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Трансформеры 3: Темная сторона Луны [США/2011]
+http://dmitry-tv.ddns.net/hls/film/TRANSFORMERY3.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Трансформеры 4: Эпоха истребления [США/2014]
+http://dmitry-tv.ddns.net/hls/film/TRANSFORMERY4.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Трансформеры 5: Последний рыцарь [США/2017]
+http://dmitry-tv.ddns.net/hls/film/TRANSFORMERY5.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Бамблби [США/2018]
+http://dmitry-tv.ddns.net/hls/film/BAMBLBI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Последний киногерой [США/1993]
+http://dmitry-tv.ddns.net/hls/film/POSLEDNIY_KINOGEROY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Терминатор. Да придет спаситель [США/2009]
+http://dmitry-tv.ddns.net/hls/film/TERMINATOR_DA_PRIDET_SPASITEL.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Терминатор: Генезис [США/2015]
+http://dmitry-tv.ddns.net/hls/film/TERMINATOR_GENEZIS.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Человек на Луне [США/2018]
+http://dmitry-tv.ddns.net/hls/film/CHELOVEK_NA_LUNE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Боевой робот номер 4 [США/2020]
+http://dmitry-tv.ddns.net/hls/film/BOEVOY_ROBOT_N4.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Черепашки-ниндзя [США/2014]
+http://dmitry-tv.ddns.net/hls/film/CHEREPASHKI_NINDZYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Черепашки-ниндзя 2 [США/2016]
+http://dmitry-tv.ddns.net/hls/film/CHEREPASHKI_NINDZYA2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Шестой день [США/2000]
+http://dmitry-tv.ddns.net/hls/film/6_DEN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Хэнкок [США/2008]
+http://dmitry-tv.ddns.net/hls/film/HENKOK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Назад в будущее 2 [США/1989]
+http://dmitry-tv.ddns.net/hls/film/NAZAD_V_BUDUSHEE2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Кладбище домашних животных [США/2019]
+http://dmitry-tv.ddns.net/hls/film/KLADBISHE_DOMASHNIH_ZHIVOTNYH.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Дракулов [РОССИЯ/2021]
+http://dmitry-tv.ddns.net/hls/film/DRAKULOV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Живое [США/2017]
+http://dmitry-tv.ddns.net/hls/film/ZHIVOE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Охотники на ведьм [США/2012]
+http://dmitry-tv.ddns.net/hls/film/OHOTNIKI_NA_VEDM.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Звонок 2 [США/2005]
+http://dmitry-tv.ddns.net/hls/film/ZVONOK2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Дом напротив [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DOM_NAPROTIV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Злой дух [КАНАДА/2017]
+http://dmitry-tv.ddns.net/hls/film/ZLOY_DUH.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Добро пожаловать в Зомбилэнд! [США/2009]
+http://dmitry-tv.ddns.net/hls/film/DOBRO_POZHALOVAT_V_ZOMBILEND.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Судная ночь 2 [США/2014]
+http://dmitry-tv.ddns.net/hls/film/SUDNAYA_NOCH2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Судная ночь 3 [США/2016]
+http://dmitry-tv.ddns.net/hls/film/SUDNAYA_NOCH3.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Судная ночь навсегда [США/2021]
+http://dmitry-tv.ddns.net/hls/film/SUDNAYA_NOCH_NAVSEGDA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Крик [США/1996]
+http://dmitry-tv.ddns.net/hls/film/KRIK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Крик 2 [США/1997]
+http://dmitry-tv.ddns.net/hls/film/KRIK2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Крик 3 [США/1997]
+http://dmitry-tv.ddns.net/hls/film/KRIK3.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Пиковая дама: Зазеркалье [РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/PIKOVAYA_DAMA_ZAZERKALE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",мама! [США/2017]
+http://dmitry-tv.ddns.net/hls/film/MAMA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Пассажиры [США/2016]
+http://dmitry-tv.ddns.net/hls/film/PASSAZHIRY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Охотники за привидениями 2 [США/1989]
+http://dmitry-tv.ddns.net/hls/film/OHOTNIKI_ZA_PRIVIDENIYAMI2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Другие [США/2001]
+http://dmitry-tv.ddns.net/hls/film/DRUGIE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Девушка в поезде [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DEVUSHKA_V_POEZDE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Астрал 2 [США/2013]
+http://dmitry-tv.ddns.net/hls/film/ASTRAL2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Астрал 3 [США/2015]
+http://dmitry-tv.ddns.net/hls/film/ASTRAL3.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Астрал 4: Последний ключ [США/2018]
+http://dmitry-tv.ddns.net/hls/film/ASTRAL4.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Вирус страха [США/2020]
+http://dmitry-tv.ddns.net/hls/film/VIRUS_STRAHA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Слендермен [США/2018]
+http://dmitry-tv.ddns.net/hls/film/SLENDERMEN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Детские игры 2 [США/1990]
+http://dmitry-tv.ddns.net/hls/film/DETSKIE_IGRY2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Детские игры 3 [США/1991]
+http://dmitry-tv.ddns.net/hls/film/DETSKIE_IGRY3.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Потомство Чаки [США/2004]
+http://dmitry-tv.ddns.net/hls/film/POTOMSTVO_CHAKI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Легенда Зорро [США/2005]
+http://dmitry-tv.ddns.net/hls/film/LEGENDA_ZORRO.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Хранитель времени [США/2011]
+http://dmitry-tv.ddns.net/hls/film/HRANITEL_VREMENI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Капкан времени [США/2005]
+http://dmitry-tv.ddns.net/hls/film/KAPKAN_VREMENI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Братья Гримм [США/2005]
+http://dmitry-tv.ddns.net/hls/film/BRATYA_GRIMM.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ангелы Чарли 2: Только вперед [США/2003]
+http://dmitry-tv.ddns.net/hls/film/ANGELY_CHARLI2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ангелы Чарли [США/2019]
+http://dmitry-tv.ddns.net/hls/film/ANGELY_CHARLI_2019.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Джуманджи: Новый уровень [США/2019]
+http://dmitry-tv.ddns.net/hls/film/DZHUMANDZHI_NEW_UROVEN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Доспехи бога: В поисках сокровищ [КНР/США/2017]
+http://dmitry-tv.ddns.net/hls/film/DOSPEHIBOGA_V_POISKAH_SOKROVISH.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Люди в черном [США/1997]
+http://dmitry-tv.ddns.net/hls/film/LYUDI_V_CHERNOM.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Люди в черном. Интернэшнл [США/2019]
+http://dmitry-tv.ddns.net/hls/film/LYUDI_V_CHERNOM_INT.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Агент Джонни Инглиш [США/2003]
+http://dmitry-tv.ddns.net/hls/film/AGENT_DZHONNI_INGLISH.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Агент Джонни Инглиш: Перезагрузка [США/2011]
+http://dmitry-tv.ddns.net/hls/film/AGENT_DZHONNI_INGLISH_PEREZAGRUZKA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Время [США/2021]
+http://dmitry-tv.ddns.net/hls/film/VREMYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Форсаж 9 [США/2021]
+http://dmitry-tv.ddns.net/hls/film/FORSAZH9.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ледокол [РОССИЯ/2016]
+http://dmitry-tv.ddns.net/hls/film/LEDOKOL.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Пришельцы на чердаке [США/2009]
+http://dmitry-tv.ddns.net/hls/film/PRISHELTSY_NA_CHERDAKE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Знакомьтесь: Дэйв [США/2008]
+http://dmitry-tv.ddns.net/hls/film/ZNAKOMTES_DEYV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Тысяча слов [США/2009]
+http://dmitry-tv.ddns.net/hls/film/1000SLOV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Библиотекарь 2: Возвращение в Копи Царя Соломона [США/2006]
+http://dmitry-tv.ddns.net/hls/film/BIBLIOTEKAR2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Библиотекарь 3: Проклятие иудовой чаши [США/2008]
+http://dmitry-tv.ddns.net/hls/film/BIBLIOTEKAR3.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Белоснежка и охотник [США/2012]
+http://dmitry-tv.ddns.net/hls/film/BELOSNEZHKA_I_OHOTNIK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Затерянный мир [США/2009]
+http://dmitry-tv.ddns.net/hls/film/ZATERYANNY_MIR.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Разлом [США/2018]
+http://dmitry-tv.ddns.net/hls/film/RAZLOM.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Выкрутасы [РОССИЯ/2010]
+http://dmitry-tv.ddns.net/hls/film/VYKRUTASY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",День выборов [РОССИЯ/2007]
+http://dmitry-tv.ddns.net/hls/film/DEN_VYBOROV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Плохие парни навсегда [США/2020]
+http://dmitry-tv.ddns.net/hls/film/PLOHIE_PARNI_NAVSEGDA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Дом большой мамочки [США/2000]
+http://dmitry-tv.ddns.net/hls/film/DOM_BOLSHOY_MAMOCHKI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Дом большой мамочки 2 [США/2006]
+http://dmitry-tv.ddns.net/hls/film/DOM_BOLSHOY_MAMOCHKI2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Представь себе [США/2008]
+http://dmitry-tv.ddns.net/hls/film/PREDSTAV_SEBE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Эван Всемогущий [США/2007]
+http://dmitry-tv.ddns.net/hls/film/EVAN_VSEMOGUSHIY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Бросок кобры [США/2009]
+http://dmitry-tv.ddns.net/hls/film/BROSOK_KOBRY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Бросок кобры 2 [США/2013]
+http://dmitry-tv.ddns.net/hls/film/BROSOK_KOBRY2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Стартрек: Бесконечность [США/2016]
+http://dmitry-tv.ddns.net/hls/film/STARTREK_BESKONECHNOST.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Миссия невыполнима [США/1996]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Миссия невыполнима 2 [США/2000]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Миссия невыполнима 3 [США/2006]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA3.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Миссия невыполнима: Протокол Фантом [США/2011]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA_PROTOKOL_FANTOM.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Миссия невыполнима: Племя изгоев [США/2015]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA_PLEMYA_IZGOEV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Миссия невыполнима: Последствия [США/2018]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA_POSLEDSTVIYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Лара Крофт: Расхитительница гробниц [США/2001]
+http://dmitry-tv.ddns.net/hls/film/LARA_KROFT_RASHITITELNITSA_GROBNITS.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Лара Крофт: Расхитительница гробниц 2 Колыбель жизни [США/2003]
+http://dmitry-tv.ddns.net/hls/film/LARA_KROFT_RASHITITELNITSA_GROBNITS2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Аферисты Дик и Джейн [США/2005]
+http://dmitry-tv.ddns.net/hls/film/AFERISTY_DIK_I_DZHEYN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Лемони Сникет. 33 несчастья [США/2004]
+http://dmitry-tv.ddns.net/hls/film/LEMONI_SNIKET_33NESCHASTYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Бетховен [США/1992]
+http://dmitry-tv.ddns.net/hls/film/BETHOVEN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Бетховен 2 [США/1993]
+http://dmitry-tv.ddns.net/hls/film/BETHOVEN2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Двое: я и моя тень [США/1995]
+http://dmitry-tv.ddns.net/hls/film/DVOE_YA_I_MOYA_TEN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Детсадовский полицейский [США/1990]
+http://dmitry-tv.ddns.net/hls/film/DETSADOVSKIY_POLITSEYSKIY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Зелёная миля [США/1999]
+http://dmitry-tv.ddns.net/hls/film/ZELYONAYA_MILYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Факультет [США/1998]
+http://dmitry-tv.ddns.net/hls/film/FAKULTET.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",От заката до рассвета [США/1995]
+http://dmitry-tv.ddns.net/hls/film/OT_ZAKATA_DO_RASSVETA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Мачете [США/2010]
+http://dmitry-tv.ddns.net/hls/film/MACHETE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Мачете убивает [США/2013]
+http://dmitry-tv.ddns.net/hls/film/MACHETE_UBIVAET.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Двухсотлетний человек [США/1999]
+http://dmitry-tv.ddns.net/hls/film/200LETNIY_CHELOVEK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Искусственный разум [США/2001]
+http://dmitry-tv.ddns.net/hls/film/ISKUSSTVENNY_RAZUM.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Особое мнение [США/2002]
+http://dmitry-tv.ddns.net/hls/film/OSOBOE_MNENIE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Инопланетянин [США/1982]
+http://dmitry-tv.ddns.net/hls/film/INOPLANETYANIN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Невезучие [США/2003]
+http://dmitry-tv.ddns.net/hls/film/NEVEZUCHIE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Мышиная охота [США/1997]
+http://dmitry-tv.ddns.net/hls/film/MYSHINAYA_OHOTA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Моя ужасная няня [США/2005]
+http://dmitry-tv.ddns.net/hls/film/MOYA_UZHASNAYA_NYANYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Моя ужасная няня 2 [США/2010]
+http://dmitry-tv.ddns.net/hls/film/MOYA_UZHASNAYA_NYANYA2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Повелитель стихий [США/2010]
+http://dmitry-tv.ddns.net/hls/film/POVELITEL_STIHIY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Каникулы строгого режима [РОССИЯ/2009]
+http://dmitry-tv.ddns.net/hls/film/KANIKULY_STROGOGO_REZHIMA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Третий лишний [США/2012]
+http://dmitry-tv.ddns.net/hls/film/3_LISHNIY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Третий лишний 2 [США/2015]
+http://dmitry-tv.ddns.net/hls/film/3_LISHNIY2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Пиксели [США/2015]
+http://dmitry-tv.ddns.net/hls/film/PIKSELI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Сокровище Амазонки [США/2003]
+http://dmitry-tv.ddns.net/hls/film/SOKROVISHE_AMAZONKI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Бабушка лёгкого поведения [РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/BABUSHKA_LEGKOGO_POVEDENIYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Кукла 2: Брамс [США/2020]
+http://dmitry-tv.ddns.net/hls/film/KUKLA2_BRAMS.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Проклятие: Кукла ведьмы [США/2018]
+http://dmitry-tv.ddns.net/hls/film/PROKLYATIE_KUKLA_VEDMY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Каникулы президента [РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/KANIKULY_PREZIDENTA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Гороскоп на удачу [РОССИЯ/2015]
+http://dmitry-tv.ddns.net/hls/film/GOROSKOP_NA_UDACHU.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Напарник [РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/NAPARNIK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Вий [РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/film/VIY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ной [США/2014]
+http://dmitry-tv.ddns.net/hls/film/NOY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ужастики [США/2015]
+http://dmitry-tv.ddns.net/hls/film/UZHASTIKI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Паразиты [КОРЕЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/PARAZITY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Супергерои [ДОК/ВЕЛИКОБРИТАНИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/SUPERGEROI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Халк [США/2003]
+http://dmitry-tv.ddns.net/hls/film/HALK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Невероятный Халк [США/2008]
+http://dmitry-tv.ddns.net/hls/film/NEVEROYATNY_HALK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Робот по имени Чаппи [США/2015]
+http://dmitry-tv.ddns.net/hls/film/ROBOT_PO_IMENI_CHAPPI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Лекарство от здоровья [США/2017]
+http://dmitry-tv.ddns.net/hls/film/LEKARSTVO_OT_ZDOROVYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Русалка на суше [США/2019]
+http://dmitry-tv.ddns.net/hls/film/RUSALKA_NA_SUSHE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Рассказы Русалочки [США/2018]
+http://dmitry-tv.ddns.net/hls/film/RASSKAZY_RUSALOCHKI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Возвращение в Голубую лагуну [США/1991]
+http://dmitry-tv.ddns.net/hls/film/VOZVRASHENIE_V_GOLUBUYU_LAGUNU.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Убить Билла [США/2003]
+http://dmitry-tv.ddns.net/hls/film/UBIT_BILLA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Убить Билла 2 [США/2004]
+http://dmitry-tv.ddns.net/hls/film/UBIT_BILLA2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Проклятый дом [США/2018]
+http://dmitry-tv.ddns.net/hls/film/PROKLYATY_DOM.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Туннель: Опасно для жизни [НОРВЕГИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/TUNNEL_OPASNO_DLYA_ZHIZNI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Бладшот [США/2020]
+http://dmitry-tv.ddns.net/hls/film/BLADSHOT.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Зеркала [США/2008]
+http://dmitry-tv.ddns.net/hls/film/ZERKALA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Зеркала: Инкарнация [США/2020]
+http://dmitry-tv.ddns.net/hls/film/ZERKALA_INKARNATSIYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Все ждут Рождество: Люси против Крампуса [США/2018]
+http://dmitry-tv.ddns.net/hls/film/VSE_ZHDUT_ROZHDESTVO.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Все ждут Рождество 2: Люси и магический кристалл [США/2020]
+http://dmitry-tv.ddns.net/hls/film/VSE_ZHDUT_ROZHDESTVO2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Альфа [США/2018]
+http://dmitry-tv.ddns.net/hls/film/ALFA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Выживший [США/2015]
+http://dmitry-tv.ddns.net/hls/film/VYZHIVSHIY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Поиск [США/2018]
+http://dmitry-tv.ddns.net/hls/film/POISK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Омерзительная восьмерка [США/2015]
+http://dmitry-tv.ddns.net/hls/film/OMERZITELNAYA_8.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Снеговик [США/2017]
+http://dmitry-tv.ddns.net/hls/film/SNEGOVIK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Восточный ветер [ГЕРМАНИЯ/2013]
+http://dmitry-tv.ddns.net/hls/film/VOSTOCHNY_VETER.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Восточный ветер 2 [ГЕРМАНИЯ/2015]
+http://dmitry-tv.ddns.net/hls/film/VOSTOCHNY_VETER2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Восточный ветер 3: Наследие Оры [ГЕРМАНИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/VOSTOCHNY_VETER3.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Восточный ветер 4: Легенда о Воине [ГЕРМАНИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/VOSTOCHNY_VETER4.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Помогите. я уменьшил свою училку! [ГЕРМАНИЯ/2015]
+http://dmitry-tv.ddns.net/hls/film/POMOGITE_YA_UMENSHIL_SVOYU_UCHILKU.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Помогите. я уменьшил своих родителей! [ГЕРМАНИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/POMOGITE_YA_UMENSHIL_SVOIH_RODITELEY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Женщина в черном [КАНАДА/2012]
+http://dmitry-tv.ddns.net/hls/film/ZHENSHINA_V_CHERNOM.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Женщина в черном 2: Ангел смерти [КАНАДА/2014]
+http://dmitry-tv.ddns.net/hls/film/ZHENSHINA_V_CHERNOM2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Бегущий по лезвию 2049 [США/2017]
+http://dmitry-tv.ddns.net/hls/film/BEGUSHIY_PO_LEZVIYU_2049.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ловец снов [США/2020]
+http://dmitry-tv.ddns.net/hls/film/LOVETS_SNOV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Мара. Пожиратель снов [США/2018]
+http://dmitry-tv.ddns.net/hls/film/MARA_POZHIRATEL_SNOV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Амулет [ВЕЛИКОБРИТАНИЯ/2020]
+http://dmitry-tv.ddns.net/hls/film/AMULET.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",В земле [ВЕЛИКОБРИТАНИЯ/2021]
+http://dmitry-tv.ddns.net/hls/film/V_ZEMLE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Полтергейст [США/2015]
+http://dmitry-tv.ddns.net/hls/film/POLTERGEYST.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Сплит [США/2017]
+http://dmitry-tv.ddns.net/hls/film/SPLIT.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Незваные [США/2008]
+http://dmitry-tv.ddns.net/hls/film/NEZVANYE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ю-571 [США/2000]
+http://dmitry-tv.ddns.net/hls/film/YU_571.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Пианист [ВЕЛИКОБРИТАНИЯ/2002]
+http://dmitry-tv.ddns.net/hls/film/PIANIST.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Отрыв [РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/OTRYV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Обитаемый остров [РОССИЯ/2008]
+http://dmitry-tv.ddns.net/hls/film/OBITAEMY_OSTROV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Каратэ-пацан [КНР/США/2010]
+http://dmitry-tv.ddns.net/hls/film/KARATE_PATSAN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Пробуждающая совесть [ДАНИЯ/2016]
+http://dmitry-tv.ddns.net/hls/film/PROBUZHDAYUSHAYA_SOVEST.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Пробуждающая совесть 2: Дар змеи [ДАНИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/PROBUZHDAYUSHAYA_SOVEST2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ужас Амитивилля [США/2005]
+http://dmitry-tv.ddns.net/hls/film/UZHAS_AMITIVILLYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Монстро [США/2008]
+http://dmitry-tv.ddns.net/hls/film/MONSTRO.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Капкан [США/2019]
+http://dmitry-tv.ddns.net/hls/film/KAPKAN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Страна призраков [ФРАНЦИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/STRANA_PRIZRAKOV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Синяя бездна 2 [США/2019]
+http://dmitry-tv.ddns.net/hls/film/SINYAYA_BEZDNA2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Метро [РОССИЯ/2012]
+http://dmitry-tv.ddns.net/hls/film/METRO.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Миссия Серенити [США/2005]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_SERENITI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Время первых [РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/VREMYA_PERVYH.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Гагарин. Первый в космосе [РОССИЯ/2013]
+http://dmitry-tv.ddns.net/hls/film/GAGARIN_1_V_KOSMOSE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Седьмой сын [РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/film/7_SYN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Механик [США/2010]
+http://dmitry-tv.ddns.net/hls/film/MEHANIK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",В осаде [США/1992]
+http://dmitry-tv.ddns.net/hls/film/V_OSADE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",В осаде 2: Темная территория [США/1995]
+http://dmitry-tv.ddns.net/hls/film/V_OSADE2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Кинг Конг [США/2005]
+http://dmitry-tv.ddns.net/hls/film/KING_KONG.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Парк Юрского периода [США/1993]
+http://dmitry-tv.ddns.net/hls/film/PARK_YURSKOGO_PERIODA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Парк Юрского периода 2: Затерянный мир [США/1997]
+http://dmitry-tv.ddns.net/hls/film/PARK_YURSKOGO_PERIODA2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Парк Юрского периода 3 [США/2001]
+http://dmitry-tv.ddns.net/hls/film/PARK_YURSKOGO_PERIODA3.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Мир Юрского периода [США/2015]
+http://dmitry-tv.ddns.net/hls/film/MIR_YURSKOGO_PERIODA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Атака Юрского периода [США/2012]
+http://dmitry-tv.ddns.net/hls/film/ATAKA_YURSKOGO_PERIODA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Столкновение с бездной [США/1998]
+http://dmitry-tv.ddns.net/hls/film/STOLKNOVENIE_S_BEZDNOY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Защитники [РОССИЯ/2016]
+http://dmitry-tv.ddns.net/hls/film/ZASHITNIKI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Игра Эндера [США/2013]
+http://dmitry-tv.ddns.net/hls/film/IGRA_ENDERA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Сторожевая застава [УКРАИНА/2017]
+http://dmitry-tv.ddns.net/hls/film/STOROZHEVAYA_ZASTAVA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Охотники [США/2013]
+http://dmitry-tv.ddns.net/hls/film/OHOTNIKI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Поворот не туда: Наследие [США/2021]
+http://dmitry-tv.ddns.net/hls/film/POVOROT_NE_TUDA_NASLEDIE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Проклятие: Обитель смерти [США/2018]
+http://dmitry-tv.ddns.net/hls/film/PROKLYATIE_OBITEL_SMERTI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Бесконечность [США/2021]
+http://dmitry-tv.ddns.net/hls/film/BESKONECHNOST.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",За пределами Вселенной [ВЕЛИКОБРИТАНИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/ZA_PREDELAMI_VSELENNOY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Портал [США/2020]
+http://dmitry-tv.ddns.net/hls/film/PORTAL.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Остров фантазий [США/2020]
+http://dmitry-tv.ddns.net/hls/film/OSTROV_FANTAZIY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Горец [ВЕЛИКОБРИТАНИЯ/1986]
+http://dmitry-tv.ddns.net/hls/film/GORETS.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Горец 2: Оживление [ВЕЛИКОБРИТАНИЯ/1990]
+http://dmitry-tv.ddns.net/hls/film/GORETS2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Горец 3: Последнее измерение [ВЕЛИКОБРИТАНИЯ/1994]
+http://dmitry-tv.ddns.net/hls/film/GORETS3.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Химера [США/2009]
+http://dmitry-tv.ddns.net/hls/film/HIMERA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Отмель [США/2016]
+http://dmitry-tv.ddns.net/hls/film/OTMEL.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Снегурочка против всех [США/2021]
+http://dmitry-tv.ddns.net/hls/film/SNEGUROCHKA_PROTIV_VSEH.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Проклятие [США/2020]
+http://dmitry-tv.ddns.net/hls/film/PROKLYATIE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Батарейки не прилагаются [США/1987]
+http://dmitry-tv.ddns.net/hls/film/BATAREYKI_NE_PRILAGAYUTSYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Заклинание [США/2020]
+http://dmitry-tv.ddns.net/hls/film/ZAKLINANIE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Гори. гори ясно [США/2019]
+http://dmitry-tv.ddns.net/hls/film/GORI_GORI_YASNO.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Исчезнувшая [США/2014]
+http://dmitry-tv.ddns.net/hls/film/ISCHEZNUVSHAYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",На пятьдесят оттенков темнее [США/2017]
+http://dmitry-tv.ddns.net/hls/film/NA_50_OTTENKOV_TEMNEE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Девушка. которая застряла в паутине [США/2018]
+http://dmitry-tv.ddns.net/hls/film/DEVUSHKA_KOTORAYA_ZASTRYALA_V_PAUTINE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Нападение на 13-й участок [США/2005]
+http://dmitry-tv.ddns.net/hls/film/NAPADENIE_NA_13_UCHASTOK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Война миров [США/2005]
+http://dmitry-tv.ddns.net/hls/film/VOYNA_MIROV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Курьер из Рая [РОССИЯ/2013]
+http://dmitry-tv.ddns.net/hls/film/KURER_IZ_RAYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Хранители [США/2009]
+http://dmitry-tv.ddns.net/hls/film/HRANITELI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Когда звонит незнакомец [США/2006]
+http://dmitry-tv.ddns.net/hls/film/KOGDA_ZVONIT_NEZNAKOMETS.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Шальная карта [США/2014]
+http://dmitry-tv.ddns.net/hls/film/SHALNAYA_KARTA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Голодные игры [США/2012]
+http://dmitry-tv.ddns.net/hls/film/GOLODNYE_IGRY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Голодные игры: И вспыхнет пламя [США/2013]
+http://dmitry-tv.ddns.net/hls/film/GOLODNYE_IGRY_I_VSPYHNET_PLAMYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Tomb Raider. Лара Крофт [США/2018]
+http://dmitry-tv.ddns.net/hls/film/TOMB_RAIDER_LARA_KROFT.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Амундсен [США/2019]
+http://dmitry-tv.ddns.net/hls/film/AMUNDSEN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Дракула [США/2014]
+http://dmitry-tv.ddns.net/hls/film/DRAKULA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Геракл: Начало легенды [США/2014]
+http://dmitry-tv.ddns.net/hls/film/GERAKL_NACHALO_LEGENDY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Штурм Белого дома [США/2013]
+http://dmitry-tv.ddns.net/hls/film/SHTURM_BELOGO_DOMA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Рыжая Соня [США/1985]
+http://dmitry-tv.ddns.net/hls/film/RYZHAYA_SONYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Возмездие [США/2010]
+http://dmitry-tv.ddns.net/hls/film/VOZMEZDIE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Челюсти [США/1975]
+http://dmitry-tv.ddns.net/hls/film/CHELYUSTI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Челюсти 2 [США/1978]
+http://dmitry-tv.ddns.net/hls/film/CHELYUSTI2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Привидение [США/1990]
+http://dmitry-tv.ddns.net/hls/film/PRIVIDENIE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",С меня хватит [США/2002]
+http://dmitry-tv.ddns.net/hls/film/S_MENYA_HVATIT.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Невидимка [США/2000]
+http://dmitry-tv.ddns.net/hls/film/NEVIDIMKA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Тренер Картер [США/2005]
+http://dmitry-tv.ddns.net/hls/film/TRENER_KARTER.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Робин Гуд [США/2010]
+http://dmitry-tv.ddns.net/hls/film/ROBIN_GUD.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Страшно красив [США/2011]
+http://dmitry-tv.ddns.net/hls/film/STRASHNO_KRASIV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Зелёный Шершень [США/2011]
+http://dmitry-tv.ddns.net/hls/film/ZELENY_SHERSHEN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Территория [РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/film/TERRITORIYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",2012 [США/2009]
+http://dmitry-tv.ddns.net/hls/film/2012.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Проводник [РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/PROVODNIK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Ускорение [США/2015]
+http://dmitry-tv.ddns.net/hls/film/USKORENIE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Демон внутри [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DEMON_VNUTRI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Пассажир [США/2018]
+http://dmitry-tv.ddns.net/hls/film/PASSAZHIR.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Он - дракон [РОССИЯ/2015]
+http://dmitry-tv.ddns.net/hls/film/ON_DRAKON.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Призрак дома на холме [США/1999]
+http://dmitry-tv.ddns.net/hls/film/PRIZRAK_DOMA_NA_HOLME.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Пес под прикрытием [США/2019]
+http://dmitry-tv.ddns.net/hls/film/PES_POD_PRIKRYTIEM.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Супер Такса [США/2015]
+http://dmitry-tv.ddns.net/hls/film/SUPER_TAKSA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Титан [США/2018]
+http://dmitry-tv.ddns.net/hls/film/TITAN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Пакт [США/2011]
+http://dmitry-tv.ddns.net/hls/film/PAKT.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Пакт 2 [США/2014]
+http://dmitry-tv.ddns.net/hls/film/PAKT2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Лэйк Плэсид: Озеро страха [США/1999]
+http://dmitry-tv.ddns.net/hls/film/LEYK_PLESID_OZERO_STRAHA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Трудная мишень [США/1993]
+http://dmitry-tv.ddns.net/hls/film/TRUDNAYA_MISHEN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Инкассатор [США/2009]
+http://dmitry-tv.ddns.net/hls/film/INKASSATOR.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Школа выживания [США/2008]
+http://dmitry-tv.ddns.net/hls/film/SHKOLA_VYZHIVANIYA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Отчаянный [США/1995]
+http://dmitry-tv.ddns.net/hls/film/OTCHAYANNY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Патриот [США/2000]
+http://dmitry-tv.ddns.net/hls/film/PATRIOT.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Остров головорезов [США/1995]
+http://dmitry-tv.ddns.net/hls/film/OSTROV_GOLOVOREZOV.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Затура: Космическое приключение [США/2005]
+http://dmitry-tv.ddns.net/hls/film/ZATURA_KOSMICHESKOE_PRIKLYUCHENIE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Морпехи [США/2005]
+http://dmitry-tv.ddns.net/hls/film/MORPEHI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Птичка на проводе [США/1990]
+http://dmitry-tv.ddns.net/hls/film/PTICHKA_NA_PROVODE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Легион [США/2010]
+http://dmitry-tv.ddns.net/hls/film/LEGION.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Святые из Бундока 2. День всех святых [США/2009]
+http://dmitry-tv.ddns.net/hls/film/SVYATYE_IZ_BUNDOKA2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Лучший стрелок [США/1986]
+http://dmitry-tv.ddns.net/hls/film/LUCHSHIY_STRELOK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Короли улиц [США/2008]
+http://dmitry-tv.ddns.net/hls/film/KOROLI_ULITS.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Красотки в бегах [США/2015]
+http://dmitry-tv.ddns.net/hls/film/KRASOTKI_V_BEGAH.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Голодный кролик атакует [США/2011]
+http://dmitry-tv.ddns.net/hls/film/GOLODNY_KROLIK_ATAKUET.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Последний рубеж [США/2013]
+http://dmitry-tv.ddns.net/hls/film/POSLEDNIY_RUBEZH.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Спасатели Малибу [ВЕЛИКОБРИТАНИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/SPASATELI_MALIBU.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Охранник [США/2006]
+http://dmitry-tv.ddns.net/hls/film/OHRANNIK.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Великолепная семёрка [США/2016]
+http://dmitry-tv.ddns.net/hls/film/VELIKOLEPNAYA7.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Код апокалипсиса [РОССИЯ/2007]
+http://dmitry-tv.ddns.net/hls/film/KOD_APOKALIPSISA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Герой [КИТАЙ/2002]
+http://dmitry-tv.ddns.net/hls/film/GEROY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Три метра над уровнем неба [ИСПАНИЯ/2010]
+http://dmitry-tv.ddns.net/hls/film/3METRA_NAD_UROVNEM_NEBA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Анна [США/2019]
+http://dmitry-tv.ddns.net/hls/film/ANNA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Расправа [США/2018]
+http://dmitry-tv.ddns.net/hls/film/RASPRAVA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Образцовый самец 2 [США/2016]
+http://dmitry-tv.ddns.net/hls/film/OBRAZTSOVY_SAMETS2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Смоки и Бандит [США/1977]
+http://dmitry-tv.ddns.net/hls/film/SMOKI_I_BANDIT.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Предвестники бури [США/2004]
+http://dmitry-tv.ddns.net/hls/film/PREDVESTNIKI_BURI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",В ночи [США/1985]
+http://dmitry-tv.ddns.net/hls/film/V_NOCHI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",На крючке [США/2008]
+http://dmitry-tv.ddns.net/hls/film/NA_KRYUCHKE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Doom [США/2005]
+http://dmitry-tv.ddns.net/hls/film/DOOM.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Четыре пера [США/2002]
+http://dmitry-tv.ddns.net/hls/film/CHETYRE_PERA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Сделка с дьяволом [США/2006]
+http://dmitry-tv.ddns.net/hls/film/SDELKA_S_DYAVOLOM.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Преступить черту [ИСПАНИЯ/2020]
+http://dmitry-tv.ddns.net/hls/film/PRESTUPIT_CHERTU.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Никто [США/2021]
+http://dmitry-tv.ddns.net/hls/film/NIKTO.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Дюна [США/1984]
+http://dmitry-tv.ddns.net/hls/film/DYUNA_1984.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Банда Келли [США/2003]
+http://dmitry-tv.ddns.net/hls/film/BANDA_KELLI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Пипец 2 [США/2013]
+http://dmitry-tv.ddns.net/hls/film/PIPETS2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Пушки Акимбо [ВЕЛИКОБРИТАНИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/PUSHKI_AKIMBO.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Лес самоубийц [США/2015]
+http://dmitry-tv.ddns.net/hls/film/LES_SAMOUBIYTS.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Перспектива [США/2018]
+http://dmitry-tv.ddns.net/hls/film/PERSPEKTIVA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Обитель теней [ИСПАНИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/OBITEL_TENEY.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Космос [ВЕЛИКОБРИТАНИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/KOSMOS.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Машина [ВЕЛИКОБРИТАНИЯ/2013]
+http://dmitry-tv.ddns.net/hls/film/MASHINA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Помешанный на времени [США/2018]
+http://dmitry-tv.ddns.net/hls/film/POMESHANNY_NA_VREMENI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Эксперимент: Зло [США/2013]
+http://dmitry-tv.ddns.net/hls/film/EKSPERIMENT_ZLO.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Я. Франкенштейн [США/2013]
+http://dmitry-tv.ddns.net/hls/film/YA_FRANKENSHTEYN.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Оружейный барон [США/2005]
+http://dmitry-tv.ddns.net/hls/film/ORUZHEYNY_BARON.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Его собачье дело [США/2016]
+http://dmitry-tv.ddns.net/hls/film/EGO_SOBACHE_DELO.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Полночь на злаковом поле [США/2021]
+http://dmitry-tv.ddns.net/hls/film/POLNOCH_NA_ZLAKOVOM_POLE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Приключения Паддингтона 2 [ВЕЛИКОБРИТАНИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/PRIKLYUCHENIYA_PADDINGTONA2.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Сингулярность [США/2017]
+http://dmitry-tv.ddns.net/hls/film/SINGULYARNOST.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Сердце из стали [КИТАЙ/2017]
+http://dmitry-tv.ddns.net/hls/film/SERDCE_IZ_STALI.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Валериан и город тысячи планет [США/2017]
+http://dmitry-tv.ddns.net/hls/film/VALERIAN_I_GOROD_1000_PLANET.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Хоббит: Нежданное путешествие [США/2012]
+http://dmitry-tv.ddns.net/hls/film/HOBBIT_NEZHDANNOE_PUTESHESTVIE.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Хоббит: Пустошь Смауга [США/2013]
+http://dmitry-tv.ddns.net/hls/film/HOBBIT_PUSTOSH_SMAUGA.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| DMI3Y KINO",Хоббит: Битва пяти воинств [США/2014]
+http://dmitry-tv.ddns.net/hls/film/HOBBIT_BITVA_5TI_VOINSTV.m3u8
+
+
+
+
 
 
 #EXTINF:-1 group-title="RUZIEV+ IPTV| ARABIC",DW Arabic
