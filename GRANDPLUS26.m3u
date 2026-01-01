@@ -4786,12 +4786,12 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
 
-#EXTINF:-1 tvg-name="GRAND TV" tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&" group-title="GRAND PLUS| РОССИЯ",GRAND TV  
+#EXTINF:-1 tvg-name="GRAND TV" tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="GRAND PLUS| РОССИЯ",GRAND TV  
 #EXTVLCOPT:http-user-agent=SmartTV
 http://195.9.195.3:8080/hls/215088.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&" group-title="GRAND PLUS| РОССИЯ",GRAND RADIO
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="GRAND PLUS| РОССИЯ",GRAND RADIO
 http://91.107.125.87:1060/stream
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rxap391s44ccrlvcjry0r/LogoMakerCa-1744946204232.png?rlkey=7qflovyukqbbgwdvkr0xzrlct&st=t48qopav&" group-title="GRAND PLUS| РОССИЯ",GRAND RADIO 2
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="GRAND PLUS| РОССИЯ",GRAND RADIO 2
 https://str1.tvcom.uz/RADIO-GRAND/shoutcast
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy-kanal-eurasia-kz.png"  group-title="GRAND PLUS| РОССИЯ",Первый канал Евразия
 http://46.224.1.162:80/Shamilbro/ShamsTV/5431.m3u8
