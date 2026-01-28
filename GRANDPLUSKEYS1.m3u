@@ -2,12 +2,177 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/01/28 02:12}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/01/28 14:09}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/PLUSGRANDNAV
 http://sc4.gergosnet.com/pulsHD.mp3
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="СПАСИБО ЗА ТРУД : 5614 6812 0418 1428",{ ОБНОВИЛ }™
 http://sc4.gergosnet.com/pulstranceHD.mp3
+
+
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS| CPS",  CPS Action
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| CPS",  CPS Anime
+http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| CPS",  CPS Cartoon
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| CPS",  CPS Comedy
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| CPS",  CPS Drama
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| CPS",  CPS Fiction
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| CPS",  CPS Fresh
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| CPS",  CPS Investigation
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| CPS",  CPS Jackie Chan
+http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS| CPS",  CPS Mix
+http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
+
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  История
+http://hls127.freeott.top:8080/Istoriya/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Дикий
+http://hls127.freeott.top:8080/Dikiy/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Наука 2.0
+http://hls127.freeott.top:8080/NAUKA/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  RTG TV
+http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Amedia 1
+http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  MM Скорость
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Наш кинопоказ.png" group-title="GRAND PLUS|HLS INC",  Наш Киномир
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  MyTV
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  MyTV 2
+http://hls127.freeott.top:8080/MyTV2/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  MyTV 3
+http://hls127.freeott.top:8080/MyTV3/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  BCU Kinorating HD
+http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4K Anime
+http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4K Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4k Концерт
+http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4k Единоборства
+http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4K Gamefilm
+http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4K Космомир
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Gags Network
+http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  НСТ
+http://hls127.freeott.top:8080/HCTV/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Кинопоказ HD
+http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Ключ
+http://hls127.freeott.top:8080/Kluch/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Кухня ТВ
+http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Maydan
+http://hls127.freeott.top:8080/Maydan/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Мосфильм. Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  MyTV
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Наше HD
+http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Ностальгия
+http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Про любовь
+http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  РБК
+http://hls127.freeott.top:8080/RBK/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Союз
+http://hls127.freeott.top:8080/Souz/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Совершенно секретно
+http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Спас
+http://hls127.freeott.top:8080/Spas/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Театр
+http://hls127.freeott.top:8080/Teatr/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  СТС Kids
+http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Da Vinci
+http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Бобёр
+http://hls127.freeott.top:8080/Bober/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Bolt
+http://hls127.freeott.top:8080/Bolt/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  BRIDGE TV
+http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Футбол
+http://hls127.freeott.top:8080/Football/mono.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Матч ТВ
+http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
+
 
 
 
@@ -2490,7 +2655,11 @@ http://162.249.126.236/TvoeTVHumor/index.m3u8?token=TvoeTV
 
 
 
+#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/viasastkinocomedy.png" group-title="GRAND PLUS| VIASAT KINO",  Viasat Kino Comedy
+http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" group-title="GRAND PLUS| VIASAT KINO",  VIASAT Kino Comedy HD
+http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| VIASAT KINO",Viasat Kino Comedy
 http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/309/stream.m3u8
 
@@ -3114,7 +3283,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://suzustv.clan.su/Logo/play-x.png" group-title="GRAND PLUS | KINO2 TEST",  Play-x Anime
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUNc721.png" group-title="GRAND PLUS | KINO2 TEST",  SCRIPACH TV
-https://live20.bozztv.com/akamaissh101/ssh101/scripachmovie/playlist.m3u8
+https://kino-stream.online/hls/scripach.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeleCaoTV.jpg" group-title="GRAND PLUS | KINO2 TEST",  SeleCaoTV 1
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
@@ -3586,1727 +3755,9 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 
 
 
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20HD%20orig.png" group-title="GRAND PLUS| KLI Общие",  Первый канал HD
-http://cdn.klimedia.ru/perykanal12/video.m3u8?token=8zywnDz3wcfvASZB
 
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%2B0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" group-title="GRAND PLUS| KLI Общие",  Первый канал
-http://cdn.klimedia.ru/Pervyy_kanal/video.m3u8?token=8zywnDz3wcfvASZB
 
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20FHD.png" group-title="GRAND PLUS| KLI Общие",  Россия HD
-http://cdn.klimedia.ru/Rossiya_HD/video.m3u8?token=8zywnDz3wcfvASZB
 
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20HD%20orig.png" group-title="GRAND PLUS| KLI Общие",  Россия 1 HD
-http://cdn.klimedia.ru/russia1_720/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20%2B0%20(%D0%90%D0%BB%D0%B0%D0%BD%D0%B8%D1%8F).png" group-title="GRAND PLUS| KLI Общие",  Россия 1
-http://cdn.klimedia.ru/Rossiya_1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A2%D0%92%D0%A6%20HD.png" group-title="GRAND PLUS| KLI Общие",  ТВЦ HD
-http://cdn.klimedia.ru/108216/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A2%D0%92%20HD%20orig.png" group-title="GRAND PLUS| KLI Общие",  НТВ HD
-http://cdn.klimedia.ru/NTV_HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%9A%20%2B0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI Общие",  Россия К
-http://cdn.klimedia.ru/Russia_K/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0%20HD.png" group-title="GRAND PLUS| KLI Общие",  Звезда HD
-http://cdn.klimedia.ru/CH_ZVEZDAHD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%9F%D0%BB%D1%8E%D1%81%20HD.png" group-title="GRAND PLUS| KLI Общие",  Звезда Плюс HD
-http://cdn.klimedia.ru/ZvezdaPlus/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%95%D0%9D%20%D0%A2%D0%92%20%2B0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" group-title="GRAND PLUS| KLI Общие",  РЕН ТВ HD
-http://cdn.klimedia.ru/Ren_TV_HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0!%20%2B0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" group-title="GRAND PLUS| KLI Общие",  Пятница HD
-http://cdn.klimedia.ru/friday/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A1%D0%A2%D0%A1%20%2B0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" group-title="GRAND PLUS| KLI Общие",  СТС HD
-http://cdn.klimedia.ru/CTC_HD_OTT/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A2%D0%9D%D0%A2%20FHD.png" group-title="GRAND PLUS| KLI Общие",  ТНТ HD
-http://cdn.klimedia.ru/TNT_HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%20%2B0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" group-title="GRAND PLUS| KLI Общие",  Домашний HD
-http://cdn.klimedia.ru/Domashniyhd/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A2%D0%92%20%2B0%20(%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2).png" group-title="GRAND PLUS| KLI Общие",  НТВ
-http://cdn.klimedia.ru/NTV/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/5%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%2B0%20(%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2).png" group-title="GRAND PLUS| KLI Общие",  5 канал Россия
-http://cdn.klimedia.ru/Pyatyy_kanal/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B8%D1%80%20HD.png" group-title="GRAND PLUS| KLI Общие",  Мир HD
-http://cdn.klimedia.ru/MIR/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B8%D1%80%20%2B0%20(%D0%AD%D0%BB%D0%B8%D1%81%D1%82%D0%B0).png" group-title="GRAND PLUS| KLI Общие",  МИР
-http://cdn.klimedia.ru/SWM_MIR24/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A2%D0%92%D0%A6%20%2B0%20(%D0%9B%D0%B8%D0%BF%D0%B5%D1%86%D0%BA).png" group-title="GRAND PLUS| KLI Общие",  ТВЦ
-http://cdn.klimedia.ru/TVCT/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9E%D0%A2%D0%A0%20orig.png" group-title="GRAND PLUS| KLI Общие",  ОТР
-http://cdn.klimedia.ru/OTR/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0%20%2B0%20(%D0%AD%D0%BB%D0%B8%D1%81%D1%82%D0%B0).png" group-title="GRAND PLUS| KLI Общие",  Звезда
-http://cdn.klimedia.ru/Zvezda/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%20%2B0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" group-title="GRAND PLUS| KLI Общие",  Домашний
-http://cdn.klimedia.ru/Domashniy/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2024.png" group-title="GRAND PLUS| KLI Общие",  Россия 24
-http://cdn.klimedia.ru/Russia24/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A2%D0%9D%D0%A2%20%2B0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" group-title="GRAND PLUS| KLI Общие",  ТНТ
-http://cdn.klimedia.ru/TNT/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/spas.png" group-title="GRAND PLUS| KLI Общие",  Спас
-http://cdn.klimedia.ru/Spas/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A1%D0%BE%D1%8E%D0%B7%20orig.png" group-title="GRAND PLUS| KLI Общие",  Союз
-http://cdn.klimedia.ru/soyz/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A2%D0%923%20%2B0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" group-title="GRAND PLUS| KLI Общие",  ТВ3 HD
-http://cdn.klimedia.ru/TV3HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%9A%20%2B0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI Общие",  Россия К
-http://cdn.klimedia.ru/3014b98ac3a202d0e1c819c4a0452764/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A2%D0%92%20%2B0%20(%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2).png" group-title="GRAND PLUS| KLI Общие",  НТВ
-http://cdn.klimedia.ru/d77e6b985752d8a0d91e4e649163b043/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20orig.png" group-title="GRAND PLUS| KLI Общие",  Пятый канал
-http://cdn.klimedia.ru/30938671b629dffecb3882073674e4cd/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/yu_1_.png" group-title="GRAND PLUS| KLI Общие",  Ю
-http://cdn.klimedia.ru/Y/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI Общие",  МИР
-http://cdn.klimedia.ru/SWM_MIR24/video.m3u8?token=8zywnDz3wcfvASZB
-
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B0%D1%82%D1%87!.png" group-title="GRAND PLUS| KLI SPORT",  Матч!
-http://cdn.klimedia.ru/Match/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%20FHD.png" group-title="GRAND PLUS| KLI SPORT",  Матч! Премьер
-http://cdn.klimedia.ru/football_50/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/KHL%20HD.png" group-title="GRAND PLUS| KLI SPORT",  KHL
-http://cdn.klimedia.ru/khl50/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Телеканал Футбол HD
-http://cdn.klimedia.ru/football50/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%90%D1%80%D0%B5%D0%BD%D0%B0%20HD%20orig.png" group-title="GRAND PLUS| KLI SPORT",  Матч! Арена
-http://cdn.klimedia.ru/arena_hd50/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B0%D1%82%D1%87!.png" group-title="GRAND PLUS| KLI SPORT",  Матч! тв
-http://cdn.klimedia.ru/03631d2dfe7eafc380cc10b6ffa3d442/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/voleybol.png" group-title="GRAND PLUS| KLI SPORT",  Волейбол ТВ HD
-http://cdn.klimedia.ru/volleyball/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%201%20FHD.png" group-title="GRAND PLUS| KLI SPORT",  Матч! Футбол 1 FHD
-http://cdn.klimedia.ru/MatchFutbol1HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%202%20HD%2050.png" group-title="GRAND PLUS| KLI SPORT",  Матч! Футбол 2 FHD
-http://cdn.klimedia.ru/MatchFutbol2HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203%20FHD.png" group-title="GRAND PLUS| KLI SPORT",  Матч! Футбол 3 FHD
-http://cdn.klimedia.ru/MatchFutbol3HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9E%D0%BA%D0%BA%D0%BE%20%D0%A1%D0%BF%D0%BE%D1%80%D1%82%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Окко Спорт HD
-http://cdn.klimedia.ru/Football1HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%91%D0%BE%D0%B5%D1%86%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Матч! Боец HD
-http://cdn.klimedia.ru/Boetc/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%98%D0%B3%D1%80%D0%B0%20FHD.png" group-title="GRAND PLUS| KLI SPORT",  Матч! Игра HD
-http://cdn.klimedia.ru/MatchIgra/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0.png" group-title="GRAND PLUS| KLI SPORT",  Матч! Страна
-http://cdn.klimedia.ru/Mahtstranahd/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/KHL%20HD.png" group-title="GRAND PLUS| KLI SPORT",  KHL FHD
-http://cdn.klimedia.ru/KHL/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A1%D1%82%D0%B0%D1%80%D1%82%20HD%20orig.png" group-title="GRAND PLUS| KLI SPORT",  СТАРТ HD
-http://cdn.klimedia.ru/Skysport1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/151.png" group-title="GRAND PLUS| KLI SPORT",  Sky Sport Bundesliga 1 HD DE
-http://cdn.klimedia.ru/SkySportBundesliga1HDE/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/sky-sport-tennis-de.png" group-title="GRAND PLUS| KLI SPORT",  Sky Sport Tennis HD DE
-http://cdn.klimedia.ru/Skaysport2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/sky-sport-news-de.png" group-title="GRAND PLUS| KLI SPORT",  Sky Sport News HD DE
-http://cdn.klimedia.ru/SkySportNews/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fox%20Sports%201%20HD%20US.png" group-title="GRAND PLUS| KLI SPORT",  Fox Sport 1
-http://cdn.klimedia.ru/foxsport1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B8%D1%80%20%D0%91%D0%B0%D1%81%D0%BA%D0%B5%D1%82%D0%B1%D0%BE%D0%BB%D0%B0.png" group-title="GRAND PLUS| KLI SPORT",  Мир Баскетбола
-http://cdn.klimedia.ru/MirBasket/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A3%D0%B4%D0%B0%D1%80%20HD%20orig.png" group-title="GRAND PLUS| KLI SPORT",  Удар HD
-http://cdn.klimedia.ru/Udar/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/FightBox.png" group-title="GRAND PLUS| KLI SPORT",  FightBox HD
-http://cdn.klimedia.ru/Fightbox/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/XSPORT%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Xsport HD
-http://cdn.klimedia.ru/XsportHD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Setanta%20Sports%201%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Setanta Sports 1 HD
-http://cdn.klimedia.ru/Setanta-Sports-1-HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Setanta%20Sports%202%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Setanta Sports 2 HD
-http://cdn.klimedia.ru/SetantaSport2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Setanta%20Sports%20Ukraine%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Setanta Ukraine Plus HD
-http://cdn.klimedia.ru/SetantaSportsplus/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%91%D0%BE%D0%BA%D1%81%20%D0%A2%D0%92%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Бокс ТВ
-http://cdn.klimedia.ru/BoksTV/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Setanta%20Sports%20Ukraine%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Setanta Sports Baltic HD
-http://cdn.klimedia.ru/SetantaBaltic/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Eleven%20Sports%201%20HD%20PL.png" group-title="GRAND PLUS| KLI SPORT",  Eleven Sports 1 4K
-http://cdn.klimedia.ru/Id3/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Go3%20Sport%201%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Go3 Sport 1
-http://cdn.klimedia.ru/live1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Go3%20Sport%202%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Go3 Sport 2
-http://cdn.klimedia.ru/live2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Go3%20Sport%203%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Go3 Sport 3
-http://cdn.klimedia.ru/live3/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Go3%20Sport%20Open%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Go3 Sport Open
-http://cdn.klimedia.ru/live4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/EUROSPORT%202%20HD%20SE.png" group-title="GRAND PLUS| KLI SPORT",  Eurosport 2 HD
-http://cdn.klimedia.ru/eurosport2/video.m3u8?token=8zywnDz3wcfvASZB
-
-
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/EUROSPORT%201%20HD%20SE.png" group-title="GRAND PLUS| KLI SPORT",  Eurosport 1 HD
-http://cdn.klimedia.ru/eurosport1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/2014.png" group-title="GRAND PLUS| KLI SPORT",  Матч! Арена HD
-http://cdn.klimedia.ru/MatchArena/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/dd153d63227f9da485d7e606bea739c7.png" group-title="GRAND PLUS| KLI SPORT",  Футбольный HD
-http://cdn.klimedia.ru/Futbol1-UA/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/3a0c221d4e0ff66a8ca56dc33f0cc116.png" group-title="GRAND PLUS| KLI SPORT",  Спортивный HD
-http://cdn.klimedia.ru/Futbol2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/KHL%20Prime%20FHD.png" group-title="GRAND PLUS| KLI SPORT",  KHL Prime HD
-http://cdn.klimedia.ru/FHD_KHL/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/c57d6aaabd42c2edac73b5ed68ddda02.png" group-title="GRAND PLUS| KLI SPORT",  Хоккейный HD
-http://cdn.klimedia.ru/SM_Hokeynyi_HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Viju%2B%20Sport%20HD%20orig.png" group-title="GRAND PLUS| KLI SPORT",  Viju+ Sport HD
-http://cdn.klimedia.ru/Viasat-Sport/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Setanta%20Sports%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Setanta Sports Moldova HD
-http://cdn.klimedia.ru/vip_hit/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%5BSpectrum%5D%20NHL%20Network%20HD.png" group-title="GRAND PLUS| KLI SPORT",  NHL NETWORK
-http://cdn.klimedia.ru/nhlnetwork/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/934.png" group-title="GRAND PLUS| KLI SPORT",  Polsat Sport Premium 1
-http://cdn.klimedia.ru/sy0x1x/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/POLSAT%20SPORT%20PREMIUM%202%20PL.png" group-title="GRAND PLUS| KLI SPORT",  Polsat Sport Premium 2
-http://cdn.klimedia.ru/j48ke9/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/3051.png" group-title="GRAND PLUS| KLI SPORT",  Окко Футбол HD
-http://cdn.klimedia.ru/livefudtv/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI SPORT",  Мегого Спорт
-http://cdn.klimedia.ru/1e229289/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Dazn%202%20HD.png" group-title="GRAND PLUS| KLI SPORT",  DAZN 2 HD
-http://cdn.klimedia.ru/2490/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Dazn%201%20HD.png" group-title="GRAND PLUS| KLI SPORT",  DAZN 1 HD
-http://cdn.klimedia.ru/2489/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/2034.png" group-title="GRAND PLUS| KLI SPORT",  Setanta Sports 1 HD KZ
-http://cdn.klimedia.ru/SetantaSports1HDKZ/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/2035.png" group-title="GRAND PLUS| KLI SPORT",  Setanta Sports 2 HD KZ
-http://cdn.klimedia.ru/SetantaSports2HDKZ/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/okko-sport-2.png" group-title="GRAND PLUS| KLI SPORT",  Okko Прайм Спорт
-http://cdn.klimedia.ru/primefootbol/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/NBA%20TV%20HD.png" group-title="GRAND PLUS| KLI SPORT",  NBA TV HD
-http://cdn.klimedia.ru/nba/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/QazSport%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Qazsport HD
-http://cdn.klimedia.ru/0a38cd2ec9dcf73422476d2cc0cec9ff/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B0%D1%82%D1%87!.png" group-title="GRAND PLUS| KLI SPORT",  Матч! HD
-http://cdn.klimedia.ru/74d6917a77299aa773f5733e16adbf42/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%20HD%2050.png" group-title="GRAND PLUS| KLI SPORT",  Матч! Премьер HD
-http://cdn.klimedia.ru/67d8b46c1de33e279318c284aabf35dd/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Extreme%20Sports%20orig.png" group-title="GRAND PLUS| KLI SPORT",  Extreme Sports HD
-http://cdn.klimedia.ru/ExtremeSportsHD_RU/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Russian%20Extreme%20HD%20orig.png" group-title="GRAND PLUS| KLI SPORT",  Russian Extreme HD
-http://cdn.klimedia.ru/id4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI SPORT",  СТАРТ Триумф HD
-http://cdn.klimedia.ru/starttriumf/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%98%D0%B3%D1%80%D0%B0%20FHD.png" group-title="GRAND PLUS| KLI SPORT",  Матч! Игра
-http://cdn.klimedia.ru/match_igra/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/SKY%20SPORTS%20F1%20UK.png" group-title="GRAND PLUS| KLI SPORT",  Sky Sport F1 HD
-http://cdn.klimedia.ru/SkySportF1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/SKY%20SPORTS%20MIX%20UK.png" group-title="GRAND PLUS| KLI SPORT",  Sky Sport Mix HD
-http://cdn.klimedia.ru/SkySportMixHD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/SKY%20SPORT%20GOLF.png" group-title="GRAND PLUS| KLI SPORT",  Sky Sport Golf HD
-http://cdn.klimedia.ru/SkySportGolf/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Setanta%20Sports%20Ukraine%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Setanta Sports Ukraine
-http://cdn.klimedia.ru/setantasportsUA/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Setanta%20Sports%2B%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Setanta Sports+ Ukraine
-http://cdn.klimedia.ru/setantasports_UA/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/2122.png" group-title="GRAND PLUS| KLI SPORT",  Setanta Sports Premium HD
-http://cdn.klimedia.ru/SetantaSportsPremiumHD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI SPORT",  UPL.TV HD
-http://cdn.klimedia.ru/UPL.TVHD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Setanta%20Qazaqstan%20HD.png" group-title="GRAND PLUS| KLI SPORT",  Setanta Qazaqstan HD
-http://cdn.klimedia.ru/SetantaKZ_HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Qazaqstan.png" group-title="GRAND PLUS| KLI SPORT",  Qazaqstan HD
-http://cdn.klimedia.ru/Qazaqstan_HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_sport.png" group-title="GRAND PLUS| KLI SPORT",  KLI Media Sport 1
-http://cdn.klimedia.ru/kli_media_sport1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI SPORT",  Live-Sport 1
-http://cdn.klimedia.ru/Live-Sport1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI SPORT",  Live-Sport 2
-http://cdn.klimedia.ru/Live-Sport2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI SPORT",  Live-Sport 3
-http://cdn.klimedia.ru/Live-Sport3/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI SPORT",  Live-Sport 4
-http://cdn.klimedia.ru/Live-Sport4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI SPORT",  Live-Sport 5
-http://cdn.klimedia.ru/Live-Sport5/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI SPORT",  Live-Sport 6
-http://cdn.klimedia.ru/Live-Sport6/video.m3u8?token=8zywnDz3wcfvASZB
-
-
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A2%D0%92%20%2B0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" group-title="GRAND PLUS| KLI +ые",   НТВ +1
-http://cdn.klimedia.ru/NTV_pl1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A2%D0%92%20(%2B2).png" group-title="GRAND PLUS| KLI +ые",   НТВ +2
-http://cdn.klimedia.ru/NTV_pl2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A2%D0%92%20%2B3%20(%D0%9E%D0%BC%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   НТВ +4
-http://cdn.klimedia.ru/NTV_pl4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A2%D0%92%20%2B7%20(%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   НТВ +7
-http://cdn.klimedia.ru/NTV_pl7/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A7%D0%95!%20(%2B2).png" group-title="GRAND PLUS| KLI +ые",   Че! (+2)
-http://cdn.klimedia.ru/CHE_2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A7%D0%95!%20(%2B4).png" group-title="GRAND PLUS| KLI +ые",   Че! (+4)
-http://cdn.klimedia.ru/CHE_4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A7%D0%95!%20(%2B7).png" group-title="GRAND PLUS| KLI +ые",   Че! (+7)
-http://cdn.klimedia.ru/CHE_7/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0%20%2B3%20(%D0%9E%D0%BC%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   Звезда (+4)
-http://cdn.klimedia.ru/a74db38f28ddd825603e90b67dfb733c/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A2%D0%9D%D0%A2%20%2B3%20(%D0%9E%D0%BC%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   ТНТ (+4)
-http://cdn.klimedia.ru/6c09fb4a4e1e3420296911557368e3b8/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0!%20%2B3%20(%D0%9E%D0%BC%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   Пятница! (+4)
-http://cdn.klimedia.ru/81da046bdf96664803b6ca4c287abcd3/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A2%D0%92%D0%A6%20%2B3%20(%D0%9E%D0%BC%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   ТВЦ (+4)
-http://cdn.klimedia.ru/d7364f8e7c2a4992b0f29ee0d5540e14/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%95%D0%9D%20%D0%A2%D0%92%20%2B3%20(%D0%9E%D0%BC%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   РЕН ТВ (+4)
-http://cdn.klimedia.ru/52e4e4f8d66a70587d73d863cfa4c560/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A2%D0%92%D0%A6%20%2B7.png" group-title="GRAND PLUS| KLI +ые",   ТВЦ (+7)
-http://cdn.klimedia.ru/ee1e7f80e81d52652305a5cea6c99039/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%2B7.png" group-title="GRAND PLUS| KLI +ые",   Пятый канал (+7)
-http://cdn.klimedia.ru/4519520d7ddb86003deb14750dd4759e/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A1%D0%A2%D0%A1%20%2B4%20(%D0%9A%D1%83%D0%B7%D0%B1%D0%B0%D1%81%D1%81).png" group-title="GRAND PLUS| KLI +ые",   СТС (+4)
-http://cdn.klimedia.ru/259e5cd8b9ba43251844c6a0fbe985ce/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A7%D0%95!%20(%2B2).png" group-title="GRAND PLUS| KLI +ые",   Че! (+2)
-http://cdn.klimedia.ru/18747030a6f80666266e713fe7e3b911/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A7%D0%95!%20(%2B4).png" group-title="GRAND PLUS| KLI +ые",   Че! (+4)
-http://cdn.klimedia.ru/1334e0505a9f5b06aa069f6d9f9775b6/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A7%D0%95!%20(%2B7).png" group-title="GRAND PLUS| KLI +ые",   Че! (+7)
-http://cdn.klimedia.ru/a558a4e695bbb61baa0a0103b7f18957/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%20%2B7%20(%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   Домашний (+7)
-http://cdn.klimedia.ru/dfc00841e6bec5b1e0dbab2307f445e8/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%20%2B2%20(%D0%A3%D1%84%D0%B0).png" group-title="GRAND PLUS| KLI +ые",   Домашний (+2)
-http://cdn.klimedia.ru/9aec70504e05113699b16ac813bbc6bd/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%95%D0%9D%20%D0%A2%D0%92%20(%2B2).png" group-title="GRAND PLUS| KLI +ые",   РЕН ТВ (+2)
-http://cdn.klimedia.ru/857c69fb72f3caaa7e2ac09528681e52/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%95%D0%9D%20%D0%A2%D0%92%20%2B7%20(%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   РЕН ТВ (+7)
-http://cdn.klimedia.ru/e2cadfa9912c51de6d0d523c55d955c2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A1%D0%A2%D0%A1%20%2B7.png" group-title="GRAND PLUS| KLI +ые",   СТС +7
-http://cdn.klimedia.ru/f94c91f5b19e9b6776bd86b5fd0b9693/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A2%D0%92%D0%A6%20(%2B2).png" group-title="GRAND PLUS| KLI +ые",   ТВЦ +2
-http://cdn.klimedia.ru/002cee722f23f034a7ee67cc866b8c00/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%20(%2B2).png" group-title="GRAND PLUS| KLI +ые",   Пятый +2
-http://cdn.klimedia.ru/e533918c4636ef9ec60a01988766566a/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A2%D0%9D%D0%A2%20(%2B2).png" group-title="GRAND PLUS| KLI +ые",   ТНТ +2
-http://cdn.klimedia.ru/72016cfe5ab889c5e3e46defe4e49870/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A2%D0%9D%D0%A2%20%2B7%20(%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   ТНТ +7
-http://cdn.klimedia.ru/5282f7333055a97e5b5c01cf7b6aae4f/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0%20%2B7.png" group-title="GRAND PLUS| KLI +ые",   Звезда +7
-http://cdn.klimedia.ru/d572214336113160900867249e1ef0c1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%B0%D1%80%D1%83%D1%81%D0%B5%D0%BB%D1%8C%20(%2B3).png" group-title="GRAND PLUS| KLI +ые",   Карусель +2
-http://cdn.klimedia.ru/7eec5f822494c8018a0501c1ca3a501c/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%B0%D1%80%D1%83%D1%81%D0%B5%D0%BB%D1%8C%20%2B7%20(%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   Карусель +7
-http://cdn.klimedia.ru/51714e37d7f5b51a8c2870de442bdfbf/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5.png" group-title="GRAND PLUS| KLI +ые",   Солнце +7
-http://cdn.klimedia.ru/d8020e5cba3d253ae328200f2d98219c/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A2%D0%92%20%2B0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" group-title="GRAND PLUS| KLI +ые",   НТВ +1
-http://cdn.klimedia.ru/139b5bb7004c9ae145f9e6376e697f12/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A2%D0%92%20%2B2%20(%D0%9D%D0%B5%D1%84%D1%82%D0%B5%D0%BA%D0%B0%D0%BC%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   НТВ +2
-http://cdn.klimedia.ru/e26cd6fe09b62073be2b566ffcf94fcc/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A2%D0%92%20%2B3%20(%D0%9E%D0%BC%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   НТВ +4
-http://cdn.klimedia.ru/131538c36370174099b0573c956f5aa2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A2%D0%92%20%2B7.png" group-title="GRAND PLUS| KLI +ые",   НТВ +7
-http://cdn.klimedia.ru/d64e22a01f3071350b3acc650da86274/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20%2B2%20(%D0%A3%D1%84%D0%B0).png" group-title="GRAND PLUS| KLI +ые",   Россия 1 +2
-http://cdn.klimedia.ru/41dac06fcd04f4ca9d642766616932ad/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20%2B3%20(%D0%9E%D0%BC%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   Россия 1 (+4)
-http://cdn.klimedia.ru/54eee44c1fe334ae71661f7c5e508f4b/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20%2B0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   Россия 1 +6
-http://cdn.klimedia.ru/a06386cbeed9433896992e5857598a18/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B8%D1%80%20%2B2.png" group-title="GRAND PLUS| KLI +ые",   МИР (+2)
-http://cdn.klimedia.ru/CH_MIR_2/video.m3u8?token=8zywnDz3wcfvASZB
-
-
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B8%D1%80%20%2B3%20(%D0%9E%D0%BC%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   МИР (+4)
-http://cdn.klimedia.ru/CH_MIR_4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%B8%D1%80%20%2B7%20(%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   МИР (+7)
-http://cdn.klimedia.ru/CH_MIR_7/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%95%D0%9D%20%D0%A2%D0%92%20(%2B2).png" group-title="GRAND PLUS| KLI +ые",   РЕН ТВ (+2)
-http://cdn.klimedia.ru/RENTV_2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%95%D0%9D%20%D0%A2%D0%92%20%2B3%20(%D0%9E%D0%BC%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   РЕН ТВ (+4)
-http://cdn.klimedia.ru/RENTV_4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%95%D0%9D%20%D0%A2%D0%92%20%2B7%20(%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   РЕН ТВ (+7)
-http://cdn.klimedia.ru/RENTV_7/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A1%D0%A2%D0%A1%20%2B2%20(%D0%9D%D0%B5%D1%84%D1%82%D0%B5%D0%BA%D0%B0%D0%BC%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   СТС (+2)
-http://cdn.klimedia.ru/sts_pl2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A1%D0%A2%D0%A1%20%2B4%20(%D0%90%D0%BB%D1%82%D0%B0%D0%B9%2C%20%D0%94%D0%B8%D0%B0%D0%BD%D1%8D%D1%82).png" group-title="GRAND PLUS| KLI +ые",   СТС (+4)
-http://cdn.klimedia.ru/stspl4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A1%D0%A2%D0%A1%20%2B7%20(%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   СТС (+7)
-http://cdn.klimedia.ru/sts7/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A2%D0%92%D0%A6%20(%2B2).png" group-title="GRAND PLUS| KLI +ые",   ТВЦ (+2)
-http://cdn.klimedia.ru/tvc2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A2%D0%92%D0%A6%20%2B3%20(%D0%9E%D0%BC%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   ТВЦ (+4)
-http://cdn.klimedia.ru/tvc4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A2%D0%92%D0%A6%20%2B7%20(%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   ТВЦ (+7)
-http://cdn.klimedia.ru/tvc7/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%2B2.png" group-title="GRAND PLUS| KLI +ые",   Пятый канал (+2)
-http://cdn.klimedia.ru/5tvpl2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20orig.png" group-title="GRAND PLUS| KLI +ые",   Пятый канал (+4)
-http://cdn.klimedia.ru/5tvpl4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D1%8F%D1%82%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%2B7.png" group-title="GRAND PLUS| KLI +ые",   Пятый канал (+7)
-http://cdn.klimedia.ru/5tvpl7/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0%20(%2B2).png" group-title="GRAND PLUS| KLI +ые",   Звезда (+2)
-http://cdn.klimedia.ru/ZVEZDA_2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI +ые",   ТНТ (+4)
-http://cdn.klimedia.ru/TNT_4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI +ые",   ТНТ (+7)
-http://cdn.klimedia.ru/TNT_7/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI +ые",   Пятница! (+2)
-http://cdn.klimedia.ru/FRIDAY_2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI +ые",   Пятница! (+4)
-http://cdn.klimedia.ru/FRIDAY_4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI +ые",   Карусель (+2)
-http://cdn.klimedia.ru/KARUSEL_2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI +ые",   Карусель (+7)
-http://cdn.klimedia.ru/CH_KARUSEL_7/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%20%2B2%20(%D0%A3%D1%84%D0%B0).png" group-title="GRAND PLUS| KLI +ые",   Домашний (+2)
-http://cdn.klimedia.ru/CH_DOMASHNIY_2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%20%2B4%20(%D0%90%D0%BB%D1%82%D0%B0%D0%B9%2C%20%D0%94%D0%B8%D0%B0%D0%BD%D1%8D%D1%82).png" group-title="GRAND PLUS| KLI +ые",   Домашний (+4)
-http://cdn.klimedia.ru/CH_DOMASHNIY_4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%20%2B7%20(%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   Домашний (+7)
-http://cdn.klimedia.ru/CH_DOMASHNIY_7/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20(%2B2).png" group-title="GRAND PLUS| KLI +ые",   Первый канал +2
-http://cdn.klimedia.ru/Pervyy_kanal_pl2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%2B3%20(%D0%9E%D0%BC%D1%81%D0%BA).png" group-title="GRAND PLUS| KLI +ые",   Первый канал +4
-http://cdn.klimedia.ru/Pervyy_kanal_pl4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI +ые",   Первый канал +5
-http://cdn.klimedia.ru/Pervyy_kanal_pl5/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%2B6.png" group-title="GRAND PLUS| KLI +ые",   Первый канал +6
-http://cdn.klimedia.ru/Pervyy_kanal_pl6/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%2B8.png" group-title="GRAND PLUS| KLI +ые",   Первый канал +8
-http://cdn.klimedia.ru/Pervyy_kanal_pl8/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI +ые",   Первый канал +9
-http://cdn.klimedia.ru/Pervyy_kanal_pl9/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI +ые",   Россия 1 +1
-http://cdn.klimedia.ru/Rossiya_1_pl1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20%2B2%20(%D0%A3%D1%84%D0%B0).png" group-title="GRAND PLUS| KLI +ые",   Россия 1 +2
-http://cdn.klimedia.ru/Rossiya_1_pl2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI +ые",   Россия 1 +3
-http://cdn.klimedia.ru/Rossiya_1_pl3/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20%2B4%20(%D0%90%D0%B1%D0%B0%D0%BA%D0%B0%D0%BD-%D0%9E%D1%80%D0%B8%D0%BE%D0%BD).png" group-title="GRAND PLUS| KLI +ые",   Россия 1 +4
-http://cdn.klimedia.ru/Rossiya_1_pl4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI +ые",   Россия 1 +5
-http://cdn.klimedia.ru/Rossiya_1_pl5/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20%2B0%20(%D0%90%D0%BB%D0%B0%D0%BD%D0%B8%D1%8F).png" group-title="GRAND PLUS| KLI +ые",   Россия 1 +6
-http://cdn.klimedia.ru/Rossiya_1_pl6/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI +ые",   Россия 1 +7
-http://cdn.klimedia.ru/Rossiya_1_pl7/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20%2B8.png" group-title="GRAND PLUS| KLI +ые",   Россия 1 +8
-http://cdn.klimedia.ru/Rossiya_1_pl8/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI +ые",   Россия 1 +9
-http://cdn.klimedia.ru/Rossiya_1_pl9/video.m3u8?token=8zywnDz3wcfvASZB
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%82%D0%B8%D0%BA%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM Ужастик HD
-http://cdn.klimedia.ru/88b1ee88e7cc76ce48df1f5ce04f5b5c/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20NewFilm%20RU%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM NewFilm RU HD
-http://cdn.klimedia.ru/7d73745dddbbce1e12311d7eeee1a792/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20%D0%97%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM Затмение HD
-http://cdn.klimedia.ru/da11ef60c002be850023ebf3f5ec2e49/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20%D0%92%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%BD%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM Вестерн HD
-http://cdn.klimedia.ru/cb0b25d204978626bc654d69472688d2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20%D0%A4%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM Фантастика HD
-http://cdn.klimedia.ru/0485d1fa83006e88ad86444530a9bf5f/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM Катастрофа HD
-http://cdn.klimedia.ru/81f989cadb4f56d023dadbd9219b32bf/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20%D0%A1%D0%B2%D0%B0%D1%82%D1%8B%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM Сваты HD
-http://cdn.klimedia.ru/cbd704d97eb764d693484bbbd9d27606/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM Ситком HD
-http://cdn.klimedia.ru/5518bc9f7e4b24a911ac6f82911102fe/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%8B%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM Ужасы HD
-http://cdn.klimedia.ru/37bcdc766494c88eb7242e551d298289/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D0%BD%D1%8B%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM Воронины HD
-http://cdn.klimedia.ru/f1d75132b29cac15a73f0db76c7aa533/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20NewFilm%202%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM NewFilm 2 HD
-http://cdn.klimedia.ru/9e538b9ad32a982e53243dbfcb122cd8/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20NewFilm%203%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM NewFilm 3 HD
-http://cdn.klimedia.ru/4c3cda9eee9b0c4eda5930aa4af92b0f/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20Classic%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM Classic HD
-http://cdn.klimedia.ru/2473113380e19ea4e7f464f9204e2925/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM История HD
-http://cdn.klimedia.ru/9420e2757b31795b6d1a7fd622272e95/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM Комедия HD
-http://cdn.klimedia.ru/4d6a0aba979fc8be69aee2d3e0706872/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20%D0%9A%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM Криминал HD
-http://cdn.klimedia.ru/f954902c677aa2dff43b1e1178ad9e81/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/MM%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  MM Приключения HD
-http://cdn.klimedia.ru/35e64ed397f9b8a3b3e97c98e315102a/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Marvel%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Marvel HD
-http://cdn.klimedia.ru/7086230f7072502b917041df724ae540/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Cinema%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Cinema HD
-http://cdn.klimedia.ru/39efe9960b97dcdeee86d0103042876d/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Fantastic%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Fantastic HD
-http://cdn.klimedia.ru/348fbe95cb46c33f0ddb2315cc361d64/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20VHS%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU VHS HD
-http://cdn.klimedia.ru/6a95e83566a99e99b7047008bf5d19ea/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Premiere%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Premiere HD
-http://cdn.klimedia.ru/ccc4435460dce59b3617a6299518fab0/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Action%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Action HD
-http://cdn.klimedia.ru/56d30485ecec118005441aa18797a68c/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%BB%20Premiere%201%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Кинозал Premiere 1 HD
-http://cdn.klimedia.ru/2005ddd438c34437e16533bfb507aaa6/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%BB%20Premiere%202%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Кинозал Premiere 2 HD
-http://cdn.klimedia.ru/9ae648305b5c35d6d879ade2785bb1d5/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%BB%20Premiere%203%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Кинозал Premiere 3 HD
-http://cdn.klimedia.ru/089cd8acbb3a87c4a993fe1a8e83678b/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Reality%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Reality HD
-http://cdn.klimedia.ru/4bad4945bee2eed2c16f065c3356fab1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Catastrophe%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Catastrophe HD
-http://cdn.klimedia.ru/9afba69d5880c412569be7f7d69b20cd/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Cinema%2B%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Cinema+ HD
-http://cdn.klimedia.ru/27ca0487a9a3be64dfa5bc4822b36cb0/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20FilMystic%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU FilMystic HD
-http://cdn.klimedia.ru/28c95c08799e0fc2de92a9bb80a8df7e/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20History%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU History HD
-http://cdn.klimedia.ru/52248750713230a5eccf23ea21e1838d/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Kinorating%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Kinorating HD
-http://cdn.klimedia.ru/93ed961569db693b05a86b647185c001/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Romantic%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Romantic HD
-http://cdn.klimedia.ru/0139e46e2c9746798888c26980966d65/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Russian%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Russian HD
-http://cdn.klimedia.ru/ae22e59a916d625544d6029cb3f8aa0d/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20%D0%A1%D0%A1%D0%A1%D0%A0%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU СССР HD
-http://cdn.klimedia.ru/b47f781c8ca6dd1f1f8c04d7ed5bca1b/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20%D0%A1%D0%B2%D0%B0%D1%82%D1%8B%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Сваты HD
-http://cdn.klimedia.ru/f99e4c16f9f479ffcd166ef87fae68f5/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Comedy%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Comedy HD
-http://cdn.klimedia.ru/8f98af3f86f422c70d7108019934cc62/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Kids%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Kids HD
-http://cdn.klimedia.ru/b9a499bef46749f44d99cb282f543d28/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Kids%2B%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Kids+ HD
-http://cdn.klimedia.ru/1c045ddb4e7331d38b7b5274c5576f3c/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Мультсериал HD
-http://cdn.klimedia.ru/26ade0168bc666243f75f8f767efd8d7/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Stars%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Stars HD
-http://cdn.klimedia.ru/3eb328baa1664fe89cf15e5de9a5c756/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20RUSERIAL%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU RUSerial HD
-http://cdn.klimedia.ru/6ae3f6a87d031f7de2ea04b13eabf897/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Criminal%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Criminal HD
-http://cdn.klimedia.ru/5ccc8b52fff54fd72281494d9f4fce6c/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Survival%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Survival HD
-http://cdn.klimedia.ru/92d47c5a192bcf79d30d6a1d6e39900e/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Cosmo%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Cosmo HD
-http://cdn.klimedia.ru/8fcf9654cfecb0ce142ecf514f1e6ccc/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Ultra%204K.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Ultra 4K
-http://cdn.klimedia.ru/29b0bdacf139e48ab7524ad16ace9efc/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Premiere%20Ultra%204K.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Premiere Ultra 4K
-http://cdn.klimedia.ru/d7942bcb2f6bc8ece2b5fa8cf1610984/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20TruMotion%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU TruMotion HD
-http://cdn.klimedia.ru/370c5996abe3020c2ff79fc45ce5e7e2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Charm%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Charm HD
-http://cdn.klimedia.ru/59fccdcbe0a0ce98b69e74bf9d43489e/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BCU%20Little%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BCU Little HD
-http://cdn.klimedia.ru/2c098c1858addf6ab754b6dffeb07969/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BOX%20Franchise%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BOX Franchise HD
-http://cdn.klimedia.ru/c24f177ff8c5f0d69560f5a50d7ddcf8/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BOX%20Hybrid%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BOX Hybrid HD
-http://cdn.klimedia.ru/766b18602391d81e08fb1d47939996e8/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BOX%20Oscar%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BOX Oscar HD
-http://cdn.klimedia.ru/db1990026bcf5bd91789686e28d257ed/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BOX%20Memory%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BOX Memory HD
-http://cdn.klimedia.ru/87b30a338b05a3921fd8931a5cfadf1f/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BOX%20M.Serial%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BOX M.Serial HD
-http://cdn.klimedia.ru/87a95ccb21c28bbb329a48d61f0ff3dd/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BOX%20Serial%204K.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BOX Serial HD
-http://cdn.klimedia.ru/43050dc6027bee79f5f331c6d7c66a8e/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BOX%20Game%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BOX Game HD
-http://cdn.klimedia.ru/a3e67fbb7ba7655801d4c03e42e30096/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BOX%20Spy%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BOX Spy HD
-http://cdn.klimedia.ru/53864b00bd126323421424d276963a95/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BOX%20Western%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BOX Western HD
-http://cdn.klimedia.ru/315e68be4cd09dea8df497ca7707fff9/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BOX%20Zombie%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BOX Zombie HD
-http://cdn.klimedia.ru/6577a6748102fb8d968f1d192c69d3de/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BOX%20Gangster%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BOX Gangster HD
-http://cdn.klimedia.ru/969817d3d10abbb58890aed95c18cd29/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BOX%20Cyber%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BOX Cyber HD
-http://cdn.klimedia.ru/e597b70a564eecaecb1deda9a15db8ba/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BOX%20Anime%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  BOX Anime HD
-http://cdn.klimedia.ru/3a945cd2e809f931002883e951416c80/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Magic%20Karate%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Magic Karate
-http://cdn.klimedia.ru/b582171aa87ea6e77c044cfcabf40505/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Magic%20VHS%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Magic VHS
-http://cdn.klimedia.ru/52588d01b38d37bc2b1d3575080e7c9f/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Magic%20Comedy%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Magic Comedy
-http://cdn.klimedia.ru/79f0e723adce4984d7f9a5646a7b6575/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Magic%20Disney%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Magic Disney
-http://cdn.klimedia.ru/a46572e5c40c6170de1cdb78d819299f/video.m3u8?token=8zywnDz3wcfvASZB
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Magic%20Thriller%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Magic Thriller
-http://cdn.klimedia.ru/e4e37dba56eac05a08ef8ff527d646e0/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Magic%20Action%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Magic Action
-http://cdn.klimedia.ru/16999ba977678a7582db2f391fcdf760/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Magic%20Galaxy%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Magic Galaxy
-http://cdn.klimedia.ru/b825b3cb3d2b34002c380f487973a638/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Magic%20Horror%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Magic Horror
-http://cdn.klimedia.ru/4215c1755f0d35d43b63554c0979e918/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Magic%20Adventure%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Magic Adventure
-http://cdn.klimedia.ru/6fb824f4c23406ef0e770248716f3124/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fresh%20Cinema.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Fresh Cinema
-http://cdn.klimedia.ru/fb67f26aee860a20f0d3e6b6449193e3/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fresh%20Kids.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Fresh Kids
-http://cdn.klimedia.ru/135a02dbdaeae9069765efe030d094c8/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fresh%20Comedy.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Fresh Comedy
-http://cdn.klimedia.ru/ebb248ed6ef8af3faa5852b27959b22b/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fresh%20Premiere.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Fresh Premiere
-http://cdn.klimedia.ru/e8bda7b44da90988ad1b06f704a5620e/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fresh%20Family.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Fresh Family
-http://cdn.klimedia.ru/7cb63fff715ece435588857f41359b07/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fresh%20Rating.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Fresh Rating
-http://cdn.klimedia.ru/9bdccbcddd3ec4fa8a73c1aa33c1adfc/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fresh%20VHS.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Fresh VHS
-http://cdn.klimedia.ru/b5dc1752a9a46575a6e0db96b7642a75/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fresh%20Fantastic.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Fresh Fantastic
-http://cdn.klimedia.ru/729ef3e820f2f2889067127bdd9b60eb/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fresh%20Series.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Fresh Series
-http://cdn.klimedia.ru/dbae452727e6043cc1f892c94f84c193/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fresh%20Horror.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Fresh Horror
-http://cdn.klimedia.ru/1e12f59a8d237dcbf691978ebd9a6b1c/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fresh%20Adventure.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Fresh Adventure
-http://cdn.klimedia.ru/690890734e556d726e8d1f24b6106f02/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fresh%20Romantic.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Fresh Romantic
-http://cdn.klimedia.ru/2188a4a5e4f3160dba17af996c7d2acd/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fresh%20Russian.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Fresh Russian
-http://cdn.klimedia.ru/13d4022b9ce2ae6d0432dde335a58f32/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fresh%20Thriller.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Fresh Thriller
-http://cdn.klimedia.ru/5cf009b092c3171f78161ac35b42f5dd/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fresh%20Soviet.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Fresh Soviet
-http://cdn.klimedia.ru/a9fa3cb236257bc625383f4e081ea965/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Eye%20Media%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Eye Media
-http://cdn.klimedia.ru/059b7eec31832f039a50aef59db6f7b7/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Eye%20Oscar%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Eye Oscar
-http://cdn.klimedia.ru/a1644eba4bd33e6b971da62ae6d2d6b4/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Eye%20Frozen%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Eye Frozen
-http://cdn.klimedia.ru/60b1ba9363b6d0f76593c624edc6d343/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Eye%20Criminal%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Eye Criminal
-http://cdn.klimedia.ru/359a553f3263e141701110d8a58657f2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Eye%20Modern%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Eye Modern
-http://cdn.klimedia.ru/4a2737e955c4f909f2b93e4403fe7a1c/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Eye%20Family%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Eye Family
-http://cdn.klimedia.ru/821f7bf1284823fe2a5a19a2c4d7fb63/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Eye%20History%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Eye History
-http://cdn.klimedia.ru/6438fc3b960deaa31fff34a6d1d4674c/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Eye%20Western%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Eye Western
-http://cdn.klimedia.ru/de1ea934cd03af1e5f571cc82862ba23/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Eye%20Drive%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Eye Drive
-http://cdn.klimedia.ru/f55e932048eba04f6c319584b4f76c94/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Eye%20Cyber%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Eye Cyber
-http://cdn.klimedia.ru/898bb3e77c12063bd5577d7be7a8f668/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Cartoons Short FHD
-http://cdn.klimedia.ru/channel_421/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/cineman-sssr4k.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan CCCP 4K
-http://cdn.klimedia.ru/channel_426/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Emergency Room FHD
-http://cdn.klimedia.ru/channel_418/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan FHD
-http://cdn.klimedia.ru/channel_397/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan%20Marvel.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Marvel FHD
-http://cdn.klimedia.ru/channel_400/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan%20MiniSeries.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan MiniSeries FHD
-http://cdn.klimedia.ru/channel_398/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/cineman-old4k.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan OLD 4K
-http://cdn.klimedia.ru/channel_425/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan%20Premium.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Premium FHD
-http://cdn.klimedia.ru/channel_404/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/cineman-relax.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Relax 4K
-http://cdn.klimedia.ru/channel_427/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan%20Top.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan TOP FHD
-http://cdn.klimedia.ru/channel_399/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan%20VHS.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan VHS FHD
-http://cdn.klimedia.ru/channel_417/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/cineman-vovserials.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Военные Сериалы
-http://cdn.klimedia.ru/channel_410/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/cineman-katastrofy.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Катастрофы FHD
-http://cdn.klimedia.ru/channel_403/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/cineman-komseri.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Комедийные сериалы FHD
-http://cdn.klimedia.ru/channel_406/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/cineman-gluhar.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Криминальные Сериалы FHD
-http://cdn.klimedia.ru/channel_409/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan%20%D0%9B%D0%B5%D1%81%D0%BD%D0%B8%D0%BA.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Лесник FHD
-http://cdn.klimedia.ru/channel_415/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan%20%D0%9C%D0%B5%D0%BB%D0%BE%D0%B4%D1%80%D0%B0%D0%BC%D0%B0.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Мелодрама FHD
-http://cdn.klimedia.ru/channel_405/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan%20%D0%9C%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Ментовские войны FHD
-http://cdn.klimedia.ru/channel_407/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan%20%D0%9F%D1%91%D0%A1.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan ПёС + ЛИХАЧ FHD
-http://cdn.klimedia.ru/channel_414/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Расследование авиакатастроф FHD
-http://cdn.klimedia.ru/channel_411/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan%20%D0%A0%D1%83%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan РуКино FHD
-http://cdn.klimedia.ru/channel_412/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan%20%D0%A1%D0%B2%D0%B0%D1%82%D1%8B.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Сваты FHD
-http://cdn.klimedia.ru/channel_419/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/cineman-simps.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Симпсоны
-http://cdn.klimedia.ru/channel_408/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan%20%D0%A1%D0%A1%D0%A1%D0%A0%20HD.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan СССР HD
-http://cdn.klimedia.ru/channel_413/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan%20Thriller.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Триллер FHD
-http://cdn.klimedia.ru/channel_402/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan%20%D0%A3%D0%B6%D0%B0%D1%81%D1%8B.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Ужасы FHD
-http://cdn.klimedia.ru/channel_401/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/CineMan%20%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81.png" group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  CineMan Фитнес FHD
-http://cdn.klimedia.ru/channel_416/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4k Anime
-http://cdn.klimedia.ru/channel_450/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Asia
-http://cdn.klimedia.ru/channel_432/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Bollywood music
-http://cdn.klimedia.ru/channel_447/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4k Concert
-http://cdn.klimedia.ru/channel_430/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Gamefilm
-http://cdn.klimedia.ru/channel_436/video.m3u8?token=8zywnDz3wcfvASZB
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Korean music
-http://cdn.klimedia.ru/channel_434/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Kинодети СССР
-http://cdn.klimedia.ru/channel_451/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Netflix
-http://cdn.klimedia.ru/channel_428/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Relax камин
-http://cdn.klimedia.ru/channel_438/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Retro Hits Channel
-http://cdn.klimedia.ru/channel_439/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Russian music
-http://cdn.klimedia.ru/channel_448/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Ukrainian music
-http://cdn.klimedia.ru/channel_431/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K World Music
-http://cdn.klimedia.ru/channel_429/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K АвтоМастер
-http://cdn.klimedia.ru/channel_443/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4k Боевик
-http://cdn.klimedia.ru/channel_446/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4k Вестерн
-http://cdn.klimedia.ru/channel_458/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4k Военные
-http://cdn.klimedia.ru/channel_457/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4k Драмы
-http://cdn.klimedia.ru/channel_456/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4k Единоборства
-http://cdn.klimedia.ru/channel_459/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Звериный мир
-http://cdn.klimedia.ru/channel_440/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Истории во времени
-http://cdn.klimedia.ru/channel_442/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4k КиноФраншизы
-http://cdn.klimedia.ru/channel_444/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Комедия
-http://cdn.klimedia.ru/channel_445/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Космомир
-http://cdn.klimedia.ru/channel_441/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Путешествие
-http://cdn.klimedia.ru/channel_435/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Сделано в СССР
-http://cdn.klimedia.ru/channel_452/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Семейный
-http://cdn.klimedia.ru/channel_433/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Ужасы
-http://cdn.klimedia.ru/channel_454/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Фантастика
-http://cdn.klimedia.ru/channel_455/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНОЗАЛЫ",  Clarity4K Фэнтези
-http://cdn.klimedia.ru/channel_449/video.m3u8?token=8zywnDz3wcfvASZB
-
-
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Ностальгия
-http://cdn.klimedia.ru/Nostalgiya/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/russky-ekstrim.png" group-title="GRAND PLUS| KLI  КИНО",  Русский Экстрим UHD 4K
-http://cdn.klimedia.ru/111920e12dad19696379c9468fd4000c/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/4krk_social.png" group-title="GRAND PLUS| KLI  КИНО",  RK 4K
-http://cdn.klimedia.ru/rk4k/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Plan%20B%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Plan B HD
-http://cdn.klimedia.ru/planb/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A2%D0%B0%D0%B9%D0%BD%D0%B0%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Тайна
-http://cdn.klimedia.ru/Tayna/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Timeless%20Dizi%20Channel.png" group-title="GRAND PLUS| KLI  КИНО",  Timeless Dizi Channel
-http://cdn.klimedia.ru/2896/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/24%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Kino 24
-http://cdn.klimedia.ru/kino24/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Viju%20TV1000%20%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0.png" group-title="GRAND PLUS| KLI  КИНО",  Viju TV1000 Новелла HD
-http://cdn.klimedia.ru/vijumovela/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Premiere HD 1
-http://cdn.klimedia.ru/bac6e012cd996981258cead1a9049efc/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Premiere HD 2
-http://cdn.klimedia.ru/e69dd815cfcab86372c4325730aeee14/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Premiere HD 3
-http://cdn.klimedia.ru/27d9f8f6076897f1a6113f1bcd72d93e/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Premiere HD 4
-http://cdn.klimedia.ru/661acd9a586fd2584ddf203583888992/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B0%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Победа
-http://cdn.klimedia.ru/Pobeda/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Cinema ultra hd
-http://cdn.klimedia.ru/Cinemahd/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Viasat%20Kino%20Action%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Viasat Kino Action HD
-http://cdn.klimedia.ru/ViasatKinoActionHD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%BE%D1%81%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.%20%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Мосфильм. Золотая коллекция HD
-http://cdn.klimedia.ru/id5/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Смотрим Честный детектив
-http://cdn.klimedia.ru/vgtrksmotrim1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%D0%94%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D0%B5.png" group-title="GRAND PLUS| KLI  КИНО",  Москва Доверие
-http://cdn.klimedia.ru/moscvadoverie/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/BOLT%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  BOLT HD
-http://cdn.klimedia.ru/BOLTHD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Мужской
-http://cdn.klimedia.ru/MUZHSKOY/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/VIASAT%20EXPLORE%20HD%20SE.png" group-title="GRAND PLUS| KLI  КИНО",  Viasat Explore CEE HD
-http://cdn.klimedia.ru/ViasatExplore/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/FAN%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  FAN HD
-http://cdn.klimedia.ru/Fan/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Приключения HD
-http://cdn.klimedia.ru/HD_Teletr/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%B0%D1%88%D0%B5%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Наше HD
-http://cdn.klimedia.ru/5079a34843131f3c53cf745ce1556793/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Кинопоказ HD
-http://cdn.klimedia.ru/channel_18565456115/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Русский Иллюзион HD
-http://cdn.klimedia.ru/RU_ILLUSION_HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD%20%2B.png" group-title="GRAND PLUS| KLI  КИНО",  Иллюзион + HD
-http://cdn.klimedia.ru/ILLUSION_PLUS_HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Comedy%20Central%20HD%20DE.png" group-title="GRAND PLUS| KLI  КИНО",  Comedy Central HD
-http://cdn.klimedia.ru/Paramount_Comedy/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Kinowood%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  KINOWOOD HD
-http://cdn.klimedia.ru/KINOWOOD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/TV%20XXI%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  TV XXI
-http://cdn.klimedia.ru/tvxxi/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Еврокино
-http://cdn.klimedia.ru/Evrokino/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Hollywood%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Hollywood HD
-http://cdn.klimedia.ru/HollywoodHD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Epic%20Drama%20RO.png" group-title="GRAND PLUS| KLI  КИНО",  Epic Drama HD
-http://cdn.klimedia.ru/EpicDramaHD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/FilmBox.png" group-title="GRAND PLUS| KLI  КИНО",  FilmBox
-http://cdn.klimedia.ru/FilmBox/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/FilmBox%20ArtHouse%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  FilmBox Arthouse
-http://cdn.klimedia.ru/Filmbox_Arthouse/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  НТВ Сериал HD
-http://cdn.klimedia.ru/ntvhit/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A2%D0%92%20%D0%A1%D1%82%D0%B8%D0%BB%D1%8C%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  НТВ Стиль
-http://cdn.klimedia.ru/ntv_stil/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A2%D0%92%20%D0%A5%D0%B8%D1%82%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  НТВ Хит HD
-http://cdn.klimedia.ru/ntv_hit/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A2%D0%92%20%D0%9F%D1%80%D0%B0%D0%B2%D0%BE%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  НТВ Право
-http://cdn.klimedia.ru/ntv_pravo/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Русский детектив
-http://cdn.klimedia.ru/Russkiy_detektiv/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B1%D0%B5%D1%81%D1%82%D1%81%D0%B5%D0%BB%D0%BB%D0%B5%D1%80%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Русский бестселлер
-http://cdn.klimedia.ru/Rus_Bests/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/SHOT%20TV.png" group-title="GRAND PLUS| KLI  КИНО",  Shot TV
-http://cdn.klimedia.ru/Shot/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%94%D0%B5%D0%BD%D1%8C%20%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  День Победы
-http://cdn.klimedia.ru/denpobedy/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Кинокомедия HD
-http://cdn.klimedia.ru/kinokomedia/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  РОДНОЕ КИНО
-http://cdn.klimedia.ru/radnoekino/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  КИНОСВИДАНИЕ
-http://cdn.klimedia.ru/kinosedania/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Наше новое кино HD
-http://cdn.klimedia.ru/nahenovoekino/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D1%80%D0%B8%D1%8F%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Киносерия HD
-http://cdn.klimedia.ru/kinoseria/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  ИНДИЙСКОЕ КИНО
-http://cdn.klimedia.ru/indiakino/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%B8%D0%BD%D0%B5%D0%BA%D0%BE%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Кинеко HD
-http://cdn.klimedia.ru/kinoko/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A1%D0%B0%D0%BF%D1%84%D0%B8%D1%80%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Сапфир HD
-http://cdn.klimedia.ru/Sapfirtv/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/.black%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  .black
-http://cdn.klimedia.ru/Black/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/.sci-fi%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  .sci-fi
-http://cdn.klimedia.ru/SciFi/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Star%20Cinema%20HD%20UA.png" group-title="GRAND PLUS| KLI  КИНО",  Star Cinema HD
-http://cdn.klimedia.ru/STARCinemaHD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Star%20Family%20HD%20LV.png" group-title="GRAND PLUS| KLI  КИНО",  Star Family HD
-http://cdn.klimedia.ru/STARFamilyHD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Viasat%20Kino%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Viasat Kino HD
-http://cdn.klimedia.ru/TV-1000-HD-CEE/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Viasat%20Kino%20World%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Viasat Kino World HD
-http://cdn.klimedia.ru/TV-1000-World-Kino-HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Viju%20TV1000%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Viju TV1000 HD
-http://cdn.klimedia.ru/TV-1000-HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fox%20Life%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Fox Life HD
-http://cdn.klimedia.ru/foxlife/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B5%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Остросюжетное HD
-http://cdn.klimedia.ru/OstrosuzetnoeHD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Viasat%20Kino%20Comedy%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Viasat Kino Comedy HD
-http://cdn.klimedia.ru/ViP-Comedy-HD-CEE/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Viju%2B%20Comedy%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Viju+ Comedy HD
-http://cdn.klimedia.ru/ViP-Comedy-HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Viasat Kino Megahit HD
-http://cdn.klimedia.ru/ViP-Megahit-HD-CEE/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Русский роман HD
-http://cdn.klimedia.ru/Russkiy-Roman/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A5%D0%B8%D1%82%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Хит HD
-http://cdn.klimedia.ru/Hit-HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%91%D0%BB%D0%BE%D0%BA%D0%B1%D0%B0%D1%81%D1%82%D0%B5%D1%80%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Блокбастер HD
-http://cdn.klimedia.ru/Blokbaster-HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%B0%D1%88%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Наш кинопоказ HD
-http://cdn.klimedia.ru/Nash-kinopokaz-HD/video.m3u8?token=8zywnDz3wcfvASZB
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D1%81%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Киномикс HD
-http://cdn.klimedia.ru/Kinomiks-HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D1%8F%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Киносемья HD
-http://cdn.klimedia.ru/Kinosem-ya-HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%85%D0%B8%D1%82%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Кинохит HD
-http://cdn.klimedia.ru/Kinohit-HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%D0%B0%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Кинопремьера HD
-http://cdn.klimedia.ru/Kinoprem-era-HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Кино ТВ
-http://cdn.klimedia.ru/Kino-TV/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9B%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Любимое кино HD
-http://cdn.klimedia.ru/Nashe-lyubimoe-kino-HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  FilmUA Drama
-http://cdn.klimedia.ru/FilmUA-Drama/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20HD%2050.png" group-title="GRAND PLUS| KLI  КИНО",  Премиальное HD
-http://cdn.klimedia.ru/premiumhd/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Кинопоказ HD
-http://cdn.klimedia.ru/kinopokaz/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Дом Кино Премиум HD
-http://cdn.klimedia.ru/domkinopremum/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9B%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%B5%20%D0%A2%D0%92%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Любимое HD
-http://cdn.klimedia.ru/NasheLubimoeHD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Криминальное HD
-http://cdn.klimedia.ru/Kriminalnoe_HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/.red%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  .red HD
-http://cdn.klimedia.ru/red/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Fox%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Fox HD
-http://cdn.klimedia.ru/fox/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Киносезон
-http://cdn.klimedia.ru/kinosezon/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  FilmUA Drama HD
-http://cdn.klimedia.ru/FilmUADramaHD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/KION%20%D0%A5%D0%B8%D1%82%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  KION Хит HD
-http://cdn.klimedia.ru/KION_HIT_HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B5%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Наше мужское HD
-http://cdn.klimedia.ru/NasheMuzskoeHD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%B0%D0%BC%D0%B5%D0%B4%D0%B8%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Камеди HD
-http://cdn.klimedia.ru/Kamedi_HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D0%B5%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Романтичное HD
-http://cdn.klimedia.ru/Romantichnoe/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D0%B9%D0%BD%D0%BE%D0%B5%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Комедийное HD
-http://cdn.klimedia.ru/Komediinoe/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D1%80%D0%BE%20%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Про Любовь HD
-http://cdn.klimedia.ru/Pro_Love_HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Cinema%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Cinema HD
-http://cdn.klimedia.ru/Cinema/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Дом Кино
-http://cdn.klimedia.ru/domkino/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Viju%20TV1000%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Viju TV1000 Русское
-http://cdn.klimedia.ru/TV1000_Rus_Kino/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Viju%20TV1000%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Viju TV1000 Русское HD
-http://cdn.klimedia.ru/TV1000_Rus_Kino_HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Viju%20TV1000%20Action%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Viju TV1000 Action HD
-http://cdn.klimedia.ru/TV1000_Action/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/KinoJam%201%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  KinoJam 1 HD
-http://cdn.klimedia.ru/Kinojam_1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/KinoJam%202%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  KinoJam 2 HD
-http://cdn.klimedia.ru/Kinojam_2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD%2B%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Иллюзион+
-http://cdn.klimedia.ru/ilizi/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/VHS-%D0%BA%D0%B0.png" group-title="GRAND PLUS| KLI  КИНО",  VHS-ка
-http://cdn.klimedia.ru/vhska/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%94%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Дорама HD
-http://cdn.klimedia.ru/Dorama/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/VF%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F.png" group-title="GRAND PLUS| KLI  КИНО",  Комедия
-http://cdn.klimedia.ru/rucomedy/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%A1%D1%82%D1%80%D0%B0%D1%88%D0%BD%D0%BE%D0%B5%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Страшное HD
-http://cdn.klimedia.ru/strahnoetv/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/DetectiveJam%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  DetectiveJam
-http://cdn.klimedia.ru/detectivejam/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Amedia%201%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Amedia 1 HD
-http://cdn.klimedia.ru/Amedia1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Amedia%202%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Amedia 2 HD
-http://cdn.klimedia.ru/Amedia2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Amedia%20Premium%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Amedia Premium HD
-http://cdn.klimedia.ru/Amediapremium/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Amedia%20Hit%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Amedia Hit HD
-http://cdn.klimedia.ru/AmediaHit/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/START%20Air%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  START Air HD
-http://cdn.klimedia.ru/START_Air_HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/START%20World%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  START World HD
-http://cdn.klimedia.ru/START_World_HD/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Comedy%20Central%20HD%20DE.png" group-title="GRAND PLUS| KLI  КИНО",  Comedy Central
-http://cdn.klimedia.ru/Paramount_Comedy/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Мир сериала HD
-http://cdn.klimedia.ru/mirserial/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Trash%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  Trash HD
-http://cdn.klimedia.ru/trash/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Epic HD
-http://cdn.klimedia.ru/channel_877/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  SkyCam 100500
-http://cdn.klimedia.ru/21f608f8f5c44dbf50efc5ea840c3f08/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  SkyCam Action
-http://cdn.klimedia.ru/30e8ea00ede35b379058de2cf022e13c/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  SkyCam Catastrophe
-http://cdn.klimedia.ru/85ce3e3e69843bef4b395ed96a9bac2b/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  SkyCam Goblin
-http://cdn.klimedia.ru/4965a9beb9363c60356202d520f22007/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  SkyCam Horrors
-http://cdn.klimedia.ru/288602de9947c2e33ad5664ad0960f1b/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  SkyCam Relax
-http://cdn.klimedia.ru/2bd4cd64127442793094758e4127b924/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  SkyCam Romantic
-http://cdn.klimedia.ru/7cb5fb9aeda9c085a07f39a21325bbb0/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  SkyCam RuKino
-http://cdn.klimedia.ru/58e5d73ca50a178b8d11515e077dabc9/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  SkyCam Симпсоны
-http://cdn.klimedia.ru/8d20f04e3cac6e347cc941cbce76b358/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  SkyCam Южный Парк
-http://cdn.klimedia.ru/ffe276da664483c353fb4972156dd0d3/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  SkyCam Victory
-http://cdn.klimedia.ru/624f620b6990cea338147ce496c88d1c/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Premialnoe
-http://cdn.klimedia.ru/channel_134573/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Триколор Кинозал 1 HD
-http://cdn.klimedia.ru/channel_2345124/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Триколор Кинозал 2 HD
-http://cdn.klimedia.ru/channel_33416/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Триколор Кинозал 3 HD
-http://cdn.klimedia.ru/channel_46256/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Триколор Кинозал 4 HD
-http://cdn.klimedia.ru/channel_567678/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Триколор Кинозал 5 HD
-http://cdn.klimedia.ru/channel_6256254/video.m3u8?token=8zywnDz3wcfvASZB
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Триколор Кинозал 6 HD
-http://cdn.klimedia.ru/channel_745262/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Триколор Кинозал 7 HD
-http://cdn.klimedia.ru/channel_89764676/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Триколор Кинозал 8 HD
-http://cdn.klimedia.ru/channel_957686472245/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Триколор Кинозал 9 HD
-http://cdn.klimedia.ru/channel_1034657341/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Триколор Кинозал 10 HD
-http://cdn.klimedia.ru/channel_11089767/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Триколор Кинозал 11 HD
-http://cdn.klimedia.ru/channel_1245675346347/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Триколор Кинозал 12 HD
-http://cdn.klimedia.ru/channel_13894568934756/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Триколор Кинозал 13
-http://cdn.klimedia.ru/channel_148678746598723960098/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82.png" group-title="GRAND PLUS| KLI  КИНО",  Патриот
-http://cdn.klimedia.ru/patriot/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Scream.png" group-title="GRAND PLUS| KLI  КИНО",  Scream
-http://cdn.klimedia.ru/9b1ec78621b6b385aee0cc701d1d1374/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Curiosity%20Stream%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Curiosity Stream
-http://cdn.klimedia.ru/9303fb1a39dee7898d306c0c24d981f2/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/TOP%20USSR%20HD.png" group-title="GRAND PLUS| KLI  КИНО",  USSR HD
-http://cdn.klimedia.ru/22cee68b349d32a560cdd2ad1a8d6687/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Viju%2B%20Serial%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Viju+ Serial HD
-http://cdn.klimedia.ru/8dd88e360914d8fb715972c18e17429e/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Viju%2B%20Megahit%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Viju+ Megahit HD
-http://cdn.klimedia.ru/3ef68bd38f480e070cde78d74bd9f354/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Viju%2B%20Premiere%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Viju+ Premiere HD
-http://cdn.klimedia.ru/20bad00974f67a8d408d4b5f5e7d3851/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Твоё ТВ HD
-http://cdn.klimedia.ru/15dedacb0937e7def200fb8987fddc27/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  ТВОЕ ТВ HD - ЮМОР
-http://cdn.klimedia.ru/a279e26b3542cbc1c6531e70bc0a7fb8/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Кино 1 International
-http://cdn.klimedia.ru/3782f65dd70245057b499183773c215e/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI  КИНО",  Сити Эдем КиноЭкшен
-http://cdn.klimedia.ru/7b7f012c016007433576529089e2d135/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D1%83%D0%B6%D0%B0%D1%81%20HD%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  Киноужас HD
-http://cdn.klimedia.ru/ab2438276b6a6bcab4982a3927236fb3/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/%D0%9D%D0%A1%D0%A2%20orig.png" group-title="GRAND PLUS| KLI  КИНО",  НСТ
-http://cdn.klimedia.ru/d9027ea5d15ddbf059eed17b4d4886c0/video.m3u8?token=8zywnDz3wcfvASZB
-
-
-
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_action.png" group-title="GRAND PLUS| KLI ",  KLI Action
-http://cdn.klimedia.ru/KLI_ACTION/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_marvel.png" group-title="GRAND PLUS| KLI ",  KLI Marvel
-http://cdn.klimedia.ru/KLI_MARVEL/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_triller.png" group-title="GRAND PLUS| KLI ",  KLI Triller
-http://cdn.klimedia.ru/KLI_TRILLER/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_drama.png" group-title="GRAND PLUS| KLI ",  KLI Drama
-http://cdn.klimedia.ru/KLI_DRAMA/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_comedy.png" group-title="GRAND PLUS| KLI ",  KLI Comedy
-http://cdn.klimedia.ru/KLI_COMEDY/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/family.png" group-title="GRAND PLUS| KLI ",  KLI Family
-http://cdn.klimedia.ru/KLI_FAMILY/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_fantasy.png" group-title="GRAND PLUS| KLI ",  KLI Fantasy
-http://cdn.klimedia.ru/KLI_FANTASY/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_fantastic.png" group-title="GRAND PLUS| KLI ",  KLI Fantastic
-http://cdn.klimedia.ru/KLI_FANTASTIC/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_horror.png" group-title="GRAND PLUS| KLI ",  KLI Horror
-http://cdn.klimedia.ru/KLI_HORROR/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_kinoseriya.png" group-title="GRAND PLUS| KLI ",  KLI Киносерия
-http://cdn.klimedia.ru/KLI_KINOSERIYA/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_newfilms.png" group-title="GRAND PLUS| KLI ",  KLI Новинки
-http://cdn.klimedia.ru/KLI_NEWFILMS/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_newfilms4k.png" group-title="GRAND PLUS| KLI ",  KLI Новинки 4k
-http://cdn.klimedia.ru/KLI_NEWFILMS4K/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_premium.png" group-title="GRAND PLUS| KLI ",  KLI Premium
-http://cdn.klimedia.ru/KLI_PREMIUM/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_sssr.png" group-title="GRAND PLUS| KLI ",  KLI SSSR
-http://cdn.klimedia.ru/KLI_SSSR/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_russian.png" group-title="GRAND PLUS| KLI ",  KLI Russian
-http://cdn.klimedia.ru/KLI_RUSSIAN/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_uhd4k.png" group-title="GRAND PLUS| KLI ",  KLI UHD 4k
-http://cdn.klimedia.ru/KLI_UHD4K/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Kli_Newyear.png" group-title="GRAND PLUS| KLI ",  KLI Новогодний
-http://cdn.klimedia.ru/KLI_NEWYEAR/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_sport.png" group-title="GRAND PLUS| KLI",KLI Media Sport 1
-http://cdn.klimedia.ru/kli_media_sport1/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Kli_KINOZAKAZ.png" group-title="GRAND PLUS| KLI ",  KLI KINOZAKAZ
-http://cdn.klimedia.ru/Kli_Kinozakaz/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Kli%20Detektiv.png" group-title="GRAND PLUS| KLI ",  KLI ДЕТЕКТИВЫ
-http://cdn.klimedia.ru/Kli_Detectiv/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_Bitva.png" group-title="GRAND PLUS| KLI ",  KLI Битва Экстрасенсов
-http://cdn.klimedia.ru/KLI_BATTLEOFPSYCHICS/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_ALF.png" group-title="GRAND PLUS| KLI ",  KLI АЛЬФ
-http://cdn.klimedia.ru/Kli_Alf/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_multiki.png" group-title="GRAND PLUS| KLI ",  KLI Мультики
-http://cdn.klimedia.ru/KLI_MULTIKI/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_kids.png" group-title="GRAND PLUS| KLI ",  KLI Kids
-http://cdn.klimedia.ru/KLI_KIDS/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Kli_Pooh.png" group-title="GRAND PLUS| KLI ",  KLI Винни Пух и его друзья
-http://cdn.klimedia.ru/Kli_Pooh/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_Luntik.png" group-title="GRAND PLUS| KLI ",  KLI ЛУНТИК
-http://cdn.klimedia.ru/Kli_Luntik/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Kli_ChipinDale.png" group-title="GRAND PLUS| KLI ",  KLI Чип и Дейл
-http://cdn.klimedia.ru/Kli_ChipinDale/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Kli_Prostokvashino.png" group-title="GRAND PLUS| KLI ",  KLI Простоквашино
-http://cdn.klimedia.ru/Kli_Prostokvashino/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Kli_DuckTales.png" group-title="GRAND PLUS| KLI ",  KLI Утиные Истории
-http://cdn.klimedia.ru/Kli_DuckTales/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_Tom%20and%20Jerry.png" group-title="GRAND PLUS| KLI ",  KLI Tom and Jerry
-http://cdn.klimedia.ru/Kli_TomandJerry/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Kli_Blackcloak.png" group-title="GRAND PLUS| KLI ",  KLI Черный Плащ
-http://cdn.klimedia.ru/Kli_Blackcloak/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_Looney%20Tunes.png" group-title="GRAND PLUS| KLI ",  KLI Looney Tunes
-http://cdn.klimedia.ru/Kli_LooneyTunes/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/Kli_TMNT.png" group-title="GRAND PLUS| KLI ",  KLI Черепашки-Ниндзя
-http://cdn.klimedia.ru/Kli_TMNT/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 tvg-logo="https://m3u.klimedia.ru/icon/kli_retro.png" group-title="GRAND PLUS| KLI ",  KLI Retro
-http://cdn.klimedia.ru/KLI_Retro/video.m3u8?token=8zywnDz3wcfvASZB
-
-#EXTINF:-1 group-title="GRAND PLUS| KLI ",  KLI NOSTALGIA
-http://cdn.klimedia.ru/Kli_Nostalgia/video.m3u8?token=8zywnDz3wcfvASZB
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  История
-http://hls127.freeott.top:8080/Istoriya/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Дикий
-http://hls127.freeott.top:8080/Dikiy/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Наука 2.0
-http://hls127.freeott.top:8080/NAUKA/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  RTG TV
-http://hls127.freeott.top:8080/RTG_TV/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Amedia 1
-http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  BCU Kinorating HD
-http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  BCU Stars HD
-http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4K Ужасы
-http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4K Anime
-http://hls127.freeott.top:8080/Clarity4K_Anime/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4K Asia
-http://hls127.freeott.top:8080/Clarity4K_Asia/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4k Концерт
-http://hls127.freeott.top:8080/Clarity4K_Concert/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4k Единоборства
-http://hls127.freeott.top:8080/Clarity4K_Edinoborstva/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4K Фантастика
-http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4K Gamefilm
-http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4K Космомир
-http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Clarity4K Netflix
-http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Gags Network
-http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  НСТ
-http://hls127.freeott.top:8080/HCTV/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Кинопоказ HD
-http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Ключ
-http://hls127.freeott.top:8080/Kluch/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Кухня ТВ
-http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Maydan
-http://hls127.freeott.top:8080/Maydan/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Мосфильм. Золотая коллекция
-http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  MyTV
-http://hls127.freeott.top:8080/MyTV/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Наше HD
-http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Ностальгия
-http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Про любовь
-http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  РБК
-http://hls127.freeott.top:8080/RBK/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Союз
-http://hls127.freeott.top:8080/Souz/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Совершенно секретно
-http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Спас
-http://hls127.freeott.top:8080/Spas/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Театр
-http://hls127.freeott.top:8080/Teatr/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  СТС Kids
-http://hls127.freeott.top:8080/STS_Kids/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Da Vinci
-http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Бобёр
-http://hls127.freeott.top:8080/Bober/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Bolt
-http://hls127.freeott.top:8080/Bolt/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  BRIDGE TV
-http://hls127.freeott.top:8080/BRIDGE_TV/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Футбол
-http://hls127.freeott.top:8080/Football/mono.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS|HLS INC",  Матч ТВ
-http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
 
 
 
@@ -9494,6 +7945,41 @@ http://vensik.kazaktelekom.com/iptv/XNFXG23VSNZGTR/2235/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дом кино премиум HD.png" group-title="GRAND PLUS | CINEMA", ~ Кино без границ
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/10279.png" group-title="GRAND PLUS | CINEMA",  Твоє Кіно Action HD
+http://193.27.209.122/tvoje_kino_action/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/10280.png" group-title="GRAND PLUS | CINEMA",  Твоє Кіно Хіт HD
+http://193.27.209.122/tvoje_kino_hit/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Kino 24.png" group-title="GRAND PLUS | CINEMA",  Kinosweet HD
+http://193.27.209.122/kinosweet/index.m3u8
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Kino 24.png" group-title="GRAND PLUS | CINEMA",  Kinowood HD
+http://193.27.209.122/kinowood/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/Дорама.png" group-title="GRAND PLUS | CINEMA",  Дорама HD
+http://193.27.209.122/dorama/index.m3u8?|User-Agent=http-user-agent=Mozilla/5.0 iPhone; CPU iPhone OS 18_6 like Mac OS X AppleWebKit/605.1.15 KHTML, like Gecko CriOS/139.0.7258.76 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="GRAND PLUS | CINEMA",  ATV Armenia Premium 6
+http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",  ATV Bazmoc
+http://109.68.122.117:8899/bazmoc
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="GRAND PLUS | CINEMA", ATV CineMan HD
+http://185.57.68.33:80/255/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cine-plus-ledend.png" group-title="GRAND PLUS | CINEMA",  Cine+ Legend HD
+http://193.27.209.122/cine_plus_legend/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="GRAND PLUS | CINEMA",  CINEMA
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="GRAND PLUS | CINEMA",  Cinema
+http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/cineman.png" group-title="GRAND PLUS | CINEMA", Cineman HD AM
+http://185.57.68.33:80/255/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="GRAND PLUS | CINEMA",  KinoMan AM
 http://saveukraine.1ce.xyz/7759/video.m3u8?token=crfQShRf4v
