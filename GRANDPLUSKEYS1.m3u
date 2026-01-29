@@ -2,13 +2,539 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/01/29 02:34}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/01/29 20:14}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/PLUSGRANDNAV
 http://sc4.gergosnet.com/pulsHD.mp3
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="СПАСИБО ЗА ТРУД : 5614 6812 0418 1428",{ ОБНОВИЛ }™
 http://sc4.gergosnet.com/pulstranceHD.mp3
 
+
+
+
+#EXTINF:0 tvg-id="ch008" tvg-name="Киносемья HD"  tvg-logo="https://tvtm.one/images/chIcons/8.png"  timeshift="6", Киносемья HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch008/index.m3u8?token=rimar88.v2_I8pkZviT4xd_23-jCjQ49HZWy_GqvanY6sGriC0bJoskhMQFxdh3zM_K77jCHQTWYbjbWV1C
+#EXTINF:0 tvg-id="ch009" tvg-name="Кинохит HD"  tvg-logo="https://tvtm.one/images/chIcons/9.png"  timeshift="6", Кинохит HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch009/index.m3u8?token=rimar88.v2_6pjsjuoni0Kz-4jKcqeBV1fnFXA2PZ174yug_wKtaPTHhgarfte6w7CoKevn6MTH7-QkUutb
+#EXTINF:0 tvg-id="ch010" tvg-name="Киносвидание HD"  tvg-logo="https://tvtm.one/images/chIcons/10.png"  timeshift="6", Киносвидание HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch010/index.m3u8?token=rimar88.v2_si9usyoj0oFA2T82DZ6FqT78WQODnMPTNzbwxTbf9ySdJsj0MPuP0ZJvEi6lj2HNwl3cqRjpng
+#EXTINF:0 tvg-id="ch015" tvg-name="Наше новое кино HD"  tvg-logo="https://tvtm.one/images/chIcons/15.png"  timeshift="6", Наше новое кино HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch015/index.m3u8?token=rimar88.v2_TTRR1zAkGCMW2yw9oljbFvjKensco3PVQM8KagJzruQJ2uQH619UhQiopemoFOVO1EOhWvKwFQ
+#EXTINF:0 tvg-id="ch079" tvg-name="Киномикс HD"  tvg-logo="https://tvtm.one/images/chIcons/79.png"  timeshift="6", Киномикс HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch079/index.m3u8?token=rimar88.v2_7bo436opNn89SwfnDqWYPFMPmnmbvTbkBf3_ddNvwBeBiDBTmNRmwQsuq4NppngWcwB7DZojvA
+#EXTINF:0 tvg-id="ch054" tvg-name="Кинопремьера HD"  tvg-logo="https://tvtm.one/images/chIcons/54.png"  timeshift="6", Кинопремьера HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch054/index.m3u8?token=rimar88.v2_vVz9GjFR6IIIqvpjyR4xWU9Mc7d-N8PnLbc6iDgVUckIs-tf-662FDIvbQBkFzeZk6_Fnp5gUQ
+#EXTINF:0 tvg-id="ch668" tvg-name="Киносерия HD"  tvg-logo="https://tvtm.one/images/chIcons/668.png"  timeshift="6", Киносерия HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch668/index.m3u8?token=rimar88.v2_xpPsiROTSonwNFx2_luWNS1eK3nkWFRvRmmfT9tYxx4J5gUigk27N13WFc51KfMqQOsY_Xz4tpw
+#EXTINF:0 tvg-id="ch460" tvg-name="Кинокомедия HD"  tvg-logo="https://tvtm.one/images/chIcons/460.png"  timeshift="6", Кинокомедия HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch460/index.m3u8?token=rimar88.v2_yHxvLhBcSm8jh9yx8I8jJp7O_r7EIDTJ11iAH1EO1UuPlPmglQbi8579BP7N1YKLk_6Z8XmX8TM
+#EXTINF:0 tvg-id="ch652" tvg-name="Киноужас HD"  tvg-logo="https://tvtm.one/images/chIcons/652.png"  timeshift="6", Киноужас HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch652/index.m3u8?token=rimar88.v2_BPLlJ82Gw6PPMD_wpJy4p-Td86i9jcQLktexPbulX4kKAobFvuvMoIbY2GFM6u6EUHStzHrc9Jo
+#EXTINF:0 tvg-id="ch112" tvg-name="Мужское кино HD"  tvg-logo="https://tvtm.one/images/chIcons/112.png"  timeshift="6", Мужское кино HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch112/index.m3u8?token=rimar88.v2_KVTd-Q-6pLlfAiGP-F8PFTZvSsQ9DvlI1TXFyhoKiVwEsucWrI_rJxjwm1MUZkASDAETm8BuqMc
+#EXTINF:0 tvg-id="ch116" tvg-name="Родное кино"  tvg-logo="https://tvtm.one/images/chIcons/116.png"  timeshift="6", Родное кино
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch116/index.m3u8?token=rimar88.v2_jUqm4zyZ515vx3ijSdDWdymO9kU19MzvMHXyzC3z8EHvyCXwXtAK51ysCQ8IpGAayoLOE2DrXKA
+#EXTINF:0 tvg-id="ch461" tvg-name="Индийское кино"  tvg-logo="https://tvtm.one/images/chIcons/461.png"  timeshift="6", Индийское кино
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch461/index.m3u8?token=rimar88.v2_6RwZ42sOafA9zT6z_eX0eeDI7xIOU7OqhlMzDlLhZX8Y_yaibt8Ycwr9S2FW9hvfXz41Cf-_CDQ
+#EXTINF:0 tvg-id="ch495" tvg-name="Start World HD"  tvg-logo="https://tvtm.one/images/chIcons/495.png"  timeshift="6", Start World HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch495/index.m3u8?token=rimar88.v2_Kh5uvGET_6PkfeFBczy_is6HIxuvx0RCqikiGxoNxwYt43rWJAxxSk5FZtvSmAvTQ6q7EK5moEw
+#EXTINF:0 tvg-id="ch506" tvg-name="Start Air HD"  tvg-logo="https://tvtm.one/images/chIcons/506.png"  timeshift="6", Start Air HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch506/index.m3u8?token=rimar88.v2_uKMc7QGbLGxD-hZt50uOBm26dMsq-Gh88j2GOjCantsMLJyT91UsTAOAHNfml7ACFV5Y_BgM7ng
+#EXTINF:0 tvg-id="ch3115" tvg-name="100 Процентов Классика HD"  tvg-logo="https://tvtm.one/images/chIcons/3115.png"  timeshift="3", 100 Процентов Классика HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3115/index.m3u8?token=rimar88.v2_2WLWqg3TyceGEhzlCh5Rq4KtE5WMqwYwWJL-K2YZsssbaeO8sqZYdGfdwojzvJ-2SyYW6ZugRqVi
+#EXTINF:0 tvg-id="ch3116" tvg-name="100 Процентов Мужское HD"  tvg-logo="https://tvtm.one/images/chIcons/3116.png"  timeshift="3", 100 Процентов Мужское HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3116/index.m3u8?token=rimar88.v2_TPvJJX-VJWEF_wrNiA8wWD-uIa040UJRysF_JQoyhosaAb_XKs9lGsmNpbJNqda5PBnGJeE2wMrg
+#EXTINF:0 tvg-id="ch3117" tvg-name="100 Процентов Любовь HD"  tvg-logo="https://tvtm.one/images/chIcons/3117.png"  timeshift="3", 100 Процентов Любовь HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3117/index.m3u8?token=rimar88.v2_noppOGvy3J881iOynixZQt6jkpICX3OZt6TdSessBIl1mU75gA-3Ulv4EFwR_zlHAL06xV9a8Djr
+#EXTINF:0 tvg-id="ch651" tvg-name="Viasat Kino World HD"  tvg-logo="https://tvtm.one/images/chIcons/651.png"  timeshift="6", Viasat Kino World HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch651/index.m3u8?token=rimar88.v2_OH4uzBoPbo25Md1lUzwSe9kzHceFbCFdKDIwhU3-1jmADjYo-cN6ZLIvLQJ8fG0454mjpgF3aXs
+#EXTINF:0 tvg-id="ch3079" tvg-name="Viasat Kino Action HD"  tvg-logo="https://tvtm.one/images/chIcons/3079.png"  timeshift="6", Viasat Kino Action HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3079/index.m3u8?token=rimar88.v2_f5a9KwzxhDUV5oY-R9kZKCS8Zb1VQRNS1xNFVA_9ohu58Kz5ye_mTvKesK1wxNGWj5YPlEnwX3eI
+#EXTINF:0 tvg-id="ch3080" tvg-name="Viasat Kino Comedy HD"  tvg-logo="https://tvtm.one/images/chIcons/3080.png"  timeshift="6", Viasat Kino Comedy HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3080/index.m3u8?token=rimar88.v2_jkk1XQvSETc_RCe0DvzHOywdCrlr5tZTC9s_nHni4xuuBFai2WtEQVkQTpOlZX2e7VJLQyeG0l2O
+#EXTINF:0 tvg-id="ch3081" tvg-name="Viasat Kino HD"  tvg-logo="https://tvtm.one/images/chIcons/3081.png"  timeshift="6", Viasat Kino HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3081/index.m3u8?token=rimar88.v2_s9OUexj18Oes9XoQxvLi66kmpk5ITAzmxAnPrDeIGg-PRUB_p0opJhQXASxCmPTtOCArIKE-mXDK
+#EXTINF:0 tvg-id="ch017" tvg-name="Viju TV 1000 HD"  tvg-logo="https://tvtm.one/images/chIcons/17.png"  timeshift="6", Viju TV 1000 HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch017/index.m3u8?token=rimar88.v2_mx9O_3lVJltfhBUGadkLHsRcIhmdtj2kYkk3nJjaGi2wxVKmlMLQ5c67HufrzRrZDGtasfS54w
+#EXTINF:0 tvg-id="ch018" tvg-name="Viju TV 1000 Action HD"  tvg-logo="https://tvtm.one/images/chIcons/18.png"  timeshift="6", Viju TV 1000 Action HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch018/index.m3u8?token=rimar88.v2_WGbNbJ94zCuH-xI5iH31WEFxEM1MknhKYNdSQOJeXBVXidujukteF2Z4UU3GxV008MzjQclL3A
+#EXTINF:0 tvg-id="ch013" tvg-name="Viju TV 1000 Русское HD"  tvg-logo="https://tvtm.one/images/chIcons/13.png"  timeshift="6", Viju TV 1000 Русское HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch013/index.m3u8?token=rimar88.v2_Hna8T0mswN_Evp1OmUGyyXduvOXHUbvkFKTOzD4yHaKDUxwMt7C75NLyUBxqS_tDnCCge6w_HQ
+#EXTINF:0 tvg-id="ch3074" tvg-name="Viju TV1000 Romantica HD"  tvg-logo="https://tvtm.one/images/chIcons/3074.png"  timeshift="6", Viju TV1000 Romantica HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3074/index.m3u8?token=rimar88.v2_Z3I3EVp7PO6JnVqLreNWrIg-Nfdc5s41nsSL70GFqKu_4G5OoNzPXIaoIXQFSb4C5iJ3y4d2KLx6
+#EXTINF:0 tvg-id="ch3075" tvg-name="Viju TV1000 Новелла HD"  tvg-logo="https://tvtm.one/images/chIcons/3075.png"  timeshift="6", Viju TV1000 Новелла HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3075/index.m3u8?token=rimar88.v2_tPzzwCqGew1Uuux3Wwa2Mil6B2UIB_jkEW8gifhaJO8ThDFW_iNnKSh8ZCN4FIalfSBvaRzlkRRi
+#EXTINF:0 tvg-id="ch058" tvg-name="Viju+ Comedy HD"  tvg-logo="https://tvtm.one/images/chIcons/58.png"  timeshift="6", Viju+ Comedy HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch058/index.m3u8?token=rimar88.v2_jjOfjgqyUQhCViY1nRTWRGtkN5H0BiylucDatxKGe33aNiPmt0tGj_udszHvWuHJ3fdtyM1WOg
+#EXTINF:0 tvg-id="ch060" tvg-name="Viju+ Premiere HD"  tvg-logo="https://tvtm.one/images/chIcons/60.png"  timeshift="6", Viju+ Premiere HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch060/index.m3u8?token=rimar88.v2_CP12pEP4Ac4ItYyP0HnpG0XExbqSkedmmCuTrVkt9oTVzjwh8rLLGujbAH6koJYrjFtBIJGdcQ
+#EXTINF:0 tvg-id="ch701" tvg-name="Viju+ Serial HD"  tvg-logo="https://tvtm.one/images/chIcons/701.png"  timeshift="6", Viju+ Serial HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch701/index.m3u8?token=rimar88.v2_BoBCuUT6-KnrtjnrR_Ky4yyLvU9yFIUnk-xQL6KoeRSR6e_qTt9lFf7yZkyp1c97qtwP6HQVRIc
+#EXTINF:0 tvg-id="ch059" tvg-name="Viju+ Megahit HD"  tvg-logo="https://tvtm.one/images/chIcons/59.png"  timeshift="6", Viju+ Megahit HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch059/index.m3u8?token=rimar88.v2_J8szZsW4FvP7aXqdDf520mAufu6Qz3muDyEgsB6S8M2c-hToRwmrDmurBACZ9oKO6VawyIzYMw
+#EXTINF:0 tvg-id="ch032" tvg-name="Amedia Hit HD"  tvg-logo="https://tvtm.one/images/chIcons/32.png"  timeshift="6", Amedia Hit HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch032/index.m3u8?token=rimar88.v2_03jFg4c7gNGdcAyD1MtqqFVl-CKuZw07uEg3qTfwOJfoY5Hh6ran9K2OpDzDYmQ93grk83Yb8A
+#EXTINF:0 tvg-id="ch421" tvg-name="Amedia 1 HD"  tvg-logo="https://tvtm.one/images/chIcons/421.png"  timeshift="6", Amedia 1 HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch421/index.m3u8?token=rimar88.v2_7BiGHR1AJhnOef3fBisAEv_fIc8NLJ7qZfC_nfVAmd0IBiUkZRhyDYEK5iY3pG18aOrUioFqYAU
+#EXTINF:0 tvg-id="ch515" tvg-name="Amedia 2 HD"  tvg-logo="https://tvtm.one/images/chIcons/515.png"  timeshift="6", Amedia 2 HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch515/index.m3u8?token=rimar88.v2__NffKFLNTjLCgfH1n8-xRC8-CEpAJ3U60kKrQVIJfz6KzT5KyaehX4x7axLSqtzt2mgWCimG9Gg
+#EXTINF:0 tvg-id="ch065" tvg-name="Amedia Premium HD"  tvg-logo="https://tvtm.one/images/chIcons/65.png"  timeshift="6", Amedia Premium HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch065/index.m3u8?token=rimar88.v2_fb51q7mfkgPVOAfJG6klR7BbvlxngLO8MR5Z8nnRGLu1hp5uwFOryrMCKzS4o1NtTDy1g6f7Zg
+#EXTINF:0 tvg-id="ch542" tvg-name="Киноджем 1 HD"  tvg-logo="https://tvtm.one/images/chIcons/542.png"  timeshift="6", Киноджем 1 HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch542/index.m3u8?token=rimar88.v2_AsV5YobmdH-YNM92cWtKqUcyPfXvqUSxluPG78n9DgP9pxof4TPPLdDbOjLau_Kz5Fqv0oFKPSg
+#EXTINF:0 tvg-id="ch521" tvg-name="Киноджем 2 HD"  tvg-logo="https://tvtm.one/images/chIcons/521.png"  timeshift="6", Киноджем 2 HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch521/index.m3u8?token=rimar88.v2_bi_uMDOgeyHvge3Z82ibW2S0DzOX2OcFNB0r__h5O9S34rGPFQN6F7MvDUmY4YJ_ixWVTL7WPaQ
+#EXTINF:0 tvg-id="ch117" tvg-name="НСТ"  tvg-logo="https://tvtm.one/images/chIcons/117.png"  timeshift="6", НСТ
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch117/index.m3u8?token=rimar88.v2_WTYWDDX7Mgbgp6d_IKwPkC_QwL6ZFnU62GVy3h1VFzwVrTFqzLv6JJoNL8oh5ecBBjai43Hk3BM
+#EXTINF:0 tvg-id="ch614" tvg-name="Арсенал HD"  tvg-logo="https://tvtm.one/images/chIcons/614.png"  timeshift="6", Арсенал HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch614/index.m3u8?token=rimar88.v2_bjsJ2-TC2kNaPi151q-skMRb0oYg5OKJ2rQxgGvl4Gr3xlGZGihhEBmR3WZ2_wrM_Q21n2Yg3B0
+#EXTINF:0 tvg-id="ch336" tvg-name="Мосфильм. Золотая коллекция HD"  tvg-logo="https://tvtm.one/images/chIcons/336.png"  timeshift="6", Мосфильм. Золотая коллекция HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch336/index.m3u8?token=rimar88.v2_9IbNf9clwe8F2As6sjkcEIG9owzOM3YEU0sRLNyQgHVi-frIxhGTTeHVdxDnk9YPFu0eMUDn3q4
+#EXTINF:0 tvg-id="ch077" tvg-name="Кино ТВ HD"  tvg-logo="https://tvtm.one/images/chIcons/77.png"  timeshift="6", Кино ТВ HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch077/index.m3u8?token=rimar88.v2_uDUwBtg4euU9WqHcND64t7mWnm2AmgAOVvK3TweiKu-3FKDHXotErAwr6NzTVERwhfxQGRMEqQ
+#EXTINF:0 tvg-id="ch072" tvg-name="Остросюжетное HD"  tvg-logo="https://tvtm.one/images/chIcons/72.png"  timeshift="6", Остросюжетное HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch072/index.m3u8?token=rimar88.v2_NSGb95rxMGsS3s6c1hC_Vs5w0KNlQTGryN8-mIworEs7_elJemkTecw5VZQ4JCQjN7fytf9PdA
+#EXTINF:0 tvg-id="ch078" tvg-name="Дом Кино HD"  tvg-logo="https://tvtm.one/images/chIcons/78.png"  timeshift="6", Дом Кино HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch078/index.m3u8?token=rimar88.v2_JztKKR0fEtqjc5-rYXwMYrGGuDrmpikHgYQSLsiWpU5UV2pVmdCO5kXmtLsnyPrl7xS9IwlhAA
+#EXTINF:0 tvg-id="ch080" tvg-name="Дом Кино Премиум HD"  tvg-logo="https://tvtm.one/images/chIcons/80.png"  timeshift="6", Дом Кино Премиум HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch080/index.m3u8?token=rimar88.v2_Q-ggRufyg64k7XcrYaw-XXX5J4wYd6d6iriKEN90IW-YwL-fq4CEiTTyRcIPq_cd09u7OVxNag
+#EXTINF:0 tvg-id="ch033" tvg-name="ЕвроКино HD"  tvg-logo="https://tvtm.one/images/chIcons/33.png"  timeshift="6", ЕвроКино HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch033/index.m3u8?token=rimar88.v2_o8h5KVjrODL2NP8FwNhg2-_Wr8lM5M4w4GfefEmJcrXsp-omquK6NlkVe4GDry_Y4NtKVQeAyw
+#EXTINF:0 tvg-id="ch024" tvg-name="ТВ 3 HD"  tvg-logo="https://tvtm.one/images/chIcons/24.png"  timeshift="6", ТВ 3 HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch024/index.m3u8?token=rimar88.v2_m9vjZdG8tM7BOBHkSj1Djp3xf8N2Qi9K7ZrVWjYQ8UVSVkFsVmQ0WSbz4WGt1FgmojK_M3OThA
+#EXTINF:0 tvg-id="ch409" tvg-name="ТВ 3 +2"  tvg-logo="https://tvtm.one/images/chIcons/409.png"  timeshift="0", ТВ 3 +2
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch409/index.m3u8?token=rimar88.v2_yWGckKY7p3P2UwhM5w3z7VAwxUBLhwQcdTYm-9VR_O5OKAxI3-eij1uHD7EuNF9hqpboLosjp6U
+#EXTINF:0 tvg-id="ch410" tvg-name="ТВ 3 +4"  tvg-logo="https://tvtm.one/images/chIcons/410.png"  timeshift="0", ТВ 3 +4
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch410/index.m3u8?token=rimar88.v2_zyJOeDfrnY_PLfG1H-85vyfyDa3E8i9Faz8eWaqUVBgYwT29778gIFkwopy4Xofo2htPwSP7suE
+#EXTINF:0 tvg-id="ch411" tvg-name="ТВ 3 +7"  tvg-logo="https://tvtm.one/images/chIcons/411.png"  timeshift="0", ТВ 3 +7
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch411/index.m3u8?token=rimar88.v2_aTwjuiktqFCcuASonfASG9I6V8JFeoEWYwSaNQ0qaUEH6Em9GkcVaK_IYZF4g-WIhhtk-Vnby3o
+#EXTINF:0 tvg-id="ch620" tvg-name="НТВ Сериал HD"  tvg-logo="https://tvtm.one/images/chIcons/620.png"  timeshift="6", НТВ Сериал HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch620/index.m3u8?token=rimar88.v2_hcPd6d0cEWhiJTZYaW39XLSo8G45Ge7jndl6NoSMcFVpky21xvLGxKUcPyAdLqIO2c2NXyV_2lE
+#EXTINF:0 tvg-id="ch568" tvg-name="НТВ Хит HD"  tvg-logo="https://tvtm.one/images/chIcons/568.png"  timeshift="6", НТВ Хит HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch568/index.m3u8?token=rimar88.v2_-X-8CFK2G_ne_CgnxzteIM-Hl7-IFtiVCze7pBjF64x1-f_-c92ZCkKnGhM7pObS-bODtAqLlTE
+#EXTINF:0 tvg-id="ch103" tvg-name="FX HD"  tvg-logo="https://tvtm.one/images/chIcons/103.png"  timeshift="6", FX HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch103/index.m3u8?token=rimar88.v2_3Mg7GC3jlrAN216gxDc_O6cYzv17-Im0SLD2pvsvHdP8Rd66N8KsexTneB8LRwBr7x_1qB4jHvQ
+#EXTINF:0 tvg-id="ch104" tvg-name="FX Life HD"  tvg-logo="https://tvtm.one/images/chIcons/104.png"  timeshift="6", FX Life HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch104/index.m3u8?token=rimar88.v2_B4Rp0i85hw0MbaZYD_5Aa8aRUpxImdV-WfM9qyxC4ddJId_qL0Mkft30uYb1y0bhLrzUH0vNvdk
+#EXTINF:0 tvg-id="ch470" tvg-name="Scream HD"  tvg-logo="https://tvtm.one/images/chIcons/470.png"  timeshift="6", Scream HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch470/index.m3u8?token=rimar88.v2_PNRsFmzM-lfuDUgA68sZWKNCVaRQU9FMDNDbdCATuJoLPxBpuyam53UHCpiBxhNYVyEwtNiXU5U
+#EXTINF:0 tvg-id="ch038" tvg-name="Saga HD"  tvg-logo="https://tvtm.one/images/chIcons/38.png"  timeshift="6", Saga HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch038/index.m3u8?token=rimar88.v2_bEooEY8BZQ3RbO8WMcn92KI1A0Rcg5SFwhsbbS-rPoMiOEyLWkW5qNrkP5fezb1PK3V4gnn9xQ
+#EXTINF:0 tvg-id="ch084" tvg-name="Премиальное HD"  tvg-logo="https://tvtm.one/images/chIcons/84.png"  timeshift="6", Премиальное HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch084/index.m3u8?token=rimar88.v2_gHDwlh-dvFW3R2AVBhob5rQ_cUbO4cF4hLjQCo59gsfDt7Z-BqEGojmDrPr84-9L14DRk7aO6w
+#EXTINF:0 tvg-id="ch098" tvg-name="Романтичное HD"  tvg-logo="https://tvtm.one/images/chIcons/98.png"  timeshift="6", Романтичное HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch098/index.m3u8?token=rimar88.v2_XkG5mnkhrm2XZ89d0Ka4ChYGmgCrx62Gqdx1iPiwd_Gniw3jQCByYdCoWAPTbYFQFUSvpEYtrg
+#EXTINF:0 tvg-id="ch114" tvg-name="Иллюзион+ HD"  tvg-logo="https://tvtm.one/images/chIcons/114.png"  timeshift="6", Иллюзион+ HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch114/index.m3u8?token=rimar88.v2_V2K0TUwlpmWJJzeSNpmMupGzuA8zMqOt0-1C_LQlnYLxY-pWcerTm44YpSsWkDKub-sLx9YWeK8
+#EXTINF:0 tvg-id="ch115" tvg-name="Русский бестселлер"  tvg-logo="https://tvtm.one/images/chIcons/115.png"  timeshift="6", Русский бестселлер
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch115/index.m3u8?token=rimar88.v2_1bHV5BbqwCxMiFZKRCNFO8-zG-6-IVWozcgmYDHX0pBtmH6GgT9cLqJ72YyYPg5QyFxF9pn5-Fc
+#EXTINF:0 tvg-id="ch101" tvg-name="Русский Иллюзион HD"  tvg-logo="https://tvtm.one/images/chIcons/101.png"  timeshift="6", Русский Иллюзион HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch101/index.m3u8?token=rimar88.v2_Jw32edBGKjJZpiNbFAfa9odcXOyNuBFtvRduksyB9HmIcrog8e8xfkWi5JAUWUYDHuxFWVXehqo
+#EXTINF:0 tvg-id="ch132" tvg-name="Русский роман HD"  tvg-logo="https://tvtm.one/images/chIcons/132.png"  timeshift="6", Русский роман HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch132/index.m3u8?token=rimar88.v2_fKH_CE8ihhYgY6UXWASVQVVaCYPICqoUx1zh3KSTtftEnCD-P9tGwgTd9_IJGs26rSPmTEC3-2U
+#EXTINF:0 tvg-id="ch462" tvg-name="Русский Детектив"  tvg-logo="https://tvtm.one/images/chIcons/462.png"  timeshift="6", Русский Детектив
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch462/index.m3u8?token=rimar88.v2_VUpU6GOlhzChhTfPXaU1CbnQ_E8i-87h3YbvlXVTxPqig6tk56T5U-mBlQ-CCvlR2A_6M_5L8gA
+#EXTINF:0 tvg-id="ch105" tvg-name="Русская комедия"  tvg-logo="https://tvtm.one/images/chIcons/105.png"  timeshift="6", Русская комедия
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch105/index.m3u8?token=rimar88.v2_MxzFJAJaJuUF-C8IH6uShqQHL5RSr4eNmd_PGlgP8C4vKIqvLBvggjwPPvQrUrnA3entN6SYkAo
+#EXTINF:0 tvg-id="ch463" tvg-name="Любимое Кино HD"  tvg-logo="https://tvtm.one/images/chIcons/463.png"  timeshift="6", Любимое Кино HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch463/index.m3u8?token=rimar88.v2_Pm435lposoNu6aJ-Z85t_YFPOzJjjIQ6L5SLESfM1DFIkG5LMW4Bkjct6ZBZh0xMAyXGtqQCh5I
+#EXTINF:0 tvg-id="ch134" tvg-name="Шокирующее HD"  tvg-logo="https://tvtm.one/images/chIcons/134.png"  timeshift="6", Шокирующее HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch134/index.m3u8?token=rimar88.v2_N64hpKNXyW9-rY_-f5BbHtaUitbO2lQWhjCKisEdtI-8FXxvhztg3EJ8r_swhaPFbEFXtv0-QgE
+#EXTINF:0 tvg-id="ch136" tvg-name="Комедийное HD"  tvg-logo="https://tvtm.one/images/chIcons/136.png"  timeshift="6", Комедийное HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch136/index.m3u8?token=rimar88.v2_0QeID4L5Dv9FHlF9WMkGZRq7Ah0Nbkw1b4LVPnhLqfyHETJNJCpWIKnrq4R35axdCG2n4TvyfA0
+#EXTINF:0 tvg-id="ch2127" tvg-name="Криминальное HD"  tvg-logo="https://tvtm.one/images/chIcons/2127.png"  timeshift="6", Криминальное HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch2127/index.m3u8?token=rimar88.v2_jSN7Fa1-mgB7NXqF2z8IJW92VhOGndNoK2doqGi20SrM-PIfD_2PTRp01Glu7vuCjqosZ0B2irDL
+#EXTINF:0 tvg-id="ch131" tvg-name="Наше HD"  tvg-logo="https://tvtm.one/images/chIcons/131.png"  timeshift="6", Наше HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch131/index.m3u8?token=rimar88.v2__LWKP5-oqorhLBYbrTh1EKFTZ7z5O3v0srJ5qRs9E-LgZO2C230gBM-PlQFP7Lj4O9RSdm5bTcU
+#EXTINF:0 tvg-id="ch139" tvg-name="Наше любимое HD"  tvg-logo="https://tvtm.one/images/chIcons/139.png"  timeshift="6", Наше любимое HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch139/index.m3u8?token=rimar88.v2_NrisidmAMCyuHsCaMPZO6Tuu_9xHIyLbbioEJtx646eO9y_HNhAH02MV2pAL5SKJCmBYxvBhz8I
+#EXTINF:0 tvg-id="ch140" tvg-name="Душевное HD"  tvg-logo="https://tvtm.one/images/chIcons/140.png"  timeshift="6", Душевное HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch140/index.m3u8?token=rimar88.v2_vpVRAUXNdMTgf__s2BoZ-7ajc1rgWRJ9N1IkNLzCiP7pBRnOeDIMfyuvpJvioC7nUViJrtKA6y8
+#EXTINF:0 tvg-id="ch714" tvg-name="Наш Кинопоказ HD"  tvg-logo="https://tvtm.one/images/chIcons/714.png"  timeshift="6", Наш Кинопоказ HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch714/index.m3u8?token=rimar88.v2_oZPco496w1zwPfzxy14NHjhCOb_lMCa4prptTJf-8SjX__ZbdaoarywO48aS-zWQoBkxgUco0j4
+#EXTINF:0 tvg-id="ch589" tvg-name="Наше Мужское HD"  tvg-logo="https://tvtm.one/images/chIcons/589.png"  timeshift="6", Наше Мужское HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch589/index.m3u8?token=rimar88.v2_-dQ_ESrCMsAjTc-ihw7P4jyHK0WQFlsjfpZI5-hYJtrAzqFwk4B1VVuXsU4AmjonYOmPcaKob1A
+#EXTINF:0 tvg-id="ch326" tvg-name="Bollywood HD"  tvg-logo="https://tvtm.one/images/chIcons/326.png"  timeshift="0", Bollywood HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch326/index.m3u8?token=rimar88.v2_12GhAhMNaf-XBBFuJxdJ9Itj0jKulmKTz_NuoC6ohKbV-AlU7O-xkl5ubUZO8aEh4nIK3jd3cUc
+#EXTINF:0 tvg-id="ch459" tvg-name="Plan B HD"  tvg-logo="https://tvtm.one/images/chIcons/459.png"  timeshift="6", Plan B HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch459/index.m3u8?token=rimar88.v2_-ktO-UKvFGrGtTRbqsm0kNFuRjLeo644oWaPbZ-C0GwC9O5DTKzbS2qo3XehZOD1tDmV9NLbsMs
+#EXTINF:0 tvg-id="ch464" tvg-name=".Sci-Fi HD"  tvg-logo="https://tvtm.one/images/chIcons/464.png"  timeshift="6", .Sci-Fi HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch464/index.m3u8?token=rimar88.v2_t0Otn_iv2jhv2h2f9BhMCA1HQkU2RitvhgCE9TqxGczlP6CpmgIMrsOtFRStC8VsIf6Pj7SlwcY
+#EXTINF:0 tvg-id="ch465" tvg-name=".Black HD"  tvg-logo="https://tvtm.one/images/chIcons/465.png"  timeshift="6", .Black HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch465/index.m3u8?token=rimar88.v2_k_srpNK74JMa6OCC6aD6XYLXtejkbWoMk9Q0qrwp1Dri2O0LIt_dOKc-V3OcEMEOZMvFS9_dHuk
+#EXTINF:0 tvg-id="ch070" tvg-name=".Red HD"  tvg-logo="https://tvtm.one/images/chIcons/70.png"  timeshift="6", .Red HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch070/index.m3u8?token=rimar88.v2_f2RXZR6XBcNn37v9KOjcg8gz1nvMr7hUZ2PWIpKJ8FC9jYnsXvSujBf0donu2o_nHfRW7yt16w
+#EXTINF:0 tvg-id="ch3355" tvg-name="КиноКульт HD"  tvg-logo="https://tvtm.one/images/chIcons/3355.png"  timeshift="6", КиноКульт HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3355/index.m3u8?token=rimar88.v2_7nXHZhZ05pjA6961MCMlKUJ_Xp44iQXi0yTZBzNjlv0qV_3tz40MFibG8d-9E6VD0y6k5MNvcBF0
+#EXTINF:0 tvg-id="ch466" tvg-name="Кинопоказ HD"  tvg-logo="https://tvtm.one/images/chIcons/466.png"  timeshift="6", Кинопоказ HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch466/index.m3u8?token=rimar88.v2_-Lq7Kw2p4nLh5yhvY5GbbTJEG7jVgKUe9dnOpurpYrq7qUQ1I7Uu5thNRQb8f6TJGpl5HX16wPw
+#EXTINF:0 tvg-id="ch467" tvg-name="Синема HD"  tvg-logo="https://tvtm.one/images/chIcons/467.png"  timeshift="6", Синема HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch467/index.m3u8?token=rimar88.v2_YSq7oB6Bn2Iisok-ZsmyDZWffBqQcURHO0qE4uHnnS4SdPz_eolPjNRtmOosf3XLHRZ_eQe4ucU
+#EXTINF:0 tvg-id="ch468" tvg-name="Страшное HD"  tvg-logo="https://tvtm.one/images/chIcons/468.png"  timeshift="6", Страшное HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch468/index.m3u8?token=rimar88.v2_gyZJwZHCov3f1G11EqAhSLDChGvptG0ftOVDMhXfRq0DTRZIgsMJocAHGIitttgnYfUvmqqtMlM
+#EXTINF:0 tvg-id="ch469" tvg-name="TV 21"  tvg-logo="https://tvtm.one/images/chIcons/469.png"  timeshift="6", TV 21
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch469/index.m3u8?token=rimar88.v2_X2HMa48e4wKFWgpiXbk-8sFcXiTQ9CbZ-FqesuoMfPb9gh223t-YYfffNeUF0xW09RsSNo4_ivA
+#EXTINF:0 tvg-id="ch501" tvg-name="Fan HD"  tvg-logo="https://tvtm.one/images/chIcons/501.png"  timeshift="6", Fan HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch501/index.m3u8?token=rimar88.v2_qxlQuOvjmkeqA00VlmigFEyHr-dOSWVx6w-5lXtYXLBJzhjoUcGQPr4JT55PvnGEOHQDCPw0kOc
+#EXTINF:0 tvg-id="ch505" tvg-name="Феникс+ Кино HD"  tvg-logo="https://tvtm.one/images/chIcons/505.png"  timeshift="6", Феникс+ Кино HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch505/index.m3u8?token=rimar88.v2_26FLaV4ApmAIih-go2TSwoOPSZhoL2pSwMtk7hJcH4QhTDGclDDXyziE99iF5v_av--kDeC7Vjg
+#EXTINF:0 tvg-id="ch508" tvg-name="Ретро"  tvg-logo="https://tvtm.one/images/chIcons/508.png"  timeshift="6", Ретро
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch508/index.m3u8?token=rimar88.v2_Tgz243QMfvMnOiDNUyzus6Wd949sZbiJKGKoJh5ityhJ6gZXzlSTOOyGc7P-5LBnMSNTRv7isqo
+#EXTINF:0 tvg-id="ch525" tvg-name="Hollywood HD"  tvg-logo="https://tvtm.one/images/chIcons/525.png"  timeshift="6", Hollywood HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch525/index.m3u8?token=rimar88.v2_4hrJE_gTA-LVdauT_swx0oo9YAN9SQy7q3PAR2-4pjMgm6Ha5VdAEjJbqkatmvyWVJpAStaYYEU
+#EXTINF:0 tvg-id="ch1675" tvg-name="Hollywood"  tvg-logo="https://tvtm.one/images/chIcons/1675.png"  timeshift="6", Hollywood
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch1675/index.m3u8?token=rimar88.v2_YzrPmN_rceNiSMm27uapcU1smabYRYAYly9eu6Vif4fTvLz6YQzHIMAeaq9bfcOEQE4mWai5ALBt
+#EXTINF:0 tvg-id="ch535" tvg-name="Дорама HD"  tvg-logo="https://tvtm.one/images/chIcons/535.png"  timeshift="6", Дорама HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch535/index.m3u8?token=rimar88.v2_flopOIsFI7Sr1QWOl5tVSxP21t9CnVrO8b85N8MFxg8MPzoRvHnbquDEYB22V67ZYbzMx-ycNe0
+#EXTINF:0 tvg-id="ch585" tvg-name="Star Family HD"  tvg-logo="https://tvtm.one/images/chIcons/585.png"  timeshift="6", Star Family HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch585/index.m3u8?token=rimar88.v2_ElraO9gTLUSNGPbji1XwhqIAnaA8wrUWatCqjrE-XXOaVNeLbGn85Of0XrxelCf2noHZHjBMEro
+#EXTINF:0 tvg-id="ch560" tvg-name="Индия HD"  tvg-logo="https://tvtm.one/images/chIcons/560.png"  timeshift="6", Индия HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch560/index.m3u8?token=rimar88.v2_wiEY_3YO1703EtHVJ5faHtAiztiHqlNg1lqlqkwcz5xW7SKjLepw_V1IxIaMls8n-rdnatE0a_E
+#EXTINF:0 tvg-id="ch604" tvg-name="Болт HD"  tvg-logo="https://tvtm.one/images/chIcons/604.png"  timeshift="6", Болт HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch604/index.m3u8?token=rimar88.v2_oj6dV-lpqBGc4AliDkMmpWKa83G6ydVsfGbLjq_TuB2BU1JZi3fMlwaaTpx69isARt0tuGFgUJ0
+#EXTINF:0 tvg-id="ch636" tvg-name="Мир сериала HD"  tvg-logo="https://tvtm.one/images/chIcons/636.png"  timeshift="6", Мир сериала HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch636/index.m3u8?token=rimar88.v2_k7txbPyOPC2S_YfQCMi0YSRmIhWHtWBhQljJoWYNQjhNV_vWTEM9QIX6O_kevba3i2lGw_XdyT8
+#EXTINF:0 tvg-id="ch623" tvg-name="AMC HD"  tvg-logo="https://tvtm.one/images/chIcons/623.png"  timeshift="6", AMC HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch623/index.m3u8?token=rimar88.v2_MbAjLETrpIgiPa8rxFpgTGAnV4JTpMYwe6cBjd1rClK1aCGCuDzpREPEbaPYxtAIcDxOScS4U_g
+#EXTINF:0 tvg-id="ch619" tvg-name="Киноман"  tvg-logo="https://tvtm.one/images/chIcons/619.png"  timeshift="6", Киноман
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch619/index.m3u8?token=rimar88.v2_e2pxCxvXuAH8U8may1Fk4mmj_CxTyn-sXqz2HlXTGcbcif9Tqro2kHXJkwbnxq9kBJqdB5z695U
+#EXTINF:0 tvg-id="ch681" tvg-name="Epic Drama"  tvg-logo="https://tvtm.one/images/chIcons/681.png"  timeshift="6", Epic Drama
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch681/index.m3u8?token=rimar88.v2_WeiSO_UEbNqYnRFJlVMVvumb_x-ONUdIH5SXHUASjG1ptkEu61qpULUPmMYpAXlpD6mm0zDV8Ho
+#EXTINF:0 tvg-id="ch684" tvg-name="FilmBox ArtHouse"  tvg-logo="https://tvtm.one/images/chIcons/684.png"  timeshift="6", FilmBox ArtHouse
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch684/index.m3u8?token=rimar88.v2_-ffsw0zdA7HgKOykH_MBzXP7YU3naeDxLQvZsZ_K1lXyGA9LtgeREcW4Ot_gYlhU1k9c6QoYT1M
+#EXTINF:0 tvg-id="ch689" tvg-name="Блокбастер HD"  tvg-logo="https://tvtm.one/images/chIcons/689.png"  timeshift="6", Блокбастер HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch689/index.m3u8?token=rimar88.v2_Xm9vEyhIOHVwKfAfZwMq3h4Nm6l-bTZIblivqtTkyI7LCgI6gRh1OclDPZrSmNIBe2hIY7EAilU
+#EXTINF:0 tvg-id="ch690" tvg-name="Про Любовь HD"  tvg-logo="https://tvtm.one/images/chIcons/690.png"  timeshift="6", Про Любовь HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch690/index.m3u8?token=rimar88.v2_3oAnhTl6wqYMakL3J5UYdyD1TjZtfbv5DpTmyutq4_7qlhPOZBXyQ0geP_UWEgV3LBTdoHHoolI
+#EXTINF:0 tvg-id="ch691" tvg-name="Хит HD"  tvg-logo="https://tvtm.one/images/chIcons/691.png"  timeshift="6", Хит HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch691/index.m3u8?token=rimar88.v2_ieOrUYlqgv8VYuWAJKOgd7fi6UtPq-JLbb1cnYWBrMMbI7gyy8MKAtKuUY1_g4DFDQAhYLVx6i0
+#EXTINF:0 tvg-id="ch692" tvg-name="Камеди HD"  tvg-logo="https://tvtm.one/images/chIcons/692.png"  timeshift="6", Камеди HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch692/index.m3u8?token=rimar88.v2_-TlVA2x5ru3d50yJXFWS9oYq6k3p3gkOaRKGKkbEJ0Tcu_dp4aJinJBk3D66i8SVzJBSsdDBmpo
+#EXTINF:0 tvg-id="ch703" tvg-name="День Победы HD"  tvg-logo="https://tvtm.one/images/chIcons/703.png"  timeshift="6", День Победы HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch703/index.m3u8?token=rimar88.v2_Hj33WqDAa0M4pAuQq244lI9kOCIpwAqd3-eI8M0rPmnMTkMSblbyIiCVfGdbq4DAxdNvxqHl5oY
+#EXTINF:0 tvg-id="ch3354" tvg-name="Советская киноклассика HD"  tvg-logo="https://tvtm.one/images/chIcons/3354.png"  timeshift="6", Советская киноклассика HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3354/index.m3u8?token=rimar88.v2_GMbRzMKTvQio-8ilpYvfT-ibL6hPe4ORIMiiBq2tUa3-qtqsAqmVCVOk5dB6coQmWJkd0vg_ZHKf
+#EXTINF:0 tvg-id="ch2615" tvg-name="Патриот"  tvg-logo="https://tvtm.one/images/chIcons/2615.png"  timeshift="6", Патриот
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch2615/index.m3u8?token=rimar88.v2_v9OLGnPiBfXydkBzwwmYl4eHdUf3a-inkeUL4A6iKZFxEad873MUZ4ul_YZ2RIPGQTmRVZY9MtdF
+#EXTINF:0 tvg-id="ch709" tvg-name="FlixSnip HD"  tvg-logo="https://tvtm.one/images/chIcons/709.png"  timeshift="6", FlixSnip HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch709/index.m3u8?token=rimar88.v2_5Vec5TcHUb1peaGPL2B6bSsYGdADQxAachBSGMCiWJXrZWz7n0YXp-Qf7y167jEGDvkHCt6BQEU
+#EXTINF:0 tvg-id="ch712" tvg-name="Shot TV HD"  tvg-logo="https://tvtm.one/images/chIcons/712.png"  timeshift="6", Shot TV HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch712/index.m3u8?token=rimar88.v2_KzaPaMs117-sNftwIEzrcx6XGOCrMtvpjXbURlfedRmV8X7zVGGmybovTxVAxuVgqvtLusAI_UI
+#EXTINF:0 tvg-id="ch730" tvg-name="Trash HD"  tvg-logo="https://tvtm.one/images/chIcons/730.png"  timeshift="6", Trash HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch730/index.m3u8?token=rimar88.v2_KVG8h6rkH94kc0TW0Oq4qMimNs6mRHrWYcMW278r_Y-UVAQeRsPbZz1WNRNtlf8ogemTZbZSf34
+#EXTINF:0 tvg-id="ch2069" tvg-name="Kinoliving HD"  tvg-logo="https://tvtm.one/images/chIcons/2069.png"  timeshift="6", Kinoliving HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch2069/index.m3u8?token=rimar88.v2_0sB2VDkO1PT79ikyhaVnAtm3jt0M4h9AmHjgFI81GR53yOh9vIpQ-1VuXuWxuYDC8Fas7rFwGR6r
+#EXTINF:0 tvg-id="ch2077" tvg-name="Сапфир HD"  tvg-logo="https://tvtm.one/images/chIcons/2077.png"  timeshift="6", Сапфир HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch2077/index.m3u8?token=rimar88.v2_C3wl47LEcwebB5LLKCX3yMEfefT8l5EJtkrrp_xZ32i5A9VRpFBlCcm7lucUOKcuGZbqqU_nW22K
+#EXTINF:0 tvg-id="ch2079" tvg-name="Кинеко HD"  tvg-logo="https://tvtm.one/images/chIcons/2079.png"  timeshift="6", Кинеко HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch2079/index.m3u8?token=rimar88.v2_fkpdAX5ypYAiGpvLXSSwu_cE0BlLkdNmry__JHClIVrbj7kC_iABddqD8jKDFykScY7l5xjsPynM
+#EXTINF:0 tvg-id="ch1878" tvg-name="Dizi"  tvg-logo="https://tvtm.one/images/chIcons/1878.png"  timeshift="0", Dizi
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch1878/index.m3u8?token=rimar88.v2_rzAf6yuh9hZ5vjbk9FbmObzE2g_G28QrJpsc12MDfa9dNhcPrqp99Nb6tIkCXR7EFLmjoz9GQ0vP
+#EXTINF:0 tvg-id="ch382" tvg-name="KION Хит HD"  tvg-logo="https://tvtm.one/images/chIcons/382.png"  timeshift="6", KION Хит HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch382/index.m3u8?token=rimar88.v2_mddSszi_319Lo7CrQAbFNTBFbCMWchRIiq4GZjtlnhwsLevvuOXYfo4z4RQPBbjI_mDy-IL55Qg
+#EXTINF:0 tvg-id="ch383" tvg-name="VHS-ка HD"  tvg-logo="https://tvtm.one/images/chIcons/383.png"  timeshift="6", VHS-ка HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch383/index.m3u8?token=rimar88.v2_XxS5Tz6oQj54e3xXeMQ9HIHHC6gId1qYHbHHNnaxeojAYtbtK_XpeNPKmu_PC0Jd5WDPHvc53U0
+#EXTINF:0 tvg-id="ch3082" tvg-name="VHS-ка Сериал HD"  tvg-logo="https://tvtm.one/images/chIcons/3082.png"  timeshift="6", VHS-ка Сериал HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3082/index.m3u8?token=rimar88.v2_MlJItkma97iXPjjrUc5tbvFqjcjFvqUeUjc0BjFml5p8ZMbMAYL0X1VyqFtzZpdjPa2WdxayjgV8
+#EXTINF:0 tvg-id="ch384" tvg-name="4ever Drama HD"  tvg-logo="https://tvtm.one/images/chIcons/384.png"  timeshift="6", 4ever Drama HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch384/index.m3u8?token=rimar88.v2_x0VQ-IeJXfBzi_9WsFypuMlVTUdEQL6QiV0wF2ajDClZ-Y-JIrZHpDuuNewLht-n53VVATde6Xc
+#EXTINF:0 tvg-id="ch385" tvg-name="4ever Theater HD"  tvg-logo="https://tvtm.one/images/chIcons/385.png"  timeshift="6", 4ever Theater HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch385/index.m3u8?token=rimar88.v2_Ux9cYzEhjMCYUlioVnu923dwKhvZqtDN2hPt1zrv1jRX2CvTHfkO65VxPurvmCRqSZivclMElHI
+#EXTINF:0 tvg-id="ch3310" tvg-name="Suspense HD"  tvg-logo="https://tvtm.one/images/chIcons/3310.png"  timeshift="6", Suspense HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3310/index.m3u8?token=rimar88.v2_8VqbSB08OWu5StaIYE7CLK0hkesSzrmJS3VTFsDHyu3eytrdjdmI9hcrdCMUERdCFNQh78ciyCMl
+#EXTINF:0 tvg-id="ch3311" tvg-name="Кино24"  tvg-logo="https://tvtm.one/images/chIcons/3311.png"  timeshift="6", Кино24
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3311/index.m3u8?token=rimar88.v2_yLPMIEJxj8RH1ygnghlEVvXYzj1V4jlOO_NvsN-DBuwFhHEAWNJq5iVpbmYlynmw9o4mFgypAVVT
+#EXTINF:0 tvg-id="ch3312" tvg-name="Лавстори HD"  tvg-logo="https://tvtm.one/images/chIcons/3312.png"  timeshift="6", Лавстори HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3312/index.m3u8?token=rimar88.v2_2-b_-s19uEXlxTgn-_Iq93yyQFHNej8VND1S5DlsHQDK847RHCSad8_MtbikasGk0RomrAOpB9aB
+#EXTINF:0 tvg-id="ch3313" tvg-name="Sumiko HD"  tvg-logo="https://tvtm.one/images/chIcons/3313.png"  timeshift="6", Sumiko HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3313/index.m3u8?token=rimar88.v2_Q8GqtnAzJ3cfe1qe6tGm_Sa6j-OYHc9Bd1AbqX9Gu4kFeZn-QxmEDy52KmhBHBpTKkQesiorPQ4G
+#EXTINF:0 tvg-id="ch3314" tvg-name="Silk Way Cinema HD"  tvg-logo="https://tvtm.one/images/chIcons/3314.png"  timeshift="6", Silk Way Cinema HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch3314/index.m3u8?token=rimar88.v2_XFVH6oKL_h4YBZ3zaQWb6fI05eQxN0aWz329RDGs7qZzU80xRfsyof2W2axpBNdE2SPmtuB1rqjO
+#EXTINF:0 tvg-id="ch1116" tvg-name="C More Hits HD"  tvg-logo="https://tvtm.one/images/chIcons/1116.png"  timeshift="0", C More Hits HD
+#EXTGRP:GRAND PLUS | TEAM KINOKANAL
+https://15.tvtm.one/ch1116/index.m3u8?token=rimar88.v2_bUosJJ8IOonbKK9C_uRxFrJX-EgKMEQUyo5mzfUyuZIGkMI_LJc_SRafhwbCpxbdckEOPt6NfzbI
+
+
+
+#EXTINF:0 tvg-id="ch3433" tvg-name="TEAM NewMovie HD"  tvg-logo="https://tvtm.one/images/chIcons/3433.png"  timeshift="6", TEAM NewMovie HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3433/index.m3u8?token=rimar88.v2_mmICiN8Os9xvwvme8MXaCJDPxBY3alWt4910w97LM9z9t63wRfFwrklGCyCozvJ0-Ll1euOstlSV
+#EXTINF:0 tvg-id="ch3434" tvg-name="TEAM RuKino HD"  tvg-logo="https://tvtm.one/images/chIcons/3434.png"  timeshift="6", TEAM RuKino HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3434/index.m3u8?token=rimar88.v2_9ZEOd5X3PiB3xnSV8NSOlnR_oL3VvGTGqkp_jSmNqy22DKm3aolW5UvqsIWuxNPR92FK6p0T987r
+#EXTINF:0 tvg-id="ch3446" tvg-name="TEAM WSeries HD"  tvg-logo="https://tvtm.one/images/chIcons/3446.png"  timeshift="6", TEAM WSeries HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3446/index.m3u8?token=rimar88.v2_jlTuE8ZOYfywW4DpvIyuR-QOiL5jAnS-LLDx4H54sf9Yst1fmAJiLgX8pJlWqVkoArMpWsBRcqks
+#EXTINF:0 tvg-id="ch3445" tvg-name="TEAM RuSerial HD"  tvg-logo="https://tvtm.one/images/chIcons/3445.png"  timeshift="6", TEAM RuSerial HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3445/index.m3u8?token=rimar88.v2_krrFoaNa3WMIQ8ItjOZ9oZfOGG6-zw-D-EF3BAHCanCFToAP5FZYvGKSOwt0WSLrczhmxY9gLwZp
+#EXTINF:0 tvg-id="ch3447" tvg-name="TEAM TRSeries HD"  tvg-logo="https://tvtm.one/images/chIcons/3447.png"  timeshift="6", TEAM TRSeries HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3447/index.m3u8?token=rimar88.v2_yarDq6Z7z5XiCw543t3uAdYh7leLNvC8W421yn7KjI_S9tmy5osoJimm5K_nVJRExlRGzwuuiD8n
+#EXTINF:0 tvg-id="ch3701" tvg-name="TEAM Agatha HD"  tvg-logo="https://tvtm.one/images/chIcons/3701.png"  timeshift="6", TEAM Agatha HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3701/index.m3u8?token=rimar88.v2_Vi4hGZwuCbE6EFmOW9a5YKeXcsTmpdngPgNA85KteritPb8fXfJcFXCUikf6tsPp9Siw1ExN_8wV
+#EXTINF:0 tvg-id="ch3702" tvg-name="TEAM Spaceopera HD"  tvg-logo="https://tvtm.one/images/chIcons/3702.png"  timeshift="6", TEAM Spaceopera HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3702/index.m3u8?token=rimar88.v2_nzpWSIRsC3SArFvEocYtdls1O4OYn-5rjJ6g0ODF1sdEbUpY2TxQx5hgW0aP3zzdSuHaEUxJJsKc
+#EXTINF:0 tvg-id="ch3703" tvg-name="TEAM StarTrek HD"  tvg-logo="https://tvtm.one/images/chIcons/3703.png"  timeshift="6", TEAM StarTrek HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3703/index.m3u8?token=rimar88.v2_aaupQ-eiANDLCcLegiEzHqnF95uSgItja58N5Lwt9iJoJTt8kPTZ-gdqUjaWOm1tVY9bxA7y9l4x
+#EXTINF:0 tvg-id="ch3704" tvg-name="TEAM StarWars HD"  tvg-logo="https://tvtm.one/images/chIcons/3704.png"  timeshift="6", TEAM StarWars HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3704/index.m3u8?token=rimar88.v2_SSdB9rqQ78yZEdsdKYrgzAfDjbqysDhWEA6A2MeGEGYzh9r2TyMMws_u8zUNfjhggnZInCgMxqSL
+#EXTINF:0 tvg-id="ch2154" tvg-name="TEAM Bollywood HD"  tvg-logo="https://tvtm.one/images/chIcons/2154.png"  timeshift="6", TEAM Bollywood HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch2154/index.m3u8?token=rimar88.v2_9IvI7JjsSzvEpduHIhQzUcEmH73_1B7wXIyusqi3dIbWlVeKyDrp2v9_n_wLDImaYSg5IxTXxr56
+#EXTINF:0 tvg-id="ch3835" tvg-name="TEAM Darkverse HD"  tvg-logo="https://tvtm.one/images/chIcons/3835.png"  timeshift="6", TEAM Darkverse HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3835/index.m3u8?token=rimar88.v2_TGFY-yDMIHr42PwJ-TG7nGTfqh-7x3qw-rxbDOGWkERocs-U41nZzAjlfN_2L_qJ5-a0V6bOrv_2
+#EXTINF:0 tvg-id="ch3853" tvg-name="TEAM Mystix HD"  tvg-logo="https://tvtm.one/images/chIcons/3853.png"  timeshift="7", TEAM Mystix HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3853/index.m3u8?token=rimar88.v2_58DSbyt0Ds6VTDwnvRsItVCcsqKV4oB1UNCqETC94AR-Q8zxgoDFB6xOcXJQTFaDptk09PS9wBME
+#EXTINF:0 tvg-id="ch3850" tvg-name="TEAM Back 90s HD"  tvg-logo="https://tvtm.one/images/chIcons/3850.png"  timeshift="6", TEAM Back 90s HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3850/index.m3u8?token=rimar88.v2_3VPcrx0KmBKb0hbNxagTv0MYsxGH0l5G51JYtyGEjNeU_I-Y6IWbklbecYldzWqJnVnrI0dKcWIv
+#EXTINF:0 tvg-id="ch3852" tvg-name="TEAM Crime24 HD"  tvg-logo="https://tvtm.one/images/chIcons/3852.png"  timeshift="7", TEAM Crime24 HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3852/index.m3u8?token=rimar88.v2_g7nAtefSZ82kWnN3EGPcvcAlATZnDP_wa-TRVN4YHlBniio3nblNYYFG_ahgp9PLeuC_Is8CKT_q
+#EXTINF:0 tvg-id="ch3854" tvg-name="TEAM ClinicX HD"  tvg-logo="https://tvtm.one/images/chIcons/3854.png"  timeshift="7", TEAM ClinicX HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3854/index.m3u8?token=rimar88.v2_0ZllivTCJLh6iCCuM0RC8fCKGbN5OMs1-bVBDCQfX6WfvDNeTlxvk585lMMQamx-6CvRa6SJs_2s
+#EXTINF:0 tvg-id="ch3870" tvg-name="TEAM MedikTV HD"  tvg-logo="https://tvtm.one/images/chIcons/3870.png"  timeshift="7", TEAM MedikTV HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3870/index.m3u8?token=rimar88.v2_As4blPSfs6kBIRWMpziHx8vt-2MKINA_s7LiW4oDvskQuLlyMZXGp3Dwp94Fqi_gICcmz3mucbee
+#EXTINF:0 tvg-id="ch3851" tvg-name="TEAM Friendshow HD"  tvg-logo="https://tvtm.one/images/chIcons/3851.png"  timeshift="7", TEAM Friendshow HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3851/index.m3u8?token=rimar88.v2_3bmEs0P1XEgIu7V0SiuSPtu79J96837PWhnfXy0e8STzm2N_or1AIGSRhzfs2SeTgNO9llXceXiL
+#EXTINF:0 tvg-id="ch3874" tvg-name="TEAM Marvel HD"  tvg-logo="https://tvtm.one/images/chIcons/3874.png"  timeshift="7", TEAM Marvel HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3874/index.m3u8?token=rimar88.v2_8Xvj9MvIyg2PNGeron2UC-ON-E9osA-ijRih32kY3IQEQOZiOdPQN9B5uIP7z7uSccNkuOQTtXPq
+#EXTINF:0 tvg-id="ch3383" tvg-name="TEAM NextGen HD"  tvg-logo="https://tvtm.one/images/chIcons/3383.png"  timeshift="6", TEAM NextGen HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3383/index.m3u8?token=rimar88.v2_wEHcxb0n-x9dqahaV7p0VcBWPoQzecyNIIReMEA0Ay9wD0Pbq6notUer3xGWxa0v81s8stvC4Yxc
+#EXTINF:0 tvg-id="ch3384" tvg-name="TEAM Эпоха 60 HD"  tvg-logo="https://tvtm.one/images/chIcons/3384.png"  timeshift="4", TEAM Эпоха 60 HD
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3384/index.m3u8?token=rimar88.v2_9c5nGtfpVT0PXwUVV5X9fk6UQkE1e1srzcDJxNQD8kIbxOmFYoAHIu_ahu0uQMoxS0_mfV-SYadv
+#EXTINF:0 tvg-id="ch3392" tvg-name="TEAM След"  tvg-logo="https://tvtm.one/images/chIcons/3392.png"  timeshift="5", TEAM След
+#EXTGRP:GRAND PLUS | TEAM TV
+https://15.tvtm.one/ch3392/index.m3u8?token=rimar88.v2_77z4kHPEyOqmg6K6etGzA8K20JjgqmWAS65BkxJlvnEJhDcHE5aqiGDE_kAjAhKvR_7Tef2OqvJw
+
+#EXTINF:0 tvg-id="ch769" tvg-name="BCU Action HD"  tvg-logo="https://tvtm.one/images/chIcons/769.png"  timeshift="3", BCU Action HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch769/index.m3u8?token=rimar88.v2_TvES-OiPiWdaEgbLe1gnXPd7scDTc1BWfziuO0S5ABK96xjNCF-ZKRk9xD_TAyMV_u8GC3CvQkc
+#EXTINF:0 tvg-id="ch770" tvg-name="BCU Catastrophe HD"  tvg-logo="https://tvtm.one/images/chIcons/770.png"  timeshift="3", BCU Catastrophe HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch770/index.m3u8?token=rimar88.v2_v0lV6mpDHMaMpGwsJdg0oyDWj9UdjYPqth0GSYvKJKbMhOsSGwTtrcVSwf42FUHXqVU6Ro15MiE
+#EXTINF:0 tvg-id="ch771" tvg-name="BCU Cinema HD"  tvg-logo="https://tvtm.one/images/chIcons/771.png"  timeshift="3", BCU Cinema HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch771/index.m3u8?token=rimar88.v2_WRAvevnayx-OZsR6GU00Z4It2UMtRrltKNA40cIg0DwbXhKocSHLVgtOFtefni30iRPZ1bETxuw
+#EXTINF:0 tvg-id="ch834" tvg-name="BCU Cinema+ HD"  tvg-logo="https://tvtm.one/images/chIcons/834.png"  timeshift="3", BCU Cinema+ HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch834/index.m3u8?token=rimar88.v2_pJnelbnhWgOozVP_siMKrP8UwO8EPUP8fQIxrHiApDO1_WOc6XkwzTSQmOsFWSvEr_nZXiondx0
+#EXTINF:0 tvg-id="ch1000" tvg-name="BCU Comedy HD"  tvg-logo="https://tvtm.one/images/chIcons/1000.png"  timeshift="3", BCU Comedy HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch1000/index.m3u8?token=rimar88.v2_iL2ZhFiNDhUG8LqcfbNp2U79S1zGCblGNBLZa3MNJAcAZDm2fL7Gp34hnSiDOTRxNsNTbGeBs10a
+#EXTINF:0 tvg-id="ch773" tvg-name="BCU Fantastic HD"  tvg-logo="https://tvtm.one/images/chIcons/773.png"  timeshift="3", BCU Fantastic HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch773/index.m3u8?token=rimar88.v2_kwGWbyr5K2cY2TP9FqORJmUWi9ZiumLC6NAX9Axv9kv--m0hDIUxMA1IauIj7XwNUJmboqmIAiY
+#EXTINF:0 tvg-id="ch774" tvg-name="BCU Filmystic HD"  tvg-logo="https://tvtm.one/images/chIcons/774.png"  timeshift="3", BCU Filmystic HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch774/index.m3u8?token=rimar88.v2_Xl15F-n2EMoZ3S30LqCBB9zq7Q5E_cqnLmYrlzDAV3g3seXiJpHhyjcbRoSn1R6-HbmIkgJPVBU
+#EXTINF:0 tvg-id="ch776" tvg-name="BCU Kinorating HD"  tvg-logo="https://tvtm.one/images/chIcons/776.png"  timeshift="3", BCU Kinorating HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch776/index.m3u8?token=rimar88.v2_w7_22wqKEXsv4h8HG8tUVSNjVv1NZTwSMAeCFIPzHlOqmiIaTz_lZtqnPlk3Rukaz35_IXRzHm0
+#EXTINF:0 tvg-id="ch311" tvg-name="BCU Marvel HD"  tvg-logo="https://tvtm.one/images/chIcons/311.png"  timeshift="3", BCU Marvel HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch311/index.m3u8?token=rimar88.v2_9xVuiJM0TC51Pz9FC6Yn_gubTBYpXM4wJOUsnquqb3r5XUuanLUQoMqR3PAlMQox647-ZVqTax4
+#EXTINF:0 tvg-id="ch835" tvg-name="BCU Stars HD"  tvg-logo="https://tvtm.one/images/chIcons/835.png"  timeshift="3", BCU Stars HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch835/index.m3u8?token=rimar88.v2_g8Pme47bSnMZXvR0gDoZqNpMpaaKI7V-iVc5a3BRZx73p7Tl5OPzSriB7YlGoufLOTRfoVTJbs8
+#EXTINF:0 tvg-id="ch785" tvg-name="BCU Reality HD"  tvg-logo="https://tvtm.one/images/chIcons/785.png"  timeshift="3", BCU Reality HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch785/index.m3u8?token=rimar88.v2_SqZzbdpmV2RCqQjEBQrnTfX9VCqQKsQGz2TfA5dgqcwnc9kujjSGlKa1vAHOGRhxFSxaToMnFBs
+#EXTINF:0 tvg-id="ch2743" tvg-name="BCU Reality OLD HD"  tvg-logo="https://tvtm.one/images/chIcons/2743.png"  timeshift="3", BCU Reality OLD HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch2743/index.m3u8?token=rimar88.v2_MMXvQh1oU8I6Ja0eepmUcZva7dJXa3p2hFWbrVLu-rMy5Uotmbo_FW6y_m4nesooXbSbIWHzrSvT
+#EXTINF:0 tvg-id="ch778" tvg-name="BCU Premiere HD"  tvg-logo="https://tvtm.one/images/chIcons/778.png"  timeshift="3", BCU Premiere HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch778/index.m3u8?token=rimar88.v2_pTt4VHzJKf7rJ8Dky8oG9aGspk0LBS0qAxk52SL-HagHBFhNGeZ8qb2_Sag-9JKggy21CFLFJkQ
+#EXTINF:0 tvg-id="ch782" tvg-name="BCU Premiere 1 HD"  tvg-logo="https://tvtm.one/images/chIcons/782.png"  timeshift="3", BCU Premiere 1 HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch782/index.m3u8?token=rimar88.v2_q9UIhNMsIPVKkARnydQuEDI_av22RqF2THAn9hz1F0NijQQLnRE0cVV1IKk1hrR4Zp1FaH1H9Bs
+#EXTINF:0 tvg-id="ch783" tvg-name="BCU Premiere 2 HD"  tvg-logo="https://tvtm.one/images/chIcons/783.png"  timeshift="3", BCU Premiere 2 HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch783/index.m3u8?token=rimar88.v2_nDAcy9SinL_UyamT3Asco0v4T0RiZbSAAXziM3VuecL6fleQdbme8HiQ51YMaM2dXayy2AZaEjk
+#EXTINF:0 tvg-id="ch784" tvg-name="BCU Premiere 3 HD"  tvg-logo="https://tvtm.one/images/chIcons/784.png"  timeshift="3", BCU Premiere 3 HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch784/index.m3u8?token=rimar88.v2_JGJLeFSwufm0Ck60dUEDmoxpLr3iNz4vbS0uFShCtFOsro0dJfRbttbtrG0cP5th7Z5nAtt2_ew
+#EXTINF:0 tvg-id="ch779" tvg-name="BCU Romantic HD"  tvg-logo="https://tvtm.one/images/chIcons/779.png"  timeshift="3", BCU Romantic HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch779/index.m3u8?token=rimar88.v2_b_ZIoBi6Wz7hU856jvQMLnMSziz8wEnjo1DeejekGCVD6RLYnWVrgRsYjSijgJHojJqYHKqDxEI
+#EXTINF:0 tvg-id="ch1545" tvg-name="BCU Romantic OLD"  tvg-logo="https://tvtm.one/images/chIcons/1545.png"  timeshift="3", BCU Romantic OLD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch1545/index.m3u8?token=rimar88.v2_D-xl2kk348cVez8P5BjONvXY980EKH2IgHqMfr6x18PDUH0V6F4-N6ii4NbVuwh1N1IhtWEO-X14
+#EXTINF:0 tvg-id="ch775" tvg-name="BCU History HD"  tvg-logo="https://tvtm.one/images/chIcons/775.png"  timeshift="3", BCU History HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch775/index.m3u8?token=rimar88.v2_ya94RsdPMlaYIfWbxHyfdp1OZAZkwr6-ZYfCJmUgb160-AoUdSEJHljqk43A_h9Hse-hZr6YSww
+#EXTINF:0 tvg-id="ch780" tvg-name="BCU Russian HD"  tvg-logo="https://tvtm.one/images/chIcons/780.png"  timeshift="3", BCU Russian HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch780/index.m3u8?token=rimar88.v2_Pf92U4RPdT4w0Axmc0STAU6f0N3HO3vTbkp5JM9R2DjJxTzx-dKSBlza-zKoT1rPNp232nBEIpQ
+#EXTINF:0 tvg-id="ch2744" tvg-name="BCU Russia 90s HD"  tvg-logo="https://tvtm.one/images/chIcons/2744.png"  timeshift="3", BCU Russia 90s HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch2744/index.m3u8?token=rimar88.v2_xBXQjweKdZnrXhZ67f1UAzWHqwD5OpCRt6sQLyB8nXxYUcrU8zKsZCHtDE4EFjzEiYb8mBaYUuLS
+#EXTINF:0 tvg-id="ch781" tvg-name="BCU VHS HD"  tvg-logo="https://tvtm.one/images/chIcons/781.png"  timeshift="3", BCU VHS HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch781/index.m3u8?token=rimar88.v2_psHdnxlFQYJGDopg0YyqHUviez6XKLmtDLGYGdvlJBbvkFZCHF_GXyD8jsW90xG4WGMApHQCzFM
+#EXTINF:0 tvg-id="ch788" tvg-name="BCU RUSerial HD"  tvg-logo="https://tvtm.one/images/chIcons/788.png"  timeshift="3", BCU RUSerial HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch788/index.m3u8?token=rimar88.v2_XuZ4VdItKhfOYDLCB390kOPSk5rOVKQb2DIu3pCIZu9AoLPV1j-ekpvZeDouTBfcNHun6vSBhhg
+#EXTINF:0 tvg-id="ch789" tvg-name="BCU СССР HD"  tvg-logo="https://tvtm.one/images/chIcons/789.png"  timeshift="3", BCU СССР HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch789/index.m3u8?token=rimar88.v2_4w231EPykfTSUT1pRxDfDrA-Z6uKz-DxKa-ouAPwzRSUNfy_vUOVw569DOAIUsye51yyI97qC20
+#EXTINF:0 tvg-id="ch790" tvg-name="BCU Media HD"  tvg-logo="https://tvtm.one/images/chIcons/790.png"  timeshift="3", BCU Media HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch790/index.m3u8?token=rimar88.v2_LP4sDulCfIoA5gZpUwN5rjmGjylgsESu0ksYHobWjmZlP8fltQJZr-wWp_S-mUSWXtb3bFXnX2M
+#EXTINF:0 tvg-id="ch590" tvg-name="BCU Media OLD"  tvg-logo="https://tvtm.one/images/chIcons/590.png"  timeshift="3", BCU Media OLD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch590/index.m3u8?token=rimar88.v2_r-OaM0m_XQW2UfddEQzBbNHHZ3-UjxQsLIJwMk7hm4imvE2bQMiOEodChUza-0PQEfbsC0VieqQ
+#EXTINF:0 tvg-id="ch1026" tvg-name="BCU Cosmo HD"  tvg-logo="https://tvtm.one/images/chIcons/1026.png"  timeshift="3", BCU Cosmo HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch1026/index.m3u8?token=rimar88.v2_7057LrMqRJSpZXhQKBrONg0Jb-UjzjK3VrzmYLlhCAL-sk1VpMym52WJmD5TrfK6zPTMolt1E1mL
+#EXTINF:0 tvg-id="ch1429" tvg-name="BCU TruMotion HD"  tvg-logo="https://tvtm.one/images/chIcons/1429.png"  timeshift="3", BCU TruMotion HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch1429/index.m3u8?token=rimar88.v2_kSE18t-Y8Tagan7StWcgTasBdUB9RWRnm8_FU84fxAB8O8LbMzrIltNmeoTy84K6HkQTqDP-zRRc
+#EXTINF:0 tvg-id="ch145" tvg-name="BCU Сваты HD"  tvg-logo="https://tvtm.one/images/chIcons/145.png"  timeshift="3", BCU Сваты HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch145/index.m3u8?token=rimar88.v2_Iwe0TBpyHVYaOsRfzU2zVdS7zCIMIyqryGVtJesQz91s85td8QZWGd_nf-qcsVHjJcqPA4q1f48
+#EXTINF:0 tvg-id="ch827" tvg-name="BCU Criminal HD"  tvg-logo="https://tvtm.one/images/chIcons/827.png"  timeshift="3", BCU Criminal HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch827/index.m3u8?token=rimar88.v2_yCDkBJ8lGAubal6CZxdcPhHs1hGFjZ5DpKGS3CPWJa2mMdanZpX3To1R5ZFMcv3EgmLteXrUhwQ
+#EXTINF:0 tvg-id="ch1444" tvg-name="BCU Survival HD"  tvg-logo="https://tvtm.one/images/chIcons/1444.png"  timeshift="3", BCU Survival HD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch1444/index.m3u8?token=rimar88.v2_-wU1yVkZBEKLcH6luVzmBhith0r0jv3v53a2yjPFLQwR63fKbCwufW0DhyKOgJxmALrMsqQPN-U6
+#EXTINF:0 tvg-id="ch1445" tvg-name="BCU Survival OLD"  tvg-logo="https://tvtm.one/images/chIcons/1445.png"  timeshift="3", BCU Survival OLD
+#EXTGRP:GRAND PLUS | BCU
+https://15.tvtm.one/ch1445/index.m3u8?token=rimar88.v2_P-K39uBOV44sC6OPlSiRZxjLNB38u3PFpGCdTTSpcCjmgAtWA6z6_Pw_LQKYbKBzFwPo1It8AkWR
 
 
 
@@ -4274,8 +4800,8 @@ https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL", BLACK UA
-http://saveukraine.1ce.xyz/9011/video.m3u8?token=99jkYSXX7E
+#EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL", BOX RU.RAP
+https://15.tvtm.one/ch2459/index.m3u8?token=rimar88.v2_lP__77Z8OwYdKhqyw8p4ytX0MfkgWYNI4W1pvo2Cymt1pXzJkTLxU6WlFslDr1NGhSLYBYKeTTss
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",YO! MTV
 http://saveukraine.1ce.xyz/9371/video.m3u8?token=99jkYSXX7E
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV OLD
@@ -4283,15 +4809,15 @@ http://saveukraine.1ce.xyz/8764/video.m3u8?token=99jkYSXX7E
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV IDOL
 http://saveukraine.1ce.xyz/10039/video.m3u8?token=99jkYSXX7E
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV IDOL
-http://ru3.tvtm.one/ch2752/mono.m3u8?token=ruslan40.v2_bulmYyOmC63CJegbjncNTLikzLJVvR1UYoFRM7EMj1_Sb-VSW_98BFi114Lc7eIfPiZqSOaAKeq-_g
+https://15.tvtm.one/ch2752/index.m3u8?token=rimar88.v2_MEFb8HW4j0NyOPDPQR8cY43QAg-AAQF1NkF1lT8XMXGc0PzkfIEOV0QTPUva_-vpvKvg7Mmw_LNu
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV PULSE 
 http://saveukraine.1ce.xyz/10040/video.m3u8?token=99jkYSXX7E
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV PULSE
-http://ru3.tvtm.one/ch2758/mono.m3u8?token=ruslan40.v2_UV9uZhBvnVYCnj975NWzyNS58MRSFzshWDPvpFYfQyms60KSL5IuOVufUNJ9OTEX6k8rqkCoHoVLlQ
+https://15.tvtm.one/ch2758/index.m3u8?token=rimar88.v2_bpDj4Se-Jdpaay8v8NrlNHpLmDCEwxETgUY1qkbAoRuOnlEi3eqSkrI2Xmhrb8w7L6t5XaURJnSG
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV BASE 
 http://saveukraine.1ce.xyz/10041/video.m3u8?token=99jkYSXX7E
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV BASE
-http://ru3.tvtm.one/ch2766/mono.m3u8?token=ruslan40.v2_odtWaYp5U5dzojtW7YEa7jSZXblKNVKKpZm2tvGBS9rfiMWtA5xvWrSOr-69PMtqBzhf8Q52JPRgrA
+https://15.tvtm.one/ch2766/index.m3u8?token=rimar88.v2_4KhJi0B00uBvlJ7M8kPFvNwWf5X-TCmetbKepEyGNJPLnMqofMe6K0G0akqJ4hojgktkCeVyKLeE
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV MOVIE HITS 
 https://jmp2.uk/plu-6331a4df44111b00076b15f7.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | MTV CHANNEL",MTV CLASSICS
