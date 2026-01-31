@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/01/30 20:41}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/01/31 18:53}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/PLUSGRANDNAV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -12,6 +12,700 @@ http://sc4.gergosnet.com/pulstranceHD.mp3
 
 
 
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineMan.png",CineMan
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/682/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-premium" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman_premium.png",CineMan Premium
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/1664/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-top" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManTOP.png",CineMan Top
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/683/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-action" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManAction.png",CineMan Action
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/689/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-marvel" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManMARVEL.png",CineMan Marvel
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/688/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-melodrama" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManMelodrama.png",CineMan Melodrama
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/690/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-comedy" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManComedy.png",CineMan Комедия
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/691/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-thriller" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManThiller.png",CineMan Thriller
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/686/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-katastrofy" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-katastrofy.png",CineMan Катастрофы
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/693/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-uzhasy" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManUzhasy.png",CineMan Ужасы
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/692/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-vhs" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManVHS.png",CineMan VHS
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/685/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-skorpom" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-skorpom.png",CineMan Скорая помощь
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/694/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-miniseries" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManMiniSeries.png",CineMan MiniSeries
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/1662/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-musw" tvg-logo="http://cdn.server-iptv.live/logo/tv/Cineman-MW.png",CineMan Ментовские Войны
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/1657/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-gluhar" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-gluhar.png",CineMan Глухарь + Карпов
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/1672/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-pes" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineMan-Pes.png",CineMan ПёС
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/1658/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-lesnik" tvg-logo="http://cdn.server-iptv.live/logo/tv/Cineman-Forester.png",CineMan Лесник
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/1659/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-aircrash" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-aircrash.png",CineMan Air Crash
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/419/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | CINEMAN"  tvg-id="cineman-sssr-fhd" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-sssr-fhd.png",CineMan CCCP FHD
+#EXTGRP:GRAND PLUS | CINEMAN
+http://ott.server-iptv.live/655/video.m3u8?token=Ceba8e4412
+
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="kinouzhas" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinouzhas-ru.png",Киноужас HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/642/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="vip-premiere" tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-premiere-se.png",Viju+ Premiere HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/605/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="tv1000-action" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_action.png",Viju TV1000 Action
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/623/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="vip-megahit" tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-megahit-se.png",Viju+ Megahit HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/606/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="vip-comedy" tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-comedy-se.png",Viju+ Comedy HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/607/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="tv1000-cee" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv1000-cee.png",Viasat Kino HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/618/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="tv1000" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_east.png",Viju TV1000
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/622/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="vip-serial" tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-serial.png",Viju+ Serial HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/636/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="premialnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/premialnoe-ru.png",Премиальное HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/612/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="khit" tvg-logo="http://cdn.server-iptv.live/logo/tv/hit-ru.png",Хит HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/665/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="ostrosiuzhetnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/ostrosyuzhetnoye-ru.png",Остросюжетное HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/604/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="blokbaster" tvg-logo="http://cdn.server-iptv.live/logo/tv/blokbaster-ru.png",Блокбастер HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/668/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="kamedi" tvg-logo="http://cdn.server-iptv.live/logo/tv/kamedi.png",Камеди HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/676/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="komedijnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/komediynoe-ru.png",Комедийное HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/617/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="russkaya-komedia" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkaya_komediya_ru.png",Комедия
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/671/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="shokiruyushchee-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/shokiruyushchee-hd.png",Шокирующее HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/1661/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="trashtv" tvg-logo="http://cdn.server-iptv.live/logo/tv/trashtv.png",Trash HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/674/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="nst" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastoyashee_strashnoe_tv_ru.png",НСТ
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/660/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="russky-roman" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_roman_ru.png",Русский роман
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/629/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="pro-lyubov" tvg-logo="http://cdn.server-iptv.live/logo/tv/pro-lyubov.png",Про Любовь HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/667/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="romantichnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/romantichnoe-ru.png",Романтичное HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/1660/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="dushevnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/dushevnoe-hd.png",Душевное кино HD
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/697/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="shot-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/shot-tv-ru.png",Shot TV
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/657/video.m3u8?token=Ceba8e4412
+#EXTINF:0 group-title="GRAND PLUS | PREM KINO"  tvg-id="sapfir" tvg-logo="http://cdn.server-iptv.live/logo/tv/sapfir.png",Сапфир
+#EXTGRP:GRAND PLUS | PREM KINO
+http://ott.server-iptv.live/647/video.m3u8?token=Ceba8e4412
+
+
+
+
+#EXTINF:0,КИНО ТВ
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/600/video.m3u8?token=SB31175290
+#EXTINF:0,КИНОХИТ
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/608/video.m3u8?token=SB31175290
+#EXTINF:0,КИНОМИКС
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/609/video.m3u8?token=SB31175290
+#EXTINF:0,КИНОСЕМЬЯ
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/610/video.m3u8?token=SB31175290
+#EXTINF:0,Кинокомедия
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/654/video.m3u8?token=SB31175290
+#EXTINF:0,КИНОСВИДАНИЕ
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/614/video.m3u8?token=SB31175290
+#EXTINF:0,КИНОПРЕМЬЕРА HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/613/video.m3u8?token=SB31175290
+#EXTINF:0,КиноПремиум HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/612/video.m3u8?token=SB31175290
+#EXTINF:0,КИНОУЖАС
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/642/video.m3u8?token=SB31175290
+#EXTINF:0,Киноман
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/653/video.m3u8?token=SB31175290
+#EXTINF:0,Шокирующее HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1661/video.m3u8?token=SB31175290
+#EXTINF:0,Кинопоказ
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/611/video.m3u8?token=SB31175290
+#EXTINF:0,Киносерия
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/650/video.m3u8?token=SB31175290
+#EXTINF:0,Viju+ Premiere HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/605/video.m3u8?token=SB31175290
+#EXTINF:0,Viju+ Megahit HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/606/video.m3u8?token=SB31175290
+#EXTINF:0,Viju+ Comedy HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/607/video.m3u8?token=SB31175290
+#EXTINF:0,Viju+ Serial
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/636/video.m3u8?token=SB31175290
+#EXTINF:0,Viju TV1000
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/622/video.m3u8?token=SB31175290
+#EXTINF:0,Viju TV1000 Action
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/623/video.m3u8?token=SB31175290
+#EXTINF:0,Viju TV1000 Русское кино
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/621/video.m3u8?token=SB31175290
+#EXTINF:0,Viasat Kino HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/618/video.m3u8?token=SB31175290
+#EXTINF:0,Viasat Kino Action HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1601/video.m3u8?token=SB31175290
+#EXTINF:0,Viasat Kino Comedy HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1605/video.m3u8?token=SB31175290
+#EXTINF:0,Viasat Kino Megahit HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1607/video.m3u8?token=SB31175290
+#EXTINF:0,Viasat Kino World
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1608/video.m3u8?token=SB31175290
+#EXTINF:0,МУЖСКОЕ КИНО
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/633/video.m3u8?token=SB31175290
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/604/video.m3u8?token=SB31175290
+#EXTINF:0,Камеди HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/676/video.m3u8?token=SB31175290
+#EXTINF:0,Комедия
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/671/video.m3u8?token=SB31175290
+#EXTINF:0,Komediynoe
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/617/video.m3u8?token=SB31175290
+#EXTINF:0,Наше крутое
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/616/video.m3u8?token=SB31175290
+#EXTINF:0,Наше новое кино
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/620/video.m3u8?token=SB31175290
+#EXTINF:0,Душевное кино HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/697/video.m3u8?token=SB31175290
+#EXTINF:0,TV XXI
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/601/video.m3u8?token=SB31175290
+#EXTINF:0,Еврокино
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/602/video.m3u8?token=SB31175290
+#EXTINF:0,Дом Кино
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/635/video.m3u8?token=SB31175290
+#EXTINF:0,Дом Кино Премиум
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/603/video.m3u8?token=SB31175290
+#EXTINF:0,Русский роман
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/629/video.m3u8?token=SB31175290
+#EXTINF:0,Русский бестселлер
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/630/video.m3u8?token=SB31175290
+#EXTINF:0,Русский детектив
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/679/video.m3u8?token=SB31175290
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/631/video.m3u8?token=SB31175290
+#EXTINF:0,Иллюзион +
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/638/video.m3u8?token=SB31175290
+#EXTINF:0,Победа
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/632/video.m3u8?token=SB31175290
+#EXTINF:0,Ретро
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/658/video.m3u8?token=SB31175290
+#EXTINF:0,Патриот
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/652/video.m3u8?token=SB31175290
+#EXTINF:0,Родное кино
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/678/video.m3u8?token=SB31175290
+#EXTINF:0,РТВ Любимое кино
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/619/video.m3u8?token=SB31175290
+#EXTINF:0,Мосфильм. Золотая Коллекция
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/659/video.m3u8?token=SB31175290
+#EXTINF:0,Феникс+ Кино
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/680/video.m3u8?token=SB31175290
+#EXTINF:0,Мир Сериала
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/627/video.m3u8?token=SB31175290
+#EXTINF:0,НТВ Хит
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1670/video.m3u8?token=SB31175290
+#EXTINF:0,НТВ Сериал
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/661/video.m3u8?token=SB31175290
+#EXTINF:0,НТВ Право
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/662/video.m3u8?token=SB31175290
+#EXTINF:0,НТВ Стиль
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/663/video.m3u8?token=SB31175290
+#EXTINF:0,Кино 24
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1671/video.m3u8?token=SB31175290
+#EXTINF:0,Наш кинопоказ HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/666/video.m3u8?token=SB31175290
+#EXTINF:0,Про любовь HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/667/video.m3u8?token=SB31175290
+#EXTINF:0,Блокбастер HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/668/video.m3u8?token=SB31175290
+#EXTINF:0,Романтичное HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1660/video.m3u8?token=SB31175290
+#EXTINF:0,Romance
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/675/video.m3u8?token=SB31175290
+#EXTINF:0,Арсенал HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/664/video.m3u8?token=SB31175290
+#EXTINF:0,Хит HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/665/video.m3u8?token=SB31175290
+#EXTINF:0,Hollywood
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/634/video.m3u8?token=SB31175290
+#EXTINF:0,Hollywood HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/669/video.m3u8?token=SB31175290
+#EXTINF:0,VHS-ка HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/615/video.m3u8?token=SB31175290
+#EXTINF:0,Cinema
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/628/video.m3u8?token=SB31175290
+#EXTINF:0,Bolt
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/637/video.m3u8?token=SB31175290
+#EXTINF:0,Comedy Central
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/645/video.m3u8?token=SB31175290
+#EXTINF:0,.sci-Fi
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/648/video.m3u8?token=SB31175290
+#EXTINF:0,.red
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/695/video.m3u8?token=SB31175290
+#EXTINF:0,.black
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/649/video.m3u8?token=SB31175290
+#EXTINF:0,Fox
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/626/video.m3u8?token=SB31175290
+#EXTINF:0,Fox Life
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/646/video.m3u8?token=SB31175290
+#EXTINF:0,Star Cinema
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/643/video.m3u8?token=SB31175290
+#EXTINF:0,Star Family
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/673/video.m3u8?token=SB31175290
+#EXTINF:0,Amedia Premium
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/624/video.m3u8?token=SB31175290
+#EXTINF:0,Amedia Hit
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/625/video.m3u8?token=SB31175290
+#EXTINF:0,A1
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/640/video.m3u8?token=SB31175290
+#EXTINF:0,A2
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/641/video.m3u8?token=SB31175290
+#EXTINF:0,Кинеко
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/639/video.m3u8?token=SB31175290
+#EXTINF:0,Сапфир
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/647/video.m3u8?token=SB31175290
+#EXTINF:0,Bollywood HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/644/video.m3u8?token=SB31175290
+#EXTINF:0,Индийское кино
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/651/video.m3u8?token=SB31175290
+#EXTINF:0,Kinoliving
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1663/video.m3u8?token=SB31175290
+#EXTINF:0,Kinowood
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1610/video.m3u8?token=SB31175290
+#EXTINF:0,SHOT TV
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/657/video.m3u8?token=SB31175290
+#EXTINF:0,Trash HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/674/video.m3u8?token=SB31175290
+#EXTINF:0,НСТ
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/660/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Premium
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1664/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/682/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Top
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/683/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan VHS
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/685/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Thriller
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/686/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan РуКино
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/687/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan CCCP FHD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/655/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Marvel
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/688/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Action
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/689/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Melodrama
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/690/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Комедия
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/691/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Ужасы
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/692/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Катастрофы
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/693/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Сваты
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/684/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan ПёС + ЛИХАЧ
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1658/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Лесник
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1659/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Скорая помощь (ER)
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/694/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Ментовские войны
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1657/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Криминальные Сериалы
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1672/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Комедийные Сериалы
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1604/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan Военные Сериалы
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1609/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan MiniSeries
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1662/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan OLD 4K
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1603/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan CCCP 4K
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1602/video.m3u8?token=SB31175290
+#EXTINF:0,KLI СССР HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1600/video.m3u8?token=SB31175290
+#EXTINF:0,BCU Сваты HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1624/video.m3u8?token=SB31175290
+#EXTINF:0,BCU Fantastic HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1606/video.m3u8?token=SB31175290
+#EXTINF:0,BCU Marvel HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1612/video.m3u8?token=SB31175290
+#EXTINF:0,BCU Russian HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1617/video.m3u8?token=SB31175290
+#EXTINF:0,BCU Romantic HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1616/video.m3u8?token=SB31175290
+#EXTINF:0,BCU Stars HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1618/video.m3u8?token=SB31175290
+#EXTINF:0,BCU VHS HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1620/video.m3u8?token=SB31175290
+#EXTINF:0,BCU Kinorating HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1613/video.m3u8?token=SB31175290
+#EXTINF:0,BCU Premiere HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1614/video.m3u8?token=SB31175290
+#EXTINF:0,BCU Premiere 1 HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1619/video.m3u8?token=SB31175290
+#EXTINF:0,BCU Premiere 2 HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1622/video.m3u8?token=SB31175290
+#EXTINF:0,BCU Premiere 3 HD
+#EXTGRP:GRAND PLUS | KINO TEST
+http://ip1.orgip.net/1623/video.m3u8?token=SB31175290
+
+
+
+
+
+#EXTINF:0,Bridge TV
+#EXTGRP:GRAND PLUS | BRIDGE MEDIA
+http://ip1.orgip.net/452/video.m3u8?token=SB31175290
+#EXTINF:0,Bridge Deluxe
+#EXTGRP:GRAND PLUS | BRIDGE MEDIA
+http://ip1.orgip.net/466/video.m3u8?token=SB31175290
+#EXTINF:0,Bridge TV Hits
+#EXTGRP:GRAND PLUS | BRIDGE MEDIA
+http://ip1.orgip.net/461/video.m3u8?token=SB31175290
+#EXTINF:0,Bridge TV ФРЭШ
+#EXTGRP:GRAND PLUS | BRIDGE MEDIA
+http://ip1.orgip.net/464/video.m3u8?token=SB31175290
+#EXTINF:0,Bridge TV Русский Хит
+#EXTGRP:GRAND PLUS | BRIDGE MEDIA
+http://ip1.orgip.net/468/video.m3u8?token=SB31175290
+#EXTINF:0,Bridge Шлягер
+#EXTGRP:GRAND PLUS | BRIDGE MEDIA
+http://ip1.orgip.net/467/video.m3u8?token=SB31175290
+#EXTINF:0,Bridge TV Classic
+#EXTGRP:GRAND PLUS | BRIDGE MEDIA
+http://ip1.orgip.net/462/video.m3u8?token=SB31175290
+#EXTINF:0,Bridge Rock
+#EXTGRP:GRAND PLUS | BRIDGE MEDIA
+http://ip1.orgip.net/457/video.m3u8?token=SB31175290
+#EXTINF:0,Bridge Ethno
+#EXTGRP:GRAND PLUS | BRIDGE MEDIA
+http://ip1.orgip.net/473/video.m3u8?token=SB31175290
+
+
+
+#EXTINF:0,Первый канал -1
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/137/video.m3u8?token=SB31175290
+#EXTINF:0,Первый канал +2
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/180/video.m3u8?token=SB31175290
+#EXTINF:0,Первый канал +4
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/181/video.m3u8?token=SB31175290
+#EXTINF:0,Первый канал +6
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/192/video.m3u8?token=SB31175290
+#EXTINF:0,Первый канал +9
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/159/video.m3u8?token=SB31175290
+#EXTINF:0,Россия 1 -1
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/138/video.m3u8?token=SB31175290
+#EXTINF:0,Россия 1 +2
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/182/video.m3u8?token=SB31175290
+#EXTINF:0,Россия 1 +4
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/183/video.m3u8?token=SB31175290
+#EXTINF:0,Россия 1 +6
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/194/video.m3u8?token=SB31175290
+#EXTINF:0,Россия 1 +9
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/160/video.m3u8?token=SB31175290
+#EXTINF:0,НТВ -1
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/139/video.m3u8?token=SB31175290
+#EXTINF:0,НТВ +2
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/184/video.m3u8?token=SB31175290
+#EXTINF:0,НТВ +4
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/185/video.m3u8?token=SB31175290
+#EXTINF:0,НТВ +7
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/161/video.m3u8?token=SB31175290
+#EXTINF:0,ТНТ +2
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/186/video.m3u8?token=SB31175290
+#EXTINF:0,ТНТ +4
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/174/video.m3u8?token=SB31175290
+#EXTINF:0,ТНТ +7
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/197/video.m3u8?token=SB31175290
+#EXTINF:0,Пятый Канал +2
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/187/video.m3u8?token=SB31175290
+#EXTINF:0,Пятый Канал +4
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/171/video.m3u8?token=SB31175290
+#EXTINF:0,Пятый Канал +7
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/177/video.m3u8?token=SB31175290
+#EXTINF:0,РЕН ТВ +2
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/188/video.m3u8?token=SB31175290
+#EXTINF:0,РЕН ТВ +4
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/193/video.m3u8?token=SB31175290
+#EXTINF:0,РЕН ТВ +7
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/166/video.m3u8?token=SB31175290
+#EXTINF:0,СТС +2
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/189/video.m3u8?token=SB31175290
+#EXTINF:0,СТС +4
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/164/video.m3u8?token=SB31175290
+#EXTINF:0,СТС +6
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/190/video.m3u8?token=SB31175290
+#EXTINF:0,Звезда +2
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/191/video.m3u8?token=SB31175290
+#EXTINF:0,Звезда +4
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/167/video.m3u8?token=SB31175290
+#EXTINF:0,Звезда +6
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/198/video.m3u8?token=SB31175290
+#EXTINF:0,Домашний +2
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/179/video.m3u8?token=SB31175290
+#EXTINF:0,Домашний +4
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/168/video.m3u8?token=SB31175290
+#EXTINF:0,Домашний +6
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/173/video.m3u8?token=SB31175290
+#EXTINF:0,ТВЦ +2
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/176/video.m3u8?token=SB31175290
+#EXTINF:0,ТВЦ +4
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/199/video.m3u8?token=SB31175290
+#EXTINF:0,ТВЦ +7
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/155/video.m3u8?token=SB31175290
+#EXTINF:0,Че +2
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/172/video.m3u8?token=SB31175290
+#EXTINF:0,Че +4
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/195/video.m3u8?token=SB31175290
+#EXTINF:0,Че +7
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/162/video.m3u8?token=SB31175290
+#EXTINF:0,ТВ3 +2
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/178/video.m3u8?token=SB31175290
+#EXTINF:0,ТВ3 +4
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/175/video.m3u8?token=SB31175290
+#EXTINF:0,ТВ3 +7
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/156/video.m3u8?token=SB31175290
+#EXTINF:0,Пятница! +2
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/196/video.m3u8?token=SB31175290
+#EXTINF:0,Пятница! +4
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/169/video.m3u8?token=SB31175290
+#EXTINF:0,Пятница! +7
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/163/video.m3u8?token=SB31175290
+#EXTINF:0,Россия К +2
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/170/video.m3u8?token=SB31175290
+#EXTINF:0,Россия К +4
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/165/video.m3u8?token=SB31175290
+#EXTINF:0,Россия К +7
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/153/video.m3u8?token=SB31175290
+#EXTINF:0,ТНТ4 +2
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/158/video.m3u8?token=SB31175290
+#EXTINF:0,ТНТ4 +4
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/157/video.m3u8?token=SB31175290
+#EXTINF:0,ТНТ4 +7
+#EXTGRP:GRAND PLUS | +ЫЕ
+http://ip1.orgip.net/154/video.m3u8?token=SB31175290
 
 
 
@@ -3013,6 +3707,55 @@ http://195.26.83.96:7006/play/1/index.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА", Bridge
 http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Bridge TV
+http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Bridge TV
+http://31.148.48.15:80/Bridge_TV/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Bridge TV
+http://5.188.221.43:8080/play/bridge-tv
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Bridge TV
+http://45.145.32.13:20440/bridge_tv/index.m3u8?token=test
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Bridge TV
+http://62.89.220.15/streams/media/bridge-tv_720x576/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Bridge TV Baby Time
+https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Bridge TV Classic
+http://31.148.48.15:80/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Bridge TV Hits
+http://31.148.48.15:80/Bridge_TV_Dance/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Bridge TV Hits
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Bridge TV Русский Хит
+http://193.25.8.59:8000/rusong
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Bridge TV Шлягер
+http://193.25.8.59:8000/mtv
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Europa Plus
+http://193.25.8.59:8000/vh1
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",MCM Top
+http://45.145.32.13:20440/mcm_top/index.m3u8?token=test
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",FON Music
+http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",FON Music HD
+http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Жара
+http://31.148.48.15:80/Zhara/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Жара
+http://62.89.220.15/streams/media/zhara_720x576/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Muzzone
+https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Музыка Мода
+http://95.47.156.60:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Музыка Первого
+http://193.25.8.59:8000/muzika
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",Музыка Первого
+http://88.135.128.20:8090/muzikapervogo/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",MIXM TV
+http://89.179.247.144/hls/mixm.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",TMF RUS
+https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | МУЗЫКА",VIVA RUSSIA
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pic.rutubelist.ru/video/2024-11-20/12/3e/123e13e18bc324a7cf4937f9f3c2dc95.jpg" group-title="GRAND PLUS | МУЗЫКА",  Ты супер !
 https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
@@ -3615,6 +4358,18 @@ http://95.67.12.82:9069
 
 
 
+#EXTINF:-1 group-title="GRAND PLUS| СПОРТ", Старт
+https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/480p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
+#EXTINF:-1 group-title="GRAND PLUS| СПОРТ", Старт HD
+https://bl.webcaster.pro/media/playlist/api_free_fd14ed34164a52d1090e4cb9db93683f/4_79276517/1080p/d33bbf3e6ac7c41524eae5d1c3d9258d/4873167902.m3u8?live=15&ref=https://tvstart.ru/channels/tv-start/
+#EXTINF:-1 group-title="GRAND PLUS| СПОРТ", Старт Баскет
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/480p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
+#EXTINF:-1 group-title="GRAND PLUS| СПОРТ", Старт Баскет HD
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
+#EXTINF:-1 group-title="GRAND PLUS| СПОРТ", Старт Триумф
+https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/480p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
+#EXTINF:-1 group-title="GRAND PLUS| СПОРТ", Старт Триумф HD
+https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
 
 #EXTINF:-1 group-title="GRAND PLUS| СПОРТ",  TOP Barca
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
@@ -5177,7 +5932,18 @@ http://vensik.kazaktelekom.com/iptv/AL5DDQ6V95N4M8/2235/index.m3u8
 
 
 
-
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Победа
+https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Победа
+http://193.25.8.59:8000/tochka
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Победа
+http://62.89.220.15/streams/media/pobeda_720x576/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Победа
+http://88.135.128.20:8090/pobeda/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",Комедия
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA",FAN
+http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="GRAND PLUS | CINEMA",  Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
@@ -5267,7 +6033,18 @@ https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" group-title="GRAND PLUS | CINEMA", НТВ Сериалы Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Смотрим 100% Детское
+http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Смотрим 100% Классика
+http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Смотрим 100% Любовь
+http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Смотрим 100% Мужское
+http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Смотрим 100% Праздник
+http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Смотрим 100% Факты
+http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA", Любимое Кино
 http://195.158.223.132:8008/Lubimoe_Kino
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA",FX Life HD
@@ -25968,7 +26745,51 @@ https://onlineradiobox.com/json/ru/capricepiano/play?platform=web
 
 
 
-
+#EXTINF:0,Dorcel TV HD
+#EXTGRP:GRAND PLUS 
+http://ip1.orgip.net/701/video.m3u8?token=SB31175290
+#EXTINF:0,Redlight HD
+#EXTGRP:GRAND PLUS 
+http://ip1.orgip.net/702/video.m3u8?token=SB31175290
+#EXTINF:0,Hustler HD Europe
+#EXTGRP:GRAND PLUS 
+http://ip1.orgip.net/714/video.m3u8?token=SB31175290
+#EXTINF:0,Vivid Red
+#EXTGRP:GRAND PLUS 
+http://ip1.orgip.net/709/video.m3u8?token=SB31175290
+#EXTINF:0,Private TV
+#EXTGRP:GRAND PLUS 
+http://ip1.orgip.net/704/video.m3u8?token=SB31175290
+#EXTINF:0,Brazzers TV Europe
+#EXTGRP:GRAND PLUS 
+http://ip1.orgip.net/705/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan ExExEx
+#EXTGRP:GRAND PLUS 
+http://ip1.orgip.net/706/video.m3u8?token=SB31175290
+#EXTINF:0,CineMan ExExEx TWO
+#EXTGRP:GRAND PLUS 
+http://ip1.orgip.net/716/video.m3u8?token=SB31175290
+#EXTINF:0,Penthouse Quickies HD
+#EXTGRP:GRAND PLUS 
+http://ip1.orgip.net/713/video.m3u8?token=SB31175290
+#EXTINF:0,Penthouse Gold HD
+#EXTGRP:GRAND PLUS 
+http://ip1.orgip.net/707/video.m3u8?token=SB31175290
+#EXTINF:0,VIXEN
+#EXTGRP:GRAND PLUS 
+http://ip1.orgip.net/708/video.m3u8?token=SB31175290
+#EXTINF:0,EVILANGEL
+#EXTGRP:GRAND PLUS 
+http://ip1.orgip.net/712/video.m3u8?token=SB31175290
+#EXTINF:0,BLACKED
+#EXTGRP:GRAND PLUS 
+http://ip1.orgip.net/715/video.m3u8?token=SB31175290
+#EXTINF:0,Barely legal
+#EXTGRP:GRAND PLUS 
+http://ip1.orgip.net/711/video.m3u8?token=SB31175290
+#EXTINF:0,Blue Hustler
+#EXTGRP:GRAND PLUS 
+http://ip1.orgip.net/703/video.m3u8?token=SB31175290
 
 
 
