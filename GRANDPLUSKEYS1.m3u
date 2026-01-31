@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/01/31 18:53}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/01/31 21:06}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/PLUSGRANDNAV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -1329,6 +1329,10 @@ https://stream.zeno.fm/64ox9cg1w0quv
 
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/exoXZZNr7cfCILQxTDWsas73-xSYOPVQLG7qPK66L2Q/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYmJhNmZkMDYtYWYxMy00YTQ2LThiYzgtYzM4OWJhYTMyYjY4L2ltYWdlLz91PTE3MzExNzc2NDMwMDA.webp"  group-title="GRAND PLUS| UZBEKISTAN RADIO", M-Estrada FM (UZ)
 https://eastrica.uz:8000/uzb
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4055249/88f3144d-b419-4af8-be72-ae3660a7c546/s600"  group-title="GRAND PLUS| UZBEKISTAN RADIO",  Радио Ориат
+https://live.oriatdono.uz/fm/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4055249/88f3144d-b419-4af8-be72-ae3660a7c546/s600"  group-title="GRAND PLUS| UZBEKISTAN RADIO",  Радио Ориат Доно
+https://live.oriatdono.uz/dono/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4055249/88f3144d-b419-4af8-be72-ae3660a7c546/s600"  group-title="GRAND PLUS| UZBEKISTAN RADIO",  Oriat FM
 http://oriat.mediabay.uz/oriatfm.m3u8
 #EXTINF:-1  group-title="GRAND PLUS| UZBEKISTAN RADIO",Oriat FM orig
@@ -2381,6 +2385,160 @@ https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/
 
 
 
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Россия К
+http://62.89.220.15/streams/media/rossiya-k_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  ТНТ
+http://62.89.220.15/streams/media/tnt-4_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  ТНТ4
+http://62.89.220.15/streams/media/tnt4_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  НТВ ПРАВО
+http://62.89.220.15/streams/media/ntv-pravo_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  НТВ СТИЛЬ
+http://62.89.220.15/streams/media/ntv-stil_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Наше Новое Кино
+http://62.89.220.15/streams/media/nashe-novoe-kino_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Родное кино
+http://62.89.220.15/streams/media/rodnoe-kino_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Победа
+http://62.89.220.15/streams/media/pobeda_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Мир Сериала
+http://62.89.220.15/streams/media/mir-seriala_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Русский Роман
+http://62.89.220.15/streams/media/russkiy-roman_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Русский бестселлер
+http://62.89.220.15/streams/media/russkiy-bestseller_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Русский Детектив
+http://62.89.220.15/streams/media/russkiy-detektiv_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Дом Кино
+http://62.89.220.15/streams/media/dom-kino_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Сарафан
+http://62.89.220.15/streams/media/sarafan_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  КВН ТВ
+http://62.89.220.15/streams/media/kvn-tv_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  ИЗВЕСТИЯ HD
+http://62.89.220.15/streams/media/izvestiya_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Кухня ТВ
+http://62.89.220.15/streams/media/kuhnya-tv_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Совершенно Секретно
+http://62.89.220.15/streams/media/sovershenno-sekretno_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  ТЕАТР
+http://62.89.220.15/streams/media/teatr_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Мир
+http://62.89.220.15/streams/media/mir_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Пятница
+http://62.89.220.15/streams/media/pyatnica_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Кино 24
+http://62.89.220.15/streams/media/kino-24_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Пингвин Лоло
+http://62.89.220.15/streams/media/pingvin_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Ностальгия
+http://62.89.220.15/streams/media/nostalgiya_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Жара
+http://62.89.220.15/streams/media/zhara_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  В гостях у сказки
+http://62.89.220.15/streams/media/v-gostyah-u-skazki_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Уникум
+http://62.89.220.15/streams/media/detskiy_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Детский Мир
+http://62.89.220.15/streams/media/detskiy-mir_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Tiji
+http://62.89.220.15/streams/media/tiji_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Мама
+http://62.89.220.15/streams/media/mama_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Ani
+http://62.89.220.15/streams/media/ani_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Gulli Girl
+http://62.89.220.15/streams/media/gulli-girl_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  СТС Kids
+http://62.89.220.15/streams/media/sts-kids_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Мультимузыка
+http://62.89.220.15/streams/media/multimuzyka_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Bridge TV
+http://62.89.220.15/streams/media/bridge-tv_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Шансон ТВ
+http://62.89.220.15/streams/media/shanson-tv_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  RU.TV
+http://62.89.220.15/streams/media/ru-tv_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Матч! Игра
+http://62.89.220.15/streams/media/match-igra_720x576/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ТТ MOBILE",  Матч! Боец
+http://62.89.220.15/streams/media/match-boec_720x576/index.m3u8
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | SALOM UZ", Россия 24
+https://flussonic.salomtv.uz/ROSSIYA_24/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | SALOM UZ", Дом кино
+https://flussonic.salomtv.uz/domkino/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | SALOM UZ", EURONEWS
+https://flussonic.salomtv.uz/EURONEWS/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | SALOM UZ", Makon TV
+https://flussonic.salomtv.uz/Makon_TV/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | SALOM UZ", Русский детектив
+https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | SALOM UZ", RU.TV
+https://flussonic.salomtv.uz/rutv/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | SALOM UZ", Телекафе
+https://flussonic.salomtv.uz/telekafe/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | SALOM UZ", Звезда
+https://flussonic.salomtv.uz/zvezda/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | SALOM UZ", Fashion TV
+https://flussonic.salomtv.uz/fashiontv/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | SALOM UZ", TV1000 Action
+https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | SALOM UZ", Уникум
+https://flussonic.salomtv.uz/Detskiy/video.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | SALOM UZ", Futbol TV
+https://flussonic.salomtv.uz/FutbolTV/video.m3u8
 
 
 
@@ -2632,7 +2790,11 @@ https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ",  Пятница! International
 
 
+#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", Пятница! International
+http://158.101.222.193:88/georgia_play.php?id=friday
 
+#EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", Пятница
+http://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ",  Пятница! International
 https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ", Пятница! HD
@@ -5932,6 +6094,9 @@ http://vensik.kazaktelekom.com/iptv/AL5DDQ6V95N4M8/2235/index.m3u8
 
 
 
+
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", Русский Роман 
+http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA",Победа
 https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA",Победа
@@ -6158,7 +6323,7 @@ http://87.120.142.11:18000/STSLove
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA", Еврокино
 http://158.101.222.193:88/georgia_play.php?id=eurokino
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA", Еврокино
-http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+http://vod.tuva.ru/eurokino/index.m3u8
 
 
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA", Кино ТВ
@@ -6177,8 +6342,8 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ 
 http://185.164.82.18:9010/ykMHqK_Fox
-
-
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ 
+http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="GRAND PLUS | CINEMA",  Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 
@@ -6201,8 +6366,8 @@ http://158.101.222.193:88/georgia_play.php?id=scifi
 http://158.101.222.193:88/georgia_play.php?id=red
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA", .black
 http://158.101.222.193:88/georgia_play.php?id=black
-
-
+#EXTINF:-1 group-title="GRAND PLUS | CINEMA", НСТ
+http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA", НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 
