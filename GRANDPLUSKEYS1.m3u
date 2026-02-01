@@ -2,12 +2,1076 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/01/31 21:06}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/02/02 01:15}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/PLUSGRANDNAV
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="СПАСИБО ЗА ТРУД : 5614 6812 0418 1428",{ ОБНОВИЛ }™
 http://sc4.gergosnet.com/pulstranceHD.mp3
+
+
+
+
+
+
+#EXTINF:-1  tvg-id="tnt"  tvg-logo="http://rafail1982.uz/logo/ТНТ.png" ,ТНТ
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/THT/index.m3u8
+#EXTINF:-1  tvg-id="ntv"  tvg-logo="http://rafail1982.uz/logo/НТВ.png" ,НТВ
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/NTV/index.m3u8
+#EXTINF:-1  tvg-id="tnt4"  tvg-logo="http://rafail1982.uz/logo/ТНТ4.png" ,ТНТ4
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/TNT4/index.m3u8
+#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/Galaxy.png" ,Galaxy
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Galaxy/index.m3u8
+#EXTINF:-1  tvg-id="istoria"  tvg-logo="http://rafail1982.uz/logo/История.png" ,История
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Istoria/index.m3u8
+#EXTINF:-1  tvg-id="rtg-tv" ,RTG TV
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/RTG-TV/index.m3u8
+#EXTINF:-1  tvg-id="viasat-explore" ,Viasat Explore
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/viju-Explore/index.m3u8
+#EXTINF:-1  tvg-id="viasat-history" ,Viasat History
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/viju-History/index.m3u8
+#EXTINF:-1  tvg-id="viasat-nature" ,Viasat Nature
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/viju-Nature/index.m3u8
+#EXTINF:-1  tvg-id="sony-turbo" ,.Black
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Black/index.m3u8
+#EXTINF:-1  tvg-id="sony-scifi" ,.SCI-FI
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/SCI-FI/index.m3u8
+#EXTINF:-1  tvg-id="tlc"  tvg-logo="http://rafail1982.uz/logo/TLC HD.png" ,TLC HD
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/TLC-HD/index.m3u8
+#EXTINF:-1  tvg-id="tv1000" ,TV1000
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/viju-TV1000/index.m3u8
+#EXTINF:-1  tvg-id="bollywood-hd"  tvg-logo="http://rafail1982.uz/logo/Bollywood HD.png" ,Bollywood HD
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1  tvg-id="cinema-ru"  tvg-logo="http://rafail1982.uz/logo/Cinema.png" ,Cinema
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1  tvg-id="domkino"  tvg-logo="http://rafail1982.uz/logo/Дом Кино.png" ,Дом Кино
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Dom_kino/index.m3u8
+#EXTINF:-1  tvg-id="evrokino"  tvg-logo="http://rafail1982.uz/logo/Еврокино.png" ,Еврокино
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1  tvg-id="nst"  tvg-logo="http://rafail1982.uz/logo/НСТ.png" ,НСТ
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1  tvg-id="illuzion-plus"  tvg-logo="http://rafail1982.uz/logo/Иллюзион+.png" ,Иллюзион+
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1  tvg-id="kinokomedia"  tvg-logo="http://rafail1982.uz/logo/Кинокомедия.png" ,Кинокомедия
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Kinokomediya/index.m3u8
+#EXTINF:-1  tvg-id="kinomiks"  tvg-logo="http://rafail1982.uz/logo/Киномикс.png" ,Киномикс
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1  tvg-id="rodnoe-kino" ,Родное кино
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1  tvg-id="kinopokaz" ,Кинопоказ
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1  tvg-id="kinoseria"  tvg-logo="http://rafail1982.uz/logo/Киносерия.png" ,Киносерия
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Kinoseria/index.m3u8
+#EXTINF:-1  tvg-id="russkaya-komedia"  tvg-logo="http://rafail1982.uz/logo/Комедия.png" ,Комедия
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1  tvg-id="lubimoe-kino" ,Любимое кино
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1  tvg-id="mir-seriala" ,Мир сериала
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1  tvg-id="vremia"  tvg-logo="http://rafail1982.uz/logo/Время.png" ,Время
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Vremya/index.m3u8
+#EXTINF:-1  tvg-id="spas" ,Спас
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Spas/index.m3u8
+#EXTINF:-1  tvg-id="soyuz"  tvg-logo="http://rafail1982.uz/logo/Союз.png" ,Союз
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Souz/index.m3u8
+#EXTINF:-1  tvg-id="drive"  tvg-logo="http://rafail1982.uz/logo/Драйв.png" ,Драйв
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Draiv/index.m3u8
+#EXTINF:-1  tvg-id="360-podmoskovie"  tvg-logo="http://rafail1982.uz/logo/360 HD.png" ,360 HD
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/360_HD/index.m3u8
+#EXTINF:-1  tvg-id="365-dnej" ,365 дней
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/365_dney_tv/index.m3u8
+#EXTINF:-1  tvg-id="mir"  tvg-logo="http://rafail1982.uz/logo/Мир.png" ,Мир
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Mir/index.m3u8
+#EXTINF:-1  tvg-id="otr"  tvg-logo="http://rafail1982.uz/logo/ОТР.png" ,ОТР
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/OTR/index.m3u8
+#EXTINF:-1  tvg-id="sarafan"  tvg-logo="http://rafail1982.uz/logo/Сарафан.png" ,Сарафан
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Sarafan/index.m3u8
+#EXTINF:-1  tvg-id="zdorovoe-tv"  tvg-logo="http://rafail1982.uz/logo/Здоровое ТВ.png" ,Здоровое ТВ
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Zdorovoe-TV/index.m3u8
+#EXTINF:-1  tvg-id="zvezda"  tvg-logo="http://rafail1982.uz/logo/Звезда.png" ,Звезда
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Zvezda/index.m3u8
+#EXTINF:-1  tvg-id="2na2"  tvg-logo="http://rafail1982.uz/logo/2x2.png" ,2x2
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/2x2/index.m3u8
+#EXTINF:-1  tvg-id="sts"  tvg-logo="http://rafail1982.uz/logo/СТС.png" ,СТС
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/CTC/index.m3u8
+#EXTINF:-1  tvg-id="che" ,Че!
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1  tvg-id="nostalgia"  tvg-logo="http://rafail1982.uz/logo/Ностальгия.png" ,Ностальгия
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1  tvg-id="rbk"  tvg-logo="http://rafail1982.uz/logo/РБК.png" ,РБК
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/RBK/index.m3u8
+#EXTINF:-1  tvg-id="retro-tv"  tvg-logo="http://rafail1982.uz/logo/Ретро.png" ,Ретро
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1  tvg-id="teatr"  tvg-logo="http://rafail1982.uz/logo/Театр.png" ,Театр
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Teatr/index.m3u8
+#EXTINF:-1  tvg-id="telekafe"  tvg-logo="http://rafail1982.uz/logo/Телекафе.png" ,Телекафе
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Telekafe/index.m3u8
+#EXTINF:-1  tvg-id="1hd"  tvg-logo="http://rafail1982.uz/logo/1HD.png" ,1HD
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/1HD/index.m3u8
+#EXTINF:-1  tvg-id="bobior"  tvg-logo="http://rafail1982.uz/logo/Бобёр.png" ,Бобёр
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Bober/index.m3u8
+#EXTINF:-1  tvg-id="cartoon-network"  tvg-logo="http://rafail1982.uz/logo/Cartoon Network.png" ,Cartoon Network
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1  tvg-id="boomerang" ,Boomerang
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Boomerang/index.m3u8
+#EXTINF:-1  tvg-id="ani"  tvg-logo="http://rafail1982.uz/logo/Ani.png" ,Ani
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Ani/index.m3u8
+#EXTINF:-1  tvg-id="gulli-girl"  tvg-logo="http://rafail1982.uz/logo/Gulli Girl.png" ,Gulli Girl
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Gulli-Girl/index.m3u8
+#EXTINF:-1  tvg-id="jimjam"  tvg-logo="http://rafail1982.uz/logo/JimJam.png" ,JimJam
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/JimJam/index.m3u8
+#EXTINF:-1  tvg-id="karusel"  tvg-logo="http://rafail1982.uz/logo/Карусель.png" ,Карусель
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Karusel/index.m3u8
+#EXTINF:-1  tvg-id="mama"  tvg-logo="http://rafail1982.uz/logo/Мама.png" ,Мама
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Mama/index.m3u8
+#EXTINF:-1  tvg-id="match-tv"  tvg-logo="http://rafail1982.uz/logo/Матч ТВ.png" ,Матч ТВ
+#EXTGRP:GRAND PLUS| INET LLC
+http://net42.rafail1982.uz/Match/index.m3u8
+#EXTINF:-1  tvg-id="kxl"  tvg-logo="http://rafail1982.uz/logo/KHL.png" ,KHL
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.101/KHL/index.m3u8
+#EXTINF:-1 , Galaxy
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Galaxy/index.m3u8
+#EXTINF:-1  tvg-id="istoria" , История
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Istoria/index.m3u8
+#EXTINF:-1  tvg-id="rtg-tv" , RTG TV
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/RTG-TV/index.m3u8
+#EXTINF:-1  tvg-id="viasat-explore" , Viasat Explore
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/viju-Explore/index.m3u8
+#EXTINF:-1  tvg-id="viasat-history" , Viasat History
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/viju-History/index.m3u8
+#EXTINF:-1  tvg-id="viasat-nature" , Viasat Nature
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/viju-Nature/index.m3u8
+#EXTINF:-1  tvg-id="sony-turbo" , .Black
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Black/index.m3u8
+#EXTINF:-1  tvg-id="sony-scifi" , .SCI-FI
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/SCI-FI/index.m3u8
+#EXTINF:-1  tvg-id="tlc" , TLC HD
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/TLC-HD/index.m3u8
+#EXTINF:-1  tvg-id="tv1000" , TV1000
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/viju-TV1000/index.m3u8
+#EXTINF:-1  tvg-id="vremia" , Время
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Vremya/index.m3u8
+#EXTINF:-1  tvg-id="spas" , Спас
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Spas/index.m3u8
+#EXTINF:-1  tvg-id="soyuz" , Союз
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Souz/index.m3u8
+#EXTINF:-1  tvg-id="drive" , Драйв
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Draiv/index.m3u8
+#EXTINF:-1  tvg-id="360-podmoskovie" , 360 HD
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/360_HD/index.m3u8
+#EXTINF:-1  tvg-id="365-dnej" , 365 дней
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/365_dney_tv/index.m3u8
+#EXTINF:-1  tvg-id="mir" , Мир
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Mir/index.m3u8
+#EXTINF:-1  tvg-id="otr" , ОТР
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/OTR/index.m3u8
+#EXTINF:-1  tvg-id="sarafan" , Сарафан
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Sarafan/index.m3u8
+#EXTINF:-1  tvg-id="zdorovoe-tv" , Здоровое ТВ
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Zdorovoe-TV/index.m3u8
+#EXTINF:-1  tvg-id="zvezda" , Звезда
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Zvezda/index.m3u8
+#EXTINF:-1  tvg-id="boomerang" , Boomerang
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Boomerang/index.m3u8
+#EXTINF:-1  tvg-id="bobior" , Бобёр
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Bober/index.m3u8
+#EXTINF:-1  tvg-id="ani" , Ani
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Ani/index.m3u8
+#EXTINF:-1  tvg-id="gulli-girl" , Gulli Girl
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Gulli-Girl/index.m3u8
+#EXTINF:-1  tvg-id="jimjam" , JimJam
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/JimJam/index.m3u8
+#EXTINF:-1  tvg-id="karusel" , Карусель
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Karusel/index.m3u8
+#EXTINF:-1  tvg-id="mama" , Мама
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Mama/index.m3u8
+#EXTINF:-1  tvg-id="match-tv" , Матч ТВ
+#EXTGRP:GRAND PLUS| INET LLC
+http://176.118.197.125/Match/index.m3u8
+
+
+
+
+#EXTINF:-1  tvg-id="mir-pl2"  tvg-logo="http://rafail1982.uz/logo/Мир +2.png" ,Мир +2
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/T2/CH_MIR_2.m3u8
+#EXTINF:-1  tvg-id="mir"  tvg-logo="http://rafail1982.uz/logo/Мир HD.png" ,Мир HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/T2/CH_MIRHD.m3u8
+#EXTINF:-1  tvg-id="mir-24"  tvg-logo="http://rafail1982.uz/logo/Мир 24 HD.png" ,Мир 24 HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_MIR24HD.m3u8
+#EXTINF:-1  tvg-id="rbk"  tvg-logo="http://rafail1982.uz/logo/РБК HD.png" ,РБК HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_RBKHD.m3u8
+#EXTINF:-1  tvg-id="krik-tv" ,Крик ТВ
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/region/CH_KRIKTV_DV_MGDN.m3u8
+#EXTINF:-1  tvg-id="krasnaya-linia" ,Красная Линия
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_REDLINE.m3u8
+#EXTINF:-1  tvg-id="tvoyo-tv-hd"  tvg-logo="http://1lot.tv/ch/6445.png" ,Твоё ТВᴴᴰ
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_TVOETVHD.m3u8
+#EXTINF:-1  tvg-id="chestny-detektiv"  tvg-logo="https://i.postimg.cc/P5W0cf6K/2936c9ac9e2a50987eba564fb3ad175f.png" ,Кино и сериалы (СМОТРИМ)
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:-1  tvg-id="chestny-detektiv"  tvg-logo="https://i.postimg.cc/P5W0cf6K/2936c9ac9e2a50987eba564fb3ad175f.png" ,Кино и сериалы HD (СМОТРИМ)
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF:-1  tvg-id="cinema-ru" ,CINEMA
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_CINEMA.m3u8
+#EXTINF:-1  tvg-id="kino-24" ,Kino 24
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
+#EXTINF:-1  tvg-id="prodvizhenie" ,ПРОДВИЖЕНИЕ
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_PRODVIZHENIE.m3u8
+#EXTINF:-1  tvg-id="prosveschenie"  tvg-logo="https://i.imgur.com/uppFhhq.png" ,Просвещение
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_PROSVESHENIE.m3u8
+#EXTINF:-1  tvg-id="360-podmoskovie"  tvg-logo="http://epg.one/img2/2265.png" ,360.RU HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_360TVHD.m3u8
+#EXTINF:-1  tvg-id="nauka-20" ,Наука 2.0
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_NAUKA20.m3u8
+#EXTINF:-1  tvg-id="univer-tv" ,UNIVER HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/region/CH_UNIVERHD_KZN.m3u8
+#EXTINF:-1  tvg-id="teledom"  tvg-logo="http://rafail1982.uz/logo/Теледом.png" ,Теледом
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/region/CH_TELEDOMHD720_SPB.m3u8
+#EXTINF:-1  tvg-id="8kanal-ru" ,8 канал
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_8CHANNEL.m3u8
+#EXTINF:-1  tvg-id="start-triumf" ,Старт Триумф
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_START_TRIUMF.m3u8
+#EXTINF:-1  tvg-id="start-triumf" ,Старт Триумф SD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_START_TRIUMFHD720.m3u8
+#EXTINF:-1  tvg-id="multimania-lv"  tvg-logo="https://iptvx.one/picons/multimania-lv.png" ,Мультимания
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_MULTIMANIYA.m3u8
+#EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://grizly.club/uploads/posts/2023-01/1674668760_grizly-club-p-mamontenok-klipart-7.png" ,Мамонтёнок
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_MAMONTENOK.m3u8
+#EXTINF:-1  tvg-id="pingvin-lolo" ,ПИНГВИН ЛОЛО
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_PINGVIN_LOLO.m3u8
+#EXTINF:-1  tvg-id="shayn" ,ШАЯН HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/region/CH_SHAYANHD_KZN.m3u8
+#EXTINF:-1  tvg-id="soyuz" ,СОЮЗ HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_SOYUZHD.m3u8
+#EXTINF:-1  tvg-id="ru-tv" ,RU.TV
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_RUTV.m3u8
+#EXTINF:-1  tvg-id="ru-tv" ,RU.TV HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_RUTVHD.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="http://1lot.tv/ch/8868.png" ,V2BEAT SD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_V2BEATHD720.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://i.imgur.com/dQJQv1X.png" ,Kronehit HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/CH_KRONEHITHD.m3u8
+#EXTINF:-1  tvg-id="tro" ,БелРос FD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/blrus/CH_BELROS.m3u8
+#EXTINF:-1  tvg-id="stv-by" ,СТВ
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/blrus/CH_CTBHD720.m3u8
+#EXTINF:-1  tvg-id="stv-by"  tvg-logo="http://rafail1982.uz/logo/СТВ.png" ,СТВ SD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://ngtrk.dc.beltelecom.by/ctv/ctv.stream/chunklist.m3u8
+#EXTINF:-1  tvg-id="belarus1"  tvg-logo="http://rafail1982.uz/logo/Беларусь 1.png" ,  Беларусь 1
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS1.m3u8
+#EXTINF:-1  tvg-id="belarus1"  tvg-logo="http://rafail1982.uz/logo/Беларусь 1 HD.png" ,  Беларусь 1 HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS1HD.m3u8
+#EXTINF:-1  tvg-id="belarus2"  tvg-logo="http://rafail1982.uz/logo/Беларусь 2.png" ,  Беларусь 2
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2.m3u8
+#EXTINF:-1  tvg-id="belarus2"  tvg-logo="http://rafail1982.uz/logo/Беларусь 2 HD.png" ,  Беларусь 2 HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS2HD.m3u8
+#EXTINF:-1  tvg-id="belarus3"  tvg-logo="http://rafail1982.uz/logo/Беларусь 3.png" ,  Беларусь 3
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS3.m3u8
+#EXTINF:-1  tvg-id="belarus3"  tvg-logo="http://rafail1982.uz/logo/Беларусь 3 HD.png" ,  Беларусь 3 HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS3HD.m3u8
+#EXTINF:-1  tvg-id="belarus5" ,БЕЛАРУСЬ 5
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS5.m3u8
+#EXTINF:-1  tvg-id="belarus5" ,Беларусь 5 HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS5HD.m3u8
+#EXTINF:-1  tvg-id="belarus24"  tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png" ,Беларусь 24
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS24.m3u8
+#EXTINF:-1  tvg-id="belarus24"  tvg-logo="http://rafail1982.uz/logo/Беларусь 24.png" ,Беларусь 24 HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/blrus/CH_BELARUS24HD.m3u8
+#EXTINF:-1  tvg-id="pervy-info-by" ,Первый информационный
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
+#EXTINF:-1  tvg-id="pervy-info-by" ,Первый информационный HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
+#EXTINF:-1  tvg-id="ont-by" ,ОНТ HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/blrus/CH_OHTHD.m3u8
+#EXTINF:-1  tvg-id="moskovsky-obrazovatelny" ,Мособр SD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/region/CH_MOSOBRTVHD720_MOS.m3u8
+#EXTINF:-1  tvg-id="nash-dom" ,Наш дом
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/region/CH_NASHDOM_PENZA.m3u8
+#EXTINF:-1  tvg-id="nn-24"  tvg-logo="https://iptvx.one/picons/nn-24.png" ,Нижний Новгород 24 HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/smotrim/region/CH_NN24HD_NN.m3u8
+#EXTINF:-1 ,БАЙКАЛ Универ ТВ HD (Иркутск)
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/region/CH_BAYKALUNIVERTVHD_IRK.m3u8
+#EXTINF:-1 ,ЮУрГУ ТВ
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/region/CH_YURGUTVHD720_CHEL.m3u8
+#EXTINF:-1  tvg-id="krym24"  tvg-logo="http://rafail1982.uz/logo/КРЫМ 24.png" ,КРЫМ 24 SD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/region/CH_KRYM24HD720_SMRPL.m3u8
+#EXTINF:-1  tvg-id="sibir24"  tvg-logo="https://iptvx.one/picons/sibir24.png" ,Сибирь 24
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/smotrim/region/CH_SIBIR24_NSK.m3u8
+#EXTINF:-1  tvg-id="ural24"  tvg-logo="https://iptvx.one/picons/ural24.png" ,Урал 24 HD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/smotrim/region/CH_URAL24HD_CHEL.m3u8
+#EXTINF:-1  tvg-id="sochi-live"  tvg-logo="https://iptvx.one/picons/sochi-live.png" ,Sochi Live SD
+#EXTGRP:GRAND PLUS| Xsph.ru
+http://a0925677.xsph.ru/hls/region/CH_SOCHILIVEHD720_SOCHI.m3u8
+
+
+
+
+
+
+#EXTINF:-1  tvg-id="illuzion-plus"   audio-track="rus", Иллюзион+ HD
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000004582/tve/index.m3u8
+#EXTINF:-1  tvg-id="kinosat"   audio-track="rus", Киноман
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:-1  tvg-id="lubimoe-kino"   audio-track="rus", Любимое кино
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
+#EXTINF:-1  tvg-id="tv21m"   audio-track="rus",ТВ21M
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:-1  tvg-id="plan-b"   audio-track="rus", Plan_B
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:-1  tvg-id="flixsnip"   audio-track="rus",FlixSnip HD
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1  tvg-id="start-air"   audio-track="rus",Start Air SD
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
+#EXTINF:-1  tvg-id="tv1000"   audio-track="rus",viju TV1000 HD
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+#EXTINF:-1  tvg-id="vip-comedy"   audio-track="rus",viju+ Comedy HD
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:-1  tvg-id="tv1000-action"   audio-track="rus",viju TV1000 Action HD
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:-1  tvg-id="vip-megahit"   audio-track="rus",viju+ Megahit HD
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:-1  tvg-id="dorama"   audio-track="rus", Дорама
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
+#EXTINF:-1  tvg-id="fox"   audio-track="rus", FX HD
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:-1  tvg-id="sapfir"   audio-track="rus",Сапфир HD
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
+#EXTINF:-1  tvg-id="start-world"   audio-track="rus",Start World HD
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:-1  tvg-id="foxlife"   audio-track="rus",FX Life HD
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:-1  tvg-id="sony-tv"   audio-track="rus",.Red
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
+#EXTINF:-1  tvg-id="sony-scifi"   audio-track="rus",.Sci-Fi
+#EXTGRP:GRAND PLUS| ORBITA KZ KINO 
+http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
+#EXTINF:-1  tvg-id="mir-seriala" ,Мир Сериала
+#EXTGRP:17.СЕРИАЛЫ 🇷🇺
+http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Первый канал Евразия
+http://188.225.31.197/bpk-tv/000000669/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ТНТ
+http://188.225.31.197/bpk-tv/000007833/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ТНТ4
+http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  НТВ ПРАВО
+http://188.225.31.197/bpk-tv/000002759/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  НТВ СТИЛЬ
+http://188.225.31.197/bpk-tv/000002761/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  НТВ-МИР
+http://188.225.31.197/bpk-tv/000000079/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  РОССИЯ 24
+http://188.225.31.197/bpk-tv/000000198/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  РОССИЯ К
+http://188.225.31.197/bpk-tv/000000066/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  РОССИЯ РТР
+http://188.225.31.197/bpk-tv/000000812/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  РЕН ТВ INTERNATIONAL
+http://188.225.31.197/bpk-tv/000002472/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ANIMAL PLANET
+http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  H2
+http://188.225.31.197/bpk-tv/000002722/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  History HD
+http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Big Planet HD
+http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  viju Explore HD
+http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  viju History HD
+http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  viju Nature HD
+http://188.225.31.197/bpk-tv/000006482/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  National Geographic
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  DISCOVERY CHANNEL
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Дикая охота HD
+http://188.225.31.197/bpk-tv/000004609/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Дикая рыбалка HD
+http://188.225.31.197/bpk-tv/000004610/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Диалоги о Рыбалке
+http://188.225.31.197/bpk-tv/000003174/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Terra HD
+http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Nat Geo Wild HD
+http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ГЛАЗАМИ ТУРИСТА
+http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ДОМАШНИЕ ЖИВОТНЫЕ
+http://188.225.31.197/bpk-tv/000000146/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ЖИВАЯ ПРИРОДА
+http://188.225.31.197/bpk-tv/000001187/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ТЕХНО 24
+http://188.225.31.197/bpk-tv/000000008/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ТНВ-Планета
+http://188.225.31.197/bpk-tv/000000418/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ЗАГОРОДНАЯ ЖИЗНЬ
+http://188.225.31.197/bpk-tv/000000289/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ЗДОРОВОЕ ТВ
+http://188.225.31.197/bpk-tv/000000057/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ЗООПАРК
+http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ПОЕХАЛИ!
+http://188.225.31.197/bpk-tv/000002991/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  РЫБАЛКА И ОХОТА
+http://188.225.31.197/bpk-tv/000002510/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ОРУЖИЕ
+http://188.225.31.197/bpk-tv/000000308/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  GALAXY
+http://188.225.31.197/bpk-tv/000000332/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ПЕРВЫЙ ВЕГЕТАРИАНСКИЙ
+http://188.225.31.197/bpk-tv/000002927/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  8 КАНАЛ
+http://188.225.31.197/bpk-tv/000001564/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Atyray
+http://188.225.31.197/bpk-tv/000001570/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  BOLLYWOOD
+http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  DA VINCI
+http://188.225.31.197/bpk-tv/000000333/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  DW
+http://188.225.31.197/bpk-tv/000000291/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  English Club TV
+http://188.225.31.197/bpk-tv/000000202/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  АВТО 24
+http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  АНЕКДОТ ТВ
+http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  БЕЛАРУСЬ 24
+http://188.225.31.197/bpk-tv/000000360/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  УСПЕХ
+http://188.225.31.197/bpk-tv/000000288/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ВОПРОСЫ И ОТВЕТЫ
+http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Время
+http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ЕДА
+http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ПСИХОЛОГИЯ 21
+http://188.225.31.197/bpk-tv/000000147/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  КТО КУДА
+http://188.225.31.197/bpk-tv/000001377/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  МИР СЕРИАЛА
+http://188.225.31.197/bpk-tv/000000319/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  МОДА
+http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  МУЖСКОЙ
+http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ПЕРЕЦ
+http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  РБК
+http://188.225.31.197/bpk-tv/000000091/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Рика
+http://188.225.31.197/bpk-tv/000001514/tve/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  СПАС
+http://188.225.31.197/bpk-tv/000000247/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  TV XXI
+http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ТВЦ
+http://188.225.31.197/bpk-tv/000000112/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ТЕЛЕКАФЕ
+http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Plan B
+http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ЦЕНТРАЛЬНОЕ ТЕЛЕВИДЕНИЕ
+http://188.225.31.197/bpk-tv/000001880/tve/index.m3u8
+#EXTINF:-1  tvg-id="premium-kino-kz"  tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" ,Премиум Кино HD
+#EXTGRP:GRAND PLUS | ОРБИТА KZ
+http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:-1  tvg-id="mirovoe-kino-kz"  tvg-logo="https://iptvx.one/picons/mirovoe-kino-kz.png" ,Мировое Кино HD
+#EXTGRP:GRAND PLUS | ОРБИТА KZ
+http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:-1  tvg-id="semejnoe-kino-kz"  tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" ,Семейное Кино HD
+#EXTGRP:GRAND PLUS | ОРБИТА KZ
+http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:-1  tvg-id="kinoboevik-kz"  tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" ,Кино Боевик HD
+#EXTGRP:GRAND PLUS | ОРБИТА KZ
+http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  FlixSnip HD
+http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Киноман
+http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  EuroNews
+http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  E TV
+http://188.225.31.197/bpk-tv/000001829/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  France 24 HD
+http://188.225.31.197/bpk-tv/000000290/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  START Air HD
+http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  START World
+http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  CNN International
+http://188.225.31.197/bpk-tv/000000707/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  VIP MEGAHIT
+http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  viju TV1000 action HD
+http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  viju TV1000 русское кино HD
+http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Astana TV
+http://188.225.31.197/bpk-tv/000000666/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  TRT AVAZ HD
+http://188.225.31.197/bpk-tv/000003240/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  El Arna
+http://188.225.31.197/bpk-tv/000000670/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Jetisy
+http://188.225.31.197/bpk-tv/000001458/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Jibek Joly
+http://188.225.31.197/bpk-tv/000000941/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Almaty TV
+http://188.225.31.197/bpk-tv/000000667/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  АйFak
+http://188.225.31.197/bpk-tv/000001510/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  КТК
+http://188.225.31.197/bpk-tv/000000672/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ТОЙ  ДУМАН
+http://188.225.31.197/bpk-tv/000002936/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  QAlem 1HD
+http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Ирбис тв
+http://188.225.31.197/bpk-tv/000001513/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Altai
+http://188.225.31.197/bpk-tv/000001572/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Otyrar
+http://188.225.31.197/bpk-tv/000001052/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Qostanai
+http://188.225.31.197/bpk-tv/000001521/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  TBK 6
+http://188.225.31.197/bpk-tv/000001516/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  TDK 42
+http://188.225.31.197/bpk-tv/000001507/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  TLC
+http://188.225.31.197/bpk-tv/000001498/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  TV1
+http://188.225.31.197/bpk-tv/000000939/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  QAZAQSTAN HD
+http://188.225.31.197/bpk-tv/000004208/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Хабар HD
+http://188.225.31.197/bpk-tv/000004211/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Хабар 24 HD
+http://188.225.31.197/bpk-tv/000005177/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  МИР
+http://188.225.31.197/bpk-tv/000002555/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Balapan
+http://188.225.31.197/bpk-tv/000005178/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Qazsport HD
+http://188.225.31.197/bpk-tv/000003038/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Седьмой канал
+http://188.225.31.197/bpk-tv/000000659/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Mańǵystaý
+http://188.225.31.197/bpk-tv/000003247/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  BBC World News
+http://188.225.31.197/bpk-tv/000000014/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Caspian News
+http://188.225.31.197/bpk-tv/000004646/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Наша Тема
+http://188.225.31.197/bpk-tv/000003785/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  TMB TV
+http://188.225.31.197/bpk-tv/000003452/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Дача HD
+http://188.225.31.197/bpk-tv/000006646/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Домашний International
+http://188.225.31.197/bpk-tv/000002348/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Women's Magazine HD
+http://188.225.31.197/bpk-tv/000008065/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Ońtústik
+http://188.225.31.197/bpk-tv/000003251/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Qyzyljar
+http://188.225.31.197/bpk-tv/000003249/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Saryarqa
+http://188.225.31.197/bpk-tv/000003146/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Ertis
+http://188.225.31.197/bpk-tv/000003248/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Jambyl
+http://188.225.31.197/bpk-tv/000003244/tve/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Kókshe
+http://188.225.31.197/bpk-tv/000003021/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Qyzylorda
+http://188.225.31.197/bpk-tv/000003246/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Туркестан
+http://188.225.31.197/bpk-tv/000007248/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Инфоканал
+http://188.225.31.197/bpk-tv/100006592/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ULYTAU
+http://188.225.31.197/bpk-tv/000003604/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Euronews English
+http://188.225.31.197/bpk-tv/000002455/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Ключ
+http://188.225.31.197/bpk-tv/000004585/tve/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Зал суда
+http://188.225.31.197/bpk-tv/000006638/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Gags Network
+http://188.225.31.197/bpk-tv/000006639/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Новый игровой канал
+http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Народ Всё Видит
+http://188.225.31.197/bpk-tv/000008614/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Тараз 24
+http://188.225.31.197/bpk-tv/000007838/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ABAI TV
+http://188.225.31.197/bpk-tv/000006116/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Semei
+http://188.225.31.197/bpk-tv/000003250/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  УНИКУМ
+http://188.225.31.197/bpk-tv/000000048/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  МУЛЬТ
+http://188.225.31.197/bpk-tv/000001207/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  КАРУСЕЛЬ
+http://188.225.31.197/bpk-tv/000000781/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ДЕТСКИЙ МИР
+http://188.225.31.197/bpk-tv/000000049/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  БОБЕР
+http://188.225.31.197/bpk-tv/000001478/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  СТС Kids
+http://188.225.31.197/bpk-tv/000003892/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  В ГОСТЯХ У СКАЗКИ
+http://188.225.31.197/bpk-tv/000002762/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ТНТ Music
+http://188.225.31.197/bpk-tv/000000013/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  GAKKU
+http://188.225.31.197/bpk-tv/000001383/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  KZ MUZZONE
+http://188.225.31.197/bpk-tv/000000783/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  1HD
+http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  MCM TOP
+http://188.225.31.197/bpk-tv/000000327/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  MEZZO
+http://188.225.31.197/bpk-tv/000000030/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  MTV
+http://188.225.31.197/bpk-tv/000000447/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  YES-MTV 00s
+http://188.225.31.197/bpk-tv/000000264/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  МузТВ
+http://188.225.31.197/bpk-tv/000000073/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  МУЗЫКА ПЕРВОГО
+http://188.225.31.197/bpk-tv/000000204/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  ШАНСОН ТВ
+http://188.225.31.197/bpk-tv/000000210/tve/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Первый канал
+http://188.225.31.197/bpk-tv/000001227/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  НТВ СЕРИАЛ
+http://188.225.31.197/bpk-tv/000002760/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  VIP COMEDY
+http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  VIP PREMIERE
+http://188.225.31.197/bpk-tv/000000868/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  VIP Serial HD
+http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Еврокино
+http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  СТС
+http://188.225.31.197/bpk-tv/000000428/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Дорама HD
+http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Победа
+http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  FILM UA Drama
+http://188.225.31.197/bpk-tv/000003028/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Кинеко HD
+http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Сапфир HD
+http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Trash HD
+http://188.225.31.197/bpk-tv/000005621/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Пятый канал
+http://188.225.31.197/bpk-tv/000003718/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Atameken Business Channel HD
+http://188.225.31.197/bpk-tv/000005322/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  viju TV1000 HD
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Мосфильм. Золотая коллекция
+http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  GULLI GIRL
+http://188.225.31.197/bpk-tv/000000284/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  31 КАНАЛ
+http://188.225.31.197/bpk-tv/000000663/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  О!
+http://188.225.31.197/bpk-tv/000002928/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  TIJI
+http://188.225.31.197/bpk-tv/000000174/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  NICK JR
+http://188.225.31.197/bpk-tv/000000449/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  NICKELODEON
+http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Nicktoons
+http://188.225.31.197/bpk-tv/000004365/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Cartoon Network
+http://188.225.31.197/bpk-tv/000000015/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Точка отрыва
+http://188.225.31.197/bpk-tv/000003208/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Eurosport 1 HD
+http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Eurosport 2 HD
+http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Q Arena
+http://188.225.31.197/bpk-tv/000007615/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Setanta Sports 1 HD
+http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Setanta Sports 2 HD
+http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Q League
+http://188.225.31.197/bpk-tv/000006969/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  VIASAT SPORT HD
+http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Удар HD
+http://188.225.31.197/bpk-tv/000007802/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Q Live 3
+http://188.225.31.197/bpk-tv/000008445/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Insport TEST
+http://188.225.31.197/bpk-tv/000006983/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Q Live 1
+http://188.225.31.197/bpk-tv/000008725/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Q Live 2
+http://188.225.31.197/bpk-tv/000008726/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Q Live 4
+http://188.225.31.197/bpk-tv/000008727/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Inhockey TEST
+http://188.225.31.197/bpk-tv/000007832/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  SETANTA SPORTS
+http://188.225.31.197/bpk-tv/000002649/tve/index.m3u8
+
+#EXTINF:-1 group-title="GRAND PLUS | ОРБИТА KZ",  Q Football
+http://188.225.31.197/bpk-tv/000008848/tve/index.m3u8
+
+
 
 
 
@@ -2959,6 +4023,369 @@ group-title="GRAND PLUS| РОССИЯ", Культ Медиа
 http://streaming.astrakhan.ru/telplushd/tracks-v3a1/mono.ts.m3u8
 
 
+#EXTINF:-1  tvg-id="pervy" ,ПЕРВЫЙ КАНАЛ SD
+#EXTGRP:GRAND PLUS| MIX TV
+http://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1  tvg-id="pervy" ,ПЕРВЫЙ КАНАЛ SD
+#EXTGRP:GRAND PLUS| MIX TV
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1  tvg-id="pervy" ,ПЕРВЫЙ КАНАЛ SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://cdn9.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1  tvg-id="pervy"   tvg-rec="7",ПЕРВЫЙ КАНАЛ SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1  tvg-id="pervy" ,ПЕРВЫЙ КАНАЛ SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://edge1.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
+#EXTINF:-1  tvg-id="pervy" ,ПЕРВЫЙ КАНАЛ SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
+#EXTINF:-1  tvg-id="pervy" ,ПЕРВЫЙ КАНАЛ SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1  tvg-id="che" ,ЧЕ!
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Che/index.m3u8
+#EXTINF:-1  tvg-id="pervy" ,Первый канал
+#EXTGRP:GRAND PLUS| MIX TV
+http://tat.rafail1982.uz:8080/1kanal/tracks-v3a1/index.m3u8
+#EXTINF:-1  tvg-id="rentv" ,Рен ТВ
+#EXTGRP:GRAND PLUS| MIX TV
+http://tat.rafail1982.uz:8080/rentv/tracks-v3a1/index.m3u8
+#EXTINF:-1  tvg-id="tnt" ,ТНТ
+#EXTGRP:GRAND PLUS| MIX TV
+http://tat.rafail1982.uz:8080/tnt/tracks-v3a1/index.m3u8
+#EXTINF:-1  tvg-id="ntv" ,НТВ
+#EXTGRP:GRAND PLUS| MIX TV
+http://tat.rafail1982.uz:8080/ntv/tracks-v3a1/index.m3u8
+#EXTINF:-1  tvg-id="rossia1" ,Россия 1
+#EXTGRP:GRAND PLUS| MIX TV
+http://tat.rafail1982.uz:8080/rossiya1/tracks-v3a1/index.m3u8
+#EXTINF:-1  tvg-id="5kanal-ru" ,Пятый канал
+#EXTGRP:GRAND PLUS| MIX TV
+http://tat.rafail1982.uz:8080/5kanal/tracks-v3a1/index.m3u8
+#EXTINF:-1  tvg-id="piatnica" ,Пятница
+#EXTGRP:GRAND PLUS| MIX TV
+http://tat.rafail1982.uz:8080/pyatnitsa/tracks-v3a1/index.m3u8
+#EXTINF:-1  tvg-id="sts" ,СТС
+#EXTGRP:GRAND PLUS| MIX TV
+http://tat.rafail1982.uz:8080/sts/tracks-v3a1/index.m3u8
+#EXTINF:-1  tvg-id="tv3-ru" ,ТВ3
+#EXTGRP:GRAND PLUS| MIX TV
+http://tat.rafail1982.uz:8080/tv3/tracks-v3a1/index.m3u8
+#EXTINF:-1  tvg-id="ntv" ,НТВ
+#EXTGRP:GRAND PLUS| MIX TV
+http://dijital.rafail1982.uz/hls/NtvRuM9/playlist.m3u8
+#EXTINF:-1  tvg-id="otr" ,ОТР
+#EXTGRP:GRAND PLUS| MIX TV
+http://dijital.rafail1982.uz/hls/OTR/playlist.m3u8
+#EXTINF:-1  tvg-id="kinopokaz" ,КИНОПОКАЗ
+#EXTGRP:GRAND PLUS| MIX TV
+http://tat.rafail1982.uz:8080/kinopokaz/tracks-v3a1/index.m3u8
+#EXTINF:-1  tvg-id="kinopokaz" ,КИНОПОКАЗ
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Kinopokaz/index.m3u8
+#EXTINF:-1  tvg-id="vip-serial" ,viju+ Serial HD
+#EXTGRP:GRAND PLUS| MIX TV
+http://185.161.224.211/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:-1  tvg-id="vip-megahit"   audio-track="rus", viju+ Megahit HD 
+#EXTGRP:GRAND PLUS| MIX TV
+http://185.46.16.239:8000/VIP_Megahit
+#EXTINF:-1  tvg-id="vip-premiere"   audio-track="rus", viju+ Premiere HD
+#EXTGRP:GRAND PLUS| MIX TV
+http://185.46.16.239:8000/VIP_Premiere
+#EXTINF:-1  tvg-id="vip-comedy" ,viju+ Comedy
+#EXTGRP:GRAND PLUS| MIX TV
+http://tat.rafail1982.uz:8080/ComedyHD/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-id="vremia" ,Время
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Vremya/index.m3u8
+#EXTINF:-1  tvg-id="vremia"  tvg-logo="https://iptvx.one/picons/vremia.png" ,Время SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+#EXTINF:-1  tvg-id="russky-bestseller" ,Русский Бестселлер
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Russkiy_Bestseller/index.m3u8
+#EXTINF:-1  tvg-id="russky-detektiv" ,Русский Детектив
+#EXTGRP:GRAND PLUS| MIX TV
+https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
+#EXTINF:-1  tvg-id="russky-detektiv" ,Русский Детектив
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1  tvg-id="russky-detektiv" ,Русский Детектив
+#EXTGRP:GRAND PLUS| MIX TV
+http://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
+#EXTINF:-1  tvg-id="russky-roman" ,Русский Роман
+#EXTGRP:GRAND PLUS| MIX TV
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1  tvg-id="russky-roman" ,Русский Роман
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1  tvg-id="russky-roman" ,Русский Роман
+#EXTGRP:GRAND PLUS| MIX TV
+http://dmitry-tv.ddns.net/hls/CH_RUSSKIY_ROMAN.m3u8
+#EXTINF:-1  tvg-id="telekafe" ,Телекафе
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Telekafe/index.m3u8
+#EXTINF:-1  tvg-id="feniks-plus-kino" ,Феникс+Кино
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Feniks_plus_kino/index.m3u8
+#EXTINF:-1  tvg-id="mosfilm" ,Мосфильм. Золотая коллекция
+#EXTGRP:GRAND PLUS| MIX TV
+http://mf.rafail1982.uz:4022/udp/234.0.0.95:2000
+#EXTINF:-1  tvg-id="gosfilmofond-mv"  tvg-logo="https://iptvx.one/picons/gosfilmofond-mv.png" ,Госфильмофонд. Машина Времениᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+http://mf.rafail1982.uz:4022/udp/234.0.0.190:2000
+#EXTINF:-1  tvg-id="dushevnoe-hd" ,Душевное ᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+http://tv.lamro.workers.dev/?ID=5231
+#EXTINF:-1  tvg-id="kinosezon"  tvg-logo="https://iptvx.one/picons/kinosezon.png"   tvg-name="КиноСезон",КиноСезон ᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d3db48c1eca37527e836ab81636ac589b9/lvl1.m3u8
+#EXTINF:-1  tvg-id="kinosezon"  tvg-logo="https://iptvx.one/picons/kinosezon.png" ,КиноСезон ᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDI2IDc6NDk6NDcgUE0maGFzaF92YWx1ZT1qUlgvaDF3a2IvNkM1cWFnK3lqN2tBPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeleCaoTV.jpg"   tvg-name="SeleCaoTV",SeleCaoTV SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/playlist.m3u8
+#EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeleCaoTV.jpg"   tvg-chno="217",SeleCaoTV SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
+#EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="https://raw.githubusercontent.com/suzukantv/Logo/refs/heads/main/SeleCaoTV.jpg"   tvg-name="SeleCaoTV 2", SeleCaoTV 2 SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://live20.bozztv.com/akamaissh101/ssh101/esperanza/chunks.m3u8
+
+
+
+#EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="http://ru.epg.one/img2/6005.png"   tvg-name="Видеокассета VHS", Видеокассетаᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+#EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="https://www.giniko.com/logos/190x110/1576.jpg" ,Arpinet SD
+#EXTGRP:GRAND PLUS| MIX TV
+http://timeshift.arpinet.am/237/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="https://www.giniko.com/logos/190x110/1576.jpg" ,Arpinet SD
+#EXTGRP:GRAND PLUS| MIX TV
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="https://www.giniko.com/logos/190x110/1576.jpg"   tvg-name="Кинозал",Arpinet SD
+#EXTGRP:GRAND PLUS| MIX TV
+http://185.57.68.33/237/mpegts
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" ,MB TV
+#EXTGRP:GRAND PLUS| MIX TV
+https://dvrfl07.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="https://suzustv.clan.su/Logo/929e536b0ad861b672bf4de8d4ca3586.jpg"   tvg-name="ZSMEDIA",ZSMEDIA SD
+#EXTGRP:GRAND PLUS| MIX TV
+rtmp://vkvsd251.okcdn.ru/playback/3193011317595?stkn=W9XLVL6g8_mjPFdboe8diHBt2f8QhTG-ACCM0hfYdhbiAMlXT-4FSgUAo6r7xkePFP-OEOkxPqY&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="https://headicon.trovo.live/user/zhx4ybqaaaaabq6gtgkuizehda.jpeg"   tvg-name="KINOZVER",KINOZVER HD
+#EXTGRP:GRAND PLUS| MIX TV
+https://liveplay.trovo.live/live/73846_114094025_114094025.flv?bizid=73846&txSecret=a3ab65945e07af08d69603813af7ca8c&txTime=69637692&_bmlj_t=ChxERG01cWYvV3dtbVBKajlWTUdCcWVMbVZ3MTQ9EiRhN2IzYmYzNS0wZjAzLTQzNzUtYmRhNy1mMWZlNWEyMzEzOTAaHjExNDA5NDAyNV8xMTQwOTQwMjVfMTc2NzUyMTI5OCCE8unKBiiP%2BMQ3Mhk3Mzg0Nl8xMTQwOTQwMjVfMTE0MDk0MDI1Qg00Ni4xMzguMTQ4LjgyShtsaXZlLXJlYWRlci1zdnJfR2V0TGl2ZUluZm9QBGACehI4ODUwMTI2ODQ4MjUxMjIzMTmQAQQ%3D&playScene=innerSite&pvid=885012684825122319&_f_=1767536903573
+#EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png"   tvg-name="KinoMix Юрич",KinoMix HD
+#EXTGRP:GRAND PLUS| MIX TV
+https://kino-stream.online/hls/kinomix.m3u8
+#EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="https://goodgame.ru/files/avatars/av_1643167_Q5gP.jpg"   tvg-name="Kino.Online",Kino.Online HD
+#EXTGRP:GRAND PLUS| MIX TV
+rtmp://vkvsd235.okcdn.ru/playback/11280959613811?stkn=sl_5aJEy6Tjnu-W0mTCXgze0Qg9dil3JZIb8MSttN9wOR_GkhzWafduGK2FUN4b0IhL-st13X-4B&uid=0&sp=uid,sp&sig=vlibqm4nyu
+#EXTINF:-1  tvg-id="no_epg_cinema"  tvg-logo="https://images.live.vkvideo.ru/user/20428041/avatar?change_time=1766171277&croped=1&mh=140&mw=140"   tvg-name="Kinowalk_tv",Kinowalk TV SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1  tvg-id="kvn-tv" ,КВН ТВ
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/KVN_TV/index.m3u8
+#EXTINF:-1  tvg-id="ani" ,Ani
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Ani/index.m3u8
+#EXTINF:-1  tvg-id="detsky" ,Уникум
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Detskiy/index.m3u8
+#EXTINF:-1   tvg-name="JTX Online",JTX Online HD
+#EXTGRP:GRAND PLUS| MIX TV
+https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
+#EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://veranzo.ru/other/icons/Детское Кино.png" ,ARM TOON TV SD
+#EXTGRP:GRAND PLUS| MIX TV
+http://185.57.68.33/236/mpegts
+#EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://images.live.vkvideo.ru/user/19533449/avatar?change_time=1727353764&croped=1&mh=140&mw=140" ,Toonz SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-arabic/191a3da9-e7b4-4ab9-acda-dd450534c28e/2.m3u8
+#EXTINF:-1  tvg-id="tooku"  tvg-logo="https://iptvx.one/picons/tooku.png" ,ТООКУᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+#EXTINF:-1  tvg-id="2na2" ,2x2
+#EXTGRP:GRAND PLUS| MIX TV
+http://tat.rafail1982.uz:8080/2x2/tracks-v3a1/index.m3u8
+#EXTINF:-1  tvg-id="karusel" ,Карусель
+#EXTGRP:GRAND PLUS| MIX TV
+http://tat.rafail1982.uz:8080/karusel/tracks-v3a1/index.m3u8
+#EXTINF:-1 , Мамонтёнок
+#EXTGRP:GRAND PLUS| MIX TV
+http://dijital.rafail1982.uz/hls/MamonRu/playlist.m3u8
+#EXTINF:-1  tvg-id="pingvin-lolo" ,Пингвин Лоло
+#EXTGRP:GRAND PLUS| MIX TV
+http://dijital.rafail1982.uz/hls/pingvinru/playlist.m3u8
+#EXTINF:-1  tvg-id="karusel" ,Карусель
+#EXTGRP:GRAND PLUS| MIX TV
+http://dijital.rafail1982.uz/hls/Karusel/playlist.m3u8
+#EXTINF:-1  tvg-id="multimania" ,Мультимания
+#EXTGRP:GRAND PLUS| MIX TV
+http://dijital.rafail1982.uz/hls/MultimaniaRu/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bgKXShY5/image-14.png" ,Маша и Медведь (Eng)
+#EXTGRP:GRAND PLUS| MIX TV
+https://live21.bozztv.com/giatvplayout7/ushba78/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bgKXShY5/image-14.png" ,Маша и Медведь
+#EXTGRP:GRAND PLUS| MIX TV
+https://live21.bozztv.com/giatvplayout7/ushba79/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-id="nickelodeon-ru"   audio-track="rus", Nickelodeon
+#EXTGRP:GRAND PLUS| MIX TV
+https://vod.splay.uz/live_splay/original/Nickelodeon/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="match-premier" ,МАТЧ! ПРЕМЬЕР SD
+#EXTGRP:GRAND PLUS| MIX TV
+http://tat.rafail1982.uz:8080/matchpremier/tracks-v3a1/index.m3u8
+#EXTINF:-1  tvg-id="viasat-sport" ,viju+ Sport
+#EXTGRP:GRAND PLUS| MIX TV
+https://a3569457567-s70378.cdn.ngenix.net/viasat_sport/2/index.m3u8
+#EXTINF:-1  tvg-id="viasat-sport" ,viju+ Sport ᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+https://vod.splay.uz/live_splay/original/Viasat_Sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="box-tv" ,Бокс ТВ ᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
+#EXTINF:-1  tvg-id="football-ru" ,ФУТБОЛ SD
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Futbol_HD/index.m3u8
+#EXTINF:-1  tvg-id="ufc"  tvg-logo="https://iptvx.one/picons/ufc.png" ,Удар HD
+#EXTGRP:GRAND PLUS| MIX TV
+https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://sun9-27.userapi.com/impf/c630529/v630529334/926d/-kB_7sTuscw.jpg?size=604x604&quality=96&sign=fc663fbf3cf3127f2123ec049cf9c126&type=album" ,Record Russian Hitsᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=4OLi_h-c0TrsOWTBkXhQsg&e=2066519859&scheme=https
+#EXTINF:-1  tvg-id="muzykamodatv"  tvg-logo="https://iptvx.one/picons/muzykamodatv.png" ,ММТВ
+#EXTGRP:GRAND PLUS| MIX TV
+http://petro.rafail1982.uz:8000/play/a014/index.m3u8
+#EXTINF:-1  tvg-id="ru-tv"  tvg-logo="http://1lot.tv/ch/6516.png" ,RU.TVᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+https://flussonic.salomtv.uz/rutv/video.m3u8
+#EXTINF:-1  tvg-logo="http://1lot.tv/ch/1313.png"   tvg-name="Муз Тв",Муз ТВᴴᴰ (O'zbekiston)
+#EXTGRP:GRAND PLUS| MIX TV
+https://vod.splay.uz/live_splay/original/Muz_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="europa-plus-tv" ,Europa Plus TV
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Europa_Plus_HD/index.m3u8
+#EXTINF:-1  tvg-id="vostok-tv"  tvg-logo="https://i.imgur.com/X1RysL8.png" ,Vostok TV
+#EXTGRP:GRAND PLUS| MIX TV
+http://77.106.252.178:4022/udp/233.33.210.178:5050
+#EXTINF:-1  tvg-id="vostok-tv"  tvg-logo="https://i.imgur.com/X1RysL8.png" ,Vostok TV
+#EXTGRP:GRAND PLUS| MIX TV
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://livemaralik.do.am/icon/velary.png"   $ExtFilter="SUZTVFREE",Velari SD
+#EXTGRP:GRAND PLUS| MIX TV
+http://185.57.68.33:80/233/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://livemaralik.do.am/icon/velary.png" ,Valeri SD
+#EXTGRP:GRAND PLUS| MIX TV
+http://185.57.68.33/233/mpegts
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://livemaralik.do.am/icon/velary.png"   tvg-name="Vostok TV Armenia",VALERI SD
+#EXTGRP:GRAND PLUS| MIX TV
+http://timeshift.arpinet.am/233/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="http://rafail1982.uz/music.png" ,МЕДИА 15 SD
+#EXTGRP:GRAND PLUS| MIX TV
+http://185.46.48.18:8080/media15/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="http://rafail1982.uz/music.png"   tvg-name="Медиа 15",МЕДИА 15 SD
+#EXTGRP:GRAND PLUS| MIX TV
+http://catchup.videoline.ru:8080/media15/index.m3u8
+#EXTINF:-1  tvg-id="4fun-dance"  tvg-logo="https://docdog.top/logo/countries/poland/4fundance.png" ,4FUN DANCE
+#EXTGRP:GRAND PLUS| MIX TV
+http://vipbxcass.top:8080/VIP0155171189492262/f94cf6816286/890
+#EXTINF:-1  tvg-id="4fun-dance" ,4FUN Dance FD
+#EXTGRP:GRAND PLUS| MIX TV
+http://mains.services/live/0228902066/tc674KJ3du/a8d19b65-7fab-4e48-9b91-46a325ae3adf.m3u
+#EXTINF:-1 ,M6 MUSICᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+http://ultimateiptv.me:8080/80:47:86:b5:30:99/kwLmfvxZT6HF/9175
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/8gTHTkMq/image-14.png" ,Melodie TV SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/chunks.m3u8
+#EXTINF:-1 ,MIMusica Hits
+#EXTGRP:GRAND PLUS| MIX TV
+https://e1.viginet.vectormax.com:5210/quickstart/114-10106-64/index.m3u8
+#EXTINF:-1   tvg-name="MI Musica Reggaeton",MIMusica Reggaeton
+#EXTGRP:GRAND PLUS| MIX TV
+https://e1.viginet.vectormax.com:5210/quickstart/114-4413-62/index.m3u8
+#EXTINF:-1 ,MIMusica Romantica SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://e1.viginet.vectormax.com:5210/quickstart/114-5263-65/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" ,TotalMusic Danceᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/jmgCPJV/image-4.png" ,Energy TV Musicᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/chunklist_w2089520607_b1896000.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/jmgCPJV/image-4.png" ,Energy TV DJᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+https://59ec5453559f0.streamlock.net/energytvDJ/smil:VIVALIVETV/chunklist_w850439264_b1896000.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://dl.dropbox.com/s/o3f1p60ly9syp2y/depositphotos_87732760-stock-illustration-modern-music-design.jpg" ,Music DJ
+#EXTGRP:GRAND PLUS| MIX TV
+http://217.79.184.52/Nostalgia/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/20pmqjbc/image-20.png" ,Arena Djs Web SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://stmv8.samcast.com.br/arenajs/arenajs/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9kf8St1r/image-43.png"   tvg-name="Maqui TV Señal Dos",Maqui TV Señal Dos SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://live20.bozztv.com/akamaissh101/ssh101/maquitv2/chunks.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://sun9-27.userapi.com/impf/c630529/v630529334/926d/-kB_7sTuscw.jpg?size=604x604&quality=96&sign=fc663fbf3cf3127f2123ec049cf9c126&type=album" ,Record Megamix SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=-DTb1r4R3jsW_QG2FP13BQ&e=2068637589&scheme=https
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://sun9-27.userapi.com/impf/c630529/v630529334/926d/-kB_7sTuscw.jpg?size=604x604&quality=96&sign=fc663fbf3cf3127f2123ec049cf9c126&type=album" ,Record Megamix SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=IcAYG4YgREKSU7gFs7ASiw&e=2069025350&scheme=https
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://sun9-27.userapi.com/impf/c630529/v630529334/926d/-kB_7sTuscw.jpg?size=604x604&quality=96&sign=fc663fbf3cf3127f2123ec049cf9c126&type=album" ,Record Megamix SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=o_0Nz7W6mTTgmCkUV_KXUQ&e=2069068475&scheme=https
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://sun9-27.userapi.com/impf/c630529/v630529334/926d/-kB_7sTuscw.jpg?size=604x604&quality=96&sign=fc663fbf3cf3127f2123ec049cf9c126&type=album" ,Record Tranceᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=gp-4Wbobowp_EIQ7zTnB3Q&e=2069025350&scheme=https
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://sun9-27.userapi.com/impf/c630529/v630529334/926d/-kB_7sTuscw.jpg?size=604x604&quality=96&sign=fc663fbf3cf3127f2123ec049cf9c126&type=album" ,Record Tranceᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=Yh6F-BTmx3erbJO585-ByQ&e=2069068475&scheme=https
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://sun9-27.userapi.com/impf/c630529/v630529334/926d/-kB_7sTuscw.jpg?size=604x604&quality=96&sign=fc663fbf3cf3127f2123ec049cf9c126&type=album" ,Record Tranceᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=q8j7Y55dkIr35vAkxG8CoQ&e=2069500994&scheme=https
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/hF4LyYQK/image-21.png"   tvg-name="Mafi2a Music",Mafi2a Music SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://live21.bozztv.com/giatvplayout7/ushba-mafia/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://i.ibb.co/HfYXLCD7/image-16.png" ,INFINITY SD
+#EXTGRP:GRAND PLUS| MIX TV
+https://live21.bozztv.com/giatvplayout7/ushba-t2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-id="bridge-tv-classic" ,Bridge Classic
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1  tvg-id="bridge-tv" ,Bridge
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Bridge_TV/index.m3u8
+#EXTINF:-1  tvg-id="bridge-hd" ,Bridge Deluxeᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Bridge_TV_HD/index.m3u8
+#EXTINF:-1  tvg-id="bridge-tv-dance" ,Bridge Hits
+#EXTGRP:GRAND PLUS| MIX TV
+http://31148.rafail1982.uz/Bridge_TV_Dance/index.m3u8
+#EXTINF:-1  tvg-id="m1-ua" ,M1
+#EXTGRP:GRAND PLUS| MIX TV
+http://158.101.222.193:88/georgia_play.php?id=m1
+#EXTINF:-1  tvg-id="m2-ua" ,М2
+#EXTGRP:GRAND PLUS| MIX TV
+http://158.101.222.193:88/georgia_play.php?id=m2
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg" ,HAPPY RADIOᴴᴰ
+#EXTGRP:GRAND PLUS| MIX TV
+https://tv.mediacp.eu:8081/happyradio/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="GRAND PLUS| РОССИЯ 2", Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
@@ -3859,6 +5286,54 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 
 #EXTINF:-1 tvg-id="NickMusic.us" tvg-name="NickMusic [us]" tvg-logo="https://i.ibb.co/cLpkLKd/resize-2024-09-29-T162701-835.png" group-title="GRAND PLUS | MTV CHANNEL",NickMusic 
 http://212.102.60.231/NICK_MUSIC/index.m3u8
+
+
+
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="http://epg.one/img2/6426.png" ,MTV Classic
+#EXTGRP:GRAND PLUS| MTV GROUP 
+http://mains.services/live/0228902066/tc674KJ3du/9e37623d-f55a-4794-8d31-b0647164abd2.m3u
+#EXTINF:-1  tvg-logo="https://logo-iptvpro.com/logo/mtv_classic_m.png" ,MTV Classic
+#EXTGRP:GRAND PLUS| MTV GROUP 
+http://185.160.192.64:80/patjos/7787/328856
+#EXTINF:-1  tvg-id="mtvu"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" ,MTV U
+#EXTGRP:GRAND PLUS| MTV GROUP 
+http://mains.services/live/0228902066/tc674KJ3du/47b72d50-9050-439c-b4c7-81b3564973cb.m3u
+#EXTINF:-1  tvg-id="mtv-live-us"  tvg-logo="https://logo-iptvpro.com/logo/mtv_live_m.png" ,MTV Live
+#EXTGRP:GRAND PLUS| MTV GROUP 
+http://185.160.192.64:80/patjos/7787/328855
+#EXTINF:-1  tvg-id="mtv-live-us"  tvg-logo="http://1lot.tv/ch/6308.png" ,MTV Live SD
+#EXTGRP:GRAND PLUS| MTV GROUP 
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1  tvg-id="mtv-live-us"  tvg-logo="http://1lot.tv/ch/6308.png" ,MTV Liveᴴᴰ
+#EXTGRP:GRAND PLUS| MTV GROUP 
+http://mains.services/live/0228902066/tc674KJ3du/64f9c049-a2b1-41bf-9cf6-706aaaa89221.m3u
+#EXTINF:-1  tvg-id="mtv-esp"  tvg-logo="http://epg.one/img2/4473.png" ,MTV Espanol 
+#EXTGRP:GRAND PLUS| MTV GROUP 
+http://92.118.251.84:8080/MTV/index.m3u8
+#EXTINF:-1  tvg-id="mtv-uk"  tvg-logo="https://iptvx.one/picons/mtv-fr.png" ,MTV UK FD
+#EXTGRP:GRAND PLUS| MTV GROUP 
+http://161.123.116.21:8080/Clarence/Clarence1/402779
+#EXTINF:-1  tvg-id="mtv-fr"  tvg-logo="http://1lot.tv/ch/810.png" ,MTV Franceᴴᴰ
+#EXTGRP:GRAND PLUS| MTV GROUP 
+http://45.90.106.7:9790/play/SUn4207H6@T5B
+#EXTINF:-1  tvg-id="mtv-fr"  tvg-logo="http://1lot.tv/ch/810.png" ,MTV Franceᴴᴰ
+#EXTGRP:GRAND PLUS| MTV GROUP 
+http://mains.services/live/0228902066/tc674KJ3du/410d8740-8490-4fbc-931e-269e693559e7.m3u
+#EXTINF:-1  tvg-id="mtv-pl"  tvg-logo="http://epg.one/img2/4023.png"   CUID="1677" tvg-name="MTV Polska HD+",MTV Polskaᴴᴰ
+#EXTGRP:GRAND PLUS| MTV GROUP 
+http://iptv.tvzatak.uk/Ac7wZfXS/WKg6PW6Vw/weyJ1cmwiOiJodHRwOi8vbWVkb3R2Lm5sOjgwMDAvUkFNQk9mb3VuZGVkb25pbnRlcm5ldHNvSWNoYW5nZWRUaGVGdWNraW5ndVNFUk5BTWVsb2wxMjMvNWNhVTljTjVqRmpaLzExMTA3MCIsImlkIjoxNjc3fQ%3D%3D/fast
+#EXTINF:-1  tvg-id="mtv-de"  tvg-logo="http://epg.one/img2/4023.png" ,MTV DEᴴᴰ
+#EXTGRP:GRAND PLUS| MTV GROUP 
+http://mains.services/live/0228902066/tc674KJ3du/7198c95c-a508-4aa8-8d76-6f1afc5d2852.m3u
+#EXTINF:-1  tvg-id="mtv-us"  tvg-logo="https://iptvx.one/picons/mtv-fr.png" ,MTV USAᴴᴰ
+#EXTGRP:GRAND PLUS| MTV GROUP 
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1  tvg-id="mtv2"  tvg-logo="http://slho.xyz:81/file_2304.jpg" ,MTV 2ᴴᴰ
+#EXTGRP:GRAND PLUS| MTV GROUP 
+http://mains.services/live/0228902066/tc674KJ3du/7c8a21ba-0a83-4c00-8666-b7012aad6923.m3u
+
+
+
 
 
 
@@ -5885,6 +7360,302 @@ https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
 
 
 
+
+#EXTINF:-1  tvg-id="7kanal-kz"  tvg-logo="https://iptvx.one/picons/7kanal-kz.png" ,7 канал
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=4&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
+#EXTINF:-1  tvg-id="7kanal-kz"  tvg-logo="https://iptvx.one/picons/7kanal-kz.png" ,7 канал
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://89.106.234.4/7_kanal.m3u8
+#EXTINF:-1  tvg-id="7kanal-kz"  tvg-logo="https://iptvx.one/picons/7kanal-kz.png" ,7 канал
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://sc.id-tv.kz/7_kanal_34_35.m3u8
+#EXTINF:-1  tvg-id="7kanal-kz"  tvg-logo="http://epg.one/img2/2572.png" ,7 канал
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://sc.id-tv.kz/7_kanal.m3u8
+#EXTINF:-1  tvg-id="31-kanal-kz" ,31 Канал
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=6&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
+#EXTINF:-1  tvg-id="31-kanal-kz" ,31 Каналᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8
+#EXTINF:-1  tvg-id="abaitv"  tvg-logo="https://iptvx.one/picons/abaitv.png" ,Abai TV
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1  tvg-id="abaitv"  tvg-logo="http://1lot.tv/ch/9135.png" ,Abai TVᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1  tvg-id="abaitv"  tvg-logo="http://1lot.tv/ch/9135.png" ,Abai TVᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1  tvg-id="astana"  tvg-logo="http://epg.one/img2/2573.png" ,Astana TV
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=9&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
+#EXTINF:-1  tvg-id="balapan"  tvg-logo="http://1lot.tv/ch/8964.png" ,Balapanᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1  tvg-id="kazakh-tv"  tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png" ,Jibek Joly
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=159&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
+#EXTINF:-1  tvg-id="kazakh-tv"  tvg-logo="http://1lot.tv/ch/9101.png" ,Jibek Jolyᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://stream.qazcdn.net/ex6r514/jjtv/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="http://s.oktv.kz/tvlogo/jibekjoly.png" ,Radio Jibek Jolyᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://stream.qazcdn.net/ex6r514/D0Ik7bYjFJq/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1  tvg-id="kazakhstan"  tvg-logo="http://epg.one/img2/2569.png" ,QAZAQSTAN
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=1&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
+#EXTINF:-1  tvg-id="kazakhstan"  tvg-logo="http://epg.one/img2/2569.png" ,QAZAQSTAN
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1  tvg-id="kazakhstan"  tvg-logo="http://1lot.tv/ch/8965.png" ,QAZAQSTANᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1  tvg-id="kazakhstan"  tvg-logo="http://1lot.tv/ch/8965.png" ,QAZAQSTANᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+#EXTINF:-1  tvg-id="qazaqstan-int"  tvg-logo="http://1lot.tv/ch/9139.png"   tvg-name="Qazaqstan International",QAZAQSTAN Internationalᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://qazaqstantv-stream.qazcdn.com/international/international/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-id="qazaqstan-int"  tvg-logo="http://1lot.tv/ch/9139.png" ,QAZAQSTAN Internationalᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1  tvg-id="silk-way-cinema"  tvg-logo="https://iptvx.one/picons/silk-way-cinema.png" ,Silk Way Cinemaᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://stream.qazcdn.net/ex6r514/silkwaycinema/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://veranzo.ru/other/icons/Silk Way.png" ,Silk Way
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://146.120.14.239:3001/play/a0bt
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://veranzo.ru/other/icons/Silk Way.png" ,Silk Wayᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://veranzo.ru/other/icons/Silk Way.png" ,Silk Wayᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way (Rus) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayRussia.m3u8
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://veranzo.ru/other/icons/Silk Way.png" ,Silk Way (Rus) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayRussia.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjUgMTo0OToyMyBQTSZoYXNoX3ZhbHVlPTVDZkpPbWo5L3dvM2tqNnQ5dDQvK3c9PSZ2YWxpZG1pbnV0ZXM9NDgw
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way (Rus) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayRussia.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way (Eng) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayEnglish.m3u8
+#EXTINF:-1  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way (Eng) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayEnglish.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=
+#EXTINF:-1  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way (Eng) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayEnglish.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way (Kaz) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayKazakh.m3u8
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way (Kaz) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayKazakh.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way (Kaz) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayKazakh.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way (Turk) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayTurkish.m3u8
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way (Turk) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayTurkish.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way (Turk) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayTurkish.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way (Uzb) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayUzbek.m3u8
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way (Uzb) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayUzbek.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="https://iptvx.one/picons/silkway.png" ,Silk Way (Uzb) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayUzbek.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:-1  tvg-id="ktk-kz" ,КТК
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://wz-kt.ktk.kz/ktklive/live.lq/playlist.m3u8
+#EXTINF:-1  tvg-id="ktk-kz"   $ExtFilter="колобок",КТК
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w7722023_b1728000_slrus.m3u8
+#EXTINF:-1  tvg-id="ktk-kz" ,КТК SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist.m3u8
+#EXTINF:-1  tvg-id="ktk-kz" ,КТК SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://wz-kt.ktk.kz/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1  tvg-id="ktk-kz" ,КТК SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1  tvg-id="ktk-kz" ,КТКᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://89.218.30.37/ktklive/live.hd/playlist.m3u8
+#EXTINF:-1  tvg-id="ktk-kz" ,КТКᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist.m3u8
+#EXTINF:-1  tvg-id="ktk-kz" ,КТКᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="ktk-kz" ,КТКᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://wz-kt.ktk.kz/ktklive/live.hd/playlist.m3u8
+#EXTINF:-1  tvg-id="mtrk"  tvg-logo="http://cdn.server-iptv.live/logo/tv/mtrk-kz.png" ,МТРК
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=15&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
+#EXTINF:-1  tvg-id="mtrk"  tvg-logo="http://cdn.server-iptv.live/logo/tv/mtrk-kz.png" ,МТРК
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
+#EXTINF:-1  tvg-id="mtrk"  tvg-logo="http://1lot.tv/ch/7615.png" ,МТРК
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="mtrk"  tvg-logo="http://1lot.tv/ch/7615.png"   $ExtFilter="колобок",МТРК
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
+#EXTINF:-1  tvg-id="mtrk"  tvg-logo="http://1lot.tv/ch/7615.png" ,МТРК
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1  tvg-id="mir-kz"  tvg-logo="http://1lot.tv/ch/7614.png" ,Мир Kz
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://tvcdn01.oktv.kz/tv/mir/index.m3u8
+#EXTINF:-1  tvg-id="mir-kz"  tvg-logo="http://1lot.tv/ch/7614.png" ,Мир Kz
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1  tvg-id="novoe-televidenie"  tvg-logo="https://iptvx.one/picons/novoe-televidenie.png" ,Новое телевидение SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://live.zhanafm.kz:8080/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b_output_0.m3u8
+#EXTINF:-1  tvg-id="novoe-televidenie"  tvg-logo="https://iptvx.one/picons/novoe-televidenie.png" ,Новое телевидение SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
+#EXTINF:-1  tvg-id="novoe-televidenie"  tvg-logo="http://1lot.tv/ch/7606.png" ,Новое телевидение SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://serv25.vintera.tv:8081/novoetv/nov_tv/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:-1  tvg-id="novoe-televidenie"  tvg-logo="http://1lot.tv/ch/7606.png" ,Новое телевидение SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=
+#EXTINF:-1  tvg-id="novoe-televidenie"  tvg-logo="http://1lot.tv/ch/7606.png" ,Новое телевидение SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:-1  tvg-id="novoe-televidenie"  tvg-logo="http://1lot.tv/ch/7606.png" ,Новое телевидение SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1  tvg-id="rika"  tvg-logo="https://iptvx.one/picons/rika.png" ,РИКА ТВ (Актобе) SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+#EXTINF:-1  tvg-id="rika"  tvg-logo="http://1lot.tv/ch/9109.png" ,РИКА ТВ (Актобе) SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1  tvg-id="tdk-42"  tvg-logo="http://1lot.tv/ch/9105.png" ,ТДК 42 (Уральск) SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="tvoyo-tv-kz"  tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Твое ТВ KZ.png" ,ТВОЁ ТВ (Темиртау)
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=21&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
+#EXTINF:-1 ,TV Line (Лисаковск)
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://otv.wotom.net/tvline/stream.m3u8
+#EXTINF:-1  tvg-id="xabar" ,Хабар
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://sc.id-tv.kz/Khabar.m3u8
+#EXTINF:-1  tvg-id="xabar"  tvg-logo="http://epg.one/img2/2576.png" ,Хабар
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://89.106.234.4/Khabar.m3u8
+#EXTINF:-1  tvg-id="xabar"  tvg-logo="http://1lot.tv/ch/8966.png" ,Хабарᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://120.70.60.179:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=0
+#EXTINF:-1  tvg-id="xabar24" ,Хабар 24
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://tvcdn01.oktv.kz/tv/24kz/index.m3u8
+#EXTINF:-1  tvg-id="xabar24" ,Хабар 24
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://tvcdn01.esilnet.kz/tv/24kz/index.m3u8
+#EXTINF:-1  tvg-id="xabar24" ,Хабар 24
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://213.230.65.254:8000/play/a01x
+#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/kazakhstan.png"   logo="https://qaztv.kz/api/v1/media/channel_logos/Logo_Aitys_jPeAbLZ.png",Qazaqstan Aitys SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://stream.qaztv.kz/live/stream8/index.m3u8
+#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/kazakhstan.png"   logo="https://qaztv.kz/api/v1/media/channel_logos/Logo_Azil_YNbBWw1.png",Qazaqstan Azil & Show SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://stream.qaztv.kz/live/stream2/index.m3u8
+#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/kazakhstan.png"   logo="https://qaztv.kz/api/v1/media/channel_logos/Logo_Derekti_Film_3mnyIlz.png",Qazaqstan Derektiv Film SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://stream.qaztv.kz/live/stream5/index.m3u8
+#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/kazakhstan.png"   logo="https://qaztv.kz/api/v1/media/channel_logos/Logo_Mult_jfwztlM.png",Qazaqstan Mult SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://stream.qaztv.kz/live/stream4/index.m3u8
+#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/kazakhstan.png"   logo="https://qaztv.kz/api/v1/media/channel_logos/Logo_Retro_GA6DvSI.png",Qazaqstan Retro SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://stream.qaztv.kz/live/stream7/index.m3u8
+#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/kazakhstan.png"   logo="https://qaztv.kz/api/v1/media/channel_logos/Logo_Muzic_pPAc7vo.png",Qazaqstan Music SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://stream.qaztv.kz/live/stream3/index.m3u8
+#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/kazakhstan.png"   logo="https://qaztv.kz/api/v1/media/channel_logos/Logo_Serials_grKYUqc.png",Qazaqstan Serial SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://stream.qaztv.kz/live/stream1/index.m3u8
+#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/kazakhstan.png"   logo="https://qaztv.kz/api/v1/media/channel_logos/Logo_Teatr_FViP7y2.png",Qazaqstan Teatr SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://stream.qaztv.kz/live/stream10/index.m3u8
+#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/kazakhstan.png"   logo="https://qaztv.kz/api/v1/media/channel_logos/Logo_Sport_EVJqSWY.png",Qazaqstan Sport SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://stream.qaztv.kz/live/stream9/index.m3u8
+#EXTINF:-1  tvg-logo="http://rafail1982.uz/logo/kazakhstan.png"   logo="https://qaztv.kz/api/v1/media/channel_logos/Logo_Ulttyq_Oner_v3eL7Bp.png",Qazaqstan Ulttyq Oner SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://stream.qaztv.kz/live/stream6/index.m3u8
+#EXTINF:-1  tvg-id="312-kino"  tvg-logo="https://iptvx.one/picons/312-kino.png" ,312 Кино
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1  tvg-id="312-kino"  tvg-logo="https://iptvx.one/picons/312-kino.png" ,312 Кино
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
+#EXTINF:-1  tvg-id="312-serial"  tvg-logo="https://iptvx.one/picons/312-serial.png" ,312 Сериал
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1  tvg-id="312-serial"  tvg-logo="https://iptvx.one/picons/312-serial.png" ,312 Сериал
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
+#EXTINF:-1  tvg-id="tv1-kg-hd"  tvg-logo="https://iptvx.one/picons/tv1-kg-hd.png" ,TV1 KGᴴᴰ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 ,МАНАС (KG) SD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="http://img.vintera.tv/img/ico/silkway.png" ,Silk Way (KG) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayKyrgyz.m3u8
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="http://img.vintera.tv/img/ico/silkway.png" ,Silk Way (KG) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayKyrgyz.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjUgMTo0OToyMyBQTSZoYXNoX3ZhbHVlPTVDZkpPbWo5L3dvM2tqNnQ5dDQvK3c9PSZ2YWxpZG1pbnV0ZXM9NDgw
+#EXTINF:-1  tvg-id="silkway"  tvg-logo="http://img.vintera.tv/img/ico/silkway.png" ,Silk Way (KG) HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://pop3.akamaized.net/SilkwayKyrgyz.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI1IDI6NDk6MzYgUE0maGFzaF92YWx1ZT12Q1hScElvWmtORUJNNU91R1k1alNnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:-1  tvg-id="0aff53edcbcf5111e3a2b47f80701b10_el-arna"  tvg-logo="https://epgx.site/p/el-arna.png"   $ExtFilter="ГЕДЕМ",El Arna
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://sc.id-tv.kz/ElArna_34_35.m3u8
+#EXTINF:-1  tvg-id="simpleTVFakeEpgId"   $ExtFilter="ГЕДЕМ",MTRK KZ
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1  tvg-id="simpleTVFakeEpgId"   $ExtFilter="ГЕДЕМ",КТК HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_b6128000_slrus.m3u8
+#EXTINF:-1  tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//9ae8b2d0eae85af6fd49277616dc9b13-q-500x500.jpeg" , Хабар 24 HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+https://iptv.itv.uz/hls/live/t/S1K8OtQOEhETApD6nx8dMA/e/1768818188/1408/index.m3u8?ip=213.183.53.193
+#EXTINF:-1  tvg-id="qazaqstan-int" ,Qazaqstan Int HD
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 ,Рика ТВ (Актобе)
+#EXTGRP:GRAND PLUS| КАЗАХСТАН
+http://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://365info.kz/wp-content/uploads/2017/08/a83ffde6162776bddbd22d058ae4f98d-e1503545661831.jpg"  group-title="GRAND PLUS| КАЗАХСТАН",Qazaqstan TV
 https://stream2.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 
@@ -6178,7 +7949,7 @@ http://fc1qlunj.tvclub.xyz/iptv/FFYQ24ALHHBLUN/282/index.m3u8
 http://fc1qlunj.tvclub.xyz/iptv/75VWHXAQFUB8TG/282/index.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA",VHS-KA
-http://95.66.188.74/VHS/index.m3u8
+http://188.134.7.215:4022/udp/235.10.10.86:1234
 
 #EXTINF:-1 group-title="GRAND PLUS | CINEMA", HORROR 
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AL5DDQ6V95N4M8/31708/index.m3u8
