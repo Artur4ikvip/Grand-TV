@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/02/02 03:34}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/02/02 16:05}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/PLUSGRANDNAV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -2637,169 +2637,169 @@ https://eun11.playlist.ttvnw.net/v1/playlist/Cs4GWXCvOkjPzAveJJMdklI_KFSuYxaU-zU
 
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/logo.png" group-title="GRAND PLUS| DTR>Развлекательные",  DTR ZONA 1 (HD)
-http://62.217.180.158/dtrzona1/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/dtrzona1/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/dtr2.png" group-title="GRAND PLUS| DTR>Музыкальные",  DTR MUSIC 1 (HD)
-http://62.217.180.158/dtrmusic1/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/dtrmusic1/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/tvoetv.png" group-title="GRAND PLUS| DTR>Развлекательные",  Твоё ТВ (FULL HD)
-http://62.217.180.158/tvoetv/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/tvoetv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/tvoetvhumor.png" group-title="GRAND PLUS| DTR>Развлекательные",  Твоё ТВ Юмор (FULL HD)
-http://62.217.180.158/tvoetv-humor/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/tvoetv-humor/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/perviy.png" group-title="GRAND PLUS| DTR>Федеральные",  Первый Канал (HD)
-http://62.217.180.158/perviy/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/perviy/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/russia1.png" group-title="GRAND PLUS| DTR>Федеральные",  Россия 1 (HD)
-http://62.217.180.158/russia1hd/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/russia1hd/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/russia24.png" group-title="GRAND PLUS| DTR>Федеральные",  Россия 24 (HD)
-http://62.217.180.158/russia24hd/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/russia24hd/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/russiak.png" group-title="GRAND PLUS| DTR>Федеральные",  Россия K (HD)
-http://62.217.180.158/russiak/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/russiak/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/НТВ.png" group-title="GRAND PLUS| DTR>Федеральные",  НТВ (HD)
-http://62.217.180.158/HTBHD/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/HTBHD/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/NTVXIT.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  НТВ-Хит
-http://62.217.180.158/HTB-XIT/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/HTB-XIT/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/CTC.png" group-title="GRAND PLUS| DTR>Федеральные",  CTC
-http://62.217.180.158/CTC/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/CTC/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/CTCLove.png" group-title="GRAND PLUS| DTR>Развлекательные",  CTC Love
-http://62.217.180.158/CTCLOVE/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/CTCLOVE/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/THTHD.png" group-title="GRAND PLUS| DTR>Федеральные",  THT (HD)
-http://62.217.180.158/THTHD/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/THTHD/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/THT4.png" group-title="GRAND PLUS| DTR>Развлекательные",  THT4 (HD)
-http://62.217.180.158/THT4HD/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/THT4HD/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/piatnica.png" group-title="GRAND PLUS| DTR>Развлекательные",  Пятница! (HD)
-http://62.217.180.158/friday/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/friday/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/tv3-ru.png" group-title="GRAND PLUS| DTR>Федеральные",  ТВ3
-http://62.217.180.158/tv3/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/tv3/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/rentv.png" group-title="GRAND PLUS| DTR>Федеральные",  Рен ТВ
-http://62.217.180.158/rentv/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/rentv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/tvc.png" group-title="GRAND PLUS| DTR>Федеральные",  ТВЦ
-http://62.217.180.158/tvc/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/tvc/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/che.png" group-title="GRAND PLUS| DTR>Федеральные",  Че!
-http://62.217.180.158/chetv/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/chetv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/2na2.png" group-title="GRAND PLUS| DTR>Развлекательные",  2x2 (HD)
-http://62.217.180.158/2x2hd/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/2x2hd/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/matchtv.png" group-title="GRAND PLUS| DTR>Спортивные",  Матч ТВ (HD)
-http://62.217.180.158/matchtv/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/matchtv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/muztv.png" group-title="GRAND PLUS| DTR>Музыкальные",  Муз ТВ (HD)
-http://62.217.180.158/muztvhd/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/muztvhd/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/rutv.png" group-title="GRAND PLUS| DTR>Музыкальные",  RU.TV (HD)
-http://62.217.180.158/rutv/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/rutv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/zvezda.png" group-title="GRAND PLUS| DTR>Развлекательные",  Звезда (HD)
-http://62.217.180.158/zvezda/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/zvezda/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/5.png" group-title="GRAND PLUS| DTR>Федеральные",  Пятый канал
-http://62.217.180.158/5channel/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/5channel/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/otv-eburg.png" group-title="GRAND PLUS| DTR>Региональные",  ОТВ (Екатеринбург)
-http://62.217.180.158/otv-ekb/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/otv-ekb/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/mir-24.png" group-title="GRAND PLUS| DTR>Общественные",  Мир 24 (HD)
-http://62.217.180.158/mir24/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/mir24/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/lubimoe-kino.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  Любимое кино
-http://62.217.180.158/LubimoeKino/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/LubimoeKino/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/prodvizhenie.png" group-title="GRAND PLUS| DTR>Развлекательные",  Продвижение (HD)
-http://62.217.180.158/Prodvizhenie/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/Prodvizhenie/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/mosfilm.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  Мосфильм. Золотая коллекция (HD)
-http://62.217.180.158/mosfilm-hd/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/mosfilm-hd/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/ont-by.png" group-title="GRAND PLUS| DTR>Общественные",  ОНТ (HD)
-http://62.217.180.158/OHT/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/OHT/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/krik-tv.png" group-title="GRAND PLUS| DTR>Федеральные",  КРИК-ТВ (HD)
-http://62.217.180.158/krik-tv/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/krik-tv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/solnce.png" group-title="GRAND PLUS| DTR>Детские",  Солнце
-http://62.217.180.158/solnce/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/solnce/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/mult.png" group-title="GRAND PLUS| DTR>Детские",  Мульт (HD)
-http://62.217.180.158/mult/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/mult/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/smaylik-tv.png" group-title="GRAND PLUS| DTR>Детские",  Смайлик ТВ (HD)
-http://62.217.180.158/smaylik-tv/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/smaylik-tv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/patriot.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  Патриот
-http://62.217.180.158/patriot/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/patriot/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/russky-roman.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  Русский роман (HD)
-http://62.217.180.158/RussiaRoman/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/RussiaRoman/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/fanhd.png" group-title="GRAND PLUS| DTR>Кино и анимация",  FAN (HD)
-http://62.217.180.158/FANHD/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/FANHD/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/vf-univer.png" group-title="GRAND PLUS| DTR>Кино и анимация",  VF Универ
-http://62.217.180.158/vf-univer/index.m3u8
+http://155.212.209.23/vf-univer/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/russkaya-komedia.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  Комедия
-http://62.217.180.158/Komediya/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/Komediya/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/domkino.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  Дом кино
-http://62.217.180.158/domkino/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/domkino/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/epic.png" group-title="GRAND PLUS| DTR>Развлекательные",  Epic (HD)
-http://62.217.180.158/epic/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/epic/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/mir-seriala.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  Мир сериала
-http://62.217.180.158/mirseriala/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/mirseriala/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/kvn-tv.png" group-title="GRAND PLUS| DTR>Разное",  КВН ТВ
-http://62.217.180.158/kvn-tv/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/kvn-tv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/kxl.png" group-title="GRAND PLUS| DTR>Разное",  КХЛ ТВ
-http://62.217.180.158/khltv/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/khltv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/scripach.png" group-title="GRAND PLUS| DTR>Развлекательные",  СкрипачТВ (FULL HD)
-http://62.217.180.158/scripachtv/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/scripachtv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/vhdvtv.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  VHDV TV (FULL HD)
-http://62.217.180.158/vhdvtv/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/vhdvtv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  SeleCaoTV Фильм
-http://62.217.180.158/selecaotv-film/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/selecaotv-film/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  SeleCaoTV Сериал
-http://62.217.180.158/selecaotv-serial/index.m3u8
+http://155.212.209.23/selecaotv-serial/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/KinoMix.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  KinoMix
-http://62.217.180.158/kinomix/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/kinomix/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/kino-vk.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  КИНО ВК
-http://62.217.180.158/kinovk/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/kinovk/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/kino-vk2.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  КИНО ВК 2
-http://62.217.180.158/kinovk2/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/kinovk2/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/ZSMEDIA.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  ZSMEDIA
-http://62.217.180.158/zsmedia/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/zsmedia/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/kino.online.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  Kino.Online
-http://62.217.180.158/kino.online/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/kino.online/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/beyourowndirector.png" group-title="GRAND PLUS| DTR>Кино и Сериалы",  Сам себе режиссёр
-http://62.217.180.158/Beyourowndirector/index.m3u8?KinoStreamMediaApps
+http://155.212.209.23/Beyourowndirector/index.m3u8?KinoStreamMediaApps
 
 
 
