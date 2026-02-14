@@ -10941,26 +10941,86 @@ http://162.249.126.236/TvoeTVHumor/index.m3u8?token=TvoeTV
 
 
 
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/13122024/logos/44051-675c3cf73abc2.jpg" group-title="GRAND PLUS|| ENDIK TV",  MGM HD
+https://v2.catcast.tv/content/50354/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10062025/banners/42871-68484731df754.jpg" group-title="GRAND PLUS|| ENDIK TV",  MGM int
+https://v2.catcast.tv/content/48063/index.m3u8?token=d854cbda73496a3a883756152eb2bd5b
+
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/6814.png" group-title="GRAND PLUS|| ENDIK TV",  Фантастика HD
+https://s.catcast.tv/content/39533/index.m3u8?token=46fae696830b7bb79270435791f688f1
+
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/8505.png" group-title="GRAND PLUS|| ENDIK TV",  Страх HD
+https://s.catcast.tv/content/34816/index.m3u8?token=7f18d79b59163705bad8c0fc076a6bce
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/25062020/logos/38617-5ef3d12196e3e.png" group-title="GRAND PLUS|| ENDIK TV",  Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8?token=0ee1b810cb70fabf816a92c7fbac144a
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/09072020/logos/38720-5f06c9ff9fbbd.png" group-title="GRAND PLUS|| ENDIK TV", Детское кино International
+https://autopilot.catcast.tv/content/38720/index.m3u8?token=02da8342f0e725b15124c4ccc9d5e8ef
+
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/11082021/logos/40546-6113be283e1cb.jpg" group-title="GRAND PLUS|| ENDIK TV",  LAYM GOLD TV
 https://v2.catcast.tv/content/40546/index.m3u8?token=eba599f2781487a851f7bc302bf05f0c
 
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/02012026/logos/50142-6957e2ba35487.png" group-title="GRAND PLUS|| ENDIK TV",  Мир кино
-https://v2.catcast.tv/content/50142/index.m3u8?token=4bd88c72d74a3fee9292ae2501168e17
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/11112025/logos/49916-691373ab60cff.png" group-title="GRAND PLUS|| ENDIK TV",  Малдер Кошмар
+https://v2.catcast.tv/content/49916/index.m3u8?token=d5bc5e951f0021f1762ab5e49b33dc53
 
-#EXTINF:-1 tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/954/5.png" group-title="GRAND PLUS|| ENDIK TV",  Смотрим Честный детектив
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26112025/logos/50014-6927105f31b46.png" group-title="GRAND PLUS|| ENDIK TV",  KinoMobile
+https://v2.catcast.tv/content/50014/index.m3u8?token=1689bb8d08f719f81d8d3017287c3640
 
-#EXTINF:-1 tvg-logo="http://tvpro-online.ru/images/logo.png" group-title="GRAND PLUS|| ENDIK TV",  TV PRO
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/30112025/logos/50027-692be19fe646e.jpg" group-title="GRAND PLUS|| ENDIK TV",  KinoMobile Classic Comedy
+https://v2.catcast.tv/content/50027/index.m3u8?token=64f9e0d38ea3be26efa61b3fb1e4e047
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/aist.png" group-title="GRAND PLUS|| ENDIK TV",  АИСТ ТВ
-https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/05122025/banners/50056-6932c516ae492.jpg" group-title="GRAND PLUS|| ENDIK TV",  Агентство НЛС
+https://v2.catcast.tv/content/50056/index.m3u8?token=1c6dc2f006c23587818243cf179a1b70
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/05122025/banners/50057-6932d2cb661ae.jpg" group-title="GRAND PLUS|| ENDIK TV",  Агентство НЛС 2
+https://v2.catcast.tv/content/50057/index.m3u8?token=a52f081de07679b9a262d62dc38eae79
+
+
+#EXTINF:-1 tvg-logo="https://tvprogviewer.ru/images/thumbs/0000163_kino24_220.png" group-title="GRAND PLUS|| ENDIK TV",  KINO24
+http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pro100.png" group-title="GRAND PLUS|| ENDIK TV",  PRO100
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/26846/logo_256_1719316009.png" group-title="GRAND PLUS|| ENDIK TV",  LIVETVAZ
+https://tv.mobyservice.ru/livetv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://sun9-49.userapi.com/impg/5Mf8OrjKw5p0V2PpayneFcA35XuVsPWeJxgOCw/vNwHk1FvHF8.jpg?size=800x800&quality=95&sign=635199fd6f73fe35d2621912eee1976b&type=album" group-title="GRAND PLUS|| ENDIK TV",  Кино и Жизнь
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
+
+#EXTINF:-1 tvg-logo="https://chntv.ru/wp-content/uploads/2022/06/logo_chinatv150.png" group-title="GRAND PLUS|| ENDIK TV",  Китай ТВ
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/teotv.png" group-title="GRAND PLUS|| ENDIK TV",  ТЕО-ТВ
 https://stream.teotv.ru/live/site360/chunklist_w1906707908.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/nika-tv.png" group-title="GRAND PLUS|| ENDIK TV",  НИКА ТВ
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png" group-title="GRAND PLUS|| ENDIK TV",  IPTVPLAY ВЕДЬМАК
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0826/ac/f4f87b57a79f0fbc6381996811439dac.png" group-title="GRAND PLUS|| ENDIK TV",  IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png" group-title="GRAND PLUS|| ENDIK TV",  IPTVPLAY ИНТЕРНЫ
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="GRAND PLUS|| ENDIK TV",  IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png" group-title="GRAND PLUS|| ENDIK TV",  IPTVPLAY ПАМЯТЬ
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png" group-title="GRAND PLUS|| ENDIK TV",  IPTVPLAY УЖАСТИК
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png" group-title="GRAND PLUS|| ENDIK TV",  IPTVPLAY Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png" group-title="GRAND PLUS|| ENDIK TV",  IPTVPLAY TEST HD
 http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
@@ -10976,10 +11036,21 @@ https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u
 
 #EXTINF:-1 tvg-logo="https://sun9-70.userapi.com/impg/-qQ0swpvv4ukHHV7FIihEucilRQRbI_yFaFVHg/DeLqQCSUANc.jpg?size=1440x1080&quality=95&sign=78c1c3713c42497c514e655209d99305&type=album" group-title="GRAND PLUS|| ENDIK TV",  Новый Русский
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
-#EXTINF:-1 tvg-logo="https://sun9-70.userapi.com/impg/-qQ0swpvv4ukHHV7FIihEucilRQRbI_yFaFVHg/DeLqQCSUANc.jpg?size=1440x1080&quality=95&sign=78c1c3713c42497c514e655209d99305&type=album" group-title="GRAND PLUS|| ENDIK TV", Alpha Funny 
-http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w780/cEL2zvrJCGF7GwyE3ESCInQyRk8.jpg" group-title="GRAND PLUS|| ENDIK TV",  Mr. Bean
+https://fl1003.bozztv.com/ushba45/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://sun9-53.userapi.com/c639231/v639231387/15071/-upK0-b5hek.jpg" group-title="GRAND PLUS|| ENDIK TV",  Шоу Бенни Хилла
+https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://rvision.tv/wp-content/uploads/2020/09/rvision-1024x453.png" group-title="GRAND PLUS|| ENDIK TV",  Rvision Movies
+https://fl1003.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://rvision.tv/wp-content/uploads/2020/09/rvision-1024x453.png" group-title="GRAND PLUS|| ENDIK TV",  Rvision Кинопанорама
+https://fl1003.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://ru.epg.one/img2/6005.png" group-title="GRAND PLUS|| ENDIK TV",  Видеокассета VHS
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.okcdn.ru/i?r=CFNAm_VFBkioSGBqh1Inhl3k2YzpM7QS_WUmaebTSj38uI4u39QtORz8k1kLgfRT5pueyIP_kgQWsj9E8ngOBnTLeUd6akdc5Biad7gr7tqyFueXAAAAKQ" group-title="GRAND PLUS|| ENDIK TV",  ЗОВ ТВ
 https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
@@ -11001,6 +11072,9 @@ https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/04112023/banners/44404-6545ea806ffe7.png" group-title="GRAND PLUS|| ENDIK TV",  К-ПОКАЗ
 https://stream.ushba.tv/akamaiushba/ushba-films-qr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/logos/1d545e850f06eafd2f85526e1913c07e.png" group-title="GRAND PLUS|| ENDIK TV",  Кинорейс
+https://stream.ushba.tv/akamaiushba/ushba82/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1578.jpg" group-title="GRAND PLUS|| ENDIK TV",  Film Visit
 https://fl1003.bozztv.com/ushba-films-l/tracks-v1a1/mono.m3u8
@@ -11034,7 +11108,6 @@ https://stream.ushba.tv/akamaiushba/ushba-films-uv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="GRAND PLUS|| ENDIK TV",  LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/25082020/logos/39026-5f44dbde74fb8.png" group-title="GRAND PLUS|| ENDIK TV",  K1HO
 https://live20.bozztv.com/giatvplayout7/ushba100/tracks-v1a1/mono.ts.m3u8
 
@@ -11050,45 +11123,146 @@ https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/logo_c747_359.png" group-title="GRAND PLUS|| ENDIK TV",  Сов.Ком
 https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://kino-static.tricolor.tv/media/v2/0385d009-c0d0-466a-9a55-9ae5c5b5e24e" group-title="GRAND PLUS|| ENDIK TV",  Кинозалы УЖАСЫ HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_9
-
-#EXTINF:-1 tvg-logo="https://kino-static.tricolor.tv/media/v2/61de5957-bb56-457e-851e-a759d3690dfa" group-title="GRAND PLUS|| ENDIK TV",  Кинозалы БОЕВИКИ HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_2
-
-#EXTINF:-1 tvg-logo="https://kino-static.tricolor.tv/media/v2/45946f36-31c4-41cd-ad90-d8f3cdd297e4" group-title="GRAND PLUS|| ENDIK TV",  Кинозалы КОМЕДИИ
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_12
-
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01022025/logos/43750-679e05e11b30e.jpg" group-title="GRAND PLUS|| ENDIK TV",  Кинозал
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/01022025/logos/43750-679e05e11b30e.jpg" group-title="GRAND PLUS|| ENDIK TV", Кинозал
 http://185.57.68.33:8091/237/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://kino-stream.online/logo/scripach.png" group-title="GRAND PLUS|| ENDIK TV",  ScripachTV
-https://kino-stream.online/hls/scripach.m3u8
+#EXTINF:-1 tvg-logo="https://kino-stream.online/logo/scripach.png" group-title="GRAND PLUS|| ENDIK TV", ScripachTV
+http://kinowalk.hopto.org/scripachtv_live
 
-#EXTINF:-1 tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="GRAND PLUS|| ENDIK TV",  SeleCaoTV
-https://kino-stream.online/hls/selecaotv-film.m3u8
+#EXTINF:-1 tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="GRAND PLUS|| ENDIK TV", SeleCaoTV
+http://kinowalk.hopto.org/selecaotv_live
 
-#EXTINF:-1 tvg-logo="https://kino-stream.online/logo/SeleCaoTV.png" group-title="GRAND PLUS|| ENDIK TV",  SeleCaoTV 2
-https://kino-stream.online/hls/selecaotv-serial.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOhNoZe.png" group-title="GRAND PLUS|| ENDIK TV", Legion tv
+https://kinowalk.hopto.org/legion-tv_live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V0Qp189.png" group-title="GRAND PLUS|| ENDIK TV",  VHDV TV
-https://kino-stream.online/hls/vhdvtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTw7GvDw/Video-Arsenal.png" group-title="GRAND PLUS|| ENDIK TV", VideoArsenal
+http://kinowalk.hopto.org/videoarsenal_live
+
+#EXTINF:-1 tvg-logo="https://sun1-14.userapi.com/s/v1/ig1/ipIyCev4KHEIcx4urmZVzULjxRdlDBM6jxwVi854MGxUw6jagkf8ISPD9X5pzagyMY4hxCN1.jpg?quality=96&crop=0,0,500,500&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480&ava=1&cs=240x240" group-title="GRAND PLUS|| ENDIK TV", KinoMix Юрич
+http://kinowalk.hopto.org/yurich_kinomix_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20655827/avatar?change_time=1752925345&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", Kinofon
+http://kinowalk.hopto.org/kinofon_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", Alex.Films
+http://kinowalk.hopto.org/alex.films_live
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocJRCQczrVJsPbG0Q7qgMvphfUBuJiGktsI7wwPXSYxQCcGPBu8=s96-c" group-title="GRAND PLUS|| ENDIK TV", EvGAMEN
+http://kinowalk.hopto.org/evgamen_movies_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", Фильмы сериалы
+http://kinowalk.hopto.org/dfsfsdg_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/25125777/avatar?change_time=1768089850&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", Rus serials
+http://kinowalk.hopto.org/zzz881_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/30346500/avatar?change_time=1767118302&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", SerialTV
+http://kinowalk.hopto.org/serialtv_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20555010/avatar?change_time=1742524384&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", serial4u
+http://kinowalk.hopto.org/serial4u_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19857529/avatar?change_time=1735363832&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", BOSSFILM
+http://kinowalk.hopto.org/bossfilm_live
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=d8bb932a618b126fd382904f1cde2371_sr-5429110-images-thumbs&n=13" group-title="GRAND PLUS|| ENDIK TV", Maksim Films
+http://kinowalk.hopto.org/mmaxim0vich_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkplay.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", VHS Forever
+http://kinowalk.hopto.org/vhs-forever_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20292590/avatar?change_time=1746735412&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", ROMEO Video
+http://kinowalk.hopto.org/romantic_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", Эквилибриум
+http://kinowalk.hopto.org/equilibrium_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/18725544/avatar?change_time=1764060712&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", КОМЕДИИ 24/7
+http://kinowalk.hopto.org/cmexye4ku_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19638295/avatar?change_time=1758747161&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", ReanimatoR_VHS
+http://kinowalk.hopto.org/reanimator_vhs_live
+
+#EXTINF:-1 tvg-logo="https://images.contactout.com/companies/49ed994c26cb4d0d32669a350c721e43" group-title="GRAND PLUS|| ENDIK TV", Serial Productions
+http://kinowalk.hopto.org/swat2k_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20737705/avatar?change_time=1746958066&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", Video Channel
+http://kinowalk.hopto.org/video_channel_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/13253802/avatar?change_time=1768739676&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", Aisman
+http://kinowalk.hopto.org/aisman_live
 
 
 #EXTINF:-1 tvg-logo="https://sun1-22.userapi.com/impg/RNM6W5WFDyaOLSgnsTzQltwrhIqEFJ4vXMNTcg/F46j34IKhNc.jpg?size=320x180&quality=95&sign=a49a698984a518a76d1ae4a2be825f99&c_uniq_tag=IouPj_8lLghGnEwt685DgdLXQo32O8o0FJXtLGKb2BE&type=video_thumb" group-title="GRAND PLUS|| ENDIK TV",  Кинолаффка
-https://river-4-439.rtbcdn.ru/stream/genetta-521.ost.rutube.ru/25Vu_TmaFk1uUesRhSoOew/1770013603/3b7d1499da9396462bfd17282d758d30/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=SHsCMnRorfwMcPrJz9yoGg&e=2070104027&scheme=https
 
 #EXTINF:-1 tvg-logo="https://pic.rutubelist.ru/video/2025-03-25/75/f6/75f62fef88b9efbdbc55810553515d53.jpg?width=300" group-title="GRAND PLUS|| ENDIK TV",  Киножелезо
-https://river-3-345.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/ZlJOdwLSQrI0KNavWByy1Q/1770013648/4965b7b928c4a143d708ab424be01d37/1080p_stream.m3u8
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nVulkthwHvONsThcR6A38A&e=2070104121&scheme=https
 
 #EXTINF:-1 tvg-logo="https://pic.rutubelist.ru/video/2025-10-02/18/89/188980e103fe58923afd3105465c86a5.jpg?width=500" group-title="GRAND PLUS|| ENDIK TV",  Детективы КД
-https://river-3-358.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/qg_yMBNz3_XJTYo6T5SLLA/1770013700/e05401be60a9cc719fa7075b6e77b86d/720p_stream.m3u8
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
 
-#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20428041/avatar?change_time=1766171277&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV",  Kinowalk_tv
-https://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20428041/avatar?change_time=1766171277&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", Kinowalk_tv
+http://kinowalk.hopto.org/kinowalk_live
 
-#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19223927/avatar?change_time=1753304099&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV",  Akudji
-https://eun11.playlist.ttvnw.net/v1/playlist/Cs4GWXCvOkjPzAveJJMdklI_KFSuYxaU-zUWMPZUjwvNhxq1yRUpdDjIvsAX7EA82HLnJomzDijfd_Bx1iNeW_gVFDVonl6cAymvdYsRh9uB7Wk4-J7kkjG73LypwVU-a4dlL2m0I6uDjIwzBBZ_T-2im5Rv1RIBmbdaMgyBJflYbq513kJj6Vq0ieFXJvWxXrgWEu8qa4NdKl7mLrrSxCydGLkp-OE1r5b2_V-8DjK_1w00CZBJnWEYgBnGqDh8s6Xjk0cZD2SilvlrzdszW0eCyT2E6aaGmKdg4nFayIOVAMMdruYpVaF3o3D2mkbf6ysKzzqmyBuY5F6Vf7l6W640W4QVzyPp-qW4vWwsMyrjoYCDOvoIdH1QDFxWI6iMQHDFJw6dj6I0mDaCdtghYQnQ2ZLSAURYRJ0Zv5CPHHii0lBG5Av89c7quhFzmdCumPmr5c3k8WXRFwlcibsvvruhNgmKV7B4ZmUkcFATO3o2CQ-Tsr1-8vblgQOSRh1NwegHdmW6YdYsp20JLK7sAg7yYLI90SusVRkr0ahyEQu-Gq_171iENjTQlGDVtKtRNur1bDL0sIvx23YIKEh2VZtWxGIj9HzyI2HlPQ-s_hxgZQfJBby9dpenb6W2of2rKrjWgCnk-H6uRATsUdClsltiocOaZlkgTPg7zMC__8ENwA7lFqCTHdVnDSl42yBZoukS3_m2ES0K6uwuWule2cZyujZdF7x5N3KyKI-jF6yVLYaTN66HfKvzCfiPoK7xsGfao15UpZQT4H05C7BC3ciRwjXenw6SW_oE-mqmD3fsCqc2fSybrIzZB9Xa8cADjG_h5imuCP9GNA951Mju0Kwlef4nts4HUpsMnE7ts4laO_GOynA63WWNgfJ92ShVXeEa23zBvsHT4tb3KxVvkmXtNGYlCNDVYqtf19t2BUXTpeGn-qRkP9pZCSt_JpLrVE9kv49SA5fRceu-JPD2uRi6ScZbFxpPea4RCGU1uZYXgiJxRJ69FeHRZvvoHLBmrSFrsD5pnzSx6HiwPJEwep3EFkgzngE5YdqVEeCubXumTzkTB2UWJSay-zYN0NvqQ6xAIo6x9DJ6KX0jqP8CzEtMGj1GClO5mEyvoeod6c9hGgwdoCt5Xw40aWnWwyMgASoJZXUtd2VzdC0yMKYO.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png" group-title="GRAND PLUS|| ENDIK TV", KinoJam
+http://kinowalk.hopto.org/kinojam_live
+
+#EXTINF:-1 tvg-logo="https://sun9-15.userapi.com/s/v1/ig2/XvO3pFr-mtRn1UnHD-KuRuyH-ixRZcwTjzGJg1Hy-RmLUkojUgW7UGogQR69tcTQE5kawykqSgTYqfvZ58Dlt240.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,600x600&from=bu&cs=600x0" group-title="GRAND PLUS|| ENDIK TV", Малдер Всё ТВ
+http://kinowalk.hopto.org/vsetv_live
+
+#EXTINF:-1 tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg" group-title="GRAND PLUS|| ENDIK TV", Dimpon TV
+http://kinowalk.hopto.org/dimpon_live
+
+#EXTINF:-1 tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg" group-title="GRAND PLUS|| ENDIK TV", MovieToper
+http://kinowalk.hopto.org/movietoper_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/18824582/avatar?change_time=1714643599&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", ZubrilomFilm
+http://kinowalk.hopto.org/zubrilomfilm_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkplay.ru/user/18929766/avatar?change_time=1715176122&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", ZubrilomFranchise
+http://kinowalk.hopto.org/zubrilommusic.ru_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", wihail
+http://kinowalk.hopto.org/wihail_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19957061/avatar?change_time=1745459243&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", Scarface
+http://kinowalk.hopto.org/filmomania_live
+
+#EXTINF:-1 tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg" group-title="GRAND PLUS|| ENDIK TV", KINOPRO
+http://kinowalk.hopto.org/kinopro_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19223927/avatar?change_time=1753304099&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", Akudji
+http://kinowalk.hopto.org/akudjitv_live
+
+#EXTINF:-1 tvg-logo="https://telik.live/images/4k-hits.png" group-title="GRAND PLUS|| ENDIK TV", 4K — Кино и сериалы»
+http://kinowalk.hopto.org/4khits_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/20495921/avatar?change_time=1742225886&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", Мы из 90-х
+http://kinowalk.hopto.org/miiz90x_live
+
+
+#EXTINF:-1 tvg-logo="https://files.kick.com/images/user/59967480/profile_image/conversion/b59451dd-0815-4a82-b37f-eac9249ebb51-fullsize.webp" group-title="GRAND PLUS|| ENDIK TV", Baragozz_TV
+http://kinowalk.hopto.org/baragozz_tv_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkplay.ru/user/18142699/avatar?change_time=1696376813&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", Video_Prokat
+http://kinowalk.hopto.org/video_prokat_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19533449/avatar?change_time=1727353764&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", Prodigy
+http://kinowalk.hopto.org/roman_prodigy_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", 𝕂𝔸ℂℂ𝔼𝕋𝔸
+http://kinowalk.hopto.org/kasseta_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/19135223/avatar?change_time=1735603928&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", Первый ряд
+http://kinowalk.hopto.org/perviryad_live
+
+#EXTINF:-1 tvg-logo="https://images.live.vkvideo.ru/user/12784987/avatar?change_time=1685724547&croped=1&mh=140&mw=140" group-title="GRAND PLUS|| ENDIK TV", Bars Play
+http://kinowalk.hopto.org/toxa_stream_live
+
+
+#EXTINF:-1 tvg-logo="https://files.kick.com/images/user/89446546/profile_image/conversion/9b8f3eec-01a3-4f49-bb8b-6d66d3004cdc-fullsize.webp" group-title="GRAND PLUS|| ENDIK TV",  Rambojanski
+https://eun11.playlist.ttvnw.net/v1/playlist/CusFIect8BB3fvYv0enoel4d38GeYbj_6ZOcMGtZVCv16V2xMO7U51_DFSvziLZcaVvpTiF31XAgX4qXXbVnz15i5w84zZcfADWGV_Zz8YqrYnH_T9Z3x1dzjcqd_2sKy7oFsvzXiFScvXc3kN_QsxUOMuib8pK2QQcZ0DVnMKEy_fdq_PgcRBsZICwlAqV99h2kvN_SXI9-vtHgl4vEhPanjV68r8mpE6SXQxwcwHB7_JX4-tm-7uDDp2vIOg5QCh8McwEY-4sS0h39wPa6NUDfn-TeQTbiF6mBjia1OkzjBMK9KHk9JcOQekUJkX0cEG4lVdaKAdLzS-E261F8z6ttZRc-O0NOb0WTtJzcIqW7yQI8QUitrGamJV63t2oz1tTRy5g6Nsj_UzbSHxVGn_w0ijrzfhPuyBlqLY_TiXHn5_jAchSncDiN4nQc4ytaEXzG6uO1GlWDoGTt4PWm7jZCWeK-3nwNdXwxne4XAMAFOgJxIuI0qwX8nrMYl1wteHPpYggrYBBFXyBE6m-ajgGqYAd1-Xu1o5OdFcDAOUnNPOJs3Cqrr0S8eD2SwKGMRD2Oherrmes3m3puJ3KUEyZEnjCcI-_iCkDz4WnpmTgWdIUWpY0kJN4IcSLMiODWidWy2pQfsfjeq1ZQS0eNDpG3NLrqUmX53IhvkfCeYRrN-fZ6pbjFaoVm1urwIs20c2vwLWV30s89yQSO9NwExV3plmA_cOKWTf1YeELnkOURoFI5kAO8jKf3LPVSV4qceaMgDzz9d52ds-Hxap5iqi7vednJxGlKw0pEf8FyzuKdf2H6FWvY-kWtJxQ-TzTjJvHQbXZHp8gA6f8H8qV6STdcnDYu_flcg36w_82FNjNCw9QHuqndn-XBap61ctXZ1tIXpcRvY-8kRbW0vK2fy5S4MdKkfNmRtjNQHizZMrF9GICOkq4UX2Xv3xj3Q7Jbr4NKpNIKNZyJUGKE5zvlCz-hlMsVIls5mDKgjmgZGgziqOsrpHCMADMVLdMgASoJZXUtd2VzdC0yMLcO.m3u8
 
 
 
