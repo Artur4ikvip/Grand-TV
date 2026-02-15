@@ -2,15 +2,15 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/02/15 20:17}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/02/15 23:02}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="СПАСИБО ЗА ТРУД : 5614 6812 0418 1428",{ ОБНОВИЛ }™
 http://sc4.gergosnet.com/pulstranceHD.mp3
 
-
-
+#EXTINF:-1 group-title="(RUZIEV +) ", RELAX AM
+http://timeshift.arpinet.am/232/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR7Dhrws/image-70.png" group-title="(RUZIEV +)", VIVA CLASSIC 
 http://185.221.213.254:8080/Ritsa/index.m3u8
 #EXTINF:-1 group-title="(RUZIEV +)",  TV12 GUDAUTA
@@ -119,6 +119,261 @@ http://vod.tuva.ru/nst/index.m3u8
 http://116.202.238.88/FOXTV_TR/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ ACTION" tvg-logo="" group-title="RUZIEV +",CANAL+ ACTION
+http://nordsohzace.top:8080/301697906482120/51702227668057/52225
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ CINEMA" tvg-logo="" group-title="RUZIEV +",CANAL+ CINEMA
+http://nordsohzace.top:8080/301697906482120/51702227668057/52226
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ ELLES" tvg-logo="" group-title="RUZIEV +",CANAL+ ELLES
+http://nordsohzace.top:8080/301697906482120/51702227668057/52227
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ FAMILY" tvg-logo="" group-title="RUZIEV +",CANAL+ FAMILY
+http://nordsohzace.top:8080/301697906482120/51702227668057/52228
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ POP" tvg-logo="" group-title="RUZIEV +",CANAL+ POP
+http://nordsohzace.top:8080/301697906482120/51702227668057/52229
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ PREMIERE" tvg-logo="" group-title="RUZIEV +",CANAL+ PREMIERE
+http://nordsohzace.top:8080/301697906482120/51702227668057/52230
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 1" tvg-logo="" group-title="RUZIEV +",CANAL+ SPORT 1
+http://nordsohzace.top:8080/301697906482120/51702227668057/52231
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 2" tvg-logo="" group-title="RUZIEV +",CANAL+ SPORT 2
+http://nordsohzace.top:8080/301697906482120/51702227668057/52232
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 3" tvg-logo="" group-title="RUZIEV +",CANAL+ SPORT 3
+http://nordsohzace.top:8080/301697906482120/51702227668057/52233
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 4" tvg-logo="" group-title="RUZIEV +",CANAL+ SPORT 4
+http://nordsohzace.top:8080/301697906482120/51702227668057/52234
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 5" tvg-logo="" group-title="RUZIEV +",CANAL+ SPORT 5
+http://nordsohzace.top:8080/301697906482120/51702227668057/52235
+#EXTINF:-1 tvg-id="" tvg-name="AF: MTV BASE" tvg-logo="https://docdog.top/logo/countries/africa/mtvbase.png" group-title="RUZIEV +",MTV BASE
+http://nordsohzace.top:8080/301697906482120/51702227668057/52304
+#EXTINF:-1 tvg-id="MCM" tvg-name="FR: MCM" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MCM.png" group-title="RUZIEV +",MCM
+http://nordsohzace.top:8080/301697906482120/51702227668057/8134
+#EXTINF:-1 tvg-id="MCM Top" tvg-name="FR: MCM TOP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MCM_TOP.png" group-title="RUZIEV +",MCM TOP
+http://nordsohzace.top:8080/301697906482120/51702227668057/8136
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="FR: MEZZO" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MEZZO.png" group-title="RUZIEV +",MEZZO
+http://nordsohzace.top:8080/301697906482120/51702227668057/8138
+#EXTINF:-1 tvg-id="MTV" tvg-name="FR: MTV" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MTV.png" group-title="RUZIEV +",MTV
+http://nordsohzace.top:8080/301697906482120/51702227668057/8141
+#EXTINF:-1 tvg-id="M6 Music" tvg-name="FR: M6 MUSIC" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/M6_MUSIC.png" group-title="RUZIEV +",M6 MUSIC
+http://nordsohzace.top:8080/301697906482120/51702227668057/25129
+#EXTINF:-1 tvg-id="NRJ Hits" tvg-name="FR: NRJ HITS" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/NRJ_HITS.png" group-title="RUZIEV +",NRJ HITS
+http://nordsohzace.top:8080/301697906482120/51702227668057/8153
+#EXTINF:-1 tvg-id="RFM TV" tvg-name="FR: RFM TV" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/RFM_TV.png" group-title="RUZIEV +",RFM TV
+http://nordsohzace.top:8080/301697906482120/51702227668057/8171
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="FR: TRACE URBAN" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TRACE_URBAN.png" group-title="RUZIEV +",TRACE URBAN
+http://nordsohzace.top:8080/301697906482120/51702227668057/8196
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS" tvg-logo="https://docdog.top/logo/countries/india//colorstamil.png" group-title="RUZIEV +",COLORS
+http://nordsohzace.top:8080/301697906482120/51702227668057/53428
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://docdog.top/logo/countries/india/colors-cineplex-in.png" group-title="RUZIEV +",COLORS CINEPLEX
+http://nordsohzace.top:8080/301697906482120/51702227668057/53430
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS EUROPE" tvg-logo="https://docdog.top/logo/countries/india/colors-in.png" group-title="RUZIEV +",COLORS EUROPE
+http://nordsohzace.top:8080/301697906482120/51702227668057/53431
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV" tvg-logo="https://docdog.top/logo/countries/india/mtv.png" group-title="RUZIEV +",MTV
+http://nordsohzace.top:8080/301697906482120/51702227668057/53549
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV BEATS" tvg-logo="https://docdog.top/logo/countries/india/mtv-beats-in.png" group-title="RUZIEV +",MTV BEATS
+http://nordsohzace.top:8080/301697906482120/51702227668057/53550
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC 1" tvg-logo="https://docdog.top/logo/countries/arab/mbc1.png" group-title="GRAND PLUS | MBC & MYHD",MBC 1
+http://nordsohzace.top:8080/301697906482120/51702227668057/53048
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC 2" tvg-logo="https://docdog.top/logo/countries/arab/mbc2.png" group-title="GRAND PLUS | MBC & MYHD",MBC 2
+http://nordsohzace.top:8080/301697906482120/51702227668057/53049
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC 3" tvg-logo="https://docdog.top/logo/countries/arab/mbc3.png" group-title="GRAND PLUS | MBC & MYHD",MBC 3
+http://nordsohzace.top:8080/301697906482120/51702227668057/53050
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC 4" tvg-logo="https://docdog.top/logo/countries/arab/mbc4.png" group-title="GRAND PLUS | MBC & MYHD",MBC 4
+http://nordsohzace.top:8080/301697906482120/51702227668057/53051
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC 5" tvg-logo="https://docdog.top/logo/countries/arab/mbc5.png" group-title="GRAND PLUS | MBC & MYHD",MBC 5
+http://nordsohzace.top:8080/301697906482120/51702227668057/53052
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC ACTION" tvg-logo="https://docdog.top/logo/countries/arab/mbcaction.png" group-title="GRAND PLUS | MBC & MYHD",MBC ACTION
+http://nordsohzace.top:8080/301697906482120/51702227668057/53053
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC B4U AFLAM" tvg-logo="" group-title="GRAND PLUS | MBC & MYHD",MBC B4U AFLAM
+http://nordsohzace.top:8080/301697906482120/51702227668057/53054
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC BOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/arab/mbcbollywood.png" group-title="GRAND PLUS | MBC & MYHD",MBC BOLLYWOOD
+http://nordsohzace.top:8080/301697906482120/51702227668057/53055
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC DRAMA" tvg-logo="https://docdog.top/logo/countries/arab/mbcdrama.png" group-title="GRAND PLUS | MBC & MYHD",MBC DRAMA
+http://nordsohzace.top:8080/301697906482120/51702227668057/53056
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC DRAMA PLUS" tvg-logo="https://docdog.top/logo/countries/arab/mbcdramaplus.png" group-title="GRAND PLUS | MBC & MYHD",MBC DRAMA PLUS
+http://nordsohzace.top:8080/301697906482120/51702227668057/53057
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC MASR 1" tvg-logo="https://docdog.top/logo/countries/arab/mbcmasr1.png" group-title="GRAND PLUS | MBC & MYHD",MBC MASR 1
+http://nordsohzace.top:8080/301697906482120/51702227668057/53059
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC MASR 2" tvg-logo="https://docdog.top/logo/countries/arab/mbcmasr2.png" group-title="GRAND PLUS | MBC & MYHD",MBC MASR 2
+http://nordsohzace.top:8080/301697906482120/51702227668057/53060
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC MAX" tvg-logo="https://docdog.top/logo/countries/arab/mbcmax.png" group-title="GRAND PLUS | MBC & MYHD",MBC MAX
+http://nordsohzace.top:8080/301697906482120/51702227668057/53061
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC+ VARIETY" tvg-logo="https://docdog.top/logo/countries/arab/MBC+VARIETY.jpg" group-title="GRAND PLUS | MBC & MYHD",MBC+ VARIETY
+http://nordsohzace.top:8080/301697906482120/51702227668057/53062
+#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD FILMBOX" tvg-logo="https://docdog.top/logo/countries/arab/myfilmbox.png" group-title="GRAND PLUS | MBC & MYHD",MYHD FILMBOX
+http://nordsohzace.top:8080/301697906482120/51702227668057/53079
+#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD FIXI FOXI" tvg-logo="https://docdog.top/logo/countries/arab/MYHDFIXIFOXI.jpg" group-title="GRAND PLUS | MBC & MYHD",MYHD FIXI FOXI
+http://nordsohzace.top:8080/301697906482120/51702227668057/53080
+#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD GULLI" tvg-logo="https://docdog.top/logo/countries/arab/MYHDGULLI.jpg" group-title="GRAND PLUS | MBC & MYHD",MYHD GULLI
+http://nordsohzace.top:8080/301697906482120/51702227668057/53081
+#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD MBC 1" tvg-logo="https://docdog.top/logo/countries/arab/mbc1.png" group-title="GRAND PLUS | MBC & MYHD",MYHD MBC 1
+http://nordsohzace.top:8080/301697906482120/51702227668057/53082
+#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD MBC 2" tvg-logo="https://docdog.top/logo/countries/arab/MYHDMBC2.png" group-title="GRAND PLUS | MBC & MYHD",MYHD MBC 2
+http://nordsohzace.top:8080/301697906482120/51702227668057/53083
+#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD MBC 3" tvg-logo="https://docdog.top/logo/countries/arab/MYHDMBC3.jpg" group-title="GRAND PLUS | MBC & MYHD",MYHD MBC 3
+http://nordsohzace.top:8080/301697906482120/51702227668057/53084
+#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD MBC 4" tvg-logo="https://docdog.top/logo/countries/arab/MYHDMBC4.jpg" group-title="GRAND PLUS | MBC & MYHD",MYHD MBC 4
+http://nordsohzace.top:8080/301697906482120/51702227668057/53085
+#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD MBC ACTION" tvg-logo="" group-title="GRAND PLUS | MBC & MYHD",MYHD MBC ACTION
+http://nordsohzace.top:8080/301697906482120/51702227668057/53086
+#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD MBC DRAMA" tvg-logo="https://docdog.top/logo/countries/arab/MYHDMBCDRAMA.png" group-title="GRAND PLUS | MBC & MYHD",MYHD MBC DRAMA
+http://nordsohzace.top:8080/301697906482120/51702227668057/53087
+#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD MBC PLUS DRAMA" tvg-logo="https://docdog.top/logo/countries/arab/MBCPLUSDRAMA.png" group-title="GRAND PLUS | MBC & MYHD",MYHD MBC PLUS DRAMA
+http://nordsohzace.top:8080/301697906482120/51702227668057/53088
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN W" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN W
+http://nordsohzace.top:8080/301697906482120/51702227668057/53361
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MTV 00s" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN MTV 00s
+http://nordsohzace.top:8080/301697906482120/51702227668057/53340
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NEWS" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN NEWS
+http://nordsohzace.top:8080/301697906482120/51702227668057/53341
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies Hollywood" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN Movies Hollywood
+http://nordsohzace.top:8080/301697906482120/51702227668057/53333
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Nicktoons" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN Nicktoons
+http://nordsohzace.top:8080/301697906482120/51702227668057/53334
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN SHOWCASE" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN SHOWCASE
+http://nordsohzace.top:8080/301697906482120/51702227668057/53335
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOONBUG KIDS" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN MOONBUG KIDS
+http://nordsohzace.top:8080/301697906482120/51702227668057/53336
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Al Safwa" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN Al Safwa
+http://nordsohzace.top:8080/301697906482120/51702227668057/53337
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Music Now" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN Music Now
+http://nordsohzace.top:8080/301697906482120/51702227668057/53338
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES FESTIVAL" tvg-logo="https://docdog.top/logo/countries/arab/osnmoviesfestival.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES FESTIVAL
+http://nordsohzace.top:8080/301697906482120/51702227668057/53310
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES THRILLER 2" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN MOVIES THRILLER 2
+http://nordsohzace.top:8080/301697906482120/51702227668057/53311
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES PREMIERE 2" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN MOVIES PREMIERE 2
+http://nordsohzace.top:8080/301697906482120/51702227668057/53312
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES PREMIERE" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN MOVIES PREMIERE
+http://nordsohzace.top:8080/301697906482120/51702227668057/53313
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES THRILLER" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN MOVIES THRILLER
+http://nordsohzace.top:8080/301697906482120/51702227668057/53314
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YAHALA AFLAM" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN YAHALA AFLAM
+http://nordsohzace.top:8080/301697906482120/51702227668057/53315
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN SKY NEWS" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN SKY NEWS
+http://nordsohzace.top:8080/301697906482120/51702227668057/53316
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN SERIES CHANNEL" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN SERIES CHANNEL
+http://nordsohzace.top:8080/301697906482120/51702227668057/53317
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MEZZE" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN MEZZE
+http://nordsohzace.top:8080/301697906482120/51702227668057/53319
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN LIVING" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN LIVING
+http://nordsohzace.top:8080/301697906482120/51702227668057/53320
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN CRIME INVESTIGATION" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN CRIME INVESTIGATION
+http://nordsohzace.top:8080/301697906482120/51702227668057/53321
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART AFLAM 1" tvg-logo="https://docdog.top/logo/countries/arab/osnartaflam1.png" group-title="GRAND PLUS | OSN AR", OSN ART AFLAM 1
+http://nordsohzace.top:8080/301697906482120/51702227668057/52849
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART AFLAM 2" tvg-logo="https://docdog.top/logo/countries/arab/osnartaflam2.png" group-title="GRAND PLUS | OSN AR", OSN ART AFLAM 2
+http://nordsohzace.top:8080/301697906482120/51702227668057/52850
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART CINEMA" tvg-logo="https://docdog.top/logo/countries/arab/artcinema.png" group-title="GRAND PLUS | OSN AR", OSN ART CINEMA
+http://nordsohzace.top:8080/301697906482120/51702227668057/52851
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN HEKAYAT 1" tvg-logo="https://docdog.top/logo/countries/arab/osnarthekayat1.png" group-title="GRAND PLUS | OSN AR", OSN HEKAYAT 1
+http://nordsohzace.top:8080/301697906482120/51702227668057/52852
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN HEKAYAT 2" tvg-logo="https://docdog.top/logo/countries/arab/arthekayat2.png" group-title="GRAND PLUS | OSN AR", OSN HEKAYAT 2
+http://nordsohzace.top:8080/301697906482120/51702227668057/52853
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN CNBC" tvg-logo="https://docdog.top/logo/countries/arab/CNBCARABIA.png" group-title="GRAND PLUS | OSN AR", OSN CNBC
+http://nordsohzace.top:8080/301697906482120/51702227668057/52892
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ACTION" tvg-logo="https://docdog.top/logo/countries/arab/osnaction.png" group-title="GRAND PLUS | OSN AR", OSN ACTION
+http://nordsohzace.top:8080/301697906482120/51702227668057/53124
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Al YAWM" tvg-logo="https://docdog.top/logo/countries/arab/OSNALFAALYOUM.png" group-title="GRAND PLUS | OSN AR", OSN Al YAWM
+http://nordsohzace.top:8080/301697906482120/51702227668057/53125
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN BABY TV" tvg-logo="https://docdog.top/logo/countries/arab/osnbabytv.png" group-title="GRAND PLUS | OSN AR", OSN BABY TV
+http://nordsohzace.top:8080/301697906482120/51702227668057/53126
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISCOVERY" tvg-logo="https://docdog.top/logo/countries/arab/osndiscovery.png" group-title="GRAND PLUS | OSN AR", OSN DISCOVERY
+http://nordsohzace.top:8080/301697906482120/51702227668057/53127
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISCOVERY ID" tvg-logo="https://docdog.top/logo/countries/arab/OSNDISCOVERYID.png" group-title="GRAND PLUS | OSN AR", OSN DISCOVERY ID
+http://nordsohzace.top:8080/301697906482120/51702227668057/53128
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/arab/osndiscoveryscience.png" group-title="GRAND PLUS | OSN AR", OSN DISCOVERY SCIENCE
+http://nordsohzace.top:8080/301697906482120/51702227668057/53129
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISNEY JUNIOR" tvg-logo="https://docdog.top/logo/countries/arab/osndisneyjunior.png" group-title="GRAND PLUS | OSN AR", OSN DISNEY JUNIOR
+http://nordsohzace.top:8080/301697906482120/51702227668057/53130
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN E! Entertainment" tvg-logo="https://docdog.top/logo/countries/arab/OSNE!.jpg" group-title="GRAND PLUS | OSN AR", OSN E! Entertainment
+http://nordsohzace.top:8080/301697906482120/51702227668057/53131
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES ENIGMA" tvg-logo="https://docdog.top/logo/countries/arab/osnenigma.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES ENIGMA
+http://nordsohzace.top:8080/301697906482120/51702227668057/53132
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN FAMILY" tvg-logo="https://docdog.top/logo/countries/arab/OSNPREMIERE.png" group-title="GRAND PLUS | OSN AR", OSN FAMILY
+http://nordsohzace.top:8080/301697906482120/51702227668057/53133
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN FANN" tvg-logo="https://docdog.top/logo/countries/arab/osnfann.png" group-title="GRAND PLUS | OSN AR", OSN FANN
+http://nordsohzace.top:8080/301697906482120/51702227668057/53134
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN HISTORY" tvg-logo="https://docdog.top/logo/countries/arab/osnhistory.png" group-title="GRAND PLUS | OSN AR", OSN HISTORY
+http://nordsohzace.top:8080/301697906482120/51702227668057/53135
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN H2" tvg-logo="https://docdog.top/logo/countries/arab/osnhistory2.png" group-title="GRAND PLUS | OSN AR", OSN H2
+http://nordsohzace.top:8080/301697906482120/51702227668057/53136
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN KIDS" tvg-logo="https://docdog.top/logo/countries/arab/osnkids.png" group-title="GRAND PLUS | OSN AR", OSN KIDS
+http://nordsohzace.top:8080/301697906482120/51702227668057/53137
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN KIDZONE" tvg-logo="https://docdog.top/logo/countries/arab/osnkidszone.png" group-title="GRAND PLUS | OSN AR", OSN KIDZONE
+http://nordsohzace.top:8080/301697906482120/51702227668057/53138
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES FIRST" tvg-logo="https://docdog.top/logo/countries/arab/OSNMOVIEFIRST.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES FIRST
+http://nordsohzace.top:8080/301697906482120/51702227668057/53139
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES" tvg-logo="https://docdog.top/logo/countries/arab/osnmovies.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES
+http://nordsohzace.top:8080/301697906482120/51702227668057/53140
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES ACTION" tvg-logo="https://docdog.top/logo/countries/arab/osnmoviesaction.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES ACTION
+http://nordsohzace.top:8080/301697906482120/51702227668057/53141
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES BOX OFFICE 1" tvg-logo="https://docdog.top/logo/countries/arab/OSNMOVIESBOXOFFICE.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES BOX OFFICE 1
+http://nordsohzace.top:8080/301697906482120/51702227668057/53142
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES BOX OFFICE 2" tvg-logo="https://docdog.top/logo/countries/arab/OSNMOVIESBOXOFFICE.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES BOX OFFICE 2
+http://nordsohzace.top:8080/301697906482120/51702227668057/53143
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES BOX OFFICE 3" tvg-logo="https://docdog.top/logo/countries/arab/OSNMOVIESBOXOFFICE.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES BOX OFFICE 3
+http://nordsohzace.top:8080/301697906482120/51702227668057/53144
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN COMEDY" tvg-logo="https://docdog.top/logo/countries/arab/osnmoviescomedy.png" group-title="GRAND PLUS | OSN AR", OSN COMEDY
+http://nordsohzace.top:8080/301697906482120/51702227668057/53145
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISNEY" tvg-logo="https://docdog.top/logo/countries/arab/osnmoviesdisney.png" group-title="GRAND PLUS | OSN AR", OSN DISNEY
+http://nordsohzace.top:8080/301697906482120/51702227668057/53146
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES DRAMA" tvg-logo="https://docdog.top/logo/countries/arab/osnmoviesdrama.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES DRAMA
+http://nordsohzace.top:8080/301697906482120/51702227668057/53147
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES FIRST +2" tvg-logo="https://docdog.top/logo/countries/arab/osnmoviesfirst.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES FIRST +2
+http://nordsohzace.top:8080/301697906482120/51702227668057/53148
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MTV LIVE" tvg-logo="https://docdog.top/logo/countries/arab/OSNMTVLIVE.png" group-title="GRAND PLUS | OSN AR", OSN MTV LIVE
+http://nordsohzace.top:8080/301697906482120/51702227668057/53149
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NAT GEO" tvg-logo="https://docdog.top/logo/countries/arab/osnnatgeowild.png" group-title="GRAND PLUS | OSN AR", OSN NAT GEO
+http://nordsohzace.top:8080/301697906482120/51702227668057/53150
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/arab/osnnatgeowild.png" group-title="GRAND PLUS | OSN AR", OSN NAT GEO WILD
+http://nordsohzace.top:8080/301697906482120/51702227668057/53151
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NICK JR" tvg-logo="https://docdog.top/logo/countries/arab/OSNNICKJR.png" group-title="GRAND PLUS | OSN AR", OSN NICK JR
+http://nordsohzace.top:8080/301697906482120/51702227668057/53152
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NICKELODEON" tvg-logo="https://docdog.top/logo/countries/arab/osnnickelodeon.png" group-title="GRAND PLUS | OSN AR", OSN NICKELODEON
+http://nordsohzace.top:8080/301697906482120/51702227668057/53153
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ON DEMAND 1" tvg-logo="https://docdog.top/logo/countries/arab/osnondemand1.png" group-title="GRAND PLUS | OSN AR", OSN ON DEMAND 1
+http://nordsohzace.top:8080/301697906482120/51702227668057/53154
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ON DEMAND 2" tvg-logo="https://docdog.top/logo/countries/arab/osnondemand2.png" group-title="GRAND PLUS | OSN AR", OSN ON DEMAND 2
+http://nordsohzace.top:8080/301697906482120/51702227668057/53155
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ON DEMAND 3" tvg-logo="https://docdog.top/logo/countries/arab/osnondemand3.png" group-title="GRAND PLUS | OSN AR", OSN ON DEMAND 3
+http://nordsohzace.top:8080/301697906482120/51702227668057/53156
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ON DEMAND EXTRA 1" tvg-logo="https://docdog.top/logo/countries/arab/osnondemandextra.png" group-title="GRAND PLUS | OSN AR", OSN ON DEMAND EXTRA 1
+http://nordsohzace.top:8080/301697906482120/51702227668057/53157
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ON DEMAND EXTRA 2" tvg-logo="https://docdog.top/logo/countries/arab/osnondemandextra.png" group-title="GRAND PLUS | OSN AR", OSN ON DEMAND EXTRA 2
+http://nordsohzace.top:8080/301697906482120/51702227668057/53158
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ON DEMAND EXTRA 3" tvg-logo="https://docdog.top/logo/countries/arab/osnondemandextra.png" group-title="GRAND PLUS | OSN AR", OSN ON DEMAND EXTRA 3
+http://nordsohzace.top:8080/301697906482120/51702227668057/53159
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN CINEMA 1" tvg-logo="https://docdog.top/logo/countries/arab/osnorbitcinema1.png" group-title="GRAND PLUS | OSN AR", OSN CINEMA 1
+http://nordsohzace.top:8080/301697906482120/51702227668057/53160
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN PREMIERE" tvg-logo="https://docdog.top/logo/countries/arab/OSNPREMIERE.png" group-title="GRAND PLUS | OSN AR", OSN PREMIERE
+http://nordsohzace.top:8080/301697906482120/51702227668057/53161
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Series Prime" tvg-logo="https://docdog.top/logo/countries/arab/osnseriesfirst.png" group-title="GRAND PLUS | OSN AR", OSN Series Prime
+http://nordsohzace.top:8080/301697906482120/51702227668057/53162
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN STAR MOVIES" tvg-logo="https://docdog.top/logo/countries/arab/osnstarmovies.png" group-title="GRAND PLUS | OSN AR", OSN STAR MOVIES
+http://nordsohzace.top:8080/301697906482120/51702227668057/53163
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN STAR WORLD" tvg-logo="https://docdog.top/logo/countries/arab/OSNSTARWORLD.png" group-title="GRAND PLUS | OSN AR", OSN STAR WORLD
+http://nordsohzace.top:8080/301697906482120/51702227668057/53164
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN SYFY" tvg-logo="https://docdog.top/logo/countries/arab/osnsyfy.png" group-title="GRAND PLUS | OSN AR", OSN SYFY
+http://nordsohzace.top:8080/301697906482120/51702227668057/53165
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN TLC" tvg-logo="https://docdog.top/logo/countries/arab/osntlc.png" group-title="GRAND PLUS | OSN AR", OSN TLC
+http://nordsohzace.top:8080/301697906482120/51702227668057/53166
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN WWE" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN WWE
+http://nordsohzace.top:8080/301697906482120/51702227668057/53167
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YAHALA" tvg-logo="https://docdog.top/logo/countries/arab/osnyahala.png" group-title="GRAND PLUS | OSN AR", OSN YAHALA
+http://nordsohzace.top:8080/301697906482120/51702227668057/53168
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Yahala Bil Arabi" tvg-logo="https://docdog.top/logo/countries/arab/osnyahalaaloula.png" group-title="GRAND PLUS | OSN AR", OSN Yahala Bil Arabi
+http://nordsohzace.top:8080/301697906482120/51702227668057/53169
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YAHALA CINEMA" tvg-logo="https://docdog.top/logo/countries/arab/osnyahalacinema.png" group-title="GRAND PLUS | OSN AR", OSN YAHALA CINEMA
+http://nordsohzace.top:8080/301697906482120/51702227668057/53170
 
 
 
