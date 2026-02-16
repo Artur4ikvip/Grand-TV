@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/02/15 23:02}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/02/16 20:26}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -11,10 +11,50 @@ http://sc4.gergosnet.com/pulstranceHD.mp3
 
 #EXTINF:-1 group-title="(RUZIEV +) ", RELAX AM
 http://timeshift.arpinet.am/232/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bR7Dhrws/image-70.png" group-title="(RUZIEV +)", VIVA CLASSIC 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bR7Dhrws/image-70.png" group-title="RUZIEV MY TV +", VIVA CLASSIC 
 http://185.221.213.254:8080/Ritsa/index.m3u8
-#EXTINF:-1 group-title="(RUZIEV +)",  TV12 GUDAUTA
+#EXTINF:-1 group-title="RUZIEV MY TV +",  TV12 GUDAUTA
 http://185.221.213.254:8080/Mafia2/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",  VIVA Russiaᴴᴰ
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=xq7ifwxf9G6XOiYtV2eOdQ&e=2069025350&scheme=https
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  VIVA Russiaᴴᴰ
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=3GjJXc7GSpajnGdSWZzhDA&e=2069068475&scheme=https
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  TMF RUSᴴᴰ
+https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  TMF RUSᴴᴰ
+https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  TMF RUSᴴᴰ
+https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/chunks.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",  Miami TV Musicᴴᴰ
+https://59ec5453559f0.streamlock.net/miamitvmusic/_definst_/smil:22596/chunklist_w1738820734_b5096000.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",  Record Megamix SD
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=-DTb1r4R3jsW_QG2FP13BQ&e=2068637589&scheme=https
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  Record Megamix SD
+https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=IcAYG4YgREKSU7gFs7ASiw&e=2069025350&scheme=https
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  Record Tranceᴴᴰ
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=gp-4Wbobowp_EIQ7zTnB3Q&e=2069025350&scheme=https
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  Record Tranceᴴᴰ
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=Yh6F-BTmx3erbJO585-ByQ&e=2069068475&scheme=https
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  Record Tranceᴴᴰ
+https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=q8j7Y55dkIr35vAkxG8CoQ&e=2069500994&scheme=https
+#EXTINF:-1 group-title="RUZIEV MY TV +",  V2BEAT 
+http://dmitry-tv.ddns.net/hls/CH_V2BEATHD720.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",  INFINITY SD
+https://fl1003.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +",  Music SD
+https://fl1001.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg" ,HAPPY RADIOᴴᴰ
+#EXTGRP:RUZIEV MY TV +
+https://tv.mediacp.eu:8081/happyradio/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:0 tvg-id="ch030" tvg-name="MTV Europe" tvg-logo="http://tvtm.one/images/chIcons/30.png" tvg-rec="0", MTV Europe
 #EXTGRP:(RUZIEV +)
 http://3.tvtm.one/ch030/mono.m3u8?token=badpsy.v2_IaUf1d3M3U5_uOrE8T7qkbSW987JtGPxRG4ti-QcLLu9SVVxuKnP_1usq204C_WRWUDb25Ac
@@ -39,137 +79,334 @@ http://3.tvtm.one/ch3895/mono.m3u8?token=badpsy.v2_B6IVCo2kT9IPltgrM6hbNE0q-jFY5
 #EXTINF:0 tvg-id="ch3896" tvg-name="MTV Hits HD" tvg-logo="http://tvtm.one/images/chIcons/3896.png" tvg-rec="0", MTV Hits HD
 #EXTGRP:(RUZIEV +)
 http://3.tvtm.one/ch3896/mono.m3u8?token=badpsy.v2_yWIeN35OP0s1O_jQpWyTLY-eB4hUlwfvebAwt5154wq-TBzlNh7tCwzY_kFdVkK4MvfKZaw3e5E
-#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/2766.png" group-title="(RUZIEV +)", MTV Base HD
+#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/2766.png" group-title="RUZIEV MY TV +", MTV Base HD
 http://3.tvtm.one/ch2766/mono.m3u8?token=zazann.v2_9TBIoJ6HsIPOyOpuBZimqJz3ZZ8Vn0YdmE2fU84Ie7lzKvdmduDn3IdTm-1eI3CKo4J-7FVJA4I
 
-#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/2752.png" group-title="(RUZIEV +)", MTV Idol HD
+#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/2752.png" group-title="RUZIEV MY TV +", MTV Idol HD
 http://3.tvtm.one/ch2752/mono.m3u8?token=zazann.v2_C4BsB86gSdjbSoma8cZ4Rjis6uWFg0Z7PNSEPDC-B73zCuE5prHZTTmig5FAIzgUR9esFzRd0Nk
 
-#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/2758.png" group-title="(RUZIEV +)", MTV Pulse HD
+#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/2758.png" group-title="RUZIEV MY TV +", MTV Pulse HD
 http://3.tvtm.one/ch2758/mono.m3u8?token=zazann.v2_HclVHA0_FpwgeTOCRn9wkydGbatSoKDa6k6_nTfmI11zfGn7uJwuNHBEmCDbHH5o4ktE-mvHzVg
 
-#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/3895.png" group-title="(RUZIEV +)", MTV Club HD
+#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/3895.png" group-title="RUZIEV MY TV +", MTV Club HD
 http://3.tvtm.one/ch3895/mono.m3u8?token=zazann.v2_ZdgJaGXwpBHCoooflysHvqvr6VB34Zfm5SpR-4MOn-oKlePAvqCd0yUNtV8r6Is6xsgN2UY4stk
 
-#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/3896.png" group-title="(RUZIEV +)", MTV Hits HD
+#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/3896.png" group-title="RUZIEV MY TV +", MTV Hits HD
 http://3.tvtm.one/ch3896/mono.m3u8?token=zazann.v2_jh_iBZ6ZFYWN9oM_R18lf3auIvQ1YTKGkTcU0HVW8Z9NPiLxqzz_cp6ifkMDPXiO1wXSgiEPdi4
 
-#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/2333.png" group-title="(RUZIEV +)", Xmas Hits+
+#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/2333.png" group-title="RUZIEV MY TV +", Xmas Hits+
 http://3.tvtm.one/ch2333/mono.m3u8?token=zazann.v2_JYwcV3KUj8EW6DnDOiK_m8T6poAmRJOrdvdf0L-SyBSoH85_RcE6xWUikmLOLjLNCdAOZ__205Y
 
-#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/2334.png" group-title="(RUZIEV +)", Music Hits+
+#EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/2334.png" group-title="RUZIEV MY TV +", Music Hits+
 http://3.tvtm.one/ch2334/mono.m3u8?token=zazann.v2_Pws2TOwnfOxCBnCTRpS0OCTwCY5kaoBcaoAwOlgLtboZZzBE5n-3-SyVazrsu4PiA9T1pjj62Ag
-#EXTINF:-1 group-title="(RUZIEV +)",MTV MOVIE HITS 
+#EXTINF:-1 group-title="RUZIEV MY TV +", MTV MOVIE HITS 
 https://jmp2.uk/plu-6331a4df44111b00076b15f7.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="(RUZIEV +)",  Setanta Sports 1 HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="RUZIEV MY TV +",  Setanta Sports 1 HD
 http://s8.rafail1982.uz/1263/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="(RUZIEV +)",  Setanta Sports 2 HD
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="RUZIEV MY TV +",  Setanta Sports 2 HD
 http://s8.rafail1982.uz/1264/tracks-v1a1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="(RUZIEV +)",  KinoMan AM
+#EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="RUZIEV MY TV +",  KinoMan AM
 http://saveukraine.1ce.xyz/7759/video.m3u8?token=crfQShRf4v
-#EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="(RUZIEV +)",  ԿԻՆՈՄԱՆ
+#EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="RUZIEV MY TV +",  ԿԻՆՈՄԱՆ
 http://fc1qlunj.tvclub.xyz/iptv/FFYQ24ALHHBLUN/282/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="(RUZIEV +)",  ԿԻՆՈՄԱՆ
+#EXTINF:-1 tvg-logo="http://epg.one/img/2393.png" group-title="RUZIEV MY TV +",  ԿԻՆՈՄԱՆ
 http://fc1qlunj.tvclub.xyz/iptv/75VWHXAQFUB8TG/282/index.m3u8
-#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/cineman.png" group-title="(RUZIEV +)", Cineman HD AM
+#EXTINF:-1 tvg-logo="http://logo.vivamax.pro/logo/cineman.png" group-title="RUZIEV MY TV +", Cineman HD AM
 http://185.57.68.33:80/255/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="(RUZIEV +)",  ATV Armenia Premium 6
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="RUZIEV MY TV +",  ATV Armenia Premium 6
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/5941.png" group-title="(RUZIEV +)",  ATV Armount TV
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img2/5941.png" group-title="RUZIEV MY TV +",  ATV Armount TV
 https://us1.ottstream.live:17071/C352/index.m3u8?token=GGfkFV4$TXeZjt3i
-#EXTINF:-1 group-title="(RUZIEV +)",  ATV Bazmoc
+#EXTINF:-1 group-title="RUZIEV MY TV +",  ATV Bazmoc
 http://109.68.122.117:8899/bazmoc
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="(RUZIEV +)", ATV CineMan HD
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2394.png" group-title="RUZIEV MY TV +", ATV CineMan HD
 http://185.57.68.33:80/255/index.m3u8
 
-#EXTINF:-1 group-title="(RUZIEV +)", Arpinet SD
+#EXTINF:-1 group-title="RUZIEV MY TV +", Arpinet SD
 http://timeshift.arpinet.am/237/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="(RUZIEV +)",  ATV Kinoman
-http://s7.merlive.am/Kinoman/index.m3u8
-#EXTINF:-1 group-title="(RUZIEV +)", Arpinet SD
+
+#EXTINF:-1 group-title="RUZIEV MY TV +", Arpinet SD
 http://185.57.68.33/237/mpegts
-#EXTINF:-1 tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/653/1.1" group-title="(RUZIEV +)",  Блокбастер HD
+#EXTINF:-1 tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/653/1.1" group-title="RUZIEV MY TV +",  Блокбастер HD
 http://tv.lamro.workers.dev/?ID=4963
-#EXTINF:-1 tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/786/1.1" group-title="(RUZIEV +)",  FAN HD
+#EXTINF:-1 tvg-logo="http://smarty.lamro.tv/media/upload/epg_icons/786/1.1" group-title="RUZIEV MY TV +",  FAN HD
 http://tv.lamro.workers.dev/?ID=5064
-#EXTINF:-1 group-title="(RUZIEV +)", NSC HD
+#EXTINF:-1 group-title="RUZIEV MY TV +", NSC HD
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210_output_0.m3u8?session=bomhMGCHEtND9D3hX7kb4M
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="(RUZIEV +)",  Cinema
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="RUZIEV MY TV +",  Cinema
 http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2754.png" group-title="(RUZIEV +)",  Cinema 
+#EXTINF:-1 tvg-logo="http://epg.one/img/2754.png" group-title="RUZIEV MY TV +",  Cinema 
 http://catchup.videoline.ru/cinema/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="(RUZIEV +)",  Кино ТВ
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="RUZIEV MY TV +",  Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="(RUZIEV +)",   Кино ТВ
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="RUZIEV MY TV +",   Кино ТВ
 https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Kino 24.png" group-title="(RUZIEV +)",  Kinosweet HD
-http://193.27.209.122/kinosweet/index.m3u8
-#EXTINF:-1 group-title="(RUZIEV +)", Kinowood
-http://193.27.209.122/kinowood/index.m3u8
-#EXTINF:-1 group-title="(RUZIEV +)",  TV 1 KG FHD
+
+#EXTINF:-1 group-title="RUZIEV MY TV +",  TV 1 KG FHD
 https://rebrand.ly/tqiq6lv/ROSTIK-TV/TV-1-KG
-#EXTINF:-1 group-title="(RUZIEV +)", TV-1 KG
+#EXTINF:-1 group-title="RUZIEV MY TV +", TV-1 KG
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 group-title="(RUZIEV +)", Киномикс
+#EXTINF:-1 group-title="RUZIEV MY TV +", Киномикс
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
-#EXTINF:-1 group-title="(RUZIEV +)", НСТ
+#EXTINF:-1 group-title="RUZIEV MY TV +", НСТ
 http://vod.tuva.ru/nst/index.m3u8
-#EXTINF:-1 group-title="(RUZIEV +)", NOW TR
+#EXTINF:-1 group-title="RUZIEV MY TV +", NOW TR
 http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 group-title="RUZIEV MY TV +", ИИ РАДИО DATASET
+https://region-ru4.tunio.ai/datasetradio.aac
+#EXTINF:-1 group-title="RUZIEV MY TV +", DATASET TRAP
+https://region-ru2.tunio.ai/trap.aac
+#EXTINF:-1 group-title="RUZIEV MY TV +", DATASET RAP
+https://region-ru2.tunio.ai/superdata.aac
+#EXTINF:-1 group-title="RUZIEV MY TV +", DATASET GRIME 
+https://region-ru2.tunio.ai/grime.aac
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ ACTION" tvg-logo="" group-title="RUZIEV +",CANAL+ ACTION
-http://nordsohzace.top:8080/301697906482120/51702227668057/52225
-#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ CINEMA" tvg-logo="" group-title="RUZIEV +",CANAL+ CINEMA
-http://nordsohzace.top:8080/301697906482120/51702227668057/52226
-#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ ELLES" tvg-logo="" group-title="RUZIEV +",CANAL+ ELLES
-http://nordsohzace.top:8080/301697906482120/51702227668057/52227
-#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ FAMILY" tvg-logo="" group-title="RUZIEV +",CANAL+ FAMILY
-http://nordsohzace.top:8080/301697906482120/51702227668057/52228
-#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ POP" tvg-logo="" group-title="RUZIEV +",CANAL+ POP
-http://nordsohzace.top:8080/301697906482120/51702227668057/52229
-#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ PREMIERE" tvg-logo="" group-title="RUZIEV +",CANAL+ PREMIERE
-http://nordsohzace.top:8080/301697906482120/51702227668057/52230
-#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 1" tvg-logo="" group-title="RUZIEV +",CANAL+ SPORT 1
-http://nordsohzace.top:8080/301697906482120/51702227668057/52231
-#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 2" tvg-logo="" group-title="RUZIEV +",CANAL+ SPORT 2
-http://nordsohzace.top:8080/301697906482120/51702227668057/52232
-#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 3" tvg-logo="" group-title="RUZIEV +",CANAL+ SPORT 3
-http://nordsohzace.top:8080/301697906482120/51702227668057/52233
-#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 4" tvg-logo="" group-title="RUZIEV +",CANAL+ SPORT 4
-http://nordsohzace.top:8080/301697906482120/51702227668057/52234
-#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 5" tvg-logo="" group-title="RUZIEV +",CANAL+ SPORT 5
-http://nordsohzace.top:8080/301697906482120/51702227668057/52235
-#EXTINF:-1 tvg-id="" tvg-name="AF: MTV BASE" tvg-logo="https://docdog.top/logo/countries/africa/mtvbase.png" group-title="RUZIEV +",MTV BASE
-http://nordsohzace.top:8080/301697906482120/51702227668057/52304
-#EXTINF:-1 tvg-id="MCM" tvg-name="FR: MCM" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MCM.png" group-title="RUZIEV +",MCM
-http://nordsohzace.top:8080/301697906482120/51702227668057/8134
-#EXTINF:-1 tvg-id="MCM Top" tvg-name="FR: MCM TOP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MCM_TOP.png" group-title="RUZIEV +",MCM TOP
+#EXTINF:-1 group-title="RUZIEV MY TV",  France News 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  T Global News (Canada)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  Iran International(EN)
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  DW English _
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  France 24 English (720p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  CNN (US)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  Global News (US)
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  FOX NEWS
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  DW NEWS
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  News Max 2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  NDTV NEWS
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  RTNEWS GLOBAL
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  NDTV Hindi
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  RT NEWS USA
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  RT News (EN)
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  NDTV English
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV",  Press TV Iran
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/38.png" group-title="RUZIEV MY TV", sony tv
+https://edge2.roarzone.info:8445/roarzone/edge3/sony-entertainment-television-hd/index.m3u8?token=4b9a7737059f5ebf4c16fb70cc2b7c3ac753e5ca-0e0314463dac676680a8741fc07682f8-1771246738-1771243138
+
+#EXTINF:-1 group-title="RUZIEV MY TV", Colors Infinity SD
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/75f6b460a3b05eb2614b04ab013710dc" group-title="RUZIEV MY TV ",  B4u Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/20c3a2638df99ece9eb12aabfc03a8c3" group-title="RUZIEV MY TV ",  Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c4f27e64c99b50629e7021b99ac9387a" group-title="RUZIEV MY TV ",  Power Turk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/93.png" group-title="RUZIEV MY TV ",  zing
+https://edge2.roarzone.info:8445/roarzone/edge3/zing/index.m3u8?token=a7558b214cdc463e1ffb04b2c0d99e121a097ea2-0c77741d9dd9f1f04e04ee4f7ae98ffa-1771246738-1771243138
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/b4umusic.png" group-title="RUZIEV MY TV ",  b4u music
+https://edge2.roarzone.info:8445/roarzone/edge3/b4u-music/index.m3u8?token=e630dc60ca4a4c68f44f5792b2dbd0ce47818546-0fae6d2f017eb596456f458e7aebf491-1771246738-1771243138
+
+#EXTINF:-1 group-title="RUZIEV MY TV ",  Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV ", Dhoom Music
+https://cdn-1.pishow.tv/live/1456/1456_1.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV ", YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV ",  Baallee
+https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV ",  PTC Music
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV ",  Dhoom Music
+https://mumt03.tangotv.in/DHOOM/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV ",  8X music
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV ", Yrf Music
+https://ultrashort.info/bwswWI
+
+#EXTINF:-1 group-title="RUZIEV MY TV ",  LoveDoes
+https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV ",  MusicTV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 group-title="RUZIEV MY TV ", B4UMusic
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2762.ts
+
+#EXTINF:-1 group-title="RUZIEV MY TV ",  30AMusic
+https://30a-tv.com/music.m3u8
+
+
+#EXTINF:-1 tvg-id="MCM Top" tvg-name="FR: MCM TOP" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MCM_TOP.png" group-title="RUZIEV MY TV ", MCM TOP
 http://nordsohzace.top:8080/301697906482120/51702227668057/8136
-#EXTINF:-1 tvg-id="Mezzo" tvg-name="FR: MEZZO" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MEZZO.png" group-title="RUZIEV +",MEZZO
-http://nordsohzace.top:8080/301697906482120/51702227668057/8138
-#EXTINF:-1 tvg-id="MTV" tvg-name="FR: MTV" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MTV.png" group-title="RUZIEV +",MTV
-http://nordsohzace.top:8080/301697906482120/51702227668057/8141
-#EXTINF:-1 tvg-id="M6 Music" tvg-name="FR: M6 MUSIC" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/M6_MUSIC.png" group-title="RUZIEV +",M6 MUSIC
-http://nordsohzace.top:8080/301697906482120/51702227668057/25129
-#EXTINF:-1 tvg-id="NRJ Hits" tvg-name="FR: NRJ HITS" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/NRJ_HITS.png" group-title="RUZIEV +",NRJ HITS
-http://nordsohzace.top:8080/301697906482120/51702227668057/8153
-#EXTINF:-1 tvg-id="RFM TV" tvg-name="FR: RFM TV" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/RFM_TV.png" group-title="RUZIEV +",RFM TV
-http://nordsohzace.top:8080/301697906482120/51702227668057/8171
-#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="FR: TRACE URBAN" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TRACE_URBAN.png" group-title="RUZIEV +",TRACE URBAN
-http://nordsohzace.top:8080/301697906482120/51702227668057/8196
-#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS" tvg-logo="https://docdog.top/logo/countries/india//colorstamil.png" group-title="RUZIEV +",COLORS
-http://nordsohzace.top:8080/301697906482120/51702227668057/53428
-#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX" tvg-logo="https://docdog.top/logo/countries/india/colors-cineplex-in.png" group-title="RUZIEV +",COLORS CINEPLEX
-http://nordsohzace.top:8080/301697906482120/51702227668057/53430
-#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS EUROPE" tvg-logo="https://docdog.top/logo/countries/india/colors-in.png" group-title="RUZIEV +",COLORS EUROPE
-http://nordsohzace.top:8080/301697906482120/51702227668057/53431
-#EXTINF:-1 tvg-id="" tvg-name="IN: MTV" tvg-logo="https://docdog.top/logo/countries/india/mtv.png" group-title="RUZIEV +",MTV
-http://nordsohzace.top:8080/301697906482120/51702227668057/53549
-#EXTINF:-1 tvg-id="" tvg-name="IN: MTV BEATS" tvg-logo="https://docdog.top/logo/countries/india/mtv-beats-in.png" group-title="RUZIEV +",MTV BEATS
-http://nordsohzace.top:8080/301697906482120/51702227668057/53550
 
+#EXTINF:-1 tvg-id="MTV" tvg-name="FR: MTV" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/MTV.png" group-title="RUZIEV MY TV ", MTV
+http://nordsohzace.top:8080/301697906482120/51702227668057/8141
+
+#EXTINF:-1 tvg-id="NRJ Hits" tvg-name="FR: NRJ HITS" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/NRJ_HITS.png" group-title="RUZIEV MY TV ", NRJ HITS
+http://nordsohzace.top:8080/301697906482120/51702227668057/8153
+#EXTINF:-1 tvg-id="RFM TV" tvg-name="FR: RFM TV" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/RFM_TV.png" group-title="RUZIEV MY TV ", RFM TV
+http://nordsohzace.top:8080/301697906482120/51702227668057/8171
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="FR: TRACE URBAN" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TRACE_URBAN.png" group-title="RUZIEV MY TV ", TRACE URBAN
+http://nordsohzace.top:8080/301697906482120/51702227668057/8196
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS" tvg-logo="https://docdog.top/logo/countries/india//colorstamil.png" group-title="RUZIEV MY TV ", COLORS
+http://nordsohzace.top:8080/301697906482120/51702227668057/53428
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS EUROPE" tvg-logo="https://docdog.top/logo/countries/india/colors-in.png" group-title="RUZIEV MY TV ", COLORS EUROPE
+http://nordsohzace.top:8080/301697906482120/51702227668057/53431
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", BEIN SERIES 1 HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62949
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", BEIN SERIES 2 HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62950
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", BEIN SERIES 3 HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62951
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", BEIN SERIES 4 HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62952
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/turkey/bein-box-office-1-tr.png" group-title="GRAND PLUS | TR CINEMA", BEIN BOX OFFICE 1 HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62959
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/turkey/bein-box-office-2-tr.png" group-title="GRAND PLUS | TR CINEMA", BEIN BOX OFFICE 2 HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62960
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/turkey/bein-box-office-3-tr.png" group-title="GRAND PLUS | TR CINEMA", BEIN BOX OFFICE 3 HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62961
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", BEIN CONNECT ACTION
+http://nordsohzace.top:8080/301697906482120/51702227668057/62962
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", BEIN CONNECT FAMILY
+http://nordsohzace.top:8080/301697906482120/51702227668057/62963
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", BEIN CONNECT PREMIERE
+http://nordsohzace.top:8080/301697906482120/51702227668057/62964
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", BEIN CONNECT STARS
+http://nordsohzace.top:8080/301697906482120/51702227668057/62965
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", BEIN MOVIES ACTION 1 HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62966
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/turkey/bein-movies-action-2-hd-tr.png" group-title="GRAND PLUS | TR CINEMA", BEIN MOVIES ACTION 2 HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62967
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", BEIN MOVIES COMEDY HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62968
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/turkey/bein-movies-family-hd-tr.png" group-title="GRAND PLUS | TR CINEMA", BEIN MOVIES FAMILY HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62969
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", BEIN MOVIES PREMIER 2 HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62970
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", BEIN MOVIES PREMIER HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62971
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/turkey/bein-movies-stars-hd-tr.png" group-title="GRAND PLUS | TR CINEMA", BEIN MOVIES STARS HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62972
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/turkey/bein-movies-turk-hd-tr.png" group-title="GRAND PLUS | TR CINEMA", BEIN MOVIES TURK HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62973
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/turkey/bein-series-comedy-hd-tr.png" group-title="GRAND PLUS | TR CINEMA", BEIN SERIES COMEDY HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62978
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/turkey/bein-series-drama-hd-tr.png" group-title="GRAND PLUS | TR CINEMA", BEIN SERIES DRAMA HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62979
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/turkey/bein-series-sci-fi-hd-tr.png" group-title="GRAND PLUS | TR CINEMA", BEIN SERIES SCI-FI HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62980
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/turkey/bein-series-vice-hd-tr.png" group-title="GRAND PLUS | TR CINEMA", BEIN SERIES VICE HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/62981
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/turkey/foxcrime.png" group-title="GRAND PLUS | TR CINEMA", FOX CRIME HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/63142
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", FOX CRIME HEVC
+http://nordsohzace.top:8080/301697906482120/51702227668057/63143
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", FOX LIFE HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/63144
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", FOX RAW
+http://nordsohzace.top:8080/301697906482120/51702227668057/63145
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", FOX TV HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/63147
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/turkey/fx.png" group-title="GRAND PLUS | TR CINEMA", FX
+http://nordsohzace.top:8080/301697906482120/51702227668057/63184
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/turkey/fx.png" group-title="GRAND PLUS | TR CINEMA", FX HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/63185
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", FX TV HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/63186
+
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/turkey/salon1.png" group-title="GRAND PLUS | TR CINEMA", SALON 1 HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/63291
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", SALON 2 HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/63292
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", SALON 3 HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/63293
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", TV2 MOVIE
+http://nordsohzace.top:8080/301697906482120/51702227668057/63349
+
+#EXTINF:-1 group-title="GRAND PLUS | TR CINEMA", YESILCAM SINEMA HD
+http://nordsohzace.top:8080/301697906482120/51702227668057/63350
 
 
 
@@ -205,175 +442,947 @@ http://nordsohzace.top:8080/301697906482120/51702227668057/53060
 http://nordsohzace.top:8080/301697906482120/51702227668057/53061
 #EXTINF:-1 tvg-id="" tvg-name="AR: MBC+ VARIETY" tvg-logo="https://docdog.top/logo/countries/arab/MBC+VARIETY.jpg" group-title="GRAND PLUS | MBC & MYHD",MBC+ VARIETY
 http://nordsohzace.top:8080/301697906482120/51702227668057/53062
-#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD FILMBOX" tvg-logo="https://docdog.top/logo/countries/arab/myfilmbox.png" group-title="GRAND PLUS | MBC & MYHD",MYHD FILMBOX
-http://nordsohzace.top:8080/301697906482120/51702227668057/53079
-#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD FIXI FOXI" tvg-logo="https://docdog.top/logo/countries/arab/MYHDFIXIFOXI.jpg" group-title="GRAND PLUS | MBC & MYHD",MYHD FIXI FOXI
-http://nordsohzace.top:8080/301697906482120/51702227668057/53080
-#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD GULLI" tvg-logo="https://docdog.top/logo/countries/arab/MYHDGULLI.jpg" group-title="GRAND PLUS | MBC & MYHD",MYHD GULLI
-http://nordsohzace.top:8080/301697906482120/51702227668057/53081
-#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD MBC 1" tvg-logo="https://docdog.top/logo/countries/arab/mbc1.png" group-title="GRAND PLUS | MBC & MYHD",MYHD MBC 1
-http://nordsohzace.top:8080/301697906482120/51702227668057/53082
-#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD MBC 2" tvg-logo="https://docdog.top/logo/countries/arab/MYHDMBC2.png" group-title="GRAND PLUS | MBC & MYHD",MYHD MBC 2
-http://nordsohzace.top:8080/301697906482120/51702227668057/53083
-#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD MBC 3" tvg-logo="https://docdog.top/logo/countries/arab/MYHDMBC3.jpg" group-title="GRAND PLUS | MBC & MYHD",MYHD MBC 3
-http://nordsohzace.top:8080/301697906482120/51702227668057/53084
-#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD MBC 4" tvg-logo="https://docdog.top/logo/countries/arab/MYHDMBC4.jpg" group-title="GRAND PLUS | MBC & MYHD",MYHD MBC 4
-http://nordsohzace.top:8080/301697906482120/51702227668057/53085
-#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD MBC ACTION" tvg-logo="" group-title="GRAND PLUS | MBC & MYHD",MYHD MBC ACTION
-http://nordsohzace.top:8080/301697906482120/51702227668057/53086
-#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD MBC DRAMA" tvg-logo="https://docdog.top/logo/countries/arab/MYHDMBCDRAMA.png" group-title="GRAND PLUS | MBC & MYHD",MYHD MBC DRAMA
-http://nordsohzace.top:8080/301697906482120/51702227668057/53087
-#EXTINF:-1 tvg-id="" tvg-name="AR: MYHD MBC PLUS DRAMA" tvg-logo="https://docdog.top/logo/countries/arab/MBCPLUSDRAMA.png" group-title="GRAND PLUS | MBC & MYHD",MYHD MBC PLUS DRAMA
-http://nordsohzace.top:8080/301697906482120/51702227668057/53088
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN W" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN W
-http://nordsohzace.top:8080/301697906482120/51702227668057/53361
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MTV 00s" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN MTV 00s
-http://nordsohzace.top:8080/301697906482120/51702227668057/53340
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NEWS" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN NEWS
-http://nordsohzace.top:8080/301697906482120/51702227668057/53341
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies Hollywood" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN Movies Hollywood
-http://nordsohzace.top:8080/301697906482120/51702227668057/53333
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Nicktoons" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN Nicktoons
-http://nordsohzace.top:8080/301697906482120/51702227668057/53334
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN SHOWCASE" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN SHOWCASE
-http://nordsohzace.top:8080/301697906482120/51702227668057/53335
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOONBUG KIDS" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN MOONBUG KIDS
-http://nordsohzace.top:8080/301697906482120/51702227668057/53336
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Al Safwa" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN Al Safwa
-http://nordsohzace.top:8080/301697906482120/51702227668057/53337
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Music Now" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN Music Now
-http://nordsohzace.top:8080/301697906482120/51702227668057/53338
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES FESTIVAL" tvg-logo="https://docdog.top/logo/countries/arab/osnmoviesfestival.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES FESTIVAL
-http://nordsohzace.top:8080/301697906482120/51702227668057/53310
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES THRILLER 2" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN MOVIES THRILLER 2
-http://nordsohzace.top:8080/301697906482120/51702227668057/53311
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES PREMIERE 2" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN MOVIES PREMIERE 2
-http://nordsohzace.top:8080/301697906482120/51702227668057/53312
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES PREMIERE" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN MOVIES PREMIERE
-http://nordsohzace.top:8080/301697906482120/51702227668057/53313
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES THRILLER" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN MOVIES THRILLER
-http://nordsohzace.top:8080/301697906482120/51702227668057/53314
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YAHALA AFLAM" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN YAHALA AFLAM
-http://nordsohzace.top:8080/301697906482120/51702227668057/53315
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN SKY NEWS" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN SKY NEWS
-http://nordsohzace.top:8080/301697906482120/51702227668057/53316
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN SERIES CHANNEL" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN SERIES CHANNEL
-http://nordsohzace.top:8080/301697906482120/51702227668057/53317
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MEZZE" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN MEZZE
-http://nordsohzace.top:8080/301697906482120/51702227668057/53319
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN LIVING" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN LIVING
-http://nordsohzace.top:8080/301697906482120/51702227668057/53320
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN CRIME INVESTIGATION" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN CRIME INVESTIGATION
-http://nordsohzace.top:8080/301697906482120/51702227668057/53321
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART AFLAM 1" tvg-logo="https://docdog.top/logo/countries/arab/osnartaflam1.png" group-title="GRAND PLUS | OSN AR", OSN ART AFLAM 1
-http://nordsohzace.top:8080/301697906482120/51702227668057/52849
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART AFLAM 2" tvg-logo="https://docdog.top/logo/countries/arab/osnartaflam2.png" group-title="GRAND PLUS | OSN AR", OSN ART AFLAM 2
-http://nordsohzace.top:8080/301697906482120/51702227668057/52850
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART CINEMA" tvg-logo="https://docdog.top/logo/countries/arab/artcinema.png" group-title="GRAND PLUS | OSN AR", OSN ART CINEMA
-http://nordsohzace.top:8080/301697906482120/51702227668057/52851
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN HEKAYAT 1" tvg-logo="https://docdog.top/logo/countries/arab/osnarthekayat1.png" group-title="GRAND PLUS | OSN AR", OSN HEKAYAT 1
-http://nordsohzace.top:8080/301697906482120/51702227668057/52852
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN HEKAYAT 2" tvg-logo="https://docdog.top/logo/countries/arab/arthekayat2.png" group-title="GRAND PLUS | OSN AR", OSN HEKAYAT 2
-http://nordsohzace.top:8080/301697906482120/51702227668057/52853
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN CNBC" tvg-logo="https://docdog.top/logo/countries/arab/CNBCARABIA.png" group-title="GRAND PLUS | OSN AR", OSN CNBC
-http://nordsohzace.top:8080/301697906482120/51702227668057/52892
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ACTION" tvg-logo="https://docdog.top/logo/countries/arab/osnaction.png" group-title="GRAND PLUS | OSN AR", OSN ACTION
-http://nordsohzace.top:8080/301697906482120/51702227668057/53124
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Al YAWM" tvg-logo="https://docdog.top/logo/countries/arab/OSNALFAALYOUM.png" group-title="GRAND PLUS | OSN AR", OSN Al YAWM
-http://nordsohzace.top:8080/301697906482120/51702227668057/53125
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN BABY TV" tvg-logo="https://docdog.top/logo/countries/arab/osnbabytv.png" group-title="GRAND PLUS | OSN AR", OSN BABY TV
-http://nordsohzace.top:8080/301697906482120/51702227668057/53126
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISCOVERY" tvg-logo="https://docdog.top/logo/countries/arab/osndiscovery.png" group-title="GRAND PLUS | OSN AR", OSN DISCOVERY
-http://nordsohzace.top:8080/301697906482120/51702227668057/53127
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISCOVERY ID" tvg-logo="https://docdog.top/logo/countries/arab/OSNDISCOVERYID.png" group-title="GRAND PLUS | OSN AR", OSN DISCOVERY ID
-http://nordsohzace.top:8080/301697906482120/51702227668057/53128
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/arab/osndiscoveryscience.png" group-title="GRAND PLUS | OSN AR", OSN DISCOVERY SCIENCE
-http://nordsohzace.top:8080/301697906482120/51702227668057/53129
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISNEY JUNIOR" tvg-logo="https://docdog.top/logo/countries/arab/osndisneyjunior.png" group-title="GRAND PLUS | OSN AR", OSN DISNEY JUNIOR
-http://nordsohzace.top:8080/301697906482120/51702227668057/53130
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN E! Entertainment" tvg-logo="https://docdog.top/logo/countries/arab/OSNE!.jpg" group-title="GRAND PLUS | OSN AR", OSN E! Entertainment
-http://nordsohzace.top:8080/301697906482120/51702227668057/53131
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES ENIGMA" tvg-logo="https://docdog.top/logo/countries/arab/osnenigma.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES ENIGMA
-http://nordsohzace.top:8080/301697906482120/51702227668057/53132
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN FAMILY" tvg-logo="https://docdog.top/logo/countries/arab/OSNPREMIERE.png" group-title="GRAND PLUS | OSN AR", OSN FAMILY
-http://nordsohzace.top:8080/301697906482120/51702227668057/53133
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN FANN" tvg-logo="https://docdog.top/logo/countries/arab/osnfann.png" group-title="GRAND PLUS | OSN AR", OSN FANN
-http://nordsohzace.top:8080/301697906482120/51702227668057/53134
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN HISTORY" tvg-logo="https://docdog.top/logo/countries/arab/osnhistory.png" group-title="GRAND PLUS | OSN AR", OSN HISTORY
-http://nordsohzace.top:8080/301697906482120/51702227668057/53135
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN H2" tvg-logo="https://docdog.top/logo/countries/arab/osnhistory2.png" group-title="GRAND PLUS | OSN AR", OSN H2
-http://nordsohzace.top:8080/301697906482120/51702227668057/53136
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN KIDS" tvg-logo="https://docdog.top/logo/countries/arab/osnkids.png" group-title="GRAND PLUS | OSN AR", OSN KIDS
-http://nordsohzace.top:8080/301697906482120/51702227668057/53137
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN KIDZONE" tvg-logo="https://docdog.top/logo/countries/arab/osnkidszone.png" group-title="GRAND PLUS | OSN AR", OSN KIDZONE
-http://nordsohzace.top:8080/301697906482120/51702227668057/53138
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES FIRST" tvg-logo="https://docdog.top/logo/countries/arab/OSNMOVIEFIRST.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES FIRST
-http://nordsohzace.top:8080/301697906482120/51702227668057/53139
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES" tvg-logo="https://docdog.top/logo/countries/arab/osnmovies.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES
-http://nordsohzace.top:8080/301697906482120/51702227668057/53140
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES ACTION" tvg-logo="https://docdog.top/logo/countries/arab/osnmoviesaction.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES ACTION
-http://nordsohzace.top:8080/301697906482120/51702227668057/53141
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES BOX OFFICE 1" tvg-logo="https://docdog.top/logo/countries/arab/OSNMOVIESBOXOFFICE.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES BOX OFFICE 1
-http://nordsohzace.top:8080/301697906482120/51702227668057/53142
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES BOX OFFICE 2" tvg-logo="https://docdog.top/logo/countries/arab/OSNMOVIESBOXOFFICE.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES BOX OFFICE 2
-http://nordsohzace.top:8080/301697906482120/51702227668057/53143
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES BOX OFFICE 3" tvg-logo="https://docdog.top/logo/countries/arab/OSNMOVIESBOXOFFICE.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES BOX OFFICE 3
-http://nordsohzace.top:8080/301697906482120/51702227668057/53144
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN COMEDY" tvg-logo="https://docdog.top/logo/countries/arab/osnmoviescomedy.png" group-title="GRAND PLUS | OSN AR", OSN COMEDY
-http://nordsohzace.top:8080/301697906482120/51702227668057/53145
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN DISNEY" tvg-logo="https://docdog.top/logo/countries/arab/osnmoviesdisney.png" group-title="GRAND PLUS | OSN AR", OSN DISNEY
-http://nordsohzace.top:8080/301697906482120/51702227668057/53146
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES DRAMA" tvg-logo="https://docdog.top/logo/countries/arab/osnmoviesdrama.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES DRAMA
-http://nordsohzace.top:8080/301697906482120/51702227668057/53147
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES FIRST +2" tvg-logo="https://docdog.top/logo/countries/arab/osnmoviesfirst.png" group-title="GRAND PLUS | OSN AR", OSN MOVIES FIRST +2
-http://nordsohzace.top:8080/301697906482120/51702227668057/53148
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MTV LIVE" tvg-logo="https://docdog.top/logo/countries/arab/OSNMTVLIVE.png" group-title="GRAND PLUS | OSN AR", OSN MTV LIVE
-http://nordsohzace.top:8080/301697906482120/51702227668057/53149
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NAT GEO" tvg-logo="https://docdog.top/logo/countries/arab/osnnatgeowild.png" group-title="GRAND PLUS | OSN AR", OSN NAT GEO
-http://nordsohzace.top:8080/301697906482120/51702227668057/53150
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/arab/osnnatgeowild.png" group-title="GRAND PLUS | OSN AR", OSN NAT GEO WILD
-http://nordsohzace.top:8080/301697906482120/51702227668057/53151
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NICK JR" tvg-logo="https://docdog.top/logo/countries/arab/OSNNICKJR.png" group-title="GRAND PLUS | OSN AR", OSN NICK JR
-http://nordsohzace.top:8080/301697906482120/51702227668057/53152
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN NICKELODEON" tvg-logo="https://docdog.top/logo/countries/arab/osnnickelodeon.png" group-title="GRAND PLUS | OSN AR", OSN NICKELODEON
-http://nordsohzace.top:8080/301697906482120/51702227668057/53153
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ON DEMAND 1" tvg-logo="https://docdog.top/logo/countries/arab/osnondemand1.png" group-title="GRAND PLUS | OSN AR", OSN ON DEMAND 1
-http://nordsohzace.top:8080/301697906482120/51702227668057/53154
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ON DEMAND 2" tvg-logo="https://docdog.top/logo/countries/arab/osnondemand2.png" group-title="GRAND PLUS | OSN AR", OSN ON DEMAND 2
-http://nordsohzace.top:8080/301697906482120/51702227668057/53155
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ON DEMAND 3" tvg-logo="https://docdog.top/logo/countries/arab/osnondemand3.png" group-title="GRAND PLUS | OSN AR", OSN ON DEMAND 3
-http://nordsohzace.top:8080/301697906482120/51702227668057/53156
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ON DEMAND EXTRA 1" tvg-logo="https://docdog.top/logo/countries/arab/osnondemandextra.png" group-title="GRAND PLUS | OSN AR", OSN ON DEMAND EXTRA 1
-http://nordsohzace.top:8080/301697906482120/51702227668057/53157
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ON DEMAND EXTRA 2" tvg-logo="https://docdog.top/logo/countries/arab/osnondemandextra.png" group-title="GRAND PLUS | OSN AR", OSN ON DEMAND EXTRA 2
-http://nordsohzace.top:8080/301697906482120/51702227668057/53158
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ON DEMAND EXTRA 3" tvg-logo="https://docdog.top/logo/countries/arab/osnondemandextra.png" group-title="GRAND PLUS | OSN AR", OSN ON DEMAND EXTRA 3
-http://nordsohzace.top:8080/301697906482120/51702227668057/53159
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN CINEMA 1" tvg-logo="https://docdog.top/logo/countries/arab/osnorbitcinema1.png" group-title="GRAND PLUS | OSN AR", OSN CINEMA 1
-http://nordsohzace.top:8080/301697906482120/51702227668057/53160
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN PREMIERE" tvg-logo="https://docdog.top/logo/countries/arab/OSNPREMIERE.png" group-title="GRAND PLUS | OSN AR", OSN PREMIERE
-http://nordsohzace.top:8080/301697906482120/51702227668057/53161
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Series Prime" tvg-logo="https://docdog.top/logo/countries/arab/osnseriesfirst.png" group-title="GRAND PLUS | OSN AR", OSN Series Prime
-http://nordsohzace.top:8080/301697906482120/51702227668057/53162
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN STAR MOVIES" tvg-logo="https://docdog.top/logo/countries/arab/osnstarmovies.png" group-title="GRAND PLUS | OSN AR", OSN STAR MOVIES
-http://nordsohzace.top:8080/301697906482120/51702227668057/53163
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN STAR WORLD" tvg-logo="https://docdog.top/logo/countries/arab/OSNSTARWORLD.png" group-title="GRAND PLUS | OSN AR", OSN STAR WORLD
-http://nordsohzace.top:8080/301697906482120/51702227668057/53164
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN SYFY" tvg-logo="https://docdog.top/logo/countries/arab/osnsyfy.png" group-title="GRAND PLUS | OSN AR", OSN SYFY
-http://nordsohzace.top:8080/301697906482120/51702227668057/53165
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN TLC" tvg-logo="https://docdog.top/logo/countries/arab/osntlc.png" group-title="GRAND PLUS | OSN AR", OSN TLC
-http://nordsohzace.top:8080/301697906482120/51702227668057/53166
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN WWE" tvg-logo="" group-title="GRAND PLUS | OSN AR", OSN WWE
-http://nordsohzace.top:8080/301697906482120/51702227668057/53167
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YAHALA" tvg-logo="https://docdog.top/logo/countries/arab/osnyahala.png" group-title="GRAND PLUS | OSN AR", OSN YAHALA
-http://nordsohzace.top:8080/301697906482120/51702227668057/53168
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Yahala Bil Arabi" tvg-logo="https://docdog.top/logo/countries/arab/osnyahalaaloula.png" group-title="GRAND PLUS | OSN AR", OSN Yahala Bil Arabi
-http://nordsohzace.top:8080/301697906482120/51702227668057/53169
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN YAHALA CINEMA" tvg-logo="https://docdog.top/logo/countries/arab/osnyahalacinema.png" group-title="GRAND PLUS | OSN AR", OSN YAHALA CINEMA
-http://nordsohzace.top:8080/301697906482120/51702227668057/53170
+
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  BS Asahi (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  BS Fuji TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  BS Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pSKCgvv.png" group-title="GRAND PLUS | JAPAN",  BS Shochiku Tokyu (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  BS TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  BS TV Tokyo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Cartoon Network HD.png" group-title="GRAND PLUS | JAPAN",  Cartoon Network Japan (400p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel HD.png" group-title="GRAND PLUS | JAPAN",  Channel Ginga (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  CNNj (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Disney Channel.png" group-title="GRAND PLUS | JAPAN",  Disney Junior (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  Eisei Gekijo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Star Family HD.png" group-title="GRAND PLUS | JAPAN",  Family Gekijo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  Fishing Vision (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  LaLa TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  MBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  Mondo TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  Movie Plus (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="GRAND PLUS | JAPAN",  MTV Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  Music Japan TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="GRAND PLUS | JAPAN",  National Geographic Japan (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/NHK WORLD-JAPAN.png" group-title="GRAND PLUS | JAPAN",  NHK BS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  NHK E (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  NHK G (Osaka) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  NHK G (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PzwtC9K.png" group-title="GRAND PLUS | JAPAN",  Nihon Eiga Senmon (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  Nippon TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  Nittele G Plus (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  Sky A (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  Space Shower TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/Global Star tv.png" group-title="GRAND PLUS | JAPAN",  Star 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  Sun TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  Tabi Channel (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  TAKARAZUKA SKY STAGE (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  TBS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TBS_News_2020_logo.png/512px-TBS_News_2020_logo.png" group-title="GRAND PLUS | JAPAN",  TBS News (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  Toei Channel (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  Tokyo MX1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  WOWOW Cinema (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  WOWOW Live (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+
+#EXTINF:-1 group-title="GRAND PLUS | JAPAN",  WOWOW Prime (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+
+#EXTINF:-1 tvg-logo="../Channel/Logo/BabyTV.png" group-title="GRAND PLUS | JAPAN",  YTV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinopremiera-hd.png" group-title="GRAND PLUS | 248on Кино",  Кинопремьера HD
+http://s06.wsbof.com:8080/s/c8b70831/kinopremiera-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kino-premium-hd.png" group-title="GRAND PLUS | 248on Кино",  Премиальное HD
+http://s06.wsbof.com:8080/s/c8b70831/kino-premium-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/ostrosujetnoe-hd.png" group-title="GRAND PLUS | 248on Кино",  Остросюжетное HD
+http://s06.wsbof.com:8080/s/c8b70831/ostrosujetnoe-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/hit-hd.png" group-title="GRAND PLUS | 248on Кино",  Хит HD
+http://s06.wsbof.com:8080/s/c8b70831/hit-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinohit-hd.png" group-title="GRAND PLUS | 248on Кино",  Кинохит HD
+http://s06.wsbof.com:8080/s/c8b70831/kinohit-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinomix-hd.png" group-title="GRAND PLUS | 248on Кино",  Киномикс HD
+http://s06.wsbof.com:8080/s/c8b70831/kinomix-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinosemja-hd.png" group-title="GRAND PLUS | 248on Кино",  Киносемья HD
+http://s06.wsbof.com:8080/s/c8b70831/kinosemja-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinosvidanije-hd.png" group-title="GRAND PLUS | 248on Кино",  Киносвидание HD
+http://s06.wsbof.com:8080/s/c8b70831/kinosvidanije-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/mnogo-tv-hd.png" group-title="GRAND PLUS | 248on Кино",  Киносерия HD
+http://s06.wsbof.com:8080/s/c8b70831/mnogo-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinopokaz-hd.png" group-title="GRAND PLUS | 248on Кино",  Кинопоказ HD
+http://s06.wsbof.com:8080/s/c8b70831/kinopokaz-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/blokbaster-hd.png" group-title="GRAND PLUS | 248on Кино",  Блокбастер HD
+http://s06.wsbof.com:8080/s/c8b70831/blokbaster-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/boeviki-hd.png" group-title="GRAND PLUS | 248on Кино",  Боевики HD
+http://s06.wsbof.com:8080/s/c8b70831/boeviki-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nash-kinopokaz-hd.png" group-title="GRAND PLUS | 248on Кино",  Наш Кинопоказ HD
+http://s06.wsbof.com:8080/s/c8b70831/nash-kinopokaz-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nash-kinoroman-hd.png" group-title="GRAND PLUS | 248on Кино",  Душевное HD
+http://s06.wsbof.com:8080/s/c8b70831/nash-kinoroman-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nash-detektiv-hd.png" group-title="GRAND PLUS | 248on Кино",  Наше HD
+http://s06.wsbof.com:8080/s/c8b70831/nash-detektiv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nashe-lubimoe-hd.png" group-title="GRAND PLUS | 248on Кино",  Любимое HD
+http://s06.wsbof.com:8080/s/c8b70831/nashe-lubimoe-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/tv1000-premium-hd.png" group-title="GRAND PLUS | 248on Кино",  Viju+ premiere HD
+http://s06.wsbof.com:8080/s/c8b70831/vip-premiere-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/tv1000-megahit-hd.png" group-title="GRAND PLUS | 248on Кино",  Viju+ megahit HD
+http://s06.wsbof.com:8080/s/c8b70831/vip-megahit-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/tv1000-comedy-hd.png" group-title="GRAND PLUS | 248on Кино",  Viju+ comedy HD
+http://s06.wsbof.com:8080/s/c8b70831/vip-comedy-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/vip-serial-hd.png" group-title="GRAND PLUS | 248on Кино",  Viju+ serial HD
+http://s06.wsbof.com:8080/s/c8b70831/vip-serial-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/tv1000-hd.png" group-title="GRAND PLUS | 248on Кино",  Viju TV1000 HD
+http://s06.wsbof.com:8080/s/c8b70831/tv1000-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/tv1000-action-hd.png" group-title="GRAND PLUS | 248on Кино",  Viju TV1000 action HD
+http://s06.wsbof.com:8080/s/c8b70831/tv1000-action-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/tv1000-russkoje-hd.png" group-title="GRAND PLUS | 248on Кино",  Viju TV1000 русское HD
+http://s06.wsbof.com:8080/s/c8b70831/tv1000-russkoje-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/viju-tv1000-nowella-hd.png" group-title="GRAND PLUS | 248on Кино",  Viju TV1000 новелла HD
+http://s06.wsbof.com:8080/s/c8b70831/viju-tv1000-nowella-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/tv1000-world-kino-hd.png" group-title="GRAND PLUS | 248on Кино",  Viasat Kino World HD
+http://s06.wsbof.com:8080/s/c8b70831/tv1000-world-kino-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/viasat-serial-hd.png" group-title="GRAND PLUS | 248on Кино",  Viasat Serial HD
+http://s06.wsbof.com:8080/s/c8b70831/viasat-serial-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/mgm-hd.png" group-title="GRAND PLUS | 248on Кино",  Hollywood HD
+http://s06.wsbof.com:8080/s/c8b70831/mgm-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kino-tv-hd.png" group-title="GRAND PLUS | 248on Кино",  Кино ТВ HD
+http://s06.wsbof.com:8080/s/c8b70831/kino-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinojam1-hd.png" group-title="GRAND PLUS | 248on Кино",  Kinojam 1 HD
+http://s06.wsbof.com:8080/s/c8b70831/kinojam1-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinojam2-hd.png" group-title="GRAND PLUS | 248on Кино",  Kinojam 2 HD
+http://s06.wsbof.com:8080/s/c8b70831/kinojam2-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/family-jam-hd.png" group-title="GRAND PLUS | 248on Кино",  Family Jam HD
+http://s06.wsbof.com:8080/s/c8b70831/family-jam-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/detective-jam-hd.png" group-title="GRAND PLUS | 248on Кино",  Detective Jam HD
+http://s06.wsbof.com:8080/s/c8b70831/detective-jam-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinoliving-hd.png" group-title="GRAND PLUS | 248on Кино",  KinoLiving HD
+http://s06.wsbof.com:8080/s/c8b70831/kinoliving-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kion-hit-hd.png" group-title="GRAND PLUS | 248on Кино",  KION Хит HD
+http://s06.wsbof.com:8080/s/c8b70831/kion-hit-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/start-world-hd.png" group-title="GRAND PLUS | 248on Кино",  Start World HD
+http://s06.wsbof.com:8080/s/c8b70831/start-world-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/start-air-hd.png" group-title="GRAND PLUS | 248on Кино",  Start Air HD
+http://s06.wsbof.com:8080/s/c8b70831/start-air-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/plan-b-hd.png" group-title="GRAND PLUS | 248on Кино",  Plan B HD
+http://s06.wsbof.com:8080/s/c8b70831/plan-b-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/legenda-hd.png" group-title="GRAND PLUS | 248on Кино",  Легенда HD
+http://s06.wsbof.com:8080/s/c8b70831/legenda-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/4ever-cinema-ua-hd.png" group-title="GRAND PLUS | 248on Кино",  4ever Cinema HD
+http://s06.wsbof.com:8080/s/c8b70831/4ever-cinema-ua-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/4ever-drama-hd.png" group-title="GRAND PLUS | 248on Кино",  4ever Drama HD
+http://s06.wsbof.com:8080/s/c8b70831/4ever-drama-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/4ever-theater-hd.png" group-title="GRAND PLUS | 248on Кино",  4ever Theater HD
+http://s06.wsbof.com:8080/s/c8b70831/4ever-theater-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinokult-hd.png" group-title="GRAND PLUS | 248on Кино",  КиноКульт HD
+http://s06.wsbof.com:8080/s/c8b70831/kinokult-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kineko-hd.png" group-title="GRAND PLUS | 248on Кино",  Кинеко HD
+http://s06.wsbof.com:8080/s/c8b70831/kineko-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/evrokino-hd.png" group-title="GRAND PLUS | 248on Кино",  Еврокино HD
+http://s06.wsbof.com:8080/s/c8b70831/evrokino-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/flix-snip-hd.png" group-title="GRAND PLUS | 248on Кино",  Flix Snip HD
+http://s06.wsbof.com:8080/s/c8b70831/flix-snip-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/egoist-tv-hd.png" group-title="GRAND PLUS | 248on Кино",  SHOT TV HD
+http://s06.wsbof.com:8080/s/c8b70831/egoist-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/vhska-hd.png" group-title="GRAND PLUS | 248on Кино",  VHS-ка HD
+http://s06.wsbof.com:8080/s/c8b70831/vhska-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/vhs-serial-hd.png" group-title="GRAND PLUS | 248on Кино",  VHS Сериал HD
+http://s06.wsbof.com:8080/s/c8b70831/vhs-serial-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/muzhskoe-kino-hd.png" group-title="GRAND PLUS | 248on Кино",  Мужское кино HD
+http://s06.wsbof.com:8080/s/c8b70831/muzhskoe-kino-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nashe-muzshkoe-hd.png" group-title="GRAND PLUS | 248on Кино",  Наше Мужское HD
+http://s06.wsbof.com:8080/s/c8b70831/nashe-muzshkoe-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/trash-hd.png" group-title="GRAND PLUS | 248on Кино",  Trash HD
+http://s06.wsbof.com:8080/s/c8b70831/trash-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/strashnoe-hd.png" group-title="GRAND PLUS | 248on Кино",  Страшное HD
+http://s06.wsbof.com:8080/s/c8b70831/strashnoe-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinopokaz-hd1.png" group-title="GRAND PLUS | 248on Кино",  Шокирующее HD
+http://s06.wsbof.com:8080/s/c8b70831/shokiruschee-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinouzhas-hd.png" group-title="GRAND PLUS | 248on Кино",  Киноужас HD
+http://s06.wsbof.com:8080/s/c8b70831/kinouzhas-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/uzhasy-hd.png" group-title="GRAND PLUS | 248on Кино",  Ужасы HD
+http://s06.wsbof.com:8080/s/c8b70831/uzhasy-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/scream-hd.png" group-title="GRAND PLUS | 248on Кино",  Scream HD
+http://s06.wsbof.com:8080/s/c8b70831/scream-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/hct.png" group-title="GRAND PLUS | 248on Кино",  НСТ
+http://s06.wsbof.com:8080/s/c8b70831/hct.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/russkaja-comedija.png" group-title="GRAND PLUS | 248on Кино",  Комедия
+http://s06.wsbof.com:8080/s/c8b70831/russkaja-comedija.m3u8
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinokomedia-hd.png" group-title="GRAND PLUS | 248on Кино",  Кинокомедия HD
+http://s06.wsbof.com:8080/s/c8b70831/kinokomedia-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinopokaz-hd2.png" group-title="GRAND PLUS | 248on Кино",  Комедийное HD
+http://s06.wsbof.com:8080/s/c8b70831/komedijnoe-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/comedy-hd.png" group-title="GRAND PLUS | 248on Кино",  Камеди HD
+http://s06.wsbof.com:8080/s/c8b70831/comedy-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/amedia-premium-hd.png" group-title="GRAND PLUS | 248on Кино",  AMEDIA Premium HD
+http://s06.wsbof.com:8080/s/c8b70831/amedia-premium-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/amedia-hit-hd.png" group-title="GRAND PLUS | 248on Кино",  AMEDIA HIT HD
+http://s06.wsbof.com:8080/s/c8b70831/amedia-hit-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/amedia1-hd.png" group-title="GRAND PLUS | 248on Кино",  A1 HD
+http://s06.wsbof.com:8080/s/c8b70831/amedia1-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/amedia-2-hd.png" group-title="GRAND PLUS | 248on Кино",  A2 HD
+http://s06.wsbof.com:8080/s/c8b70831/amedia-2-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/fox-hd.png" group-title="GRAND PLUS | 248on Кино",  FX HD
+http://s06.wsbof.com:8080/s/c8b70831/fox-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/fox-life-hd.png" group-title="GRAND PLUS | 248on Кино",  FX Life HD
+http://s06.wsbof.com:8080/s/c8b70831/fox-life-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/set-hd.png" group-title="GRAND PLUS | 248on Кино",  Red HD
+http://s06.wsbof.com:8080/s/c8b70831/set-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/sci-fi-hd.png" group-title="GRAND PLUS | 248on Кино",  Sci-Fi HD
+http://s06.wsbof.com:8080/s/c8b70831/sci-fi-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/suspense-hd.png" group-title="GRAND PLUS | 248on Кино",  Suspense HD
+http://s06.wsbof.com:8080/s/c8b70831/suspense-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/black-hd.png" group-title="GRAND PLUS | 248on Кино",  Black HD
+http://s06.wsbof.com:8080/s/c8b70831/black-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/tv-xxi-hd.png" group-title="GRAND PLUS | 248on Кино",  ТВ21 HD
+http://s06.wsbof.com:8080/s/c8b70831/tv-xxi-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/mosfilm-hd.png" group-title="GRAND PLUS | 248on Кино",  Мосфильм HD
+http://s06.wsbof.com:8080/s/c8b70831/mosfilm-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/lubimoe-kino-hd.png" group-title="GRAND PLUS | 248on Кино",  Любимое Кино HD
+http://s06.wsbof.com:8080/s/c8b70831/lubimoe-kino-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/sovetskaya-kinoclassica-hd.png" group-title="GRAND PLUS | 248on Кино",  Советская Киноклассика HD
+http://s06.wsbof.com:8080/s/c8b70831/sovetskaya-kinoclassica-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/rodnoje_kino.png" group-title="GRAND PLUS | 248on Кино",  Родное кино
+http://s06.wsbof.com:8080/s/c8b70831/rodnoje_kino.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/patriot.png" group-title="GRAND PLUS | 248on Кино",  Патриот
+http://s06.wsbof.com:8080/s/c8b70831/patriot.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/pobeda-hd.png" group-title="GRAND PLUS | 248on Кино",  Победа HD
+http://s06.wsbof.com:8080/s/c8b70831/pobeda-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/den-pobedy-hd.png" group-title="GRAND PLUS | 248on Кино",  День Победы HD
+http://s06.wsbof.com:8080/s/c8b70831/den-pobedy-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nashe-nasledie-hd.png" group-title="GRAND PLUS | 248on Кино",  Наше наследие HD
+http://s06.wsbof.com:8080/s/c8b70831/nashe-nasledie-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nashe-novoe-kino-hd.png" group-title="GRAND PLUS | 248on Кино",  Наше новое кино HD
+http://s06.wsbof.com:8080/s/c8b70831/nashe-novoe-kino-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/russkij-bestseller.png" group-title="GRAND PLUS | 248on Кино",  Русский Бестселлер
+http://s06.wsbof.com:8080/s/c8b70831/russkij-bestseller.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/telekafe-hd.png" group-title="GRAND PLUS | 248on Кино",  Телекафе HD
+http://s06.wsbof.com:8080/s/c8b70831/telekafe-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/dom-kino-hd.png" group-title="GRAND PLUS | 248on Кино",  Дом Кино HD
+http://s06.wsbof.com:8080/s/c8b70831/dom-kino-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/cinema-hd.png" group-title="GRAND PLUS | 248on Кино",  Cinema HD
+http://s06.wsbof.com:8080/s/c8b70831/cinema-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/dom-kino-premium-hd.png" group-title="GRAND PLUS | 248on Кино",  Дом Кино Премиум HD
+http://s06.wsbof.com:8080/s/c8b70831/dom-kino-premium-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/russkij-roman-hd.png" group-title="GRAND PLUS | 248on Кино",  Русский Роман HD
+http://s06.wsbof.com:8080/s/c8b70831/russkij-roman-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/russkij-detektiv.png" group-title="GRAND PLUS | 248on Кино",  Русский Детектив
+http://s06.wsbof.com:8080/s/c8b70831/russkij-detektiv.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/russkij-iluzion-hd.png" group-title="GRAND PLUS | 248on Кино",  Русский Иллюзион HD
+http://s06.wsbof.com:8080/s/c8b70831/russkij-iluzion-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/iluzion-plus-hd.png" group-title="GRAND PLUS | 248on Кино",  Иллюзион + HD
+http://s06.wsbof.com:8080/s/c8b70831/iluzion-plus-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kriminalnoe-hd.png" group-title="GRAND PLUS | 248on Кино",  Криминальное HD
+http://s06.wsbof.com:8080/s/c8b70831/kriminalnoe-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/feniks-plus-kino-hd.png" group-title="GRAND PLUS | 248on Кино",  Феникс+Кино HD
+http://s06.wsbof.com:8080/s/c8b70831/feniks-plus-kino-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/mir-seriala-hd.png" group-title="GRAND PLUS | 248on Кино",  Мир Сериала HD
+http://s06.wsbof.com:8080/s/c8b70831/mir-seriala-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/romantichnoe-hd.png" group-title="GRAND PLUS | 248on Кино",  Романтичное HD
+http://s06.wsbof.com:8080/s/c8b70831/romantichnoe-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/pro-lubov-hd.png" group-title="GRAND PLUS | 248on Кино",  Про Любовь HD
+http://s06.wsbof.com:8080/s/c8b70831/pro-lubov-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/love-story-hd.png" group-title="GRAND PLUS | 248on Кино",  Лавстори HD
+http://s06.wsbof.com:8080/s/c8b70831/love-story-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/romance-hd.png" group-title="GRAND PLUS | 248on Кино",  Romance HD
+http://s06.wsbof.com:8080/s/c8b70831/romance-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/ntv-hit-hd.png" group-title="GRAND PLUS | 248on Кино",  НТВ Хит HD
+http://s06.wsbof.com:8080/s/c8b70831/ntv-hit-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/ntv-serial-hd.png" group-title="GRAND PLUS | 248on Кино",  НТВ Сериал HD
+http://s06.wsbof.com:8080/s/c8b70831/ntv-serial-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nostalgia.png" group-title="GRAND PLUS | 248on Кино",  Ностальгия
+http://s06.wsbof.com:8080/s/c8b70831/nostalgia.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/retro.png" group-title="GRAND PLUS | 248on Кино",  Ретро ТВ
+http://s06.wsbof.com:8080/s/c8b70831/retro.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/sapfir-hd.png" group-title="GRAND PLUS | 248on Кино",  Сапфир HD
+http://s06.wsbof.com:8080/s/c8b70831/sapfir-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/dorama-hd.png" group-title="GRAND PLUS | 248on Кино",  Дорама HD
+http://s06.wsbof.com:8080/s/c8b70831/dorama-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/timeless-dizi-channel-hd.png" group-title="GRAND PLUS | 248on Кино",  Timeless Dizi Channel HD
+http://s06.wsbof.com:8080/s/c8b70831/timeless-dizi-channel-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/bollywood.png" group-title="GRAND PLUS | 248on Кино",  Bollywood HD
+http://s06.wsbof.com:8080/s/c8b70831/bollywood.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/indija-tv.png" group-title="GRAND PLUS | 248on Кино",  Индийское Кино
+http://s06.wsbof.com:8080/s/c8b70831/indija-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/zee-tv-hd.png" group-title="GRAND PLUS | 248on Кино",  Индия ТВ HD
+http://s06.wsbof.com:8080/s/c8b70831/zee-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinomult.png" group-title="GRAND PLUS | 248on Кино",  КиноМульт
+http://s06.wsbof.com:8080/s/c8b70831/kinomult.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nash-futbol-hd.png" group-title="GRAND PLUS | 248on SPORT",  Матч Премьер HD
+http://s06.wsbof.com:8080/s/c8b70831/nash-futbol-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/futbol-hd.png" group-title="GRAND PLUS | 248on SPORT",  Футбол HD
+http://s06.wsbof.com:8080/s/c8b70831/futbol-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/match-futbol1-hd.png" group-title="GRAND PLUS | 248on SPORT",  МАТЧ! Футбол 1 HD
+http://s06.wsbof.com:8080/s/c8b70831/match-futbol-1-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/match-futbol2-hd.png" group-title="GRAND PLUS | 248on SPORT",  МАТЧ! Футбол 2 HD
+http://s06.wsbof.com:8080/s/c8b70831/match-futbol-2-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/match-futbol3-hd.png" group-title="GRAND PLUS | 248on SPORT",  МАТЧ! Футбол 3 HD
+http://s06.wsbof.com:8080/s/c8b70831/match-futbol-3-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/match-tv-hd.png" group-title="GRAND PLUS | 248on SPORT",  Матч ТВ HD
+http://s06.wsbof.com:8080/s/c8b70831/match-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/match-igra-hd.png" group-title="GRAND PLUS | 248on SPORT",  Матч! Игра HD
+http://s06.wsbof.com:8080/s/c8b70831/match-igra-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/match-arena-hd.png" group-title="GRAND PLUS | 248on SPORT",  Матч! Арена HD
+http://s06.wsbof.com:8080/s/c8b70831/match-arena-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/match-strana-hd.png" group-title="GRAND PLUS | 248on SPORT",  Матч! Страна HD
+http://s06.wsbof.com:8080/s/c8b70831/match-strana-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/start-hd.png" group-title="GRAND PLUS | 248on SPORT",  Старт HD
+http://s06.wsbof.com:8080/s/c8b70831/start-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/khl-tv-hd.png" group-title="GRAND PLUS | 248on SPORT",  KHL HD
+http://s06.wsbof.com:8080/s/c8b70831/khl-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/khl-prime-hd.png" group-title="GRAND PLUS | 248on SPORT",  KHL Prime HD
+http://s06.wsbof.com:8080/s/c8b70831/khl-prime-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/hokkejnyj-hd.png" group-title="GRAND PLUS | 248on SPORT",  Хоккей ТВ HD
+http://s06.wsbof.com:8080/s/c8b70831/hokkejnyj-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/futbolnyj-hd.png" group-title="GRAND PLUS | 248on SPORT",  Мяч HD
+http://s06.wsbof.com:8080/s/c8b70831/futbolnyj-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/sportivnyj-hd.png" group-title="GRAND PLUS | 248on SPORT",  Спорт HD
+http://s06.wsbof.com:8080/s/c8b70831/sportivnyj-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nhl-network-hd-us.png" group-title="GRAND PLUS | 248on SPORT",  NHL Network HD
+http://s06.wsbof.com:8080/s/c8b70831/nhl-network-hd-us.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nba-us-hd.png" group-title="GRAND PLUS | 248on SPORT",  NBA TV HD
+http://s06.wsbof.com:8080/s/c8b70831/nba-us-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/viasat-sport-hd.png" group-title="GRAND PLUS | 248on SPORT",  Viju+ sport HD
+http://s06.wsbof.com:8080/s/c8b70831/viasat-sport-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/eurosport-hd.png" group-title="GRAND PLUS | 248on SPORT",  Eurosport 1 HD
+http://s06.wsbof.com:8080/s/c8b70831/eurosport-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/eurosport2-hd.png" group-title="GRAND PLUS | 248on SPORT",  Eurosport 2 HD
+http://s06.wsbof.com:8080/s/c8b70831/eurosport2-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/setanta-eurasia.png" group-title="GRAND PLUS | 248on SPORT",  Setanta Sports 1 HD
+http://s06.wsbof.com:8080/s/c8b70831/setanta-sport-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/setanta-eurasia-plus.png" group-title="GRAND PLUS | 248on SPORT",  Setanta Sports 2 HD
+http://s06.wsbof.com:8080/s/c8b70831/setanta-sport-plus-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-hd-ua.png" group-title="GRAND PLUS | 248on SPORT",  Setanta Sports UA HD
+http://s06.wsbof.com:8080/s/c8b70831/setanta-sport-ua-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/setanta-sport-plus-ua-hd.png" group-title="GRAND PLUS | 248on SPORT",  Setanta Sports + UA HD
+http://s06.wsbof.com:8080/s/c8b70831/setanta-sport-plus-ua-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/sport-tv-by-hd.png" group-title="GRAND PLUS | 248on SPORT",  Спорт ТВ HD BY
+http://s06.wsbof.com:8080/s/c8b70831/sport-tv-by-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/belarus5-by-hd.png" group-title="GRAND PLUS | 248on SPORT",  Беларусь 5 HD
+http://s06.wsbof.com:8080/s/c8b70831/belarus5-by-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/megogo-sport-ua-hd.png" group-title="GRAND PLUS | 248on SPORT",  MEGOGO Спорт HD
+http://s06.wsbof.com:8080/s/c8b70831/megogo-sport-ua-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/upl1-ua-hd.png" group-title="GRAND PLUS | 248on SPORT",  UPL 1 HD
+http://s06.wsbof.com:8080/s/c8b70831/upl1-ua-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/sport1-ua.png" group-title="GRAND PLUS | 248on SPORT",  Спорт 1
+http://s06.wsbof.com:8080/s/c8b70831/sport1-ua.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/sport2-ua.png" group-title="GRAND PLUS | 248on SPORT",  Спорт 2
+http://s06.wsbof.com:8080/s/c8b70831/sport2-ua.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/setanta-qazaqstan-hd.png" group-title="GRAND PLUS | 248on SPORT",  Setanta Qazaqstan HD
+http://s06.wsbof.com:8080/s/c8b70831/setanta-qazaqstan-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/qsport-hd.png" group-title="GRAND PLUS | 248on SPORT",  QSport HD
+http://s06.wsbof.com:8080/s/c8b70831/qsport-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/m1-global-hd.png" group-title="GRAND PLUS | 248on SPORT",  MMA-TV HD
+http://s06.wsbof.com:8080/s/c8b70831/m1-global-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/ufc-hd.png" group-title="GRAND PLUS | 248on SPORT",  UDAR HD
+http://s06.wsbof.com:8080/s/c8b70831/ufc-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/match-boec-hd.png" group-title="GRAND PLUS | 248on SPORT",  Матч! Боец HD
+http://s06.wsbof.com:8080/s/c8b70831/match-boec-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/tochka-otryva.png" group-title="GRAND PLUS | 248on SPORT",  Точка Отрыва
+http://s06.wsbof.com:8080/s/c8b70831/tochka-otryva.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/russkij-extrim-hd.png" group-title="GRAND PLUS | 248on SPORT",  Русский Экстрим HD
+http://s06.wsbof.com:8080/s/c8b70831/russkij-extrim-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/extreme-sports.png" group-title="GRAND PLUS | 248on SPORT",  Extreme Sports
+http://s06.wsbof.com:8080/s/c8b70831/extreme-sports.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/konnyj-mir-hd.png" group-title="GRAND PLUS | 248on SPORT",  Конный Мир HD
+http://s06.wsbof.com:8080/s/c8b70831/konnyj-mir-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/auto-plus-hd.png" group-title="GRAND PLUS | 248on SPORT",  Авто Плюс HD
+http://s06.wsbof.com:8080/s/c8b70831/auto-plus-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/avto-24-hd.png" group-title="GRAND PLUS | 248on SPORT",  Авто 24 HD
+http://s06.wsbof.com:8080/s/c8b70831/avto-24-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/drive-hd.png" group-title="GRAND PLUS | 248on SPORT",  Драйв HD
+http://s06.wsbof.com:8080/s/c8b70831/drive-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/pervyj-avto-hd-ua.png" group-title="GRAND PLUS | 248on SPORT",  Первый Автомобильный HD
+http://s06.wsbof.com:8080/s/c8b70831/pervyj-avto-hd-ua.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/1hd.png" group-title="GRAND PLUS | 248on MUSIC", 1HD
+http://s06.wsbof.com:8080/s/c8b70831/1hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/muzyka-pervogo-hd.png" group-title="GRAND PLUS | 248on MUSIC", Музыка первого HD
+http://s06.wsbof.com:8080/s/c8b70831/muzyka-pervogo-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/ru-tv-hd.png" group-title="GRAND PLUS | 248on MUSIC", RU TV HD
+http://s06.wsbof.com:8080/s/c8b70831/ru-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/muz-tv-hd.png" group-title="GRAND PLUS | 248on MUSIC", Муз-ТВ HD
+http://s06.wsbof.com:8080/s/c8b70831/muz-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/evropa-plus-tv-hd.png" group-title="GRAND PLUS | 248on MUSIC", Europa Plus TV HD
+http://s06.wsbof.com:8080/s/c8b70831/evropa-plus-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/zhara.png" group-title="GRAND PLUS | 248on MUSIC", Жара HD
+http://s06.wsbof.com:8080/s/c8b70831/zhara-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/tnt-music-hd.png" group-title="GRAND PLUS | 248on MUSIC", FON Music HD
+http://s06.wsbof.com:8080/s/c8b70831/tnt-music-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/russian-musicbox-hd.png" group-title="GRAND PLUS | 248on MUSIC", Russian MusicBox HD
+http://s06.wsbof.com:8080/s/c8b70831/russian-musicbox-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/music-box-dance-hd.png" group-title="GRAND PLUS | 248on MUSIC", Music Box Dance HD
+http://s06.wsbof.com:8080/s/c8b70831/music-box-dance-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/music-box-sexy-hd.png" group-title="GRAND PLUS | 248on MUSIC", Music Box Sexy HD
+http://s06.wsbof.com:8080/s/c8b70831/music-box-sexy-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/music-box-gold.png" group-title="GRAND PLUS | 248on MUSIC", Music Box Gold
+http://s06.wsbof.com:8080/s/c8b70831/music-box-gold.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-hd.png" group-title="GRAND PLUS | 248on MUSIC", Bridge TV HD
+http://s06.wsbof.com:8080/s/c8b70831/bridge-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-hits-hd.png" group-title="GRAND PLUS | 248on MUSIC", Bridge TV Hits HD
+http://s06.wsbof.com:8080/s/c8b70831/bridge-tv-hits-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-deluxe-hd.png" group-title="GRAND PLUS | 248on MUSIC", Bridge TV Deluxe HD
+http://s06.wsbof.com:8080/s/c8b70831/bridge-tv-deluxe-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-fresh.png" group-title="GRAND PLUS | 248on MUSIC", Bridge TV Fresh HD
+http://s06.wsbof.com:8080/s/c8b70831/bridge-tv-fresh.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-russky-hit-hd.png" group-title="GRAND PLUS | 248on MUSIC", Bridge TV Русский Хит HD
+http://s06.wsbof.com:8080/s/c8b70831/bridge-tv-russky-hit-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/bridge-classic-hd.png" group-title="GRAND PLUS | 248on MUSIC", Bridge TV Classic HD
+http://s06.wsbof.com:8080/s/c8b70831/bridge-classic-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-shlager.png" group-title="GRAND PLUS | 248on MUSIC", Bridge TV Шлягер
+http://s06.wsbof.com:8080/s/c8b70831/bridge-tv-shlager.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/bridge-tv-rock-hd.png" group-title="GRAND PLUS | 248on MUSIC", Bridge TV Rock HD
+http://s06.wsbof.com:8080/s/c8b70831/bridge-tv-rock-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/aiva-hd.png" group-title="GRAND PLUS | 248on MUSIC", AIVA HD
+http://s06.wsbof.com:8080/s/c8b70831/aiva-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kronehit-hd.png" group-title="GRAND PLUS | 248on MUSIC", Kronehit HD
+http://s06.wsbof.com:8080/s/c8b70831/kronehit-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/one-by-hd.png" group-title="GRAND PLUS | 248on MUSIC", One BY HD
+http://s06.wsbof.com:8080/s/c8b70831/one-by-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/one-by-russia-hd.png" group-title="GRAND PLUS | 248on MUSIC", One by Russia HD
+http://s06.wsbof.com:8080/s/c8b70831/one-by-russia-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/mtv-live-hd.png" group-title="GRAND PLUS | 248on MUSIC", MTV HD
+http://s06.wsbof.com:8080/s/c8b70831/mtv-live-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/vh1-europe.png" group-title="GRAND PLUS | 248on MUSIC", MTV 00s
+http://s06.wsbof.com:8080/s/c8b70831/vh1-europe.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/mtv-hits.png" group-title="GRAND PLUS | 248on MUSIC", MTV Hits
+http://s06.wsbof.com:8080/s/c8b70831/mtv-hits.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/mcm-top-hd.png" group-title="GRAND PLUS | 248on MUSIC", MCM TOP HD
+http://s06.wsbof.com:8080/s/c8b70831/mcm-top-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/rfm-tv-hd.png" group-title="GRAND PLUS | 248on MUSIC", RFM TV HD
+http://s06.wsbof.com:8080/s/c8b70831/rfm-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/4ever-music-hd.png" group-title="GRAND PLUS | 248on MUSIC", 4ever Music HD
+http://s06.wsbof.com:8080/s/c8b70831/4ever-music-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/megogo-music-hd.png" group-title="GRAND PLUS | 248on MUSIC", Megogo MUSIC HD
+http://s06.wsbof.com:8080/s/c8b70831/megogo-music-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/m1-ua-hd.png" group-title="GRAND PLUS | 248on MUSIC", M1 HD
+http://s06.wsbof.com:8080/s/c8b70831/m1-ua-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/m2-ua-hd.png" group-title="GRAND PLUS | 248on MUSIC", M2 HD
+http://s06.wsbof.com:8080/s/c8b70831/m2-ua-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/eu-music-hd.png" group-title="GRAND PLUS | 248on MUSIC", EU Music HD
+http://s06.wsbof.com:8080/s/c8b70831/eu-music-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/la-minor.png" group-title="GRAND PLUS | 248on MUSIC", Музыка Live
+http://s06.wsbof.com:8080/s/c8b70831/la-minor.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/shanson-tv.png" group-title="GRAND PLUS | 248on MUSIC", Шансон ТВ
+http://s06.wsbof.com:8080/s/c8b70831/shanson-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/jazz-hd.png" group-title="GRAND PLUS | 248on MUSIC", Jazz HD
+http://s06.wsbof.com:8080/s/c8b70831/jazz-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/iconcerts-hd.png" group-title="GRAND PLUS | 248on MUSIC", iConcerts
+http://s06.wsbof.com:8080/s/c8b70831/iconcerts-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/classic-music.png" group-title="GRAND PLUS | 248on MUSIC", Classic Music HD
+http://s06.wsbof.com:8080/s/c8b70831/classic-music.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/mezzo-hd.png" group-title="GRAND PLUS | 248on MUSIC", Mezzo Live HD
+http://s06.wsbof.com:8080/s/c8b70831/mezzo-hd.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nat-geo-hd.png" group-title="GRAND PLUS | 248on LIFE",  National Geographic HD
+http://s06.wsbof.com:8080/s/c8b70831/nat-geo-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/discovery-hd.png" group-title="GRAND PLUS | 248on LIFE",  Discovery Channel HD
+http://s06.wsbof.com:8080/s/c8b70831/discovery-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/id-xtra-hd.png" group-title="GRAND PLUS | 248on LIFE",  Investigation Discovery HD
+http://s06.wsbof.com:8080/s/c8b70831/id-xtra-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/history-hd.png" group-title="GRAND PLUS | 248on LIFE",  History HD
+http://s06.wsbof.com:8080/s/c8b70831/history-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/h2-hd.png" group-title="GRAND PLUS | 248on LIFE",  History 2 HD
+http://s06.wsbof.com:8080/s/c8b70831/h2-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/viasat-history-hd.png" group-title="GRAND PLUS | 248on LIFE",  Viju history HD
+http://s06.wsbof.com:8080/s/c8b70831/viasat-history-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/tlc-hd.png" group-title="GRAND PLUS | 248on LIFE",  TLC HD
+http://s06.wsbof.com:8080/s/c8b70831/tlc-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/womens-magazine-hd.png" group-title="GRAND PLUS | 248on LIFE",  Womens Magazine HD
+http://s06.wsbof.com:8080/s/c8b70831/womens-magazine-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/animal-planet-hd.png" group-title="GRAND PLUS | 248on LIFE",  Animal Planet HD
+http://s06.wsbof.com:8080/s/c8b70831/animal-planet-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nat-geo-wild-hd.png" group-title="GRAND PLUS | 248on LIFE",  Nat Geo Wild HD
+http://s06.wsbof.com:8080/s/c8b70831/nat-geo-wild-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/love-nature-hd.png" group-title="GRAND PLUS | 248on LIFE",  Love Nature HD
+http://s06.wsbof.com:8080/s/c8b70831/love-nature-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/animal-family-hd.png" group-title="GRAND PLUS | 248on LIFE",  В мире животных HD
+http://s06.wsbof.com:8080/s/c8b70831/animal-family-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/viasat-nature-hd.png" group-title="GRAND PLUS | 248on LIFE",  Viju nature HD
+http://s06.wsbof.com:8080/s/c8b70831/viasat-nature-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/viasat-history-hd-test.png" group-title="GRAND PLUS | 248on LIFE",  Viju+ planet HD
+http://s06.wsbof.com:8080/s/c8b70831/viasat-history-hd-test.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/viasat-explore-hd.png" group-title="GRAND PLUS | 248on LIFE",  Viju explore HD
+http://s06.wsbof.com:8080/s/c8b70831/viasat-explore-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/planeta-hd.png" group-title="GRAND PLUS | 248on LIFE",  Моя планета HD
+http://s06.wsbof.com:8080/s/c8b70831/moya-planeta-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/morskoj-hd.png" group-title="GRAND PLUS | 248on LIFE",  Моя Стихия HD
+http://s06.wsbof.com:8080/s/c8b70831/morskoj-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/zhivaya-planeta.png" group-title="GRAND PLUS | 248on LIFE",  Живая Планета
+http://s06.wsbof.com:8080/s/c8b70831/zhivaya-planeta.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/zhivaja-priroda-hd.png" group-title="GRAND PLUS | 248on LIFE",  Живая природа HD
+http://s06.wsbof.com:8080/s/c8b70831/zhivaja-priroda-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/terra-hd.png" group-title="GRAND PLUS | 248on LIFE",  Terra HD
+http://s06.wsbof.com:8080/s/c8b70831/terra-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/big-planet-hd.png" group-title="GRAND PLUS | 248on LIFE",  Big Planet HD
+http://s06.wsbof.com:8080/s/c8b70831/big-planet-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/ocean-tv.png" group-title="GRAND PLUS | 248on LIFE",  Ocean-TV
+http://s06.wsbof.com:8080/s/c8b70831/ocean-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/zoopark.png" group-title="GRAND PLUS | 248on LIFE",  Zooпарк
+http://s06.wsbof.com:8080/s/c8b70831/zoopark.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/travel-channel-hd.png" group-title="GRAND PLUS | 248on LIFE",  Travel Channel HD
+http://s06.wsbof.com:8080/s/c8b70831/travel-channel-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/travel-adventure-hd.png" group-title="GRAND PLUS | 248on LIFE",  Travel+Adventure HD
+http://s06.wsbof.com:8080/s/c8b70831/travel-adventure-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/teletravel-hd.png" group-title="GRAND PLUS | 248on LIFE",  Приключения HD
+http://s06.wsbof.com:8080/s/c8b70831/teletravel-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/the-explorers-hd.png" group-title="GRAND PLUS | 248on LIFE",  The Explorers HD
+http://s06.wsbof.com:8080/s/c8b70831/the-explorers-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/epic-hd.png" group-title="GRAND PLUS | 248on LIFE",  Epic HD
+http://s06.wsbof.com:8080/s/c8b70831/epic-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/mir-vokrug-hd.png" group-title="GRAND PLUS | 248on LIFE",  Мир Вокруг HD
+http://s06.wsbof.com:8080/s/c8b70831/mir-vokrug-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/teleputeshestvija.png" group-title="GRAND PLUS | 248on LIFE",  Телепутешествия
+http://s06.wsbof.com:8080/s/c8b70831/teleputeshestvija.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/glazami-turista-hd.png" group-title="GRAND PLUS | 248on LIFE",  Глазами Туриста HD
+http://s06.wsbof.com:8080/s/c8b70831/glazami-turista-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/neizvestnaya-rossia-hd.png" group-title="GRAND PLUS | 248on LIFE",  Неизвестная Россия HD
+http://s06.wsbof.com:8080/s/c8b70831/neizvestnaya-rossia-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/big-asia-hd.png" group-title="GRAND PLUS | 248on LIFE",  Большая Азия HD
+http://s06.wsbof.com:8080/s/c8b70831/big-asia-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/rtg-tv.png" group-title="GRAND PLUS | 248on LIFE",  RTG
+http://s06.wsbof.com:8080/s/c8b70831/rtg.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/rtg-hd.png" group-title="GRAND PLUS | 248on LIFE",  RTG HD
+http://s06.wsbof.com:8080/s/c8b70831/rtg-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/hd-life.png" group-title="GRAND PLUS | 248on LIFE",  Точка РФ HD
+http://s06.wsbof.com:8080/s/c8b70831/hd-life.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/t24.png" group-title="GRAND PLUS | 248on LIFE",  Техно 24
+http://s06.wsbof.com:8080/s/c8b70831/t24.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nauka-hd.png" group-title="GRAND PLUS | 248on LIFE",  Наука HD
+http://s06.wsbof.com:8080/s/c8b70831/nauka-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nano-hd.png" group-title="GRAND PLUS | 248on LIFE",  Nano HD
+http://s06.wsbof.com:8080/s/c8b70831/nano-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/galaxy-hd.png" group-title="GRAND PLUS | 248on LIFE",  Galaxy HD
+http://s06.wsbof.com:8080/s/c8b70831/galaxy-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/eureka-hd.png" group-title="GRAND PLUS | 248on LIFE",  Первый космический HD
+http://s06.wsbof.com:8080/s/c8b70831/eureka-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/da-vinci-learning.png" group-title="GRAND PLUS | 248on LIFE",  Da Vinci
+http://s06.wsbof.com:8080/s/c8b70831/da-vinci-learning.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/nasha-tema-ua-hd.png" group-title="GRAND PLUS | 248on LIFE",  Наша Тема HD
+http://s06.wsbof.com:8080/s/c8b70831/nasha-tema-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/dialogi-rybalka-hd.png" group-title="GRAND PLUS | 248on LIFE",  Диалоги о Рыбалке HD
+http://s06.wsbof.com:8080/s/c8b70831/dialogi-rybalka-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/ohotnik-rybolov-hd.png" group-title="GRAND PLUS | 248on LIFE",  Охотник и рыболов HD
+http://s06.wsbof.com:8080/s/c8b70831/ohotnik-rybolov-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/dikaya-rybalka-hd.png" group-title="GRAND PLUS | 248on LIFE",  Дикая Рыбалка HD
+http://s06.wsbof.com:8080/s/c8b70831/dikaya-rybalka-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/dikaya-ohota-hd.png" group-title="GRAND PLUS | 248on LIFE",  Дикая Охота HD
+http://s06.wsbof.com:8080/s/c8b70831/dikaya-ohota-hd.m3u8
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/oxota-rybalka.png" group-title="GRAND PLUS | 248on LIFE",  Охота и рыбалка
+http://s06.wsbof.com:8080/s/c8b70831/oxota-rybalka.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/ohotnik-rybolov.png" group-title="GRAND PLUS | 248on LIFE",  Рыболов
+http://s06.wsbof.com:8080/s/c8b70831/ohotnik-rybolov.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/arsenal-hd.png" group-title="GRAND PLUS | 248on LIFE",  Арсенал HD
+http://s06.wsbof.com:8080/s/c8b70831/arsenal-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/oruzhie.png" group-title="GRAND PLUS | 248on LIFE",  Оружие
+http://s06.wsbof.com:8080/s/c8b70831/oruzhie.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/muzhskoj.png" group-title="GRAND PLUS | 248on LIFE",  Мужской
+http://s06.wsbof.com:8080/s/c8b70831/muzhskoj.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/curiosity-stream-hd.png" group-title="GRAND PLUS | 248on LIFE",  Curiosity Stream HD
+http://s06.wsbof.com:8080/s/c8b70831/curiosity-stream-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/zal-suda-hd.png" group-title="GRAND PLUS | 248on LIFE",  Зал Суда HD
+http://s06.wsbof.com:8080/s/c8b70831/zal-suda-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/ntv-pravo.png" group-title="GRAND PLUS | 248on LIFE",  НТВ Право
+http://s06.wsbof.com:8080/s/c8b70831/ntv-pravo.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/ntv-style-hd.png" group-title="GRAND PLUS | 248on LIFE",  НТВ Стиль HD
+http://s06.wsbof.com:8080/s/c8b70831/ntv-style-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/hgtv-hd.png" group-title="GRAND PLUS | 248on LIFE",  HGTV HD
+http://s06.wsbof.com:8080/s/c8b70831/hgtv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/zagorodnaya-zhizn.png" group-title="GRAND PLUS | 248on LIFE",  Загородная Жизнь HD
+http://s06.wsbof.com:8080/s/c8b70831/zagorodnaya-zhizn.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/zagorodnyy-int-hd.png" group-title="GRAND PLUS | 248on LIFE",  Загородный int HD
+http://s06.wsbof.com:8080/s/c8b70831/zagorodnyy-int-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/usadba-hd.png" group-title="GRAND PLUS | 248on LIFE",  Усадьба HD
+http://s06.wsbof.com:8080/s/c8b70831/usadba-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/bober-hd.png" group-title="GRAND PLUS | 248on LIFE",  Бобер HD
+http://s06.wsbof.com:8080/s/c8b70831/bober-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/istorija.png" group-title="GRAND PLUS | 248on LIFE",  История
+http://s06.wsbof.com:8080/s/c8b70831/istorija.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/mashina-vremeny-hd.png" group-title="GRAND PLUS | 248on LIFE",  Машина Времени HD
+http://s06.wsbof.com:8080/s/c8b70831/mashina-vremeny-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/365-dnej.png" group-title="GRAND PLUS | 248on LIFE",  365 Дней
+http://s06.wsbof.com:8080/s/c8b70831/365-dnej.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kto-est-kto.png" group-title="GRAND PLUS | 248on LIFE",  Кто есть кто
+http://s06.wsbof.com:8080/s/c8b70831/kto-est-kto.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/sovershenno-sekretno.png" group-title="GRAND PLUS | 248on LIFE",  Top Secret
+http://s06.wsbof.com:8080/s/c8b70831/sovershenno-sekretno.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/voprosy-otvety.png" group-title="GRAND PLUS | 248on LIFE",  Вопросы и ответы
+http://s06.wsbof.com:8080/s/c8b70831/voprosy-otvety.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/domashnije-zhivotnye.png" group-title="GRAND PLUS | 248on LIFE",  Домашние животные
+http://s06.wsbof.com:8080/s/c8b70831/domashnije-zhivotnye.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/lapki-live-hd.png" group-title="GRAND PLUS | 248on LIFE",  Лапки live HD
+http://s06.wsbof.com:8080/s/c8b70831/lapki-live-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/zdorovoe-tv-hd.png" group-title="GRAND PLUS | 248on LIFE",  Доктор HD
+http://s06.wsbof.com:8080/s/c8b70831/zdorovoe-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/zhivi-hd.png" group-title="GRAND PLUS | 248on LIFE",  Живи HD
+http://s06.wsbof.com:8080/s/c8b70831/zhivi-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/food-network-hd.png" group-title="GRAND PLUS | 248on LIFE",  Food Network HD
+http://s06.wsbof.com:8080/s/c8b70831/food-network-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/eda-hd.png" group-title="GRAND PLUS | 248on LIFE",  Food Time HD
+http://s06.wsbof.com:8080/s/c8b70831/food-time-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kuxnya-tv.png" group-title="GRAND PLUS | 248on LIFE",  Кухня ТВ
+http://s06.wsbof.com:8080/s/c8b70831/kuxnya-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/eda.png" group-title="GRAND PLUS | 248on LIFE",  Еда
+http://s06.wsbof.com:8080/s/c8b70831/eda.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/eda.png" group-title="GRAND PLUS | 248on LIFE",  Еда
+http://s06.wsbof.com:8080/s/c8b70831/eda.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/fashion-tv.png" group-title="GRAND PLUS | 248on LIFE",  Fashion and LifeStyle HD
+http://s06.wsbof.com:8080/s/c8b70831/fashion-hd.m3u8
+
+
 
 
 
@@ -11624,154 +12633,154 @@ https://eun11.playlist.ttvnw.net/v1/playlist/CusFIect8BB3fvYv0enoel4d38GeYbj_6ZO
 
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/logo.png" group-title="GRAND PLUS| DTR Развлекательные",  DTR ZONA 1
-http://85.198.71.82/dtrzona1-sd/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/dtrzona1-sd/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/logo.png" group-title="GRAND PLUS| DTR Развлекательные",  DTR ZONA 1 (HD)
-http://85.198.71.82/dtrzona1/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/dtrzona1/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/dtr2.png" group-title="GRAND PLUS| DTR Развлекательные",  DTR MUSIC 1
-http://85.198.71.82/dtrmusic1-sd/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/dtrmusic1-sd/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/dtr2.png" group-title="GRAND PLUS| DTR Музыкальные",  DTR MUSIC 1 (HD)
-http://85.198.71.82/dtrmusic1/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/dtrmusic1/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/tvoetv.png" group-title="GRAND PLUS| DTR Развлекательные",  Твоё ТВ (FULL HD)
-http://85.198.71.82/tvoetv/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/tvoetv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/tvoetvhumor.png" group-title="GRAND PLUS| DTR Развлекательные",  Твоё ТВ Юмор (FULL HD)
-http://85.198.71.82/tvoetv-humor/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/tvoetv-humor/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/perviy.png" group-title="GRAND PLUS| DTR Федеральные",  Первый Канал (HD)
-http://85.198.71.82/perviy/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/perviy/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/russia1.png" group-title="GRAND PLUS| DTR Федеральные",  Россия 1 (HD)
-http://85.198.71.82/russia1hd/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/russia1hd/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/russia24.png" group-title="GRAND PLUS| DTR Федеральные",  Россия 24 (HD)
-http://85.198.71.82/russia24hd/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/russia24hd/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/russiak.png" group-title="GRAND PLUS| DTR Федеральные",  Россия K (HD)
-http://85.198.71.82/russiak/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/russiak/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/НТВ.png" group-title="GRAND PLUS| DTR Федеральные",  НТВ (HD)
-http://85.198.71.82/HTBHD/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/HTBHD/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/NTVXIT.png" group-title="GRAND PLUS| DTR Кино и Сериалы",  НТВ-Хит
-http://85.198.71.82/HTB-XIT/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/HTB-XIT/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/CTC.png" group-title="GRAND PLUS| DTR Федеральные",  CTC
-http://85.198.71.82/CTC/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/CTC/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/CTCLove.png" group-title="GRAND PLUS| DTR Развлекательные",  CTC Love
-http://85.198.71.82/CTCLOVE/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/CTCLOVE/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/THTHD.png" group-title="GRAND PLUS| DTR Федеральные",  THT (HD)
-http://85.198.71.82/THTHD/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/THTHD/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/THT4.png" group-title="GRAND PLUS| DTR Развлекательные",  THT4 (HD)
-http://85.198.71.82/THT4HD/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/THT4HD/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/piatnica.png" group-title="GRAND PLUS| DTR Развлекательные",  Пятница! (HD)
-http://85.198.71.82/friday/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/friday/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/tv3-ru.png" group-title="GRAND PLUS| DTR Федеральные",  ТВ3
-http://85.198.71.82/tv3/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/tv3/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/rentv.png" group-title="GRAND PLUS| DTR Федеральные",  Рен ТВ
-http://85.198.71.82/rentv/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/rentv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/tvc.png" group-title="GRAND PLUS| DTR Федеральные",  ТВЦ
-http://85.198.71.82/tvc/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/tvc/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/che.png" group-title="GRAND PLUS| DTR Федеральные",  Че!
-http://85.198.71.82/chetv/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/chetv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/2na2.png" group-title="GRAND PLUS| DTR Развлекательные",  2x2 (HD)
-http://85.198.71.82/2x2hd/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/2x2hd/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/matchtv.png" group-title="GRAND PLUS| DTR Спортивные",  Матч ТВ (HD)
-http://85.198.71.82/matchtv/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/matchtv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/muztv.png" group-title="GRAND PLUS| DTR Музыкальные",  Муз ТВ (HD)
-http://85.198.71.82/muztvhd/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/muztvhd/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/rutv.png" group-title="GRAND PLUS| DTR Музыкальные",  RU.TV (HD)
-http://85.198.71.82/rutv/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/rutv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/zvezda.png" group-title="GRAND PLUS| DTR Развлекательные",  Звезда (HD)
-http://85.198.71.82/zvezda/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/zvezda/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/5.png" group-title="GRAND PLUS| DTR Федеральные",  Пятый канал
-http://85.198.71.82/5channel/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/5channel/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/otv-eburg.png" group-title="GRAND PLUS| DTR Региональные",  ОТВ (Екатеринбург)
-http://85.198.71.82/otv-ekb/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/otv-ekb/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/mir-24.png" group-title="GRAND PLUS| DTR Общественные",  Мир 24 (HD)
-http://85.198.71.82/mir24/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/mir24/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/lubimoe-kino.png" group-title="GRAND PLUS| DTR Кино и Сериалы",  Любимое кино
-http://85.198.71.82/LubimoeKino/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/LubimoeKino/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/prodvizhenie.png" group-title="GRAND PLUS| DTR Развлекательные",  Продвижение (HD)
-http://85.198.71.82/Prodvizhenie/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/Prodvizhenie/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/mosfilm.png" group-title="GRAND PLUS| DTR Кино и Сериалы",  Мосфильм. Золотая коллекция (HD)
-http://85.198.71.82/mosfilm-hd/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/mosfilm-hd/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/ont-by.png" group-title="GRAND PLUS| DTR Общественные",  ОНТ (HD)
-http://85.198.71.82/OHT/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/OHT/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/krik-tv.png" group-title="GRAND PLUS| DTR Федеральные",  КРИК-ТВ (HD)
-http://85.198.71.82/krik-tv/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/krik-tv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/solnce.png" group-title="GRAND PLUS| DTR Детские",  Солнце
-http://85.198.71.82/solnce/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/solnce/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/smaylik-tv.png" group-title="GRAND PLUS| DTR Детские",  Смайлик ТВ (HD)
-http://85.198.71.82/smaylik-tv/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/smaylik-tv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/patriot.png" group-title="GRAND PLUS| DTR Кино и Сериалы",  Патриот
-http://85.198.71.82/patriot/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/patriot/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/russky-roman.png" group-title="GRAND PLUS| DTR Кино и Сериалы",  Русский роман (HD)
-http://85.198.71.82/RussiaRoman/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/RussiaRoman/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/fanhd.png" group-title="GRAND PLUS| DTR Кино и анимация",  FAN (HD)
-http://85.198.71.82/FANHD/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/FANHD/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/vf-univer.png" group-title="GRAND PLUS| DTR Кино и Сериалы",  VF Универ
-http://85.198.71.82/vf-univer/index.m3u8
+http://155.212.222.114/vf-univer/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/domkino.png" group-title="GRAND PLUS| DTR Кино и Сериалы",  Дом кино
-http://85.198.71.82/domkino/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/domkino/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/mir-seriala.png" group-title="GRAND PLUS| DTR Кино и Сериалы",  Мир сериала
-http://85.198.71.82/mirseriala/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/mirseriala/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/kvn-tv.png" group-title="GRAND PLUS| DTR Юмор",  КВН ТВ
-http://85.198.71.82/kvn-tv/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/kvn-tv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/kxl.png" group-title="GRAND PLUS| DTR Спортивные",  КХЛ ТВ
-http://85.198.71.82/khltv/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/khltv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/eurosport1.png" group-title="GRAND PLUS| DTR Спортивные",  Eurosport 1
-http://85.198.71.82/eurosport/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/eurosport/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/scripach.png" group-title="GRAND PLUS| DTR Креаторы",  СкрипачТВ (FULL HD)
-http://85.198.71.82/scripachtv/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/scripachtv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/vhdvtv.png" group-title="GRAND PLUS| DTR Креаторы",  VHDV TV (HD)
-http://85.198.71.82/vhdvtv/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/vhdvtv/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/kino-vk.png" group-title="GRAND PLUS| DTR Креаторы",  КИНО ВК
-http://85.198.71.82/kinovk/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/kinovk/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/kino.online.png" group-title="GRAND PLUS| DTR Креаторы",  Kino.Online
-http://85.198.71.82/kino.online/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/kino.online/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="https://kino-stream.online/logo/kinowalk.png" group-title="GRAND PLUS| DTR Креаторы",  Kino Walk
-http://85.198.71.82/kinowalk/index.m3u8?KinoStreamMediaApps
+http://155.212.222.114/kinowalk/index.m3u8?KinoStreamMediaApps
 
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ntv.png" group-title="GRAND PLUS| RAFAIL UZ", ntv
 http://s8.rafail1982.uz/1284/tracks-v1a1/mono.m3u8
@@ -14046,9 +15055,7 @@ http://158.101.222.193:88/georgia_play.php?id=m1
 #EXTINF:-1  tvg-id="m2-ua" ,М2
 #EXTGRP:GRAND PLUS| MIX TV
 http://158.101.222.193:88/georgia_play.php?id=m2
-#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="https://goodgame.ru/files/avatars/av_1335346_EofE.jpg" ,HAPPY RADIOᴴᴰ
-#EXTGRP:GRAND PLUS| MIX TV
-https://tv.mediacp.eu:8081/happyradio/tracks-v1a1/mono.ts.m3u8
+
 
 
 
@@ -20453,20 +21460,7 @@ http://195.26.83.96:7007/play/a00m/index.m3u8
 
 
 
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  VIVA Russiaᴴᴰ
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=xq7ifwxf9G6XOiYtV2eOdQ&e=2069025350&scheme=https
 
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  VIVA Russiaᴴᴰ
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=3GjJXc7GSpajnGdSWZzhDA&e=2069068475&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  TMF RUSᴴᴰ
-https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/playlist.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  TMF RUSᴴᴰ
-https://edge1-eu-west.picarto.tv/stream/hls/golive+TMFRUS/1_0/index.m3u8
-
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  TMF RUSᴴᴰ
-https://live20.bozztv.com/akamaissh101/ssh101/tmfrus/chunks.m3u8
 
 #EXTINF:-1 group-title="GRAND PLUS| DANCE TV", TRANCE IS STAR RADIO SD
 https://myradio24.org/tisradio_video.m3u8
@@ -20495,8 +21489,7 @@ https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  Dance TV DeepHouseDistrict SD
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  Miami TV Musicᴴᴰ
-https://59ec5453559f0.streamlock.net/miamitvmusic/_definst_/smil:22596/chunklist_w1738820734_b5096000.m3u8
+
 
 #EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  Energy TV Musicᴴᴰ
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/chunklist_w2089520607_b1896000.m3u8
@@ -20516,20 +21509,7 @@ https://edge20.vedge.infomaniak.com/livecast/ik:funradiovisionhd/chunklist_w1759
 #EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  Fun Radioᴴᴰ
 https://edge15.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  Record Megamix SD
-https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=-DTb1r4R3jsW_QG2FP13BQ&e=2068637589&scheme=https
 
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  Record Megamix SD
-https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=IcAYG4YgREKSU7gFs7ASiw&e=2069025350&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  Record Tranceᴴᴰ
-https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=gp-4Wbobowp_EIQ7zTnB3Q&e=2069025350&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  Record Tranceᴴᴰ
-https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=Yh6F-BTmx3erbJO585-ByQ&e=2069068475&scheme=https
-
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  Record Tranceᴴᴰ
-https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=q8j7Y55dkIr35vAkxG8CoQ&e=2069500994&scheme=https
 
 #EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  TotalMusic Danceᴴᴰ
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
@@ -20552,8 +21532,6 @@ http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  POWER DANCEᴴᴰ
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV", RELOAD SD
-http://mains.services/live/0228902066/tc674KJ3du/12c3bc14-2bfc-4c2c-91ba-7ef8c1583b97.m3u
 
 #EXTINF:-1 group-title="GRAND PLUS| DANCE TV", Gabbarit Anthemᴴᴰ
 http://s.only4.tv/9425/video.m3u8?token=fWKpoaHaSj
@@ -20561,8 +21539,6 @@ http://s.only4.tv/9425/video.m3u8?token=fWKpoaHaSj
 #EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  OXYGEN MUSICᴴᴰ
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  Pride TVᴴᴰ
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 
 #EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  DASDINGᴴᴰ
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
@@ -20570,8 +21546,7 @@ https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTINF:-1 group-title="GRAND PLUS| DANCE TV", IDJ TV FD
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd
 
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  V2BEAT SD
-http://dmitry-tv.ddns.net/hls/CH_V2BEATHD720.m3u8
+
 
 #EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  V2BEAT SD
 https://de1se01.v2beat.live/playlist.m3u8
@@ -20600,11 +21575,9 @@ https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 #EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  M2Oᴴᴰ
 https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  INFINITY SD
-https://fl1003.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  Music SD
-https://fl1001.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 group-title="GRAND PLUS| DANCE TV",  Deluxe Danceᴴᴰ
 https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=7SjEkp3oSdd52Pl03AcrpA&e=2066519857&scheme=https
@@ -20623,17 +21596,6 @@ http://mains.services/live/0228902066/tc674KJ3du/32a51781-cb84-4c43-a07c-9245066
 
 
 
-#EXTINF:-1 group-title="GRAND PLUS| TRACE TV", Trace Sport Stars
-http://87.120.142.11:18000/Rossiya1
-
-#EXTINF:-1 group-title="GRAND PLUS| TRACE TV", TRACE AFRICA
-http://srv.igsuae.xyz/zrjcS9G83aDU/cpHgZXz5G1G1/816729
-
-#EXTINF:-1 group-title="GRAND PLUS| TRACE TV",  TRACE AYITI SD
-http://srv.igsuae.xyz:80/zrjcS9G83aDU/cpHgZXz5G1G1/789837
-
-#EXTINF:-1 group-title="GRAND PLUS| TRACE TV",  TRACE CARIBBEAN SD
-http://srv.igsuae.xyz:80/zrjcS9G83aDU/cpHgZXz5G1G1/816728
 
 #EXTINF:-1 group-title="GRAND PLUS| TRACE TV",   TRACE UK
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/6655b878-f320-467c-b91d-153baf27a101/1.m3u8
@@ -45473,6 +46435,74 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/N7D2WLCEN8A5B7EHH44KAAL8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/5681.png" group-title="GRAND PLUS | عربي", Al Hadath AE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/N7D2WLCEN8A5B7EHH44KAAL8/15203/index.m3u8
 
+
+
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.1
+https://mults.info/mp4/nu_pogodi_01.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.2
+https://mults.info/mp4/nu_pogodi_02.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.3
+https://mults.info/mp4/nu_pogodi_03.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.4
+https://mults.info/mp4/nu_pogodi_04.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.5
+https://mults.info/mp4/nu_pogodi_05.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.6
+https://mults.info/mp4/nu_pogodi_06.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.7
+https://mults.info/mp4/nu_pogodi_07.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.8
+https://mults.info/mp4/nu_pogodi_08.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.9
+https://mults.info/mp4/nu_pogodi_09.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.10
+https://mults.info/mp4/nu_pogodi_10.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.11
+https://mults.info/mp4/nu_pogodi_11.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.12
+https://mults.info/mp4/nu_pogodi_12.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.13
+https://mults.info/mp4/nu_pogodi_13.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.14
+https://mults.info/mp4/nu_pogodi_14.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.15
+https://mults.info/mp4/nu_pogodi_15.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.16
+https://mults.info/mp4/nu_pogodi_16.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.17
+https://mults.info/mp4/nu_pogodi_17.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.18
+https://mults.info/mp4/nu_pogodi_18.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.19
+https://mults.info/mp4/nu_pogodi_19.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! ч.20
+https://mults.info/mp4/nu_pogodi_20.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди! (телевыпуск 1)
+https://mults.info/mp4/nu_pogodi_tv_1.mp4
+
+#EXTINF:-1 group-title="GRAND PLUS | НУ, ПОГОДИ!", Погоди!3)
+https://mults.info/mp4/nu_pogodi_tv.mp4
 
 
             
