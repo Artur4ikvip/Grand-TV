@@ -56,28 +56,28 @@ https://fl1001.bozztv.com/ushba67/tracks-v1a1/mono.m3u8
 https://tv.mediacp.eu:8081/happyradio/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 tvg-id="ch030" tvg-name="MTV Europe" tvg-logo="http://tvtm.one/images/chIcons/30.png" tvg-rec="0", MTV Europe
-#EXTGRP:(RUZIEV +)
+#EXTGRP:RUZIEV MY TV +
 http://3.tvtm.one/ch030/mono.m3u8?token=badpsy.v2_IaUf1d3M3U5_uOrE8T7qkbSW987JtGPxRG4ti-QcLLu9SVVxuKnP_1usq204C_WRWUDb25Ac
 #EXTINF:-1  tvg-id="mtvu"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" ,MTV U
-#EXTGRP:(RUZIEV +) 
+#EXTGRP:RUZIEV MY TV + 
 http://mains.services/live/0228902066/tc674KJ3du/47b72d50-9050-439c-b4c7-81b3564973cb.m3u
 #EXTINF:-1 group-title="(RUZIEV +) ",  MTV Base HD
 http://3.tvtm.one/ch2766/mono.m3u8?token=zazann.v2_UxFNZFJjPmvwHP1rDb5v4mB75UaRwA2b8kTexCc3QDRQzpjXXFOen3b6xcWBjJTx_L3rO3F8ByY
 
 #EXTINF:0 tvg-id="ch2766" tvg-name="MTV Base HD" tvg-logo="http://tvtm.one/images/chIcons/2766.png" tvg-rec="0", MTV Base HD
-#EXTGRP:(RUZIEV +)
+#EXTGRP:RUZIEV MY TV +
 http://3.tvtm.one/ch2766/mono.m3u8?token=badpsy.v2__jK9FzGS4hVK-fn3LPO4Re-3VCQcljEjSV7fIqtc_XInz443yZPMrs8r-HLWA0ghi2Vmv5YJl5E
 #EXTINF:0 tvg-id="ch2752" tvg-name="MTV Idol HD" tvg-logo="http://tvtm.one/images/chIcons/2752.png" tvg-rec="0", MTV Idol HD
-#EXTGRP:(RUZIEV +)
+#EXTGRP:RUZIEV MY TV +
 http://3.tvtm.one/ch2752/mono.m3u8?token=badpsy.v2_varmbCEgOZ8vAmE8mdGzDsDeclMs0vVAmLPF4fuez5RbbccBLJmNjdq91OEjuT6lTj1siIwpAPw
 #EXTINF:0 tvg-id="ch2758" tvg-name="MTV Pulse HD" tvg-logo="http://tvtm.one/images/chIcons/2758.png" tvg-rec="0", MTV Pulse HD
-#EXTGRP:(RUZIEV +)
+#EXTGRP:RUZIEV MY TV +
 http://3.tvtm.one/ch2758/mono.m3u8?token=badpsy.v2_uCa8wYoiasOazDoGAXBY12HVOCN4gAgVnCdC2oqApOBQrMQ7T0WDnOs3ha_gz8jSGPscnOmccOM
 #EXTINF:0 tvg-id="ch3895" tvg-name="MTV Club HD" tvg-logo="http://tvtm.one/images/chIcons/3895.png" tvg-rec="0", MTV Club HD
-#EXTGRP:(RUZIEV +)
+#EXTGRP:RUZIEV MY TV +
 http://3.tvtm.one/ch3895/mono.m3u8?token=badpsy.v2_B6IVCo2kT9IPltgrM6hbNE0q-jFY5V-aUpP60lmyNIYg2bjffcNAF6lEeEl8ZWdtRCXyhGw-AOk
 #EXTINF:0 tvg-id="ch3896" tvg-name="MTV Hits HD" tvg-logo="http://tvtm.one/images/chIcons/3896.png" tvg-rec="0", MTV Hits HD
-#EXTGRP:(RUZIEV +)
+#EXTGRP:RUZIEV MY TV +
 http://3.tvtm.one/ch3896/mono.m3u8?token=badpsy.v2_yWIeN35OP0s1O_jQpWyTLY-eB4hUlwfvebAwt5154wq-TBzlNh7tCwzY_kFdVkK4MvfKZaw3e5E
 #EXTINF:-1 tvg-logo="http://tvtm.one/images/chIcons/2766.png" group-title="RUZIEV MY TV +", MTV Base HD
 http://3.tvtm.one/ch2766/mono.m3u8?token=zazann.v2_9TBIoJ6HsIPOyOpuBZimqJz3ZZ8Vn0YdmE2fU84Ie7lzKvdmduDn3IdTm-1eI3CKo4J-7FVJA4I
