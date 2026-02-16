@@ -1,7 +1,7 @@
 #EXTM3U tvg-url="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4904465/899ce249-074a-474e-ac82-d301351f100e/s600" group-title="GRAND TV 21+™ PREMIUM",GRAND TV 21+™ PREMIUM
 https://dl.dropbox.com/s/ubtsmk82baz5jmk/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%20%D0%B2%D0%B8%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D1%80.mp4
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4904465/899ce249-074a-474e-ac82-d301351f100e/s600" group-title="САМООБНОВЛЯЕМЫЙ ПЛЕЙЛИСТ: { ОБНОВИЛ 2026/02/14 19:34}™",{ ОБНОВИЛ 26/июн./2024 21:25}™
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4904465/899ce249-074a-474e-ac82-d301351f100e/s600" group-title="САМООБНОВЛЯЕМЫЙ ПЛЕЙЛИСТ: { ОБНОВИЛ 2026/02/16 19:53}™",{ ОБНОВИЛ 26/июн./2024 21:25}™
 https://dl.dropbox.com/s/kn3nw8bxdt9y6jf/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BB%D0%BE%D0%B3%D0%BE_%20%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%B7%D1%80%D1%8B%D0%B2%20%D0%B4%D1%8B%D0%BC%D0%B0.mp4
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/2727732/7d0dc886-8d81-40c3-8e9c-9e0ee6aadf88/s600" group-title="ВНИМАНИЕ!!! ЛИСТ СОДЕРЖИТ МАТЕРИАЛЫ ЭРОТИЧЕСКОГО ХАРАКТЕРА ЗАПРЕЩЁННЫЙ ДЛЯ ПРОСМОТРА ЛИЦАМ МЛАДШЕ 18 лет. СТАВЬТЕ РОДИТЕЛЬСКИЙ КОНТРОЛЬ!!! 21+",СТАВЬТЕ РОДИТЕЛЬСКИЙ КОНТРОЛЬ 21+
 https://dl.dropbox.com/s/2kk0o4cjqa26cdz/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80%203d-%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B9%20%D0%B4%D0%BB%D1%8F%20%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D1%85%20%D1%80%D0%BE%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2.mp4
@@ -10,6 +10,106 @@ https://dl.dropbox.com/s/2kk0o4cjqa26cdz/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80%203d-%D0
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/d1yiif9izj0ls5w/IMG_20220420_095011_392.jpg"" group-title="GRAND PLUS (18+)", GRAND PLUS
 https://video1.tizam.cc/music/LickIt.mp4
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/extasy-tv-hd.png" group-title="GRAND PLUS | 248on XXX",  Extasy TV HD
+http://s06.wsbof.com:8080/s/c8b70831/extasy-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/penthouse1-hd.png" group-title="GRAND PLUS | 248on XXX",  Penthouse Gold HD
+http://s06.wsbof.com:8080/s/c8b70831/penthouse1-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/penthouse2-hd.png" group-title="GRAND PLUS | 248on XXX",  Penthouse Reality TV HD
+http://s06.wsbof.com:8080/s/c8b70831/penthouse2-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/penthouse-passion-hd.png" group-title="GRAND PLUS | 248on XXX",  Penthouse Passion HD
+http://s06.wsbof.com:8080/s/c8b70831/penthouse-passion-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/redlight-hd.png" group-title="GRAND PLUS | 248on XXX",  Redlight HD
+http://s06.wsbof.com:8080/s/c8b70831/redlight-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/private-tv.png" group-title="GRAND PLUS | 248on XXX",  Private HD
+http://s06.wsbof.com:8080/s/c8b70831/private-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/hustler-hd.png" group-title="GRAND PLUS | 248on XXX",  Hustler HD
+http://s06.wsbof.com:8080/s/c8b70831/hustler-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/brazzers-tv.png" group-title="GRAND PLUS | 248on XXX",  Brazzers TV HD
+http://s06.wsbof.com:8080/s/c8b70831/brazzers-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/babes-hd.png" group-title="GRAND PLUS | 248on XXX",  Babes HD
+http://s06.wsbof.com:8080/s/c8b70831/babes-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/vixen-tv-hd.png" group-title="GRAND PLUS | 248on XXX",  Vixen TV HD
+http://s06.wsbof.com:8080/s/c8b70831/vixen-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/evil-angel-hd.png" group-title="GRAND PLUS | 248on XXX",  Evil Angel HD
+http://s06.wsbof.com:8080/s/c8b70831/evil-angel-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/erox-hd.png" group-title="GRAND PLUS | 248on XXX",  Erox HD
+http://s06.wsbof.com:8080/s/c8b70831/erox-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/eroxxx-hd.png" group-title="GRAND PLUS | 248on XXX",  Eroxxx HD
+http://s06.wsbof.com:8080/s/c8b70831/eroxxx-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/dorcel-hd.png" group-title="GRAND PLUS | 248on XXX",  Dorcel TV HD
+http://s06.wsbof.com:8080/s/c8b70831/dorcel-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/super-one-hd.png" group-title="GRAND PLUS | 248on XXX",  SuperOne HD
+http://s06.wsbof.com:8080/s/c8b70831/super-one-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/xxl-tv.png" group-title="GRAND PLUS | 248on XXX",  XXL
+http://s06.wsbof.com:8080/s/c8b70831/xxl-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/vivid-tv.png" group-title="GRAND PLUS | 248on XXX",  Vivid TV
+http://s06.wsbof.com:8080/s/c8b70831/vivid-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/vivid-red.png" group-title="GRAND PLUS | 248on XXX",  Vivid Red
+http://s06.wsbof.com:8080/s/c8b70831/vivid-red.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/shalun-hd.png" group-title="GRAND PLUS | 248on XXX",  Шалун HD
+http://s06.wsbof.com:8080/s/c8b70831/shalun-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/shyolk-hd.png" group-title="GRAND PLUS | 248on XXX",  Шёлк HD
+http://s06.wsbof.com:8080/s/c8b70831/shyolk-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/vivid-touch-hd.png" group-title="GRAND PLUS | 248on XXX",  Vivid Touch HD
+http://s06.wsbof.com:8080/s/c8b70831/vivid-touch-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/exxxotica-hd.png" group-title="GRAND PLUS | 248on XXX",  Exxxotica HD
+http://s06.wsbof.com:8080/s/c8b70831/exxxotica-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/kinoerotica-hd.png" group-title="GRAND PLUS | 248on XXX",  Kinoerotica HD
+http://s06.wsbof.com:8080/s/c8b70831/kinoerotica-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/xy-mix-hd.png" group-title="GRAND PLUS | 248on XXX",  XY MIX HD
+http://s06.wsbof.com:8080/s/c8b70831/xy-mix-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/xy-max-hd.png" group-title="GRAND PLUS | 248on XXX",  XY MAX HD
+http://s06.wsbof.com:8080/s/c8b70831/xy-max-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/xy-plus-hd.png" group-title="GRAND PLUS | 248on XXX",  XY PLUS HD
+http://s06.wsbof.com:8080/s/c8b70831/xy-plus-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/red-lips.png" group-title="GRAND PLUS | 248on XXX",  Red Lips HD
+http://s06.wsbof.com:8080/s/c8b70831/red-lips.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/blue-hustler-hd.png" group-title="GRAND PLUS | 248on XXX",  Blue Hustler HD
+http://s06.wsbof.com:8080/s/c8b70831/blue-hustler-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/barely-legal.png" group-title="GRAND PLUS | 248on XXX",  Barely Legal TV
+http://s06.wsbof.com:8080/s/c8b70831/barely-legal.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/ruskaja-noch-hd.png" group-title="GRAND PLUS | 248on XXX",  Русская Ночь HD
+http://s06.wsbof.com:8080/s/c8b70831/ruskaja-noch-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s06.wsbof.com:8080/streams/playboy-tv.png" group-title="GRAND PLUS | 248on XXX",  Playboy TV
+http://s06.wsbof.com:8080/s/c8b70831/playboy-tv.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BOGCOCK ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="GRAND PLUS | XXX-VIP",BOGCOCK ADULT
