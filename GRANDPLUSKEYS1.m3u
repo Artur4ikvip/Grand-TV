@@ -2,12 +2,280 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/02/16 20:26}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/02/17 18:46}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="СПАСИБО ЗА ТРУД : 5614 6812 0418 1428",{ ОБНОВИЛ }™
 http://sc4.gergosnet.com/pulstranceHD.mp3
+
+
+
+
+#EXTINF:-1 tvg-logo="http://ttvrun.one/uploads/zofXJ02KkVszBoYQW9lM04HZQKfeRh.png" group-title="GRAND PLUS | MARVEL", AlisaTV Marvel
+http://cdn.olsibtv.org:9999/channel/n307c4fe/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/olsib-marvel.png" group-title="GRAND PLUS | MARVEL",  Olsib Marvel FHD
+http://cdn.olsibtv.org:9999/channel/48de159c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_marvel.png" group-title="GRAND PLUS | MARVEL",  Kernel TV Марвел vs DC
+http://cdn.olsibtv.org:9999/channel/n49687a23/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_marvser.png" group-title="GRAND PLUS | MARVEL",  Kernel TV Мервел сериалы
+http://cdn.olsibtv.org:9999/channel/6231a7f4/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/311.png" group-title="GRAND PLUS | MARVEL",  BCU Marvel HD
+http://cdn.olsibtv.org:9999/channel/7281884f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/1035.png" group-title="GRAND PLUS | MARVEL",  CineMan Marvel
+http://cdn.olsibtv.org:9999/channel/7ab7a164/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+
+#EXTINF:-1 tvg-logo="http://cdn.olsibtv.org:9999/logos/vf-marvel.png" group-title="GRAND PLUS | MARVEL",  VF Marvel
+http://cdn.olsibtv.org:9999/channel/39e7f62d/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://cdn.olsibtv.org:9999/logos/c-marvel.png" group-title="GRAND PLUS | MARVEL",  Citrus Marvel
+http://cdn.olsibtv.org:9999/channel/d37727b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2463.png" group-title="GRAND PLUS | MARVEL",  KLI Marvel HD
+http://cdn.olsibtv.org:9999/channel/17f0b3d7/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://troya.tv/images/chIcons/2675.png" group-title="GRAND PLUS | MARVEL",  Oasis Marvel
+http://cdn.olsibtv.org:9999/channel/n5b34e2c8/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://team.ga/images/chIcons/2655.png" group-title="GRAND PLUS | MARVEL",  Oasis Best of DC
+http://cdn.olsibtv.org:9999/channel/e995049/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://cdn.olsibtv.org:9999/logos/kbc-comics.png" group-title="GRAND PLUS | MARVEL",  KBC-Comics HD
+http://cdn.olsibtv.org:9999/channel/n72f33448/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/c-marvel.png" group-title="GRAND PLUS | MARVEL",  YOSSO TV C-Marvel
+http://cdn.olsibtv.org:9999/channel/f426913/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS | MARVEL",  TVPlay Marvel HD
+http://cdn.olsibtv.org:9999/channel/ne96d760/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_geroy.png" group-title="GRAND PLUS | MARVEL",  Kernel TV Герой
+http://cdn.olsibtv.org:9999/channel/3bed3711/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://cdn.olsibtv.org:9999/logos/bcu-marvel-hd.png" group-title="GRAND PLUS | MARVEL", BCU Marvel HD
+http://cdn.olsibtv.org:9999/channel/7281884f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://cdn.olsibtv.org:9999/logos/c-marvel.png" group-title="GRAND PLUS | MARVEL", Citrus Marvel
+http://cdn.olsibtv.org:9999/channel/d37727b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/DeadpoolWolverine.jpg" group-title="GRAND PLUS | MARVEL FILM", Дэдпул и Росомаха (2024)
+http://cdn.olsibtv.org:9999/channel/n6034d2b3/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/TheMarvels.jpg" group-title="GRAND PLUS | MARVEL FILM", Капитан Марвел 2 (2023)
+http://cdn.olsibtv.org:9999/channel/4feb7392/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/Spider-ManAcrosstheSpider-Verse.jpg" group-title="GRAND PLUS | MARVEL FILM", Человек-паук: Паутина вселенных (2023)
+http://cdn.olsibtv.org:9999/channel/n12eeee6c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/GuardiansoftheGalaxyVol3.jpg" group-title="GRAND PLUS | MARVEL FILM", Стражи Галактики. Часть 3 (2023)
+http://cdn.olsibtv.org:9999/channel/1769d800/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/MuraveyIOsa2023.jpg" group-title="GRAND PLUS | MARVEL FILM", Человек-муравей и Оса: Квантомания. (2023)
+http://cdn.olsibtv.org:9999/channel/n2d0ffd7e/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/ChyernayaPantera2022.jpg" group-title="GRAND PLUS | MARVEL FILM",  Чёрная Пантера: Ваканда навеки (2022)
+http://cdn.olsibtv.org:9999/channel/n524ae919/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/Thor2022.jpg" group-title="GRAND PLUS | MARVEL FILM",  Тор: Любовь и гром.. (2022)
+http://cdn.olsibtv.org:9999/channel/n473d939e/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/DoctorStrange2.jpg" group-title="GRAND PLUS | MARVEL FILM",  Доктор Стрэндж: В мультивселенной безумия (2022)
+http://cdn.olsibtv.org:9999/channel/6ae4f9be/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/GuardiansoftheGalaxyHolidaySpecial.jpg" group-title="GRAND PLUS | MARVEL FILM",  Стражи Галактики: Праздничный спецвыпуск (2022)
+http://cdn.olsibtv.org:9999/channel/337c9a62/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/BlackWidow.jpg" group-title="GRAND PLUS | MARVEL FILM",  Чёрная Вдова (2021)
+http://cdn.olsibtv.org:9999/channel/5803d792/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/ShangChi2022.jpg" group-title="GRAND PLUS | MARVEL FILM",  Шан-Чи и легенда десяти колец (2021)
+http://cdn.olsibtv.org:9999/channel/5031c9e7/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/Eternals.jpg" group-title="GRAND PLUS | MARVEL FILM",  Вечные (2021)
+http://cdn.olsibtv.org:9999/channel/570edecf/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/SpiderManNoWayHome.jpg" group-title="GRAND PLUS | MARVEL FILM",  Человек-паук: Нет пути домой.. (2021)
+http://cdn.olsibtv.org:9999/channel/62f6ca20/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/CaptainMarvel.jpg" group-title="GRAND PLUS | MARVEL FILM",  Капитан Марвел.. (2019)
+http://cdn.olsibtv.org:9999/channel/n33db30e3/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/AvengersFinal.jpg" group-title="GRAND PLUS | MARVEL FILM",  Мстители: Финал (2019)
+http://cdn.olsibtv.org:9999/channel/c61452a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/SpiderManFarfromHome.jpg" group-title="GRAND PLUS | MARVEL FILM",  Человек-паук: Вдали от дома (2019)
+http://cdn.olsibtv.org:9999/channel/5b7da75d/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/AvengersBeskonechnosti.jpg" group-title="GRAND PLUS | MARVEL FILM",  Мстители: Война бесконечности (2018)
+http://cdn.olsibtv.org:9999/channel/2c6fdf77/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/AntManPlusWasp.jpg" group-title="GRAND PLUS | MARVEL FILM",  Человек-муравей и Оса.. (2018)
+http://cdn.olsibtv.org:9999/channel/211a9a91/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/BlackPanther.jpg" group-title="GRAND PLUS | MARVEL FILM",  Чёрная Пантера.. (2018)
+http://cdn.olsibtv.org:9999/channel/n3a49e56b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/SpiderManIntotheSpiderVerse.jpg" group-title="GRAND PLUS | MARVEL FILM",  Человек-паук: Через вселенные (2018)
+http://cdn.olsibtv.org:9999/channel/n4703981b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/Thor3.jpg" group-title="GRAND PLUS | MARVEL FILM",  Тор: Рагнарёк.. (2017)
+http://cdn.olsibtv.org:9999/channel/4d675852/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/GuardiansoftheGalaxy2.jpg" group-title="GRAND PLUS | MARVEL FILM",  Стражи Галактики Часть 2.. (2017)
+http://cdn.olsibtv.org:9999/channel/56c39da8/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/SpiderManHomecoming.jpg" group-title="GRAND PLUS | MARVEL FILM",  Человек-паук: Возвращение домой (2017)
+http://cdn.olsibtv.org:9999/channel/n1d8ee640/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/Logan.jpg" group-title="GRAND PLUS | MARVEL FILM",  Логан.. (2017)
+http://cdn.olsibtv.org:9999/channel/2f407c52/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/X-MenApocalypse.jpg" group-title="GRAND PLUS | MARVEL FILM",  Люди Икс: Апокалипсис (2016)
+http://cdn.olsibtv.org:9999/channel/n138d2ce1/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/CaptainAmerica3.jpg" group-title="GRAND PLUS | MARVEL FILM",  Первый мститель: Противостояние (2016)
+http://cdn.olsibtv.org:9999/channel/n72913188/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/DoctorStrange1.jpg" group-title="GRAND PLUS | MARVEL FILM",  Доктор Стрэндж (2016)
+http://cdn.olsibtv.org:9999/channel/34fcda7/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/AntMan.jpg" group-title="GRAND PLUS | MARVEL FILM",  Человек-муравей.. (2015)
+http://cdn.olsibtv.org:9999/channel/n7abb2747/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/AvengersAljtron.jpg" group-title="GRAND PLUS | MARVEL FILM",  Мстители: Эра Альтрона. (2015)
+http://cdn.olsibtv.org:9999/channel/ed9989/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/X-MenDaysofFuturePast.jpg" group-title="GRAND PLUS | MARVEL FILM",  Люди Икс: Дни минувшего будущего (2014)
+http://cdn.olsibtv.org:9999/channel/n4f78538f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/TheAmazingSpiderMan2.jpg" group-title="GRAND PLUS | MARVEL FILM",  Новый Человек-паук: Высокое напряжение (2014)
+http://cdn.olsibtv.org:9999/channel/n50a9878d/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/CaptainAmerica2.jpg" group-title="GRAND PLUS | MARVEL FILM",  Первый Мститель: Другая Война (2014)
+http://cdn.olsibtv.org:9999/channel/n7612f478/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/GuardiansoftheGalaxy1.jpg" group-title="GRAND PLUS | MARVEL FILM",  Стражи Галлактики.. (2014)
+http://cdn.olsibtv.org:9999/channel/n3449e336/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/BigHero6.jpg" group-title="GRAND PLUS | MARVEL FILM",  Город героев. (2014)
+http://cdn.olsibtv.org:9999/channel/64959d76/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/TheWolverine.jpg" group-title="GRAND PLUS | MARVEL FILM",  Росомаха: Бессмертный (2013)
+http://cdn.olsibtv.org:9999/channel/5d5e7ca7/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/zyhelezka-3.jpg" group-title="GRAND PLUS | MARVEL FILM",  Железный человек 3... (2013)
+http://cdn.olsibtv.org:9999/channel/n12e1e235/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/Thor2.jpg" group-title="GRAND PLUS | MARVEL FILM",  Тор 2: Царство тьмы.. (2013)
+http://cdn.olsibtv.org:9999/channel/15665981/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/TheAmazingSpiderMan1.jpg" group-title="GRAND PLUS | MARVEL FILM",  Новый Человек-паук.... (2012)
+http://cdn.olsibtv.org:9999/channel/4854ce40/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/Avengers.jpg" group-title="GRAND PLUS | MARVEL FILM",  Мстители (2012)
+http://cdn.olsibtv.org:9999/channel/n3164dfbb/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/X-MenFirstClass.jpg" group-title="GRAND PLUS | MARVEL FILM",  Люди Икс: Первый класс (2011)
+http://cdn.olsibtv.org:9999/channel/n31911270/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/Thor1.jpg" group-title="GRAND PLUS | MARVEL FILM",  Тор.. (2011)
+http://cdn.olsibtv.org:9999/channel/n7d86f04f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/CaptainAmerica1.jpg" group-title="GRAND PLUS | MARVEL FILM",  Первый мститель (2011)
+http://cdn.olsibtv.org:9999/channel/54022aac/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/zyhelezka-2.jpg" group-title="GRAND PLUS | MARVEL FILM",  Железный человек 2... (2010)
+http://cdn.olsibtv.org:9999/channel/58396aad/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/X-MenOriginsWolverine.jpg" group-title="GRAND PLUS | MARVEL FILM",  Люди Икс: Начало. Росомаха.. (2009)
+http://cdn.olsibtv.org:9999/channel/n11bd53f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/zyhelezka-1.jpg" group-title="GRAND PLUS | MARVEL FILM",  Железный человек... (2008)
+http://cdn.olsibtv.org:9999/channel/n19ed986e/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/SpiderMan3.jpg" group-title="GRAND PLUS | MARVEL FILM",  Человек-Паук 3: Враг в отражении (2007)
+http://cdn.olsibtv.org:9999/channel/n27a4a84b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/X-MenTheLastStand.jpg" group-title="GRAND PLUS | MARVEL FILM",  Люди Икс: Последняя битва (2006)
+http://cdn.olsibtv.org:9999/channel/nbf7bb93/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/SpiderMan2.jpg" group-title="GRAND PLUS | MARVEL FILM",  Человек-Паук 2 (2004)
+http://cdn.olsibtv.org:9999/channel/2d35bf8c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/X-Men2.jpg" group-title="GRAND PLUS | MARVEL FILM",  Люди Икс 2 (2003)
+http://cdn.olsibtv.org:9999/channel/n7fdb7b3a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/SpiderMan1.jpg" group-title="GRAND PLUS | MARVEL FILM",  Человек-Паук. (2002)
+http://cdn.olsibtv.org:9999/channel/n279a6ac/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/X-Men1.jpg" group-title="GRAND PLUS | MARVEL FILM",  Люди Икс (2000)
+http://cdn.olsibtv.org:9999/channel/n10fdd945/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/Thunderbolts2025.jpg" group-title="GRAND PLUS | MARVEL FILM",  Громовержцы* (2025)
+http://cdn.olsibtv.org:9999/channel/5b8d0f95/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://hom.orgip.net/logo/CaptainAmericaBraveNewWorld.jpg" group-title="GRAND PLUS | MARVEL FILM",  Капитан Америка: Новый мир (2025)
+http://cdn.olsibtv.org:9999/channel/n36074338/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k65RL1PY/olsib-tv.png" group-title="GRAND PLUS | OLSIB MUZ", Olsib RITSA FHD
+http://cdn.olsibtv.org:9999/channel/n35ba050e/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-logo="http://movies.global-media.info:81/logo/globalmedia_tv.png" group-title="GRAND PLUS | OLSIB MUZ", GlobalMedia Музыка
+http://cdn.olsibtv.org:9999/channel/n4a339dee/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS | OLSIB MUZ", Play-x Mafia
+http://cdn.olsibtv.org:9999/channel/27aa0317/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS | OLSIB MUZ", Play-x Меломан
+http://cdn.olsibtv.org:9999/channel/1e2b871a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-logo="http://epg.one/img/6169.png" group-title="GRAND PLUS | OLSIB MUZ", VF Rap
+http://cdn.olsibtv.org:9999/channel/4b9aee33/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS | OLSIB MUZ", Play-x RAP
+http://cdn.olsibtv.org:9999/channel/95d788e/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS | OLSIB MUZ", Play-x Дискотека 90-х
+http://cdn.olsibtv.org:9999/channel/60c76e78/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS | OLSIB MUZ", Play-x Авторадио
+http://cdn.olsibtv.org:9999/channel/n76ee3007/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-logo="http://epg.one/img/5371.png" group-title="GRAND PLUS | OLSIB MUZ", VB Dance Hits of 90s
+http://cdn.olsibtv.org:9999/channel/3a1289d4/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-logo="http://epg.one/img/7887.png" group-title="GRAND PLUS | OLSIB MUZ", BOX RU.RAP HD
+http://cdn.olsibtv.org:9999/channel/47ad356f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/7888.png" group-title="GRAND PLUS | OLSIB MUZ", VB MTV Old Россия HD
+http://cdn.olsibtv.org:9999/channel/112976ab/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/8805.png" group-title="GRAND PLUS | OLSIB MUZ", VB Greatest Hits
+http://cdn.olsibtv.org:9999/channel/16b34dd5/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/8806.png" group-title="GRAND PLUS | OLSIB MUZ", VB Yo! MTV HD
+http://cdn.olsibtv.org:9999/channel/1e29dd54/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-logo="http://epg.one/img/5372.png" group-title="GRAND PLUS | OLSIB MUZ", VB Русская Попса 80х-90х
+http://cdn.olsibtv.org:9999/channel/n328570df/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-logo="http://epg.one/img/7176.png" group-title="GRAND PLUS | OLSIB MUZ", VB Eurodance Hits 90s
+http://cdn.olsibtv.org:9999/channel/n1d3a3458/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-logo="http://epg.one/img/5373.png" group-title="GRAND PLUS | OLSIB MUZ", VB Russian Dance Hits of 90s
+http://cdn.olsibtv.org:9999/channel/4e49d067/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-logo="http://epg.one/img/6008.png" group-title="GRAND PLUS | OLSIB MUZ", VB Best Live Performances
+http://cdn.olsibtv.org:9999/channel/n1d476d13/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/6009.png" group-title="GRAND PLUS | OLSIB MUZ", VB Romantic and Ballads
+http://cdn.olsibtv.org:9999/channel/5fdf466b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-logo="http://epg.one/img/6630.png" group-title="GRAND PLUS | OLSIB MUZ", NRJ HITS HD
+http://cdn.olsibtv.org:9999/channel/n35a6b3a0/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="(RUZIEV +) ", RELAX AM
 http://timeshift.arpinet.am/232/tracks-v1a1/mono.ts.m3u8
