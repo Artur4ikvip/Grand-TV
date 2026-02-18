@@ -2,12 +2,2509 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/02/17 18:46}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/02/18 18:18}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="СПАСИБО ЗА ТРУД : 5614 6812 0418 1428",{ ОБНОВИЛ }™
 http://sc4.gergosnet.com/pulstranceHD.mp3
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/22.png" group-title="GRAND PLUS| DOSUG SPORT" Eurosport 1
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/22/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/58.png" group-title="GRAND PLUS| DOSUG SPORT" Eurosport 2
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/58/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/49935.png" group-title="GRAND PLUS| DOSUG SPORT" Eurosport 1 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/49935/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/32273.png" group-title="GRAND PLUS| DOSUG SPORT" Eurosport 2 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/32273/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/5.png" group-title="GRAND PLUS| DOSUG SPORT" Матч! HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/5/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/21.png" group-title="GRAND PLUS| DOSUG SPORT" Матч! Арена HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/21/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/47.png" group-title="GRAND PLUS| DOSUG SPORT" Матч! Игра HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/47/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/26338.png" group-title="GRAND PLUS| DOSUG SPORT" Матч! Страна HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/26338/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/54482.png" group-title="GRAND PLUS| DOSUG SPORT" Матч! Боец HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/54482/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/34117.png" group-title="GRAND PLUS| DOSUG SPORT" Матч! Планета
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/34117/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/52846.png" group-title="GRAND PLUS| DOSUG SPORT" Матч! Футбол 1 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/52846/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/35647.png" group-title="GRAND PLUS| DOSUG SPORT" Матч! Футбол 2 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/35647/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/48756.png" group-title="GRAND PLUS| DOSUG SPORT" Матч! Футбол 3 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/48756/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/58793.png" group-title="GRAND PLUS| DOSUG SPORT" Матч! Премьер HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/58793/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/54987.png" group-title="GRAND PLUS| DOSUG SPORT" Футбол
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/54987/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/48630.png" group-title="GRAND PLUS| DOSUG SPORT" Старт
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/48630/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/35252.png" group-title="GRAND PLUS| DOSUG SPORT" Старт Баскет
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/35252/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/36.png" group-title="GRAND PLUS| DOSUG SPORT" КХЛ
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/36/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/49899.png" group-title="GRAND PLUS| DOSUG SPORT" КХЛ HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/49899/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1663.png" group-title="GRAND PLUS| DOSUG SPORT" КХЛ Prime
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/1663/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/57364.png" group-title="GRAND PLUS| DOSUG SPORT" Хоккей HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/57364/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/45141.png" group-title="GRAND PLUS| DOSUG SPORT" Setanta Sports 1
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/45141/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63626.png" group-title="GRAND PLUS| DOSUG SPORT" Setanta Sports 2
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63626/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63945.png" group-title="GRAND PLUS| DOSUG SPORT" Setanta Sports Ukraine
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63945/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/30727.png" group-title="GRAND PLUS| DOSUG SPORT" Setanta Sports Ukraine +
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/30727/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/82731.png" group-title="GRAND PLUS| DOSUG SPORT" Setanta Sport Premium UA
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/82731/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/62005.png" group-title="GRAND PLUS| DOSUG SPORT" Setanta Sports 1 Baltic
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/62005/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/38208.png" group-title="GRAND PLUS| DOSUG SPORT" Setanta Sports 2 Baltic
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/38208/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63395.png" group-title="GRAND PLUS| DOSUG SPORT" Setanta Sport Moldova
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63395/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/29837.png" group-title="GRAND PLUS| DOSUG SPORT" Setanta Sport KZ
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/29837/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/27372.png" group-title="GRAND PLUS| DOSUG SPORT" Setanta Sport+ KZ
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/27372/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/56339.png" group-title="GRAND PLUS| DOSUG SPORT" QSport International  HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/56339/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63340.png" group-title="GRAND PLUS| DOSUG SPORT" QSport League HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63340/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/43998.png" group-title="GRAND PLUS| DOSUG SPORT" QSport Arena HD (KZ)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/43998/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/78261.png" group-title="GRAND PLUS| DOSUG SPORT" CBC Sport (AZ)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/78261/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/41948.png" group-title="GRAND PLUS| DOSUG SPORT" Idman Sport (AZ)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/41948/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/62264.png" group-title="GRAND PLUS| DOSUG SPORT" Qazsport HD (KZ)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/62264/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/82294.png" group-title="GRAND PLUS| DOSUG SPORT" Беларусь 5 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/82294/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63652.png" group-title="GRAND PLUS| DOSUG SPORT" Спорт ТВ BY
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63652/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/27534.png" group-title="GRAND PLUS| DOSUG SPORT" Prime Fight
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/27534/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/62132.png" group-title="GRAND PLUS| DOSUG SPORT" CourSide 1891 TV
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/62132/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/27941.png" group-title="GRAND PLUS| DOSUG SPORT" Vinter Sport
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/27941/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53037.png" group-title="GRAND PLUS| DOSUG SPORT" NHL HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/53037/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/11092.png" group-title="GRAND PLUS| DOSUG SPORT" Бокс ТВ
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/11092/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/84449.png" group-title="GRAND PLUS| DOSUG SPORT" Удар ТВ HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/84449/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/86324.png" group-title="GRAND PLUS| DOSUG SPORT" MMA TV
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/86324/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/38827.png" group-title="GRAND PLUS| DOSUG SPORT" Точка отрыва
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/38827/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/84249.png" group-title="GRAND PLUS| DOSUG SPORT" FightBox HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/84249/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63742.png" group-title="GRAND PLUS| DOSUG SPORT" Спорт HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63742/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/37738.png" group-title="GRAND PLUS| DOSUG SPORT" Мяч HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/37738/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/72876.png" group-title="GRAND PLUS| DOSUG SPORT" Мир Баскетбола
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/72876/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/84629.png" group-title="GRAND PLUS| DOSUG SPORT" Волейбол ТВ
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/84629/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/52938.png" group-title="GRAND PLUS| DOSUG SPORT" Viju+ Sport HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/52938/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1657.png" group-title="GRAND PLUS| DOSUG SPORT" HD REX
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/1657/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/56.png" group-title="GRAND PLUS| DOSUG SPORT" Авто плюс
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/56/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/14942.png" group-title="GRAND PLUS| DOSUG SPORT" Super Tennis
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/14942/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/901.png" group-title="GRAND PLUS| DOSUG SPORT" Extreme Sports
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/901/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53423.png" group-title="GRAND PLUS| DOSUG SPORT" Конный мир
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/53423/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/73732.png" group-title="GRAND PLUS| DOSUG SPORT" Окко Спорт
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/73732/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63048.png" group-title="GRAND PLUS| DOSUG SPORT" Окко Футбол
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63048/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63719.png" group-title="GRAND PLUS| DOSUG SPORT" Окко Прайм Спорт
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63719/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/73620.png" group-title="GRAND PLUS| DOSUG SPORT" Окко Чемпионат
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/73620/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/26781.png" group-title="GRAND PLUS| DOSUG SPORT" Golf Channel
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/26781/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/74904.png" group-title="GRAND PLUS| DOSUG SPORT" Sport 1 UA
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/74904/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/81695.png" group-title="GRAND PLUS| DOSUG SPORT" Sport 2 UA
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/81695/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/33885.png" group-title="GRAND PLUS| DOSUG SPORT" Sport 3 UA
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/33885/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/41885.png" group-title="GRAND PLUS| DOSUG SPORT" Sport 4 UA
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/41885/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/43938.png" group-title="GRAND PLUS| DOSUG SPORT" Sport 5 UA
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/43938/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/18009.png" group-title="GRAND PLUS| DOSUG SPORT" Xsport
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/18009/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/61381.png" group-title="GRAND PLUS| DOSUG SPORT" Xsport+
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/61381/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/22981.png" group-title="GRAND PLUS| DOSUG SPORT" Динамо Киев
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/22981/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/52093.png" group-title="GRAND PLUS| DOSUG SPORT" Суспільне Спорт
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/52093/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/98220.png" group-title="GRAND PLUS| DOSUG SPORT" UPL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/98220/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/43626.png" group-title="GRAND PLUS| DOSUG SPORT" GO3 Sport 1 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/43626/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/25983.png" group-title="GRAND PLUS| DOSUG SPORT" GO3 Sport 2 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/25983/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53297.png" group-title="GRAND PLUS| DOSUG SPORT" GO3 Sport 3 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/53297/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/58497.png" group-title="GRAND PLUS| DOSUG SPORT" GO3 Sport 4 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/58497/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63984.png" group-title="GRAND PLUS| DOSUG SPORT" GO3 Sport Open HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63984/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/21537.png" group-title="GRAND PLUS| DOSUG SPORT" Best4Sport
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/21537/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/25735.png" group-title="GRAND PLUS| DOSUG SPORT" Best4Sport 2 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/25735/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/76911.png" group-title="GRAND PLUS| DOSUG SPORT" Sport 1 LT HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/76911/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19570.png" group-title="GRAND PLUS| DOSUG SPORT" Sport 1 LT FHD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19570/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/97185.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event 1
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/97185/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/98351.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event 2
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/98351/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93728.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event 3
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93728/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94628.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event 4
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94628/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/95372.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event 5
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/95372/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/96442.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event 6
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/96442/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/99538.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event 7
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/99538/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/96235.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event 8
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/96235/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93694.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event 9
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93694/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93228.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event 10
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93228/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93117.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event 11
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93117/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93855.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event 12
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93855/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93762.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event 13
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93762/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93332.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event 14
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93332/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94772.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event LKL 1
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94772/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94339.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event LKL 2
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94339/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94663.png" group-title="GRAND PLUS| DOSUG SPORT" Extra Event LKL 3
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94663/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/83459.png" group-title="GRAND PLUS| DOSUG SPORT" VIP Sport 1
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/83459/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/84284.png" group-title="GRAND PLUS| DOSUG SPORT" VIP Sport 2
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/84284/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/86169.png" group-title="GRAND PLUS| DOSUG SPORT" VIP Sport 3
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/86169/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/89263.png" group-title="GRAND PLUS| DOSUG SPORT" VIP Sport 4
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/89263/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/87263.png" group-title="GRAND PLUS| DOSUG SPORT" VIP Sport 5
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/87263/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93628.png" group-title="GRAND PLUS| DOSUG SPORT" VIP Sport 6
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93628/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93174.png" group-title="GRAND PLUS| DOSUG SPORT" VIP Sport 10
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93174/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/83853.png" group-title="GRAND PLUS| DOSUG SPORT" VIP Sport 11
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/83853/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/89471.png" group-title="GRAND PLUS| DOSUG SPORT" VIP Sport 12
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/89471/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/98106.png" group-title="GRAND PLUS| DOSUG SPORT" VIP Sport 13
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/98106/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/96251.png" group-title="GRAND PLUS| DOSUG SPORT" VIP Sport 14
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/96251/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/96227.png" group-title="GRAND PLUS| DOSUG SPORT" VIP Sport 15
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/96227/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/99374.png" group-title="GRAND PLUS| DOSUG SPORT" VIP Sport 16
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/99374/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/98478.png" group-title="GRAND PLUS| DOSUG SPORT" VIP Sport 17
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/98478/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/85829.png" group-title="GRAND PLUS| DOSUG SPORT" Betking Live 1
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/85829/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/99367.png" group-title="GRAND PLUS| DOSUG SPORT" Betking Live 2
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/99367/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94184.png" group-title="GRAND PLUS| DOSUG SPORT" PIMPLE Sport 1
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94184/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/91692.png" group-title="GRAND PLUS| DOSUG SPORT" PIMPLE Sport 2
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/91692/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/92663.png" group-title="GRAND PLUS| DOSUG SPORT" PIMPLE Sport 3
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/92663/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/98362.png" group-title="GRAND PLUS| DOSUG SPORT" PIMPLE Sport 4
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/98362/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94739.png" group-title="GRAND PLUS| DOSUG SPORT" PIMPLE Sport 5
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94739/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/95465.png" group-title="GRAND PLUS| DOSUG SPORT" PIMPLE Sport 6
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/95465/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94273.png" group-title="GRAND PLUS| DOSUG SPORT" FINT Sport 1
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94273/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/91736.png" group-title="GRAND PLUS| DOSUG SPORT" FINT Sport 2
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/91736/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/96639.png" group-title="GRAND PLUS| DOSUG SPORT" FINT Sport 3
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/96639/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/91647.png" group-title="GRAND PLUS| DOSUG SPORT" FINT Sport 4
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/91647/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/92551.png" group-title="GRAND PLUS| DOSUG SPORT" Sport Live UA 1
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/92551/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93619.png" group-title="GRAND PLUS| DOSUG SPORT" Sport Live UA 2
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93619/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/91775.png" group-title="GRAND PLUS| DOSUG SPORT" Sport Live UA 3
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/91775/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94517.png" group-title="GRAND PLUS| DOSUG SPORT" Sport Live UA 4
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94517/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/96385.png" group-title="GRAND PLUS| DOSUG SPORT" Sport Live UA 5
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/96385/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/97352.png" group-title="GRAND PLUS| DOSUG SPORT" Sport Live UA 6
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/97352/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/97349.png" group-title="GRAND PLUS| DOSUG SPORT" Sport Live UA 7
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/97349/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/98349.png" group-title="GRAND PLUS| DOSUG SPORT" Sport Live UA 8
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/98349/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/99362.png" group-title="GRAND PLUS| DOSUG SPORT" Sport Live UA 9
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/99362/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/96309.png" group-title="GRAND PLUS| DOSUG SPORT" Sport Live UA 10
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/96309/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/98355.png" group-title="GRAND PLUS| DOSUG SPORT" Sport Live UA 11
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/98355/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93957.png" group-title="GRAND PLUS| DOSUG SPORT" Sport Live UA 12
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93957/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94986.png" group-title="GRAND PLUS| DOSUG SPORT" Sport Live UA 13
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94986/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/89237.png" group-title="GRAND PLUS| DOSUG SPORT" CineMan Фитнес
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/89237/hlsx/pl.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/65.png" group-title="GRAND PLUS| DOSUG KINO" Дом кино
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/65/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/77372.png" group-title="GRAND PLUS| DOSUG KINO" Дом Кино HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/77372/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/127.png" group-title="GRAND PLUS| DOSUG KINO" Дом Кино Премиум HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/127/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/600.png" group-title="GRAND PLUS| DOSUG KINO" Кинопремьера
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/600/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/49.png" group-title="GRAND PLUS| DOSUG KINO" Кинохит
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/49/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/69.png" group-title="GRAND PLUS| DOSUG KINO" Киносемья
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/69/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/97.png" group-title="GRAND PLUS| DOSUG KINO" Киномикс
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/97/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/11167.png" group-title="GRAND PLUS| DOSUG KINO" Мужское кино
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/11167/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/118.png" group-title="GRAND PLUS| DOSUG KINO" Киносвидание
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/118/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63.png" group-title="GRAND PLUS| DOSUG KINO" Наше новое кино
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/64.png" group-title="GRAND PLUS| DOSUG KINO" Родное кино
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/64/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/25492.png" group-title="GRAND PLUS| DOSUG KINO" Кинокомедия
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/25492/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/84.png" group-title="GRAND PLUS| DOSUG KINO" Индийское кино
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/84/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/28942.png" group-title="GRAND PLUS| DOSUG KINO" Индия
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/28942/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/36520.png" group-title="GRAND PLUS| DOSUG KINO" Киносерия
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/36520/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/36858.png" group-title="GRAND PLUS| DOSUG KINO" Киноужас
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/36858/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/70.png" group-title="GRAND PLUS| DOSUG KINO" Amedia 1
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/70/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/25386.png" group-title="GRAND PLUS| DOSUG KINO" Amedia 2
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/25386/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/54.png" group-title="GRAND PLUS| DOSUG KINO" Amedia Hit
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/54/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/601.png" group-title="GRAND PLUS| DOSUG KINO" Amedia Premium HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/601/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1471.png" group-title="GRAND PLUS| DOSUG KINO" Viju TV1000
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/1471/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1472.png" group-title="GRAND PLUS| DOSUG KINO" Viju TV1000 Action
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/1472/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1473.png" group-title="GRAND PLUS| DOSUG KINO" Viju TV1000 Русское
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/1473/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/38629.png" group-title="GRAND PLUS| DOSUG KINO" Viju TV1000 Новелла
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/38629/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/52803.png" group-title="GRAND PLUS| DOSUG KINO" Viju TV1000 Romantica
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/52803/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/2003.png" group-title="GRAND PLUS| DOSUG KINO" Viju+ Premiere HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/2003/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/2002.png" group-title="GRAND PLUS| DOSUG KINO" Viju+ Megahit HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/2002/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/2001.png" group-title="GRAND PLUS| DOSUG KINO" Viju+ Comedy HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/2001/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/76679.png" group-title="GRAND PLUS| DOSUG KINO" Viju+ Serial HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/76679/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/74228.png" group-title="GRAND PLUS| DOSUG KINO" Viasat Kino
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/74228/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/76362.png" group-title="GRAND PLUS| DOSUG KINO" Viasat Kino Action
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/76362/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/76332.png" group-title="GRAND PLUS| DOSUG KINO" Viasat Kino Comedy
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/76332/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/54329.png" group-title="GRAND PLUS| DOSUG KINO" Viasat Kino World
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/54329/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/72094.png" group-title="GRAND PLUS| DOSUG KINO" Viasat Serial
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/72094/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/95174.png" group-title="GRAND PLUS| DOSUG KINO" GO3 Film HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/95174/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/47231.png" group-title="GRAND PLUS| DOSUG KINO" DUO3 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/47231/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53832.png" group-title="GRAND PLUS| DOSUG KINO" DUO6 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/53832/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/87383.png" group-title="GRAND PLUS| DOSUG KINO" DUO5 LV/LT
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/87383/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19987.png" group-title="GRAND PLUS| DOSUG KINO" Канал 7 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19987/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/84992.png" group-title="GRAND PLUS| DOSUG KINO" Кино 7 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/84992/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19510.png" group-title="GRAND PLUS| DOSUG KINO" FilmZone HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19510/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19521.png" group-title="GRAND PLUS| DOSUG KINO" FilmZone+ HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19521/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/44864.png" group-title="GRAND PLUS| DOSUG KINO" EPIC Drama HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/44864/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/26384.png" group-title="GRAND PLUS| DOSUG KINO" FX Life HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/26384/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/52276.png" group-title="GRAND PLUS| DOSUG KINO" FX HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/52276/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12760.png" group-title="GRAND PLUS| DOSUG KINO" RED
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/12760/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/48273.png" group-title="GRAND PLUS| DOSUG KINO" RED HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/48273/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/112.png" group-title="GRAND PLUS| DOSUG KINO" Black
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/112/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/111.png" group-title="GRAND PLUS| DOSUG KINO" Sci-Fi
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/111/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/35439.png" group-title="GRAND PLUS| DOSUG KINO" Hollywood
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/35439/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/48359.png" group-title="GRAND PLUS| DOSUG KINO" Hollywood HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/48359/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/14210.png" group-title="GRAND PLUS| DOSUG KINO" Кино ТВ
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/14210/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63972.png" group-title="GRAND PLUS| DOSUG KINO" Кино ТВ HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63972/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/20.png" group-title="GRAND PLUS| DOSUG KINO" Cinema
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/20/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/47662.png" group-title="GRAND PLUS| DOSUG KINO" Cinema HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/47662/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/34283.png" group-title="GRAND PLUS| DOSUG KINO" Любимое кино
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/34283/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/42.png" group-title="GRAND PLUS| DOSUG KINO" Мир сериала
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/42/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/91.png" group-title="GRAND PLUS| DOSUG KINO" Русский Роман
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/91/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/66.png" group-title="GRAND PLUS| DOSUG KINO" Русский детектив
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/66/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/120.png" group-title="GRAND PLUS| DOSUG KINO" Русский бестселлер
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/120/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/11093.png" group-title="GRAND PLUS| DOSUG KINO" Русская комедия
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/11093/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/98.png" group-title="GRAND PLUS| DOSUG KINO" Русский иллюзион
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/98/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/88.png" group-title="GRAND PLUS| DOSUG KINO" Иллюзион +
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/88/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/11088.png" group-title="GRAND PLUS| DOSUG KINO" НТВ Хит
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/11088/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/11087.png" group-title="GRAND PLUS| DOSUG KINO" НТВ Сериал
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/11087/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/35217.png" group-title="GRAND PLUS| DOSUG KINO" НТВ Право
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/35217/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63879.png" group-title="GRAND PLUS| DOSUG KINO" Star Cinema
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63879/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/78290.png" group-title="GRAND PLUS| DOSUG KINO" Star Family
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/78290/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/67781.png" group-title="GRAND PLUS| DOSUG KINO" Феникс + Кино
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/67781/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/48391.png" group-title="GRAND PLUS| DOSUG KINO" Start World
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/48391/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/61094.png" group-title="GRAND PLUS| DOSUG KINO" Start Air
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/61094/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/81943.png" group-title="GRAND PLUS| DOSUG KINO" Filmbox
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/81943/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63431.png" group-title="GRAND PLUS| DOSUG KINO" FilmBox ArtHouse
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63431/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/31738.png" group-title="GRAND PLUS| DOSUG KINO" Еврокино
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/31738/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/11083.png" group-title="GRAND PLUS| DOSUG KINO" Дорама
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/11083/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/61772.png" group-title="GRAND PLUS| DOSUG KINO" Timeless Dizi Channel
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/61772/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/13.png" group-title="GRAND PLUS| DOSUG KINO" ТВ 21
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/13/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/21653.png" group-title="GRAND PLUS| DOSUG KINO" Киноман
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/21653/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/54938.png" group-title="GRAND PLUS| DOSUG KINO" Время далекое и близкое
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/54938/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/29428.png" group-title="GRAND PLUS| DOSUG KINO" AMC
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/29428/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/37639.png" group-title="GRAND PLUS| DOSUG KINO" FilmUA Drama CEE
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/37639/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/54801.png" group-title="GRAND PLUS| DOSUG KINO" FilmUA Drama UA
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/54801/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/84903.png" group-title="GRAND PLUS| DOSUG KINO" Shot TV
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/84903/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53645.png" group-title="GRAND PLUS| DOSUG KINO" FlixShip
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/53645/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93594.png" group-title="GRAND PLUS| DOSUG KINO" НСТ
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93594/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/33994.png" group-title="GRAND PLUS| DOSUG KINO" ULTRAHD CINEMA UHD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/33994/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/44332.png" group-title="GRAND PLUS| DOSUG KINO" Кино UHD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/44332/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/28469.png" group-title="GRAND PLUS| DOSUG KINO" Кинохит HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/28469/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/58257.png" group-title="GRAND PLUS| DOSUG KINO" Киносемья HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/58257/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/42846.png" group-title="GRAND PLUS| DOSUG KINO" Киномикс HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/42846/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/42717.png" group-title="GRAND PLUS| DOSUG KINO" Киносвидание HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/42717/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/45342.png" group-title="GRAND PLUS| DOSUG KINO" Мужское Кино HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/45342/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/31650.png" group-title="GRAND PLUS| DOSUG KINO" Наше Новое Кино HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/31650/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/48332.png" group-title="GRAND PLUS| DOSUG KINO" Кинокомедия HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/48332/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/27639.png" group-title="GRAND PLUS| DOSUG KINO" Киносерия HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/27639/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/34752.png" group-title="GRAND PLUS| DOSUG KINO" Киноужас HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/34752/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/51061.png" group-title="GRAND PLUS| DOSUG KINO" Страшное HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/51061/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/33619.png" group-title="GRAND PLUS| DOSUG KINO" НТВ Сериал HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/33619/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/68225.png" group-title="GRAND PLUS| DOSUG KINO" НТВ Хит HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/68225/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/46287.png" group-title="GRAND PLUS| DOSUG KINO" Viju TV1000 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/46287/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/28397.png" group-title="GRAND PLUS| DOSUG KINO" Viju TV1000 Action HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/28397/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/57294.png" group-title="GRAND PLUS| DOSUG KINO" Viju TV1000 Русское HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/57294/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1660.png" group-title="GRAND PLUS| DOSUG KINO" Премиальное HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/1660/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1661.png" group-title="GRAND PLUS| DOSUG KINO" Остросюжетное HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/1661/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1666.png" group-title="GRAND PLUS| DOSUG KINO" Шокирующее HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/1666/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1667.png" group-title="GRAND PLUS| DOSUG KINO" Комедийное HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/1667/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1664.png" group-title="GRAND PLUS| DOSUG KINO" Наше HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/1664/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/61727.png" group-title="GRAND PLUS| DOSUG KINO" Блокбастер HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/61727/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1662.png" group-title="GRAND PLUS| DOSUG KINO" Душевное HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/1662/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/32951.png" group-title="GRAND PLUS| DOSUG KINO" Наше мужское HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/32951/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/17543.png" group-title="GRAND PLUS| DOSUG KINO" Кинопоказ HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/17543/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/27483.png" group-title="GRAND PLUS| DOSUG KINO" Наш Кинопоказ HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/27483/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/35481.png" group-title="GRAND PLUS| DOSUG KINO" Камеди HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/35481/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/32849.png" group-title="GRAND PLUS| DOSUG KINO" Про Любовь
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/32849/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/46927.png" group-title="GRAND PLUS| DOSUG KINO" Хит HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/46927/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/31421.png" group-title="GRAND PLUS| DOSUG KINO" Любимое HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/31421/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/39446.png" group-title="GRAND PLUS| DOSUG KINO" Романтичное HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/39446/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/71054.png" group-title="GRAND PLUS| DOSUG KINO" Лавстори HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/71054/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/88762.png" group-title="GRAND PLUS| DOSUG KINO" Победа
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/88762/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/36994.png" group-title="GRAND PLUS| DOSUG KINO" Победа HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/36994/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/42931.png" group-title="GRAND PLUS| DOSUG KINO" Патриот
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/42931/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19515.png" group-title="GRAND PLUS| DOSUG KINO" День Победы HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19515/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/74630.png" group-title="GRAND PLUS| DOSUG KINO" Bolt RU
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/74630/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/27303.png" group-title="GRAND PLUS| DOSUG KINO" Bolt UA
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/27303/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19640.png" group-title="GRAND PLUS| DOSUG KINO" Мосфильм. Золотая коллекция
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19640/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/83621.png" group-title="GRAND PLUS| DOSUG KINO" Советская Кинокласика HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/83621/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/27947.png" group-title="GRAND PLUS| DOSUG KINO" Русский роман HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/27947/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/34074.png" group-title="GRAND PLUS| DOSUG KINO" Русский иллюзион HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/34074/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/11052.png" group-title="GRAND PLUS| DOSUG KINO" Bollywood HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/11052/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/27553.png" group-title="GRAND PLUS| DOSUG KINO" Еврокино HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/27553/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/61884.png" group-title="GRAND PLUS| DOSUG KINO" Kinoliving HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/61884/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/27630.png" group-title="GRAND PLUS| DOSUG KINO" Кинеко HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/27630/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/39194.png" group-title="GRAND PLUS| DOSUG KINO" Сапфир HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/39194/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63829.png" group-title="GRAND PLUS| DOSUG KINO" Suspense
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63829/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/32984.png" group-title="GRAND PLUS| DOSUG KINO" Кинокульт
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/32984/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/33428.png" group-title="GRAND PLUS| DOSUG KINO" Trash HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/33428/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53962.png" group-title="GRAND PLUS| DOSUG KINO" Plan_B
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/53962/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/33882.png" group-title="GRAND PLUS| DOSUG KINO" Scream
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/33882/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/37475.png" group-title="GRAND PLUS| DOSUG KINO" FAN
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/37475/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/43992.png" group-title="GRAND PLUS| DOSUG KINO" VHS-ka HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/43992/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/39038.png" group-title="GRAND PLUS| DOSUG KINO" FilmUA Drama HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/39038/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/48742.png" group-title="GRAND PLUS| DOSUG KINO" Kion Хит
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/48742/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53524.png" group-title="GRAND PLUS| DOSUG KINO" Окко ТВ
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/53524/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/34725.png" group-title="GRAND PLUS| DOSUG KINO" KinoJam 1
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/34725/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/27593.png" group-title="GRAND PLUS| DOSUG KINO" KinoJam 2
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/27593/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/54332.png" group-title="GRAND PLUS| DOSUG KINO" DetectiveJam
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/54332/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/39003.png" group-title="GRAND PLUS| DOSUG KINO" FamilyJam
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/39003/hlsx/pl.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53382.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/53382/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63846.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Cineman Action
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63846/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53874.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Cineman Катастрофы
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/53874/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/45284.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan Thriller
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/45284/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/29842.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan Top
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/29842/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/47931.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan Marvel
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/47931/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/47298.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan Ужасы
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/47298/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/64557.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan Комедия
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/64557/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/35582.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Cineman Мелодрама
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/35582/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/52239.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Cineman MiniSeries
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/52239/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/30448.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan Premium
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/30448/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/59429.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan VHS
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/59429/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/27445.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan РуКино
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/27445/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/69286.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Cineman СССР
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/69286/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/62337.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan Сваты
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/62337/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/28488.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan Пес Лихач
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/28488/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/37746.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan Лесник
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/37746/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/45271.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan Ментовские войны
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/45271/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/62853.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan Криминальные Сериалы
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/62853/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/52947.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Cineman Военные сериалы
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/52947/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/64376.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan Комедийные Сериалы
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/64376/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/56632.png" group-title="GRAND PLUS| DOSUG KINOZAL"  CineMan Скорая Помощь
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/56632/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/61632.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Cineman OLD 4K
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/61632/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/56216.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Cineman СССР 4K
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/56216/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/87428.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Fresh Premiere
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/87428/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/89310.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Fresh Cinema
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/89310/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/87295.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Fresh Adventure
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/87295/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/79274.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Fresh Fantastic
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/79274/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/86727.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Fresh Comedy
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/86727/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/88549.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Fresh Family
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/88549/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/89664.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Fresh Romantic
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/89664/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/82839.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Fresh Rating
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/82839/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/81847.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Fresh Thriller
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/81847/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/74875.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Fresh Horror
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/74875/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/75819.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Fresh Series
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/75819/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/73957.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Fresh VHS
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/73957/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/69446.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Fresh Russian
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/69446/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/61859.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Fresh Soviet
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/61859/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63663.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Смотрим 100 Классика
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63663/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53662.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Смотрим 100 Мужское
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/53662/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/42883.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Смотрим 100 Любовь
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/42883/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/64992.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Смотрим 100 Праздник
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/64992/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/69227.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Смотрим 100 Факты
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/69227/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/67362.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Смотрим 100 Детское
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/67362/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/60642.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Смотрим  Частный Детектив
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/60642/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19462.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Media
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19462/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/62449.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Media 2 HDR
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/62449/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/62817.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Media 3 HDR
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/62817/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19015.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Action HDR
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19015/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19012.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Fantastic HDR
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19012/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19017.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Catastrophe HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19017/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19040.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Reality HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19040/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19016.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Premiere HDR
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19016/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19011.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Marvel HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19011/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19014.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU FilMystic HDR
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19014/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19013.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Comedy HDR
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19013/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19028.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Cinema HDR
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19028/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19027.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Cinema+ HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19027/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19022.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU History HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19022/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/92716.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Biography HDR
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/92716/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/59882.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Criminal HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/59882/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19023.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Stars HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19023/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63772.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Survival HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63772/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19383.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Cosmo HDR
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19383/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/26739.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU TruMotion HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/26739/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19024.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Romantic HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19024/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19026.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Кинорейтинг HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19026/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19019.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU VHS HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19019/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19018.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Russian HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19018/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19030.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU RUSerial HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19030/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19029.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU СССР HDR
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19029/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19036.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Сваты 4K
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19036/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19031.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Premiere 1 HDR
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19031/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19032.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Premiere 2 HDR
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19032/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19033.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Premiere 3 HDR
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19033/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19038.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Ultra 4K
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19038/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19039.png" group-title="GRAND PLUS| DOSUG KINOZAL"  BCU Ultra 4K
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19039/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/33691.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Premiere HD 1
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/33691/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/29539.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Premiere HD 2
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/29539/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/47394.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Premiere HD 3
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/47394/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/52961.png" group-title="GRAND PLUS| DOSUG KINOZAL"  Premiere HD 4
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/52961/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19547.png" group-title="GRAND PLUS| DOSUG KINOZAL"  TEST 1
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19547/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/34745.png" group-title="GRAND PLUS| DOSUG KINOZAL"  TEST 2
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/34745/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/47342.png" group-title="GRAND PLUS| DOSUG KINOZAL"  TEST 3
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/47342/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/27743.png" group-title="GRAND PLUS| DOSUG KINOZAL"  TEST 4
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/27743/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19677.png" group-title="GRAND PLUS| DOSUG KINOZAL"  TEST 5
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19677/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/64127.png" group-title="GRAND PLUS| DOSUG KINOZAL"  TEST 6
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/64127/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19550.png" group-title="GRAND PLUS| DOSUG KINOZAL"  TEST 7
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19550/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19551.png" group-title="GRAND PLUS| DOSUG KINOZAL"  TEST 8
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19551/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/47349.png" group-title="GRAND PLUS| DOSUG KINOZAL"  TEST 9
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/47349/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19549.png" group-title="GRAND PLUS| DOSUG KINOZAL"  TEST 10
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19549/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/65234.png" group-title="GRAND PLUS| DOSUG KINOZAL"  TEST 11
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/65234/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/42852.png" group-title="GRAND PLUS| DOSUG KINOZAL"  TEST 12
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/42852/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93635.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM NewFilm 1 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93635/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/95450.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM NewFilm 2 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/95450/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/97427.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM NewFilm 3 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/97427/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/91639.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM NewFilm RU HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/91639/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/95384.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Classic HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/95384/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/91978.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Боевик Classic HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/91978/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/90847.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Комедия Classic HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/90847/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94982.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Ужасы Classic HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94982/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94814.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Боевик HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94814/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/92395.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Криминал HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/92395/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94288.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Триллер HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94288/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/97768.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Приключения HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/97768/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/97663.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Катастрофа HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/97663/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/95639.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Фантастика HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/95639/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/90542.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Драма HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/90542/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/95309.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Комедия HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/95309/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94998.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Семейный 1 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94998/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/95534.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Семейный 2 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/95534/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/97419.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Celebrity HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/97419/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/91748.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Кинофестиваль HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/91748/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/90832.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Translation HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/90832/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/90962.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Ужасы HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/90962/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/91152.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Ужастик HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/91152/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94244.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Затмение HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94244/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93721.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Погружение HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93721/hlsx/pl.m3u8
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/91175.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM История HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/91175/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/91228.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Love HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/91228/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93886.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM 007 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93886/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/91159.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Скорость HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/91159/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/90993.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Крутые 90-е HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/90993/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/97662.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Супергерои HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/97662/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94483.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Спорт HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94483/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93361.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Агата Кристи HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93361/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93558.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Стивен Кинг HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93558/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/99226.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM UFO HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/99226/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/97735.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Мифология HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/97735/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93351.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Фобия HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93351/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/92261.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Киберпанк HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/92261/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/98992.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Кунг-Фу HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/98992/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93362.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Нуар HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93362/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93369.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Синематограф HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93369/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/97740.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Вестерн HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/97740/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93799.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Грайндхаус HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93799/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/98367.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Роскино HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/98367/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/93173.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM USSR Драма HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/93173/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94819.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM USSR Детектив HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94819/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/97257.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM USSR Приключения HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/97257/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/94713.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM USSR Комедия HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/94713/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/98226.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM USSR 1941-1945 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/98226/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/90836.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Полицейский с Рублёвки HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/90836/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/98391.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Воронины HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/98391/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/99358.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Ситком HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/99358/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/99677.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Ситком 2.0 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/99677/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/92817.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM OldSchool HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/92817/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/83228.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Сваты HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/83228/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/76353.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Квартирник HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/76353/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/98276.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MM Flip 4K
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/98276/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/82681.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MS PRISONS HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/82681/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/70831.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MS ANIMATED HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/70831/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/82729.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MS YOUNG BLOOD HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/82729/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/73618.png" group-title="GRAND PLUS| DOSUG KINOZAL"  MS MAGIC 4K
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/73618/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63672.png" group-title="GRAND PLUS| DOSUG KINOZAL"  GL Brief
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63672/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/73629.png" group-title="GRAND PLUS| DOSUG KINOZAL"  GL Evidence
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/73629/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/99005.png" group-title="GRAND PLUS| DOSUG KINOZAL"  GL Exist
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/99005/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/83671.png" group-title="GRAND PLUS| DOSUG KINOZAL"  GL Island
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/83671/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/59281.png" group-title="GRAND PLUS| DOSUG KINOZAL"  GL Голые и cмешные
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/59281/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/42838.png" group-title="GRAND PLUS| DOSUG KINOZAL"  GL Psycho
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/42838/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/86527.png" group-title="GRAND PLUS| DOSUG KINOZAL"  GL Сериалы
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/86527/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/66321.png" group-title="GRAND PLUS| DOSUG KINOZAL"  GL Survival
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/66321/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/52739.png" group-title="GRAND PLUS| DOSUG KINOZAL"  GL Chef
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/52739/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63832.png" group-title="GRAND PLUS| DOSUG KINOZAL"  GL Hostage
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63832/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/62729.png" group-title="GRAND PLUS| DOSUG KINOZAL"  GL Girlfight
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/62729/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/73652.png" group-title="GRAND PLUS| DOSUG KINOZAL"  GL Motivation
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/73652/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/83351.png" group-title="GRAND PLUS| DOSUG KINOZAL"  GL Детектив
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/83351/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/62781.png" group-title="GRAND PLUS| DOSUG KINOZAL"  GL Невский
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/62781/hlsx/pl.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/1.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Первый Канал
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/1/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/2.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Россия 1
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/2/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/48.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  РТР-Планета
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/48/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/3.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  НТВ
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/3/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/30275.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  НТВ Мир
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/30275/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/16.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  ТНТ
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/16/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/12.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  СТС
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/12/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/14.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  РЕН ТВ
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/14/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/7.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Пятый канал
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/7/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/19.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Домашний
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/19/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/10.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  ТВ Центр
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/10/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Пятница
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/53/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/15.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Звезда
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/15/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/59301.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Звезда Плюс
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/59301/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/11.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  ТВ-3
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/11/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/46.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  МИР
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/46/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/4.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Россия К
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/4/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/906.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  ОТР
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/906/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63682.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Санкт Петербург
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63682/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/52738.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Центральное Телевидение
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/52738/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/602.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Первый Канал HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/602/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/28744.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Первый Канал Европа HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/28744/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/604.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Россия 1 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/604/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/605.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  НТВ HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/605/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/606.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  ТНТ HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/606/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/62288.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  СТС HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/62288/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/28371.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  РЕН ТВ HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/28371/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/64672.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Пятый канал HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/64672/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/37549.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Домашний HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/37549/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/31983.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  ТВ Центр HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/31983/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/26351.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Пятница HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/26351/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53892.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Звезда HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/53892/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53287.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Звeздa Плюc  HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/53287/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/31726.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  ТВ-3 HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/31726/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/49433.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Россия Культура HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/49433/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/33721.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  ОТР HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/33721/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/47720.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Большой Эфир HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/47720/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/95082.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Первый Канал  (+4)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/95082/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/64532.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Первый Канал (+4) HD
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/64532/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/65723.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Россия 1 (+4)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/65723/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/86461.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  НТВ (+4)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/86461/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/69337.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  ТНТ (+4)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/69337/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/21498.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  СТС (+4)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/21498/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/34820.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  РЕН ТВ (+4)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/34820/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/39945.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Пятый канал (+4)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/39945/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/29573.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Домашний (+4)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/29573/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/36205.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  ТВ-3 (+4)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/36205/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/54900.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Звезда +4
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/54900/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/53846.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Первый Канал (+6)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/53846/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/36942.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Россия 1 (+6)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/36942/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/48372.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  НТВ (+7)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/48372/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/37462.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  ТНТ (+7)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/37462/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/25739.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  СТС (+7)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/25739/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/17259.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Пятница! (+6)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/17259/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/31027.png" group-title="GRAND PLUS| DOSUG ОБЩИЕ+"  Мир (+7)
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/31027/hlsx/pl.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/122.png" group-title="GRAND PLUS| DOSUG IL" 9 Channel IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/122/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/68741.png" group-title="GRAND PLUS| DOSUG IL" KAN 11 IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/68741/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/98472.png" group-title="GRAND PLUS| DOSUG IL" 12 Keshet IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/98472/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/98463.png" group-title="GRAND PLUS| DOSUG IL" 13 Keshet IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/98463/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/54832.png" group-title="GRAND PLUS| DOSUG IL" KAN 14 IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/54832/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/59355.png" group-title="GRAND PLUS| DOSUG IL" HOT Cinema 1 HD IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/59355/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/39183.png" group-title="GRAND PLUS| DOSUG IL" HOT Cinema 2 HD IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/39183/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/68296.png" group-title="GRAND PLUS| DOSUG IL" HOT Cinema 3 HD IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/68296/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/63804.png" group-title="GRAND PLUS| DOSUG IL" HOT Cinema 4 HD IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/63804/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/64974.png" group-title="GRAND PLUS| DOSUG IL" 5 Live IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/64974/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/62008.png" group-title="GRAND PLUS| DOSUG IL" 5 Sport IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/62008/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/49637.png" group-title="GRAND PLUS| DOSUG IL" LULI IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/49637/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/72951.png" group-title="GRAND PLUS| DOSUG IL" Nick Jr. IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/72951/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/48296.png" group-title="GRAND PLUS| DOSUG IL" Nickelodeon IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/48296/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/71859.png" group-title="GRAND PLUS| DOSUG IL" ONE1 HD IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/71859/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/38207.png" group-title="GRAND PLUS| DOSUG IL" ONE2 HD IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/38207/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/72663.png" group-title="GRAND PLUS| DOSUG IL" Sport 1 HD IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/72663/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/76184.png" group-title="GRAND PLUS| DOSUG IL" Sport 2 HD IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/76184/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/71847.png" group-title="GRAND PLUS| DOSUG IL" Sport 3 HD IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/71847/hlsx/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.propg.net/img/channel_icons/75827.png" group-title="GRAND PLUS| DOSUG IL" Sport 4 HD IL
+http://rr3.tvdosug.net/~2018d9525c787f1b2062fde2e2d7869dc48/75827/hlsx/pl.m3u8
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="Crime" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/olsib-crime.png" timeshift="0" group-title="GRAND PLUS| OLSIB ACTION" ,Olsib Crime FHD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/428fd439/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="globalmedia-boevik" tvg-logo="http://movies.global-media.info:81/logo/globalmedia_tv.png" group-title="GRAND PLUS| OLSIB ACTION" ,GlobalMedia Боевик
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/nc581051/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="gm_vikingi" tvg-logo="http://movies.global-media.info:81/logo/globalmedia_tv.png" group-title="GRAND PLUS| OLSIB ACTION" ,GlobalMedia Викинги
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n53b78c65/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="globalmedia-kung-fu" tvg-logo="http://movies.global-media.info:81/logo/globalmedia_tv.png" group-title="GRAND PLUS| OLSIB ACTION" ,GlobalMedia Кунг-Фу
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/66585b4a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="globalmedia-specagenty" tvg-logo="http://movies.global-media.info:81/logo/globalmedia_tv.png" group-title="GRAND PLUS| OLSIB ACTION" ,GlobalMedia Спецагенты
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n177cc25a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="globalmedia-muzhskoj-detektiv" tvg-logo="http://movies.global-media.info:81/logo/globalmedia_tv.png" group-title="GRAND PLUS| OLSIB ACTION" ,GlobalMedia Мужской детектив
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n642fcfcc/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="globalmedia-zhenskij-detektiv" tvg-logo="http://movies.global-media.info:81/logo/globalmedia_tv.png" group-title="GRAND PLUS| OLSIB ACTION" ,GlobalMedia Женский детектив
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/1819803f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-id="hlsproxy-53602" tvg-name="DITV БОЕВИКИ" tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="GRAND PLUS| OLSIB ACTION" ,DITV БОЕВИКИ
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/5db3b3c4/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-53602" tvg-name="DITV Детективы" group-title="GRAND PLUS| OLSIB ACTION"  tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg",DITV Детективы
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/5bc27c6d/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-55302" tvg-name="Gold Line Evidence" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/goldline-evidence.pn" group-title="GRAND PLUS| OLSIB ACTION" ,Gold Line Evidence
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/deb9e70/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-55302" tvg-name="Gold Line Psycho" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/goldline-psy.png" group-title="GRAND PLUS| OLSIB ACTION" ,Gold Line Psycho
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n6938f793/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="goldline-detektiv" tvg-name="Gold Line Детектив" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/goldline-detektiv.png" group-title="GRAND PLUS| OLSIB ACTION" ,GL Детектив group-title="GRAND PLUS| OLSIB ACTION" ,Gold Line Детектив
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/4c362ad2/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch018" tvg-logo="http://troya.tv/images/chIcons/18.png" timeshift="6" group-title="GRAND PLUS| OLSIB ACTION"  tvg-id="ch018",Viju TV1000 Action HD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n6f361824/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="1517" tvg-logo="http://epg.cdntv.online/img/1517.png" group-title="GRAND PLUS| OLSIB ACTION" ,Sky High Brick S FHD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/77e00b04/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="1518" tvg-logo="http://epg.cdntv.online/img/1518.png" group-title="GRAND PLUS| OLSIB ACTION" ,Sky High Dust S FHD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n6b39eb67/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="1520" tvg-logo="http://epg.cdntv.online/img/1520.png" group-title="GRAND PLUS| OLSIB ACTION" ,Sky High Strike VHS FHD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/119938a7/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-100550" tvg-logo="http://epg.cdntv.online/img/1521.png" group-title="GRAND PLUS| OLSIB ACTION" ,Sky High Firezone FHD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n3ef8b9ea/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-100550" tvg-logo="http://epg.cdntv.online/img/1523.png" group-title="GRAND PLUS| OLSIB ACTION" ,Sky High Gunrush FHD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n277bde18/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="1542" tvg-logo="http://epg.cdntv.online/img/1542.png" group-title="GRAND PLUS| OLSIB ACTION" ,Sky High Trace S FHD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/106bc108/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-id="zal-17-tricolor" tvg-logo="https://kino-static.tricolor.tv/media/v2/61de5957-bb56-457e-851e-a759d3690dfa" group-title="GRAND PLUS| OLSIB ACTION" ,Триколор Боевики
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n70557eab/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ACTION" ,Liberty Боевики FHD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n695df1fd/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ACTION" ,MM Боевик Classic HD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n1cbd480/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ACTION"  tvg-id="hlsproxy-51191" tvg-logo="https://dl.dropboxusercontent.com/s/w5cykee2wjjhguv/mm.png",MM Боевик HD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n62b7d8ee/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="GRAND PLUS| OLSIB ACTION"  tvg-id="hlsproxy-100291" tvg-logo="http://cdn.olsibtv.org:9999/logos/vf-boevik.png",VF Боевик
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n20e34546/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="GRAND PLUS| OLSIB ACTION"  tvg-id="hlsproxy-100306" tvg-logo="http://cdn.olsibtv.org:9999/logos/cineman-action.png",CineMan Action
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/665a621b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="GRAND PLUS| OLSIB ACTION"  tvg-id="hlsproxy-55465" tvg-logo="http://cdn.olsibtv.org:9999/logos/bcu-action-hd.png",BCU Action HD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n5cc607c8/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" tvg-logo="http://1lot.tv/ch/2013.png" group-title="GRAND PLUS| OLSIB ACTION" ,KLI Action FHD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/f8f3a9d/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ACTION"  tvg-id="hlsproxy-1255" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://www.lyngsat-logo.com/logo/tv/mm/magic_tv_uk.png",Magic Action HD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n157a792f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="GRAND PLUS| OLSIB ACTION"  tvg-id="hlsproxy-100312" tvg-logo="http://cdn.olsibtv.org:9999/logos/cineman-thriller.png",CineMan Thriller
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/nbeb4503/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ACTION"  tvg-id="hlsproxy-58" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fresh_tv_ru.png",Fresh Thriller
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/140134ec/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" tvg-logo="http://1lot.tv/ch/8039.png" group-title="GRAND PLUS| OLSIB ACTION" ,KLI Thriller HD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n1204ed61/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ACTION"  tvg-id="hlsproxy-1255" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://www.lyngsat-logo.com/logo/tv/mm/magic_tv_uk.png",Magic Thriller HD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/6ae13eaf/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ACTION" ,VF Thriller
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n577cfe7a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-100569" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/yosso-thriller.png" tvg-rec="14" group-title="GRAND PLUS| OLSIB ACTION" ,Yosso TV Thriller
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n2065c0de/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="GRAND PLUS| OLSIB ACTION" ,Thriller HD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n42fc0cbe/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="Eye Criminal" tvg-logo="https://iptvcinema.ru/channels/eyecriminal.png" group-title="GRAND PLUS| OLSIB ACTION"  tvg-id="hlsproxy-100709",Eye Criminal
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/67962b91/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-100704" tvg-name="Eye Drive" tvg-logo="https://iptvcinema.ru/channels/eyedrive.png" group-title="GRAND PLUS| OLSIB ACTION" ,Eye Drive
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/47b5691c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="Eye Media" tvg-logo="https://iptvcinema.ru/channels/eyemedia.png" group-title="GRAND PLUS| OLSIB ACTION"  tvg-id="hlsproxy-100701",Eye Media
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/482e3f76/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-100706" tvg-name="Eye Western" tvg-logo="https://iptvcinema.ru/channels/eyewestern.png" group-title="GRAND PLUS| OLSIB ACTION" ,Eye Western
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/7730864/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="Oasis Action" tvg-logo="http://troya.tv/images/chIcons/2510.png" tvg-rec="6" group-title="GRAND PLUS| OLSIB ACTION"  tvg-id="ch2510",Oasis Action
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/6cbad260/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch2657" tvg-logo="http://troya.today/images/chIcons/2657.png" timeshift="6" group-title="GRAND PLUS| OLSIB ACTION"  tvg-id="ch2657",Oasis Detective
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/2a8ef4b5/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="KBC-Шпионское HD" tvg-id="hlsproxy-100615" catchup-days="3" catchup="fs" group-title="GRAND PLUS| OLSIB ACTION"  tvg-logo="http://cdn.olsibtv.org:9999/logos/kbc-shpionskoe.png",KBC-Шпионское HD
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/1637f858/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="ch3148" tvg-logo="http://team.ga/images/chIcons/3148.png" timeshift="3" group-title="GRAND PLUS| OLSIB ACTION" ,SkyCam Action
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/n5bc3f805/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="CPS WESTERN" tvg-id="cps-western" tvg-logo="http://only4.tv/ch/6928.png" group-title="GRAND PLUS| OLSIB ACTION" ,CPS Western
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/595c4c2b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="CPS ACTION" tvg-id="cps-action" tvg-logo="http://only4.tv/ch/7196.png" group-title="GRAND PLUS| OLSIB ACTION" ,CPS Action
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/4896483d/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="detectivejam" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/detectivejam.png" tvg-rec="14" group-title="GRAND PLUS| OLSIB ACTION" ,Detective Jam
+#EXTGRP:GRAND PLUS| OLSIB ACTION
+http://cdn.olsibtv.org:9999/channel/882815e/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Mythic" tvg-logo="https://iptvcinema.ru/channels/next_mythic.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Mythic
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/n46fb0c46/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Shadow" tvg-logo="https://iptvcinema.ru/channels/next_shadow.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Shadow
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/n3db63960/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Nova" tvg-logo="https://iptvcinema.ru/channels/next_nova.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Nova
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/n6bb1a254/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Vibe" tvg-logo="https://iptvcinema.ru/channels/next_vibe.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Vibe
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/n6bae184a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Aura" tvg-logo="https://iptvcinema.ru/channels/next_aura.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Aura
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/n6bb7751d/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Venture" tvg-logo="https://iptvcinema.ru/channels/next_venture.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Venture
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/2141c313/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Epic" tvg-logo="https://iptvcinema.ru/channels/next_epic.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Epic
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/n6bb5b77b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Horizon" tvg-logo="https://iptvcinema.ru/channels/next_horizon.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Horizon
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/4dee6c1b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Joy" tvg-logo="https://iptvcinema.ru/channels/next_joy.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Joy
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/4f1b3e54/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Echo" tvg-logo="https://iptvcinema.ru/channels/next_echo.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Echo
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/n6bb5e85b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Fusion" tvg-logo="https://iptvcinema.ru/channels/next_fusion.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Fusion
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/n5325c67c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Vision" tvg-logo="https://iptvcinema.ru/channels/next_vision.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Vision
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/n38815698/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Bolt" tvg-logo="https://iptvcinema.ru/channels/next_bolt.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Bolt
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/n6bb717eb/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Pulse" tvg-logo="https://iptvcinema.ru/channels/next_pulse.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Pulse
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/na63e1e7/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Strike" tvg-logo="https://iptvcinema.ru/channels/next_strike.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Strike
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/n3d0552ce/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Quest" tvg-logo="https://iptvcinema.ru/channels/next_quest.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Quest
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/na55e49e/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-54855" tvg-name="NEXT Peak" tvg-logo="https://iptvcinema.ru/channels/next_peak.png" group-title="GRAND PLUS| OLSIB NEXT TV",NEXT Peak
+#EXTGRP:GRAND PLUS| OLSIB NEXT TV
+http://cdn.olsibtv.org:9999/channel/n6bb0e1a1/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+
+
+#EXTINF:0 tvg-name="ch3053" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/megogo-football-1.png" timeshift="0" group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="hlsproxy-55157",Megogo Футбол 1 HD
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/nbb4c08b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch3053" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/megogo-football-1.png" timeshift="0" group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="ch3053",Megogo Футбол 1 HD [R]
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/n4e031e30/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch3054" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/megogo-football-2.png" timeshift="0" group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="hlsproxy-100327",Megogo Футбол 2 HD
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/nbb44c2c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch3054" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/megogo-football-2.png" timeshift="0" group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="hlsproxy-417",Megogo Футбол 2 HD [R]
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/19de0eaf/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch3055" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/megogo-football-3.png" timeshift="0" group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="hlsproxy-100328",Megogo Футбол 3 HD
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/nbb3d7cd/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch3055" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/megogo-football-3.png" timeshift="0" group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="ch3055",Megogo Футбол 3 HD [R]
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/n7e40c472/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch3939" tvg-logo="https://epg.iptvx.one/picons/megogo-football-4.png" timeshift="0" group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="hlsproxy-100329",Megogo Футбол 4 HD
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/nbb3636e/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch3939" tvg-logo="https://epg.iptvx.one/picons/megogo-football-4.png" timeshift="0" group-title="GRAND PLUS| OLSIB MEGOGO" ,Megogo Футбол 4 HD [R]
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/n165f9793/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch3940" tvg-logo="https://epg.iptvx.one/picons/megogo-football-5.png" timeshift="0" group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="hlsproxy-100330",Megogo Футбол 5 HD
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/nbb2ef0f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch3940" tvg-logo="https://epg.iptvx.one/picons/megogo-football-5.png" timeshift="0" group-title="GRAND PLUS| OLSIB MEGOGO" ,Megogo Футбол 5 HD [R]
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/5181954c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="megogo-gong" tvg-logo="https://epg.iptvx.one/picons/megogo-gong.png" tvg-rec="0",Megogo Гонг HD
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/4e1cd525/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="megogo-gong" tvg-logo="https://epg.iptvx.one/picons/megogo-gong.png" tvg-rec="0",Megogo Гонг HD [R]
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/n510ea52a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="megogo-gong" tvg-logo="https://epg.iptvx.one/picons/megogo-gong.png" tvg-rec="0",Megogo Гонг HD [R]
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/n510ea52a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="9324" tvg-logo="http://epg.one/img/9324.png" tvg-rec="0",Окко Прайм Спорт
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/3d9a2f6/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="okko-sport" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/okko-sport.png" tvg-rec="0",Окко Спорт HD
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/51e74838/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="okko-sport" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/okko-sport.png" tvg-rec="0",Окко Спорт
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/n6295c231/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="okko-sport" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/okko-sport.png" tvg-rec="0",Окко Футбол HD
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/n3fd97d8c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="hlsproxy-1333" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/football-ru.png" tvg-rec="0",Телеканал Футбол
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/382140d3/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="hlsproxy-1333" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/football-ru.png" tvg-rec="0",Футбол HD
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/n17a577bc/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="hlsproxy-100272" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/footbolny.png" tvg-rec="0",Футбольный HD
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/575db565/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 group-title="GRAND PLUS| OLSIB MEGOGO"  tvg-id="hlsproxy-100273" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/sportivny.png" tvg-rec="0",Спортивный HD
+#EXTGRP:GRAND PLUS| OLSIB MEGOGO
+http://cdn.olsibtv.org:9999/channel/23d51300/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+
+
+
+
+#EXTINF:0 tvg-id="American_fantastic" tvg-name="Olsib American fantastic series FHD" tvg-logo="https://i.ibb.co/k65RL1PY/olsib-tv.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Olsib American fantastic series FHD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n421447fd/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="Time_loop" tvg-name="Olsib Time Travel FHD" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/olsib-timetravel.png" timeshift="0" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Olsib Time Travel FHD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/nbbd420c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="Fantasy" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/olsib-fantasy.png" timeshift="0" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Olsib Fantasy FHD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n23027cd3/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="Science-fiction" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/olsib-scifi.png" timeshift="0" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Olsib Sci-Fi FHD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/397d9f34/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="globalmedia-mistika" tvg-logo="http://movies.global-media.info:81/logo/globalmedia_tv.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,GlobalMedia Мистика
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/ne7c9d10/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="globalmedia-fantastika" tvg-logo="http://movies.global-media.info:81/logo/globalmedia_tv.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,GlobalMedia Фантастика
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n7e67580f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="globalmedia-supergeroi" tvg-logo="http://movies.global-media.info:81/logo/globalmedia_tv.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,GlobalMedia Супергерои
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n1f9ba04d/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="globalmedia-fentezi" tvg-logo="http://movies.global-media.info:81/logo/globalmedia_tv.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,GlobalMedia Фэнтези
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n7782e81b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="globalmedia-nlo" tvg-logo="http://movies.global-media.info:81/logo/globalmedia_tv.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,GlobalMedia НЛО
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n6a856663/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="kernel_kosmoc" tvg-name=kernel_kosmoc tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_kosmoc.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Kernel TV Космос
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/4e2adcaa/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="kernel_magik" tvg-name=kernel_magik tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_magik.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Kernel TV Магия
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/3c69934e/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="kernel_time" tvg-name=kernel_time tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_time.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Kernel TV Время
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/3be3f632/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-id="hlsproxy-53602" tvg-name="DITV ФАНТАСТИКА" tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,DITV ФАНТАСТИКА
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n46e8bf6a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-id="hlsproxy-53602" tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,DITV ГАРИ ПОТЕР
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n1156d9f5/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="goldline-exist" tvg-name="Gold Line Exist" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/goldline-exist.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,GL Exist
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n75fbaad7/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="1524" tvg-logo="http://epg.cdntv.online/img/1524.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Sky High Quant S FHD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n413b9d7a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="1526" tvg-logo="http://epg.cdntv.online/img/1526.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Sky High Tanos S FHD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/222a3908/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="1527" tvg-logo="http://epg.cdntv.online/img/1527.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Sky High Bat S FHD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n1d2d9ca8/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="1530" tvg-logo="http://epg.cdntv.online/img/1530.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Sky High Neon VHS FHD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/1311db4b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-100650" tvg-logo="http://epg.cdntv.online/img/1531.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Sky High Future FHD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n58f49709/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="ch1574" tvg-logo="http://team.ga/images/chIcons/1574.png" timeshift="2" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Liberty Fan FHD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/7278bc3f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-51191" tvg-logo="http://team.ga/images/chIcons/1267.png" timeshift="2" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,MM Фантастика HD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n26131af0/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА"  tvg-id="hlsproxy-863" tvg-logo="http://cdn.olsibtv.org:9999/logos/fantastika-hd.png",Фантастика HD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/121e488c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-55103" tvg-logo="http://team.ga/images/chIcons/501.png" timeshift="6" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Fan HD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/4a0d51d6/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-58" tvg-logo="http://team.ga/images/chIcons/1725.png" timeshift="2" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Fresh Fantastic
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n482c1e19/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="BOX Fantasy HD" tvg-logo="http://team.ga/images/chIcons/2287.png" timeshift="6" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,BOX Fantasy HD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/654c9f8d/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-logo="http://team.ga/images/chIcons/2705.png" timeshift="0" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА"  tvg-id="hlsproxy-55457",BCU Fantastic HD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/6448d8ef/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="klifantasy" tvg-logo="http://team.ga/images/chIcons/2280.png" timeshift="3" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,KLI Fantasy HD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/6b9d93fb/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,VF Fantastic
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n4c745773/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА"  tvg-id="hlsproxy-100279" tvg-logo="http://cdn.olsibtv.org:9999/logos/vf-fantasy.png",VF Fantasy
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n6f6e23c8/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-55531" tvg-logo="http://team.ga/images/chIcons/1026.png" timeshift="3" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,BCU Cosmo HD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/nc83403f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Космо HD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/32db263f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch2663" tvg-logo="http://troya.tv/images/chIcons/2663.png" timeshift="6" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА"  tvg-id="ch2663",Oasis Фантастика
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/27dd9f07/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch2647" tvg-logo="http://troya.today/images/chIcons/2647.png" timeshift="6" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА"  tvg-id="ch2647",Oasis Alien and Predator
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n21e649ce/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch1442" tvg-logo="http://troya.today/images/chIcons/1442.png" timeshift="6" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА"  tvg-id="ch1442",Oasis Ufo And Aliens
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n171516b0/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="KBC-Fantastic HD" tvg-id="hlsproxy-100611" catchup-days="3" catchup="fs" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА"  tvg-logo="http://cdn.olsibtv.org:9999/logos/kbc-fantastic.png",KBC-Fantastic HD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/2b50b3ad/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Сказочный Remake" tvg-id="39797" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/kbc-skazka-remake.png" catchup-days="3" catchup="fs" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Сказочный Remake
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n43b2d756/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="CPS FICTION" tvg-id="cps-fiction" tvg-logo="http://only4.tv/ch/6927.png" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,CPS Fiction
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n23fbaa13/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="TVPlay DC Comics HD" tvg-id="TVPlayDCComics" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,TVPlay DC Comics HD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/7d1091c0/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Z!Fantastic HD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n34d25276/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА" ,Z!Fantasy HD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n68355f41/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="TVPlay Фантастика HD" tvg-id="TVPlayFantastikaHD.tv" group-title="GRAND PLUS| OLSIB ФАНТАСТИКА"  tvg-logo="http://only4.tv/ch/9374.png",TVPlay Фантастика HD
+#EXTGRP:GRAND PLUS| OLSIB ФАНТАСТИКА 
+http://cdn.olsibtv.org:9999/channel/n3edd1d8f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+
+
+#EXTINF:0 tvg-name="Olsib The newest" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/olsib-newest.png" timeshift="0" group-title="GRAND PLUS| OLSIB НОВИНКИ КИНО" ,Olsib The newest FHD
+#EXTGRP:GRAND PLUS| OLSIB НОВИНКИ КИНО 
+http://cdn.olsibtv.org:9999/channel/n51a015ee/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="kernel_new_movies" tvg-name=kernel_new_movies tvg-logo="http://epg.kernelmodovih.ru/logo/kernel_new_movies.png" group-title="GRAND PLUS| OLSIB НОВИНКИ КИНО" ,Kernel TV Новинки
+#EXTGRP:GRAND PLUS| OLSIB НОВИНКИ КИНО 
+http://cdn.olsibtv.org:9999/channel/61beaba4/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 group-title="GRAND PLUS| OLSIB НОВИНКИ КИНО"  timeshift="1" tvg-logo="https://img.catcast.tv/uploads/17102025/banners/49702-68f21e2ea83d1.png",TvBoom.ViP
+#EXTGRP:GRAND PLUS| OLSIB НОВИНКИ КИНО 
+http://cdn.olsibtv.org:9999/channel/n1003e955/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="klinovinci" tvg-logo="http://troya.info/images/chIcons/2464.png" tvg-rec="3" group-title="GRAND PLUS| OLSIB НОВИНКИ КИНО" ,KLI Новинки HD
+#EXTGRP:GRAND PLUS| OLSIB НОВИНКИ КИНО 
+http://cdn.olsibtv.org:9999/channel/26b2b20e/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB НОВИНКИ КИНО" ,MM NewFilm 1 HD
+#EXTGRP:GRAND PLUS| OLSIB НОВИНКИ КИНО 
+http://cdn.olsibtv.org:9999/channel/2da723e5/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB НОВИНКИ КИНО" ,MM NewFilm 2 HD
+#EXTGRP:GRAND PLUS| OLSIB НОВИНКИ КИНО 
+http://cdn.olsibtv.org:9999/channel/2da79844/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB НОВИНКИ КИНО" ,MM NewFilm 3 HD
+#EXTGRP:GRAND PLUS| OLSIB НОВИНКИ КИНО 
+http://cdn.olsibtv.org:9999/channel/2da80ca3/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB НОВИНКИ КИНО" ,MM NewFilm RU HD
+#EXTGRP:GRAND PLUS| OLSIB НОВИНКИ КИНО 
+http://cdn.olsibtv.org:9999/channel/n76da1d61/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-100541" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/yosso-newkino.png" tvg-rec="14" group-title="GRAND PLUS| OLSIB НОВИНКИ КИНО" ,YOSSO New Кино
+#EXTGRP:GRAND PLUS| OLSIB НОВИНКИ КИНО 
+http://cdn.olsibtv.org:9999/channel/n79f7612d/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="Eye Modern" tvg-logo="https://iptvcinema.ru/channels/eyemodern.png" group-title="GRAND PLUS| OLSIB НОВИНКИ КИНО"  tvg-id="hlsproxy-100707",Eye Modern HD
+#EXTGRP:GRAND PLUS| OLSIB НОВИНКИ КИНО 
+http://cdn.olsibtv.org:9999/channel/890042f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="Eye Oscar" tvg-logo="https://iptvcinema.ru/channels/eyeoscar.png" group-title="GRAND PLUS| OLSIB НОВИНКИ КИНО"  tvg-id="hlsproxy-100708",Eye Oscar HD
+#EXTGRP:GRAND PLUS| OLSIB НОВИНКИ КИНО 
+http://cdn.olsibtv.org:9999/channel/702742da/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="KBC-Newfilm HD" tvg-id="hlsproxy-100609" catchup-days="3" catchup="fs" group-title="GRAND PLUS| OLSIB НОВИНКИ КИНО"  tvg-logo="http://cdn.olsibtv.org:9999/logos/kbc-newfilm.png",KBC-Newfilm HD
+#EXTGRP:GRAND PLUS| OLSIB НОВИНКИ КИНО 
+http://cdn.olsibtv.org:9999/channel/431e1ae4/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-331" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/kinopremiera.png" tvg-rec="14" group-title="GRAND PLUS| OLSIB НОВИНКИ КИНО" ,Кинопремьера HD
+#EXTGRP:GRAND PLUS| OLSIB НОВИНКИ КИНО 
+http://cdn.olsibtv.org:9999/channel/n7a96f6b1/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="TVPlayNovyoWorldHD.tv" tvg-id="TVPlayNovyoWorldHD" group-title="GRAND PLUS| OLSIB НОВИНКИ КИНО",TVPlay Новинки МИР HD
+#EXTGRP:GRAND PLUS| OLSIB НОВИНКИ КИНО
+http://cdn.olsibtv.org:9999/channel/n5a63209f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+
+#EXTINF:0 tvg-name="Olsib Show FHD" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/olsib-show.png" timeshift="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="olsib-show",Olsib Show FHD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/509b06da/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="Candy" tvg-id="Candy" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/olsib-konf.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Olsib К🍭нфетка FHD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n36a51dc4/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="" tvg-logo="https://i.ibb.co/k65RL1PY/olsib-tv.png" timeshift="0" group-title="GRAND PLUS| OLSIB ШОУ" ,Olsib Wrestling
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/f831be6/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="Dima_Marina" tvg-id="Dima_Marina" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/olsib-jumor.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Olsib Юмор шоу FHD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/2935f23a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Аншлаг  Аншлаг!" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Аншлаг  Аншлаг!
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/6fdae8fb/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="goldline-naked" tvg-name="Gold Line Naked&amp;Funny" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/goldline-naked.png" group-title="GRAND PLUS| OLSIB ШОУ" ,GL Naked&Funny [Голые и cмешные]
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n3b4d00c8/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Тайны Чапман HD" tvg-id="000001" tvg-logo="http://1lot.tv/ch/10941.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Тайны Чапман HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n68501d88/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x География уральских пельменей HD" tvg-id="000003" tvg-logo="http://1lot.tv/ch/10943.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x География уральских пельменей HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/5915d1e7/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Импровизаторы HD" tvg-id="000005" tvg-logo="http://1lot.tv/ch/10945.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Импровизаторы HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/a5e9a27/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x 6 кадров HD" tvg-id="000006" tvg-logo="http://1lot.tv/ch/10946.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x 6 кадров HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/1a7e4792/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Beast Games HD" tvg-id="000009" tvg-logo="http://1lot.tv/ch/10948.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Beast Games HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n31840e3a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Последний герой HD" tvg-id="000010" tvg-logo="http://1lot.tv/ch/10949.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Последний герой HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n27e27b19/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Уральские пельмени HD" tvg-id="000012" tvg-logo="http://1lot.tv/ch/10951.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Уральские пельмени HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/6bbe0771/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Женский стендап HD" tvg-id="000016" tvg-logo="http://1lot.tv/ch/10953.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Женский стендап HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/neeabf0c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Игра (тнт) HD" tvg-id="000047" tvg-logo="http://1lot.tv/ch/10955.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Игра (тнт) HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n656cb923/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Между нами HD" tvg-id="000008" tvg-logo="http://1lot.tv/ch/10947.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Между нами HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/5f1cd6ef/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Русская дорога HD" tvg-id="000011" tvg-logo="http://1lot.tv/ch/10950.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Русская дорога HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/1e8a1503/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-logo="http://klimedia.space/logo/klioreliresha.png" catchup="flussonic" catchup-days="1" group-title="GRAND PLUS| OLSIB ШОУ" ,KLI Орёл и решка HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/7c97dc0c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-id="hlsproxy-53602" tvg-name="NO EPG (заглушка)" tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="GRAND PLUS| OLSIB ШОУ" ,DITV МАСКИ ШОУ
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n9265250/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-53602" tvg-name="DITV Осторожно модерн!" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg",DITV Осторожно модерн!
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/268b9913/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="no_epg" tvg-name="DITV Шоу Бенни Хилла" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg",DITV Шоу Бенни Хилла
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/2ad73e76/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-id="hlsproxy-53602" tvg-logo="https://i.postimg.cc/fbc2Fg9M/1111.jpg" group-title="GRAND PLUS| OLSIB ШОУ" ,DITV КАЛАМБУР
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/2538b4e5/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="0970" tvg-name="Play-x Задорнов" tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Задорнов
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/3b8e5154/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="00112" tvg-name="Play-x Хроники московского быта" tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Хроники московского быта
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/fd4d02b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="0333" tvg-name="Play-x 6 кадров" tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x 6 кадров
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/6d40edc0/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="0334" tvg-name="Play-x Даёшь молодёжь!" tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Даёшь молодёжь!
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/5119782/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="0324" tvg-name="Play-x Одна за всех" tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Одна за всех
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/355d760f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-111" tvg-name="Play-x Comedy Club" tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Comedy Club
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/23e12bd/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="0974" tvg-name="Play-x The Cube" tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x The Cube
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n4ab61e1c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="0325" tvg-name="Play-x Угадай Мелодию" tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Угадай Мелодию
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/1878118b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="0389" tvg-name="Play-x Час Суда с Павлом Астаховым" tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Час Суда с Павлом Астаховым
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n6ec6ab84/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="97481" tvg-name="Play-x Михаил Евдокимов" tvg-logo="https://play-x.ru/logo.png" catchup="flussonic" catchup-days="3 group-title="GRAND PLUS| OLSIB ШОУ" ,Play-x Михаил Евдокимов
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n11f77fcb/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-id="12200" tvg-name="[Sc] Мир наизнанку" tvg-logo="https://i.postimg.cc/FR5DxzN5/starcius.jpg" group-title="GRAND PLUS| OLSIB ШОУ" ,Starcius Мир наизнанку
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/24d94f9c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-id="12201" tvg-name="[Sc] Следствие вели" tvg-logo="https://i.postimg.cc/FR5DxzN5/starcius.jpg" group-title="GRAND PLUS| OLSIB ШОУ" ,Starcius Следствие вели
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/47def774/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-id="12202" tvg-name="[Sc] Криминальная Россия" tvg-logo="https://i.postimg.cc/FR5DxzN5/starcius.jpg" group-title="GRAND PLUS| OLSIB ШОУ" ,Starcius Криминальная Россия
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n6dd43abe/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-id="12203" tvg-name="[Sc] Орёл и решка" tvg-logo="https://i.postimg.cc/FR5DxzN5/starcius.jpg" group-title="GRAND PLUS| OLSIB ШОУ" ,Starcius Орёл и решка
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n6bee756a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-id="12400" tvg-name="[Sc] Mike Tyson Professional fights" tvg-logo="https://i.postimg.cc/FR5DxzN5/starcius.jpg" group-title="GRAND PLUS| OLSIB ШОУ" ,Starcius Mike Tyson Professional fights
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/2c302488/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-id="12401" tvg-name="[Sc] Федор Емельяненко" tvg-logo="https://i.postimg.cc/FR5DxzN5/starcius.jpg" group-title="GRAND PLUS| OLSIB ШОУ" ,Starcius Федор Емельяненко
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/132acab5/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-100325" tvg-name="Play-x Зал суда" tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS| OLSIB ШОУ" ,Зал суда
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n6ec60955/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ" ,VF Юмор 18+
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/nc3c0a1e/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-100277" tvg-logo="http://cdn.olsibtv.org:9999/logos/vf-comedy.png",VF Comedy Woman
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/370f9d49/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ" ,VF Уральские пельмени
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/na1e70d1/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ" ,VF Баня
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/29858e3f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ" ,VF Однажды в России
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n71ca0f2a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png" catchup="flussonic" catchup-days="1" group-title="GRAND PLUS| OLSIB ШОУ" ,ТВОЕ ТВ HD - ЮМОР
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n230cd13/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ" ,Dosug TV ER
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/461a6c3/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="3" group-title="GRAND PLUS| OLSIB ШОУ" ,Epic HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/nfd0178b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="3" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-78" tvg-logo="http://cdn.olsibtv.org:9999/logos/fashion-tv.png",Fashion TV UHD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/7056b29d/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ" ,V1 Ego HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n58e593ae/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-8191" tvg-logo="http://cdn.olsibtv.org:9999/logos/ntv-style.png",НТВ Стиль HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n1f6b21d7/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-571" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fashion_box_hd.png",FashionBox HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/nb222eb9/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-449" tvg-logo="http://cdn.olsibtv.org:9999/logos/teatr.png",Театр HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/791f8b23/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-10245" tvg-logo="http://cdn.olsibtv.org:9999/logos/filmzone.png",Filmzone EE
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n631b96f2/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ" ,V1 Fem HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n574dd2cf/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-120" tvg-logo="http://cdn.olsibtv.org:9999/logos/my-zen-tv.png",MyZen TV HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/44d454cf/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ" ,VF Концерты
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/408364cf/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-704" tvg-logo="https://dl.dropboxusercontent.com/s/b0gp11iregzqpmv/silk.png",Silk Way
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/57617dc6/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ" ,Танцуй! HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/22e5f88a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="GRAND PLUS| OLSIB ШОУ" ,Лапки Live HD
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n4e13814a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ" ,VF КВН
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/4ba99617/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="3" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-506" tvg-logo="http://cdn.olsibtv.org:9999/logos/solnce.png",Солнце
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n1993310/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-100267" tvg-logo="http://cdn.olsibtv.org:9999/logos/gagsnetwork.png",Gags Network
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n50d74a8a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-336" tvg-logo="http://cdn.olsibtv.org:9999/logos/tnt4.png",ТНТ4
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/bfc51ef/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-336" tvg-logo="http://cdn.olsibtv.org:9999/logos/tnt4.png",ТНТ4 +0 (Тамбов)
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n60119dac/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-54250" tvg-logo="http://cdn.olsibtv.org:9999/logos/ost-west.png",OstWest
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/6e3595d/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-107" tvg-logo="http://cdn.olsibtv.org:9999/logos/dtx.png",beIN DTX
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/5ca7a172/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-1500" tvg-logo="http://cdn.olsibtv.org:9999/logos/zhara-tv.png",Жара
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/bf72c6c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-1119" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://www.lyngsat-logo.com/logo/tv/cc/comedy_central_us.png",Comedy Central
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n5e598370/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="3" tvg-shift="+2" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-439" tvg-logo="http://cdn.olsibtv.org:9999/logos/tnt-ru.png",ТНТ (+2)
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/2f8cc2d5/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-8191" tvg-logo="http://cdn.olsibtv.org:9999/logos/ntv-style.png",НТВ Стиль
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n306179ed/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="3" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-76" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fashion_one_eu.png",Fashion One
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/7da9715c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="3" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-200" tvg-logo="http://cdn.olsibtv.org:9999/logos/world-fashion.png",World Fashion Channel
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/7551a9cb/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-248" tvg-name="Драйв" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/drive.png" tvg-rec="14" group-title="GRAND PLUS| OLSIB ШОУ" ,Драйв
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/1087baf0/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-312" tvg-logo="http://cdn.olsibtv.org:9999/logos/muzhskoy.png",Мужской
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n31c8e7df/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="3" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-404" tvg-logo="http://cdn.olsibtv.org:9999/logos/luxury-hd.png",Luxury
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/3d494ecf/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="3" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-404" tvg-logo="http://cdn.olsibtv.org:9999/logos/luxury-hd.png",Luxury
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/3d494ecf/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch1524" tvg-logo="http://troya.tv/images/chIcons/1524.png" timeshift="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-8186",Анекдот ТВ
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/1a428477/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch132" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/teatr.png" timeshift="6" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-449",Театр
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/1148050e/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch106" tvg-logo="http://troya.tv/images/chIcons/106.png" timeshift="3" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-22082",КВН ТВ
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/80c7ad8/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-55259" tvg-logo="https://dl.dropboxusercontent.com/s/f6u17sk9y4sr9e1/back90.png",НАЗАД В 90-e
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n67182029/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-680" tvg-logo="http://cdn.olsibtv.org:9999/logos/peretz-international.png",Перец International
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/429801e7/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-408" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sts_international.png",СТС International
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/1b10758c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ" ,VB ОСП-Cтудия
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/68ae2a4a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ" ,VB Осторожно Модерн
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/499c7cb8/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB ШОУ"  tvg-id="hlsproxy-55159" tvg-logo="https://dl.dropboxusercontent.com/s/uyor0rn5dlahg8v/buty.png",Бьюти TV
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n78f75ba5/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-logo="https://play-x.ru/logo.png" tvg-id="The Chase" group-title="GRAND PLUS| OLSIB ШОУ" ,The Chase
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n71774922/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="KBC+100500 (18+)" tvg-id="42052" catchup-days="3" catchup="fs" group-title="GRAND PLUS| OLSIB ШОУ" ,KBC+100500 (18+)
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/38f49f7b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="skycam_100500" tvg-name=skycam_100500 tvg-logo="http://epg.kernelmodovih.ru/logo/skycam_100500.png" group-title="GRAND PLUS| OLSIB ШОУ" ,SkyCam 100500
+#EXTGRP:GRAND PLUS| OLSIB ШОУ
+http://cdn.olsibtv.org:9999/channel/n79ffe4f7/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+
+
+#EXTINF:-1 tvg-name="Play-x Кинозал 1 HD" tvg-id="000014" tvg-logo="http://1lot.tv/ch/10956.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 1 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/5014fe52/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 2 HD" tvg-id="000020" tvg-logo="http://1lot.tv/ch/10957.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 2 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/501572b1/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 3 HD" tvg-id="000021" tvg-logo="http://1lot.tv/ch/10958.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 3 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/5015e710/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 4 HD" tvg-id="000022" tvg-logo="http://1lot.tv/ch/10959.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 4 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/50165b6f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 5 HD" tvg-id="000023" tvg-logo="http://1lot.tv/ch/10960.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 5 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/5016cfce/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 6 HD" tvg-id="000024" tvg-logo="http://1lot.tv/ch/10961.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 6 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/5017442d/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 7 HD" tvg-id="000025" tvg-logo="http://1lot.tv/ch/10962.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 7 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/5017b88c/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 8 HD" tvg-id="000026" tvg-logo="http://1lot.tv/ch/10963.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 8 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/50182ceb/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 9 HD" tvg-id="000027" tvg-logo="http://1lot.tv/ch/10964.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 9 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/5018a14a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 10 HD" tvg-id="000028" tvg-logo="http://1lot.tv/ch/10965.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 10 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/n4d6e838a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 11 HD" tvg-id="000029" tvg-logo="http://1lot.tv/ch/10966.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 11 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/n4d6e0f2b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 12 HD" tvg-id="000030" tvg-logo="http://1lot.tv/ch/10967.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 12 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/n4d6d9acc/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 13 HD" tvg-id="000031" tvg-logo="http://1lot.tv/ch/10968.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 13 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/n4d6d266d/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 14 HD" tvg-id="000032" tvg-logo="http://1lot.tv/ch/10969.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 14 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/n4d6cb20e/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 15 HD" tvg-id="000033" tvg-logo="http://1lot.tv/ch/10970.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 15 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/n4d6c3daf/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 16 HD" tvg-id="000034" tvg-logo="http://1lot.tv/ch/10971.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 16 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/n4d6bc950/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 17 HD" tvg-id="000035" tvg-logo="http://1lot.tv/ch/10972.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 17 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/n4d6b54f1/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 18 HD" tvg-id="000036" tvg-logo="http://1lot.tv/ch/10973.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 18 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/n4d6ae092/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 19 HD" tvg-id="000037" tvg-logo="http://1lot.tv/ch/10974.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 19 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/n4d6a6c33/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 20 HD" tvg-id="000038" tvg-logo="http://1lot.tv/ch/10975.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 20 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/n4d606c09/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 21 HD" tvg-id="000039" tvg-logo="http://1lot.tv/ch/10976.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 21 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/n4d5ff7aa/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 22 HD" tvg-id="000040" tvg-logo="http://1lot.tv/ch/10977.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 22 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/n4d5f834b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Кинозал 23 HD" tvg-id="000015" tvg-logo="http://1lot.tv/ch/10978.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Кинозал 23 HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/n4d5f0eec/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="Play-x Баскетбол USA HD" tvg-id="000018" tvg-logo="https://play-x.ru/logo.png" group-title="GRAND PLUS| OLSIB PLAY-X", Play-x Баскетбол USA HD
+#EXTGRP:GRAND PLUS| OLSIB PLAY-X
+http://cdn.olsibtv.org:9999/channel/308bff3a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+
+
+
+#EXTINF:0 tvg-name="Olsib RuAction FHD" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/olsib-ruaction.png" timeshift="0" group-title="RUS Кино" tvg-id="olsib-ruaction",Olsib RuAction FHD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n70ae3d4a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="Olsib STB FHD" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/olsib-stb.png" timeshift="0" group-title="RUS Кино" tvg-id="olsib-stb",Olsib STB FHD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/727cc328/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="remake" tvg-id="olsib-remake" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/olsib-remake.png" group-title="GRAND PLUS| OLSIB RUS Кино", Olsib Ремейк FHD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n68b6b614/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-400" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/rus-detektiv.png" group-title="GRAND PLUS| OLSIB RUS Кино", Русский детектив
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n5c9e6a35/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-51107" tvg-name="Дом кино Премиум HD" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/domkino-premium.png" group-title="GRAND PLUS| OLSIB RUS Кино", Дом Кино Премиум HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n6675ac27/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-244" tvg-name="Дом кино" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/domkino.png" group-title="GRAND PLUS| OLSIB RUS Кино", Дом Кино
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/1407f55a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-429" tvg-name="viju TV1000 Русское" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="GRAND PLUS| OLSIB RUS Кино", viju TV1000 Русское кино HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n4bbd9d3f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="clarity4k-nashekino" tvg-name="Clarity4K Наше кино" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/clarity4k-nashekino.png" group-title="GRAND PLUS| OLSIB RUS Кино", Clarity4K Наше кино
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n6819b0e4/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB RUS Кино", Liberty РусФильм 4K
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/5f08d0d3/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-604" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/russkaya-komedia.png" group-title="GRAND PLUS| OLSIB RUS Кино", Русская Комедия
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n1efbb349/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch2681" tvg-logo="http://team.ga/images/chIcons/2681.png" timeshift="6" group-title="RUS Кино" tvg-id="ch2681",Oasis RUS Комедии
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/nab74e72/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="KBC-Russian Комедия HD" tvg-id="hlsproxy-100618" catchup-days="3" catchup="fs" group-title="RUS Кино" tvg-logo="http://cdn.olsibtv.org:9999/logos/kbc-russiancomedia.png",KBC-Russian Комедия HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n1f89eed9/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-575" tvg-name="Душевное HD" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/dushevnoe-hd.png" group-title="GRAND PLUS| OLSIB RUS Кино", Наш кинороман HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n578f7158/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-399" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/russky-bestseller.png" group-title="GRAND PLUS| OLSIB RUS Кино", Русский Бестселлер
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/3e556d99/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-100016" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/russky-roman.png" group-title="GRAND PLUS| OLSIB RUS Кино", Русский роман HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/537597c6/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-401" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/russky-roman.png" group-title="GRAND PLUS| OLSIB RUS Кино", Русский Роман
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n2ff2768a/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-577" tvg-name="Наше HD" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/nashehd.png" group-title="GRAND PLUS| OLSIB RUS Кино", Наше крутое HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/2c440a4d/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="ch3283" tvg-logo="http://team.ga/images/chIcons/3283.png" timeshift="3" group-title="GRAND PLUS| OLSIB RUS Кино", SkyCam RuKino
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n3dd691b9/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-329" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/nashe-novoe-kino.png" group-title="GRAND PLUS| OLSIB RUS Кино", Наше новое кино
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/100ed2aa/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-397" tvg-name="Русский иллюзион" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/russky-illuzion.png" group-title="GRAND PLUS| OLSIB RUS Кино", Русский Иллюзион HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n4e7f150f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="7" group-title="RUS Кино" tvg-id="hlsproxy-100310" tvg-logo="http://cdn.olsibtv.org:9999/logos/cineman-rukino.png",CineMan РуКино
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/39bf5de7/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-51191" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/minimax-roskino.png" tvg-rec="0" group-title="GRAND PLUS| OLSIB RUS Кино", MM Роскино HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n1c2cdf48/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-100541" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/yosso-rusfilm.png" tvg-rec="14" group-title="GRAND PLUS| OLSIB RUS Кино", YOSSO Русские фильмы
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n3f280dcc/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="RUS Кино" tvg-id="hlsproxy-58" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fresh_tv_ru.png",Fresh Russian
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n42618b81/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="6235" tvg-logo="http://epg.one/img/6235.png" tvg-rec="2" group-title="GRAND PLUS| OLSIB RUS Кино", KLI Russian HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/538b506e/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="RUS Кино" tvg-id="hlsproxy-1255" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://www.lyngsat-logo.com/logo/tv/mm/magic_tv_uk.png",Magic Russian HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n55d89da2/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-rec="0" group-title="GRAND PLUS| OLSIB RUS Кино", Z!Russian HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/7fb85d32/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="TVPlay Лихие 90е Кино" tvg-id="TVPlayLihie90eKino" group-title="GRAND PLUS| OLSIB RUS Кино", TVPlay Лихие 90е Кино
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/3e5dff19/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-2518" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/bcu-russian.png" tvg-rec="14" group-title="GRAND PLUS| OLSIB RUS Кино", BCU Russian HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/8011dd7/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-name="TVPlay Фантастика RUS HD" tvg-id="TVPlayFantasticRUSHD.tv" group-title="RUS Кино" tvg-logo="http://only4.tv/ch/9381.png",TVPlay Фантастика RUS HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n16bf7c5f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-name="ch1949" tvg-logo="http://tv.team/images/chIcons/1949.png" timeshift="6" group-title="RUS Кино" tvg-id="ch1949",BOX Russian 4K
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n16b54152/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-100096" tvg-name="Наше Мужское" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/nashe-muzhskoe.png" tvg-rec="14" group-title="GRAND PLUS| OLSIB RUS Кино", Наше Мужское HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n7605470/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="ch2682" tvg-logo="http://team.ga/images/chIcons/2682.png" timeshift="3" group-title="GRAND PLUS| OLSIB RUS Кино", Oasis RUS Драма
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/7279a58f/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-id="hlsproxy-279" tvg-name="КИНО 7" tvg-logo="http://i122.fastpic.org/big/2023/1212/34/9ccbbe97063598d589bd746c3e448134.png" group-title="GRAND PLUS| OLSIB RUS Кино", Кино 7 HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/18d783fc/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 tvg-id="rukino-hd" tvg-logo="http://only4.tv/ch/6501.png" group-title="GRAND PLUS| OLSIB RUS Кино", РуКино HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/nccc9d0/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-2503" tvg-name="Наш Кинопоказ" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/nash-kinopokaz.png" tvg-rec="14" group-title="GRAND PLUS| OLSIB RUS Кино", Наш Кинопоказ HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/46ee4a71/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:0 tvg-id="hlsproxy-100541" tvg-logo="http://cdn.olsibtv.org:9999/proxy/https://iptvx.one/picons/yosso-rusfilm.png" tvg-rec="14" group-title="GRAND PLUS| OLSIB RUS Кино", YOSSO Русские фильмы
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n3f280dcc/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
+#EXTINF:-1 group-title="RUS Кино" tvg-id="TVPlayNovyoRUSHD.tv" tvg-logo="http://1lot.tv/ch/9254.png" catchup-type="flussonic" catchup-days="1",TVPlay Новинки RUS HD
+#EXTGRP:GRAND PLUS| OLSIB RUS Кино
+http://cdn.olsibtv.org:9999/channel/n85ca26b/index.mpeg?q=654c1debdd36acd3d4cf3b4840a8a92d
 
 
 
@@ -277,7 +2774,7 @@ http://cdn.olsibtv.org:9999/channel/n35a6b3a0/index.mpeg?q=654c1debdd36acd3d4cf3
 
 
 
-#EXTINF:-1 group-title="(RUZIEV +) ", RELAX AM
+#EXTINF:-1 group-title="(RUZIEV MY TV +", RELAX AM
 http://timeshift.arpinet.am/232/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR7Dhrws/image-70.png" group-title="RUZIEV MY TV +", VIVA CLASSIC 
 http://185.221.213.254:8080/Ritsa/index.m3u8
@@ -329,7 +2826,7 @@ http://3.tvtm.one/ch030/mono.m3u8?token=badpsy.v2_IaUf1d3M3U5_uOrE8T7qkbSW987JtG
 #EXTINF:-1  tvg-id="mtvu"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" ,MTV U
 #EXTGRP:RUZIEV MY TV + 
 http://mains.services/live/0228902066/tc674KJ3du/47b72d50-9050-439c-b4c7-81b3564973cb.m3u
-#EXTINF:-1 group-title="(RUZIEV +) ",  MTV Base HD
+#EXTINF:-1 group-title="RUZIEV MY TV +",  MTV Base HD
 http://3.tvtm.one/ch2766/mono.m3u8?token=zazann.v2_UxFNZFJjPmvwHP1rDb5v4mB75UaRwA2b8kTexCc3QDRQzpjXXFOen3b6xcWBjJTx_L3rO3F8ByY
 
 #EXTINF:0 tvg-id="ch2766" tvg-name="MTV Base HD" tvg-logo="http://tvtm.one/images/chIcons/2766.png" tvg-rec="0", MTV Base HD
