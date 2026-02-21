@@ -2,12 +2,79 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/02/21 17:08}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/02/21 18:33}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3l38w595m1kt26k/logopit_1652914443716.jpg" group-title="СПАСИБО ЗА ТРУД : 5614 6812 0418 1428",{ ОБНОВИЛ }™
 http://sc4.gergosnet.com/pulstranceHD.mp3
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2194.png" group-title="GRAND PLUS| UA 2",  1+1 HD
+http://cdn-bal.srv4you.net/0151/mpegts
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2194.png" group-title="GRAND PLUS| UA 2",  1+1 Марафон UA
+http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2106.png" group-title="GRAND PLUS| UA 2",  Интер UA
+http://cdn-bal.srv4you.net/0153/mpegts
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2195.png" group-title="GRAND PLUS| UA 2",  2+2 HD
+http://cdn-bal.srv4you.net/0152/mpegts
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2105.png" group-title="GRAND PLUS| UA 2",  НТН HD
+http://cdn-bal.srv4you.net/0157/mpegts
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2100.png" group-title="GRAND PLUS| UA 2",  К1 HD UA
+http://cdn-bal.srv4you.net/0158/mpegts
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2099.png" group-title="GRAND PLUS| UA 2",  K2 HD
+http://cdn-bal.srv4you.net/0169/mpegts
+
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/poster/ch00011.jpg" group-title="GRAND PLUS| UA 2",  ТЕТ HD
+http://cdn-bal.srv4you.net/0164/mpegts
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2098.png" group-title="GRAND PLUS| UA 2",  Мега HD
+http://cdn-bal.srv4you.net/0171/mpegts
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2096.png" group-title="GRAND PLUS| UA 2",  Еспресо HD
+http://cdn-bal.srv4you.net/0154/mpegts
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/3309.png" group-title="GRAND PLUS| UA 2",  СТБ UA
+http://cdn-bal.srv4you.net/0160/mpegts
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2123.png" group-title="GRAND PLUS| UA 2", СК1 (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2640.png" group-title="GRAND PLUS| UA 2", НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/9160.png" group-title="GRAND PLUS| UA 2", Сфера ТВ UA
+http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2079.png" group-title="GRAND PLUS| UA 2", 5 Канал HD UA
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| UA 2", МИ+ УКРАЇНА HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2147.png" group-title="GRAND PLUS| UA 2", Перший HD UA
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8057.png" group-title="GRAND PLUS| UA 2", FREEDOM
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2199.png" group-title="GRAND PLUS| UA 2", ТВА
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8859.png" group-title="GRAND PLUS| UA 2", Перший міський Кривий Ріг
+https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
+
+
 
 
 
@@ -14073,7 +14140,40 @@ http://a0925677.xsph.ru/hls/smotrim/region/CH_URAL24HD_CHEL.m3u8
 http://a0925677.xsph.ru/hls/region/CH_SOCHILIVEHD720_SOCHI.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/1003.png" group-title="GRAND PLUS| ОРБИТА КИНО",  Пятница! International
+http://188.225.31.197/bpk-tv/000007816/tve/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/698.png" group-title="GRAND PLUS| ОРБИТА КИНО",  ТВ3 International
+http://188.225.31.197/bpk-tv/000004712/tve/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| ОРБИТА КИНО",  ТНТ KZ
+http://188.225.31.197/bpk-tv/000007833/tve/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/18.png" group-title="GRAND PLUS| ОРБИТА КИНО",  Рен-ТВ KZ
+http://188.225.31.197/bpk-tv/000002472/tve/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/304.png" group-title="GRAND PLUS| ОРБИТА КИНО",  Домашний KZ
+http://188.225.31.197/bpk-tv/000002348/tve/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/9331.png" group-title="GRAND PLUS| ОРБИТА КИНО",  Аппетитный
+http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/18/Almaty_TV_%28%D0%9C%D0%B8%D0%BD%D0%B8%29.svg/revision/latest/scale-to-width-down/150?cb=20241031174621&path-prefix=ru" group-title="GRAND PLUS| ОРБИТА КИНО",  Almaty TV
+http://188.225.31.197/bpk-tv/000000667/tve/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="GRAND PLUS| ОРБИТА КИНО",  Shows KZ
+http://188.225.31.197/bpk-tv/000008944/tve/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/79.png" group-title="GRAND PLUS| ОРБИТА КИНО",  СТС
+http://188.225.31.197/bpk-tv/000000428/tve/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/7614.png" group-title="GRAND PLUS| ОРБИТА КИНО",  Еда
+http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| ОРБИТА КИНО", КИНО ДРАМА KZ
+http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| ОРБИТА КИНО", КИНО СЕРИАЛ  KZ
+http://188.225.31.197/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/amedia1.png" group-title="GRAND PLUS| ОРБИТА КИНО",  Amedia 1 HD
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
 
