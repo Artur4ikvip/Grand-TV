@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/03/05}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/03/07}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -10,7 +10,117 @@ http://sc4.gergosnet.com/pulsHD.mp3
 http://sc4.gergosnet.com/pulstranceHD.mp3
 
 
-
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Fast Sports.png" group-title="GRAND PLUS| AM",Fast Sports
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/Channel_131/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Շանթ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/ShantTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Առաջին Ալիք.png" group-title="GRAND PLUS| AM",Առաջին Ալիք
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/ArmenianPublicTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Արմենիա TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/Armeniatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ATV.png" group-title="GRAND PLUS| AM",ATV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/ATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Կենտրոն.png" group-title="GRAND PLUS| AM",Կենտրոն
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/Kentron/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",5 ալիք
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/Ararat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Նոր Հայաստան
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.11.139.43:8555/norhayastan/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Դելտա TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.11.139.120:8555/delta/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ֆորտունա TV.png" group-title="GRAND PLUS| AM",Ֆորտունա TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.11.139.120:8555/fortuna/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Կոտայք TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.11.139.120:8555/kotayq/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Գեղամա TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.11.139.43:8555/geghama/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Բուն TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/Armnews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Հ2.png" group-title="GRAND PLUS| AM",Հ2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/ArmeniansecondTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",ARTN TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.11.139.43:8555/artn/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Միգ TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.11.139.43:8555/mig/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Շողակաթ.png" group-title="GRAND PLUS| AM",Շողակաթ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/ShoghakatTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",ԹԱՎԱ TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/TavaTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Դար 21.png" group-title="GRAND PLUS| AM",Դար 21
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/21TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ՀԱՅ TV.png" group-title="GRAND PLUS| AM",ՀԱՅ TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/HayTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Մհնt6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.57.68.33:80/255/playlist.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",neznau
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.57.68.33:80/237/playlist.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Մուզզոն
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/Channel_116/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Delta Music
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.177.104.228:8598/Delta-Music_HD/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Delta Travel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.177.104.228:8597/Delta-Travel_HD/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Լայֆհաք TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/Filmzone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Ֆիթնես TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.11.139.43:8555/fitnes/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Առաջինի Լրատվական
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/CNN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ազատություն TV.png" group-title="GRAND PLUS| AM",Ազատություն TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/Channel_130/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FreeNews.png" group-title="GRAND PLUS| AM",FreeNews
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/ArTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ԿԻՆՈՄԱՆ.png" group-title="GRAND PLUS| AM",ԿԻՆՈՄԱՆ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Բազմոց TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://45.159.74.22/Channel_118/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",UHUT
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://185.57.68.33:80/255/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Շանթ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://5.188.172.179/Shant/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Song TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://songtv.hls.iptvdc.com/web-armenia/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",ARTN TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://streamer1.connectto.com/ARTN_mobile/index.m3u8
+#EXTINF:-1 group-title="GRAND PLUS| AM",Fresh TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
 
 
 #EXTINF:-1 tvg-logo="https://m.cdntv.online/tvg-logo/3h98wcmuyi/Thunderbolts2025.jpg" group-title="GRAND PLUS| CDN MARVEL",  Громовержцы* (2025)
