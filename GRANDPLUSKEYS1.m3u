@@ -10,6 +10,17 @@ http://sc4.gergosnet.com/pulsHD.mp3
 http://sc4.gergosnet.com/pulstranceHD.mp3
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 1 HD.png" group-title="GRAND PLUS| AM",Setanta Sports 1 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Setanta Sports 2 HD.png" group-title="GRAND PLUS| AM",Setanta Sports 2 HD
+#EXTVLCOPT:http-user-agent=TiviMate
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Fast Sports.png" group-title="GRAND PLUS| AM",Fast Sports
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://45.11.139.43:8555/Channel_131/tracks-v1a1/mono.m3u8
