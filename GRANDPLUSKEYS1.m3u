@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="RUZIEV + IPTV PREMIUM АВТОР: АРТУР РУЗИЕВ " ,RUZIEV IPTV PREMIUM АВТОР[РУЗИЕВ АРТУР]
 https://fr.ah.fm/live
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/03/20}", ОБНОВИЛ }™
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qbcsjo8nsbqnlyuh9mra8/IMG_20260101_211731_805.jpg?rlkey=4w15ir9e0vsdm6e34evxxp5j8&st=39fdu0bk&dl=0" group-title="✓ { ОБНОВЛЕНИЕ 2026/03/23}", ОБНОВИЛ }™
 http://sc4.gergosnet.com/mxHD.mp3
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/739384288256196653/763690935401840640/discord.png" group-title="ОБЩЕНИЕ ТОЛЬКО В TELEGRAM https://t.me/GRANDPLUS_RUZIEV",МОЙ ЧАТ: https://t.me/GRANDPLUS_RUZIEV
 http://sc4.gergosnet.com/pulsHD.mp3
@@ -3342,6 +3342,507 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 
 
 
+#EXTINF:-1 tvg-id="sony-turbo" tvg-name=".Black HD" tvg-logo="https://iptvx.one/picons/sony-turbo.png" group-title="GRAND PLUS| CINEMA 2",.Black HD
+http://158.101.222.193:88/georgia_play.php?id=black
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".red" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",.red
+https://telluri.ru/video/tr-and/1400.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".Red" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",.Red
+https://telluri.ru/video/tr-and/1400.m3u8
+
+#EXTINF:-1 tvg-id="sony-scifi" tvg-name=".sci-fi" tvg-logo="https://iptvx.one/picons/sony-scifi.png" group-title="GRAND PLUS| CINEMA 2",.sci-fi
+http://86.57.209.210/Sci-Fi/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8 канал" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",8 канал
+https://telluri.ru/video/vod/962.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="БезНика" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",БезНика
+http://kinowalk.hopto.org/522_137_live
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Димитрон фильм" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Димитрон фильм
+http://kinowalk.hopto.org/dondimitron_live
+
+#EXTINF:-1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="http://ex.iptvin.ru/pic/2/domkino.png" group-title="GRAND PLUS| CINEMA 2",Дом кино
+http://176.96.241.40/DomKino/index.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом Кино Премиум" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Дом Кино Премиум
+https://telluri.ru/video/5111.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом Кино Премиум" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Дом Кино Премиум
+https://telluri.ru/video/5111.m3u8
+
+
+#EXTINF:-1 tvg-id="dorama" tvg-name="Дорама HD" tvg-logo="https://static.youtv.com.ua/images/channels/1/3295.png" group-title="GRAND PLUS| CINEMA 2",Дорама HD
+http://176.96.241.40/Dorama/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Еврокино" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Еврокино
+https://telluri.ru/video/vod/903.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Еврокино" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Еврокино
+https://telluri.ru/video/vod/903.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="Еврокино" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Еврокино
+http://vod.tuva.ru/eurokino/index.m3u8
+
+#EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="GRAND PLUS| CINEMA 2",Еврокино
+http://87.120.142.11:18000/STSLove
+#EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://only4.tv/ch/0275.png" group-title="GRAND PLUS| CINEMA 2",Еврокино
+http://188.225.31.197/bpk-tv/000000152/tve/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Еврокино" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Еврокино
+http://31.148.48.15:80/Evrokino/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Еврокино" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Еврокино
+http://31.210.208.171:8080/evrokino/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Еврокино" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Еврокино
+http://193.25.8.59:8000/eurokino
+#EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино HD" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="GRAND PLUS| CINEMA 2",Еврокино HD
+http://31.148.48.15/Evrokino/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Европа Плюс ТВ" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Европа Плюс ТВ
+https://telluri.ru/video/tr-and/963.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Егор Егорыч" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Егор Егорыч
+http://kinowalk.hopto.org/yegor_yegorych_live
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ЗОВ ТВ" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",ЗОВ ТВ
+https://live20.bozztv.com/giatv/giatv-tvzovlivestream/tvzovlivestream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ЗОВ ТВ Black" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",ЗОВ ТВ Black
+https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ЗОВ ТВ RED" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",ЗОВ ТВ RED
+https://live20.bozztv.com/giatv/giatv-tvzov%20RED/tvzov%20RED/chunks.m3u8
+
+#EXTINF:-1 tvg-id="illuzion-plus" tvg-name="Иллюзион+" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" group-title="GRAND PLUS| CINEMA 2",Иллюзион+
+http://176.118.197.101/Illuzion+/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Иллюзион+" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Иллюзион+
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+
+#EXTINF:-1 tvg-id="indiyskoe-kino" tvg-name="Индийское Кино" tvg-logo="https://iptvx.one/picons/indijskoe-kino.png" group-title="GRAND PLUS| CINEMA 2",Индийское Кино
+http://188.113.190.12/329/index.m3u8
+
+#EXTINF:-1 tvg-id="indiyskoe-kino" tvg-name="Индийское кино" tvg-logo="http://ex.iptvin.ru/pic/2/indiyskoe-kino.png" group-title="GRAND PLUS| CINEMA 2",Индийское кино
+http://158.101.222.193:88/georgia_play.php?id=indiyskoekino
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Индийское кино" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Индийское кино
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 tvg-id="zee-tv" tvg-name="Индия" tvg-logo="https://iptvx.one/picons/zee-tv.png" group-title="GRAND PLUS| CINEMA 2",Индия
+http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Индия" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Индия
+http://158.101.222.193:88/georgia_play.php?id=zeetv
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинеко" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Кинеко
+https://telluri.ru/video/vod/1812.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино 1 Int." tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Кино 1 Int.
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино 24" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Кино 24
+http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кино Без Границ" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Кино Без Границ
+http://185.57.68.33:8091/237/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ HD" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Кино ТВ HD
+http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ HD" tvg-logo="http://ex.iptvin.ru/pic/2/5c93da55c6af43ffa5b21aba7de9e569.png" group-title="GRAND PLUS| CINEMA 2",Кино ТВ HD
+http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
+
+#EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="http://ex.iptvin.ru/pic/2/kinokomediya.png" group-title="GRAND PLUS| CINEMA 2",Кинокомедия
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 tvg-id="kinokomedia" tvg-name="Кинокомедия" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Кинокомедия
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киноман" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Киноман
+http://5.188.221.43:8080/play/kinosat
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киноман" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Киноман
+https://telluri.ru/video/59.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киноман" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Киноман
+https://telluri.ru/video/59.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киномикс" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Киномикс
+http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="https://i.postimg.cc/qBnntGZR/75cba7c36cdbfdb0fc4e546d9abf249f.png" group-title="GRAND PLUS| CINEMA 2",Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 tvg-id="kinomiks" tvg-name="Киномикс" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинопоказ" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Кинопоказ
+https://telluri.ru/video/tr-and/285.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинопоказ" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Кинопоказ
+https://telluri.ru/video/tr-and/285.m3u8
+
+#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Кинопремьера
+http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
+#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера" tvg-logo="https://getsiptv.ru/img/ch_icons/kinopremera_hd.png" group-title="GRAND PLUS| CINEMA 2",Кинопремьера
+http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
+
+#EXTINF:-1 tvg-id="kinosvidanie" tvg-name="Киносвидание" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Киносвидание
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+
+#EXTINF:-1 tvg-id="kinosvidanie" tvg-name="Киносвидание" tvg-logo="http://ex.iptvin.ru/pic/2/kinosvidanie.png" group-title="GRAND PLUS| CINEMA 2",Киносвидание
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносезон" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Киносезон
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+#EXTINF:-1 tvg-id="kinosemiya" tvg-name="Киносемья" tvg-logo="http://ex.iptvin.ru/pic/2/kinosemya.png" group-title="GRAND PLUS| CINEMA 2",Киносемья
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киносерия" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Киносерия
+http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
+
+#EXTINF:-1 tvg-id="kinoseria" tvg-name="Киносерия HD" tvg-logo="http://ex.iptvin.ru/pic/2/kinoseriya.png" group-title="GRAND PLUS| CINEMA 2",Киносерия HD
+http://176.118.197.101/Kinoseria/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Киноужас" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Киноужас
+http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит HD" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Кинохит HD
+http://87.246.54.249:8080/KinoHit/mpegts
+#EXTINF:-1 tvg-id="kinoxit" tvg-name="Кинохит HD" tvg-logo="http://ex.iptvin.ru/pic/2/kinohit.png" group-title="GRAND PLUS| CINEMA 2",Кинохит HD
+http://87.246.54.249:8080/KinoHit/mpegts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ключайка" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Ключайка
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
+#EXTINF:-1 tvg-id="russkaya-komedia" tvg-name="Комедия" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Комедия
+http://31.210.208.171:8080/komedia/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="russkaya-komedia" tvg-name="Комедия" tvg-logo="http://only4.tv/ch/1115.png" group-title="GRAND PLUS| CINEMA 2",Комедия
+http://31.210.208.171:8080/komedia/index.m3u8?token=+W2MSER
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мир сериала" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Мир сериала
+http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Мосфильм. Золотая коллекция
+https://telluri.ru/video/1124.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="GRAND PLUS| CINEMA 2",Мосфильм. Золотая коллекция
+http://178.134.1.158:8081/mosfilm/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Мосфильм. Золотая коллекция
+https://telluri.ru/video/1124.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Муви ТВ" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Муви ТВ
+https://telluri.ru/video/tr-and/5007.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Муви ТВ" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Муви ТВ
+https://telluri.ru/video/tr-and/5007.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мужское кино" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Мужское кино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мужское кино HD" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Мужское кино HD
+https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="http://ex.iptvin.ru/pic/2/nashe-novoe-kino.png" group-title="GRAND PLUS| CINEMA 2",Наше новое кино
+http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наше новое кино" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Наше новое кино
+http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
+
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино HD" tvg-logo="https://iptvx.one/picons/nashe-novoe-kino.png" group-title="GRAND PLUS| CINEMA 2",Наше новое кино HD
+http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Новый Русский" tvg-logo="https://i.ibb.co/k2MGDGPy/image-15.png" group-title="GRAND PLUS| CINEMA 2",Новый Русский
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НСТ" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",НСТ
+http://31.210.208.171:8080/nst/index.m3u8?token=+W2MSER
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НСТ" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",НСТ
+https://telluri.ru/video/tr-and/6008.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НСТ" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",НСТ
+https://telluri.ru/video/tr-and/6008.m3u8
+#EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="https://tvbesedka.com/Upload/2022/3/29/23/43/17/4fb73bfd-d612-48f7-8d90-6a586ed6180b.jpg" group-title="GRAND PLUS| CINEMA 2",НСТ
+http://31.210.208.171:8080/nst/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="НСТ" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:-1 tvg-id="nst" tvg-name="НСТ" tvg-logo="https://iptvx.one/picons/nst.png" group-title="GRAND PLUS| CINEMA 2",НСТ
+http://193.25.8.59:8000/nst
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ Право" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",НТВ Право
+https://telluri.ru/video/vj/992.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ Сериал" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",НТВ Сериал
+https://telluri.ru/video/cog-dl/2065.m3u8
+
+#EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="https://iptvx.one/picons/pobeda.png" group-title="GRAND PLUS| CINEMA 2",Победа
+https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Поехали!" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Поехали!
+https://telluri.ru/video/tr-and/5028.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Радио Kids FM" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Радио Kids FM
+https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/tracks-v1a1/mono.m3u8?hls_proxy_host=f4eb0d287702d48f6bbf6e6f56891e63
+
+#EXTINF:-1 tvg-id="retro-tv" tvg-name="Ретро" tvg-logo="http://only4.tv/ch/6263.png" group-title="GRAND PLUS| CINEMA 2",Ретро
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ретро" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Ретро
+https://telluri.ru/video/tr-and/335.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ретро" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Ретро
+https://telluri.ru/video/tr-and/335.m3u8
+
+#EXTINF:-1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="http://ex.iptvin.ru/pic/2/rodnoe-kino.png" group-title="GRAND PLUS| CINEMA 2",Родное кино
+http://31.210.208.171:8080/rodnoe_kino/index.m3u8?token=+W2MSER
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский иллюзион" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Русский иллюзион
+https://telluri.ru/video/vod/869.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский иллюзион" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Русский иллюзион
+http://195.26.83.96:7006/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="https://i.postimg.cc/7ZLp99c1/4ff71733bf53cb77b876e2fc76adfccf.png" group-title="GRAND PLUS| CINEMA 2",Русский иллюзион
+http://185.46.16.239:8000/Russkiy_Illyuzion
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский иллюзион" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Русский иллюзион
+http://195.26.83.96:7006/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский иллюзион" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Русский иллюзион
+https://telluri.ru/video/vod/869.m3u8
+
+#EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="http://ex.iptvin.ru/pic/2/rus-roman.jpg" group-title="GRAND PLUS| CINEMA 2",Русский роман
+http://31.210.208.171:8080/russian_roman/index.m3u8?token=+W2MSER
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="Русский Роман" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Русский Роман
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="GRAND PLUS| CINEMA 2",Русский роман
+http://vod.tuva.ru/rusroman/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Советская Киноклассика" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Советская Киноклассика
+https://tinyurl.com/45x3xrpm/chid276/mpegts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Советское кино" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Советское кино
+https://stitch.teletarget.ru/vintera/sovietmovie/17696847156167dd9935fac28723490766c9879588bc1d723892ef11c0282861/lvl1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Советское кино" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Советское кино
+https://telluri.ru/video/vod/3018.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СоюзМультфильм" tvg-logo="https://i.ibb.co/xKh025r9/image-24.png" group-title="GRAND PLUS| CINEMA 2",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Т24" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Т24
+http://158.101.222.193:88/georgia_play.php?id=24techno
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Тайна ТВ" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Тайна ТВ
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВ21" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",ТВ21
+http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
+
+#EXTINF:-1 tvg-id="tv21plus" tvg-name="ТВ21+" tvg-logo="https://assets.iptv2022.com/static/channel/10697/logo_256_1660892137.png" group-title="GRAND PLUS| CINEMA 2",ТВ21+
+https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
+
+#EXTINF:-1 tvg-id="telekafe" tvg-name="Телекафе" tvg-logo="https://iptvx.one/picons/telekafe.png" group-title="GRAND PLUS| CINEMA 2",Телекафе
+https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Тип Топ" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Тип Топ
+http://185.234.59.200:9090/channel/1e009d69/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Усадьба" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Усадьба
+https://telluri.ru/video/vod/341.m3u8
+
+#EXTINF:-1 tvg-id="feniks-plus-kino" tvg-name="Феникс плюс кино" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png" group-title="GRAND PLUS| CINEMA 2",Феникс плюс кино
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="Феникс+Кино" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Феникс+Кино
+http://86.57.209.210/Fenix/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Феникс+кино" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Феникс+кино
+https://telluri.ru/video/tr-and/332.m3u8
+
+#EXTINF:-1 tvg-id="amedia1" tvg-name="Amedia 1 HD" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="GRAND PLUS| CINEMA 2",Amedia 1 HD
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia 2" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Amedia 2
+http://45.145.32.13:20440/kineko/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="amedia2" tvg-name="Amedia 2 HD" tvg-logo="https://iptvx.one/picons/amedia2.png" group-title="GRAND PLUS| CINEMA 2",Amedia 2 HD
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia Hit" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Amedia Hit
+http://45.145.32.13:20440/mama/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="amedia-premium" tvg-name="Amedia Premium HD" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="GRAND PLUS| CINEMA 2",Amedia Premium HD
+http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia Premium HD" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Amedia Premium HD
+http://158.101.222.193:88/georgia_play.php?id=amediapremium
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Argo_13" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Argo_13
+http://kinowalk.hopto.org/argo_13_live
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Bug Bunny" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Big Bug Bunny
+https://video1.getstreamhosting.com:1936/8006/8006/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black HD" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Black HD
+http://158.101.222.193:88/georgia_play.php?id=black
+
+#EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="https://iptvx.one/picons/bollywood-hd.png" group-title="GRAND PLUS| CINEMA 2",Bollywood HD
+http://45.145.32.13:20440/bollywood_hd/index.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOSSFILM" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",BOSSFILM
+http://kinowalk.hopto.org/bossfilm_live
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bridge TV" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Bridge TV
+https://telluri.ru/video/tr-and/110.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTN Русский" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",CGTN Русский
+https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Curiosity Stream" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Curiosity Stream
+https://telluri.ru/video/vod/994.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",DW
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Epic Drama" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Epic Drama
+http://195.189.60.253/118/index.m3u8
+
+#EXTINF:-1 tvg-id="fanhd" tvg-name="FAN" tvg-logo="https://i.postimg.cc/kgXdZqVb/b096849286769a18887753f9c09e3868.png" group-title="GRAND PLUS| CINEMA 2",FAN
+http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
+
+#EXTINF:-1 tvg-id="flixsnip" tvg-name="FlixSnip" tvg-logo="https://iptvx.one/picons/flixsnip.png" group-title="GRAND PLUS| CINEMA 2",FlixSnip
+http://45.145.32.13:20440/flixsnip/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Funny Kids" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Funny Kids
+http://185.234.59.200:9090/channel/n3f09b9b3/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hollywood HD" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Hollywood HD
+http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
+#EXTINF:-1 tvg-id="hollywood-hd" tvg-name="HollywooD HD" tvg-logo="https://iptvx.one/picons/hollywood-hd.png" group-title="GRAND PLUS| CINEMA 2",HollywooD HD
+http://194.32.242.245/hollywoodhd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HyBteX" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",HyBteX
+http://kinowalk.hopto.org/hybtex_live
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="iberty isney" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",iberty isney
+http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/15093/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="InMuNa" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",InMuNa
+http://kinowalk.hopto.org/inmuna_live
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Konul Tv" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Konul Tv
+http://live.mediabaytv.workers.dev/?ID=715
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Liberty Пиксар" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Liberty Пиксар
+http://t8nlftib.russtv.net/iptv/QYUYWWB6GEC9F9Z5TSDEWH95/15092/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVETV" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",LIVETV
+http://tv.mobyservice.ru/livetv/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Novella TV" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Novella TV
+https://telluri.ru/video/vod/1205.m3u8
+
+#EXTINF:-1 tvg-id="pro100" tvg-name="Pro100" tvg-logo="https://iptvx.one/picons/pro100.png" group-title="GRAND PLUS| CINEMA 2",Pro100
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRO100 TV" tvg-logo="https://i.ibb.co/3ycBZqx3/image-14.png" group-title="GRAND PLUS| CINEMA 2",PRO100 TV
+http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Romance" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Romance
+http://193.25.8.59:8000/tlc
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rus serials" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Rus serials
+http://kinowalk.hopto.org/zzz881_live
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SD REX" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",SD REX
+http://195.26.83.96:7029/play/a008
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SerialTV" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",SerialTV
+http://kinowalk.hopto.org/serialtv_live
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="START Air" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",START Air
+https://telluri.ru/video/vod/1804.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="START Air" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",START Air
+https://telluri.ru/video/vod/1804.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="START World" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",START World
+https://telluri.ru/video/vod/9011.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="START World" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",START World
+https://telluri.ru/video/vod/9011.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Terra" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Terra
+https://telluri.ru/video/tr-and/1500.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Terra Incognita" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Terra Incognita
+http://stitch.teletarget.ru/vintera/terra/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom And Jerry" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Tom And Jerry
+http://185.234.59.200:9090/channel/n332cfce7/index.m3u8?q=406925e0657258d990e0f9948bac4f7b
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel+adventure" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Travel+adventure
+https://telluri.ru/video/tr-and/964.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",TV1000
+https://telluri.ru/video/vj/5107.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Русское" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",TV1000 Русское
+http://213.169.39.30:5006
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Русское кино" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",TV1000 Русское кино
+https://telluri.ru/video/vj/5109.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV1000 Action" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",TV1000 Action
+https://telluri.ru/video/vj/5106.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV15" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",TV15
+http://live.mediabaytv.workers.dev/?ID=655
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VAG KINO 164" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",VAG KINO 164
+http://kinowalk.hopto.org/vagner164_live
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VHS-ка" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",VHS-ка
+https://telluri.ru/video/vj/1123.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VHS-ка" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",VHS-ка
+https://telluri.ru/video/vj/1123.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Explore" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Viasat Explore
+https://telluri.ru/video/vj/540.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat History" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Viasat History
+https://telluri.ru/video/vj/541.m3u8
+#EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy" tvg-logo="http://ex.iptvin.ru/pic/2/deda1ad5cb813357dc07d3718befe42d.png" group-title="GRAND PLUS| CINEMA 2",Viasat Kino Comedy
+http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Kino Comedy HD" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Viasat Kino Comedy HD
+http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Nature" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Viasat Nature
+https://telluri.ru/video/vj/542.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",viju TV1000
+http://178.134.1.158:8081/tv1000/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju TV1000" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Viju TV1000
+https://telluri.ru/video/vj/5107.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",viju TV1000
+http://178.134.1.158:8081/tv1000/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju TV1000 Новелла" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Viju TV1000 Новелла
+https://telluri.ru/video/vj/545.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju TV1000 Новелла HD" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Viju TV1000 Новелла HD
+https://telluri.ru/video/vj/545.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 русское" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",viju TV1000 русское
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="viju TV1000 русское" tvg-logo="http://ex.iptvin.ru/pic/2/d9664c73b15b0bdff93ea04e9ad899dc.png" group-title="GRAND PLUS| CINEMA 2",viju TV1000 русское
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju TV1000 Action" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Viju TV1000 Action
+https://telluri.ru/video/vj/5106.m3u8
+
+#EXTINF:-1 tvg-id="tv1000-action" tvg-name="Viju TV1000 Action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="GRAND PLUS| CINEMA 2",Viju TV1000 Action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju TV1000 romantica" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",viju TV1000 romantica
+https://telluri.ru/video/vj/3111.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Comedy" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Viju+ Comedy
+https://telluri.ru/video/vj/6003.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Megahit" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Viju+ Megahit
+https://telluri.ru/video/vj/6002.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju+ Megahit HD" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",viju+ Megahit HD
+http://185.46.16.239:8000/VIP_Megahit
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Planet" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",Viju+ Planet
+https://telluri.ru/video/vj/6006.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Planet" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Viju+ Planet
+https://telluri.ru/video/vj/6006.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Premiere" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Viju+ Premiere
+https://telluri.ru/video/vj/6001.m3u8
+#EXTINF:-1 tvg-id="vip-premiere" tvg-name="viju+ Premiere HD" tvg-logo="http://ex.iptvin.ru/pic/2/5c6dd95a2d1d1ca70b3de0f71f756653.png" group-title="GRAND PLUS| CINEMA 2",viju+ Premiere HD
+http://185.46.16.239:8000/VIP_Premiere
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="viju+ Premiere HD" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",viju+ Premiere HD
+http://185.46.16.239:8000/VIP_Premiere
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viju+ Serial" tvg-logo="https://i.ibb.co/35g4Sr1M/image-4.png" group-title="GRAND PLUS| CINEMA 2",Viju+ Serial
+https://telluri.ru/video/vj/6004.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Comedy" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",VIP Comedy
+https://telluri.ru/video/vj/6003.m3u8
+#EXTINF:-1 tvg-id="vip-megahit" tvg-name="ViP Megahit" tvg-logo="http://ex.iptvin.ru/pic/2/76f0b30e924a1de33960fc89374345a5.png" group-title="GRAND PLUS| CINEMA 2",ViP Megahit
+http://185.46.16.239:8000/VIP_Megahit
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Megahit" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",VIP Megahit
+https://telluri.ru/video/vj/6002.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Premiere" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",VIP Premiere
+https://telluri.ru/video/vj/6001.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Serial" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",VIP Serial
+https://telluri.ru/video/vj/6004.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".Black" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",.Black
+https://a3569457567-s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=".sci-fi" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",.sci-fi
+https://a3569457567-s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1HD" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",1HD
+http://176.118.197.101/1HD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",2x2
+http://176.118.197.101/2x2/index.m3u8
+#EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 tvg-id="2na2" tvg-name="2x2" tvg-logo="" group-title="GRAND PLUS| CINEMA 2",2x2
+http://5.188.221.43:8080/play/2x2
 #EXTINF:-1 group-title="GRAND PLUS| CINEMA 2", SeleCaoTV SD
 https://live20.bozztv.com/akamaissh101/ssh101/kucunucum9ym9y/chunks.m3u8
 
