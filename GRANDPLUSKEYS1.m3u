@@ -152,6 +152,51 @@ http://mains.services/live/0228902066/tc674KJ3du/47b72d50-9050-439c-b4c7-81b3564
 
 
 
+#EXTINF:0 tvg-id="Xktk-kz" tvg-name="КТК" tvg-logo="https://ip-tv.dev/images/ico/ktk-kz.png" , КТК
+#EXTGRP:GRAND PLUS| KZ PREM
+http://bde.online24.pm/play/448/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xaqtobe" tvg-name="AQTOBE" tvg-logo="https://ip-tv.dev/images/ico/aqtobe.png" , AQTOBE
+#EXTGRP:GRAND PLUS| KZ PREM
+http://bde.online24.pm/play/5442/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xsaryarqa" tvg-name="Saryarqa" tvg-logo="https://ip-tv.dev/images/ico/saryarqa.png" , Saryarqa
+#EXTGRP:GRAND PLUS| KZ PREM
+http://bde.online24.pm/play/461/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xkinoboevik-kz" tvg-name="Кинобоевик" tvg-logo="https://ip-tv.dev/images/epg/1840.png?v1744724834"  tvg-rec="5" timeshift="5", Кинобоевик
+#EXTGRP:GRAND PLUS| KZ PREM
+http://bde.online24.pm/play/1840/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xmirovoe-kino-kz" tvg-name="Мировое Кино" tvg-logo="https://ip-tv.dev/images/epg/1839.png?v1744724779"  tvg-rec="5" timeshift="5", Мировое Кино
+#EXTGRP:GRAND PLUS| KZ PREM
+http://bde.online24.pm/play/1839/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xpremium-kino-kz" tvg-name="Премиум Кино" tvg-logo="https://ip-tv.dev/images/epg/1838.png?v1744724707"  tvg-rec="5" timeshift="5", Премиум Кино
+#EXTGRP:GRAND PLUS| KZ PREM
+http://bde.online24.pm/play/1838/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xsemejnoe-kino-kz" tvg-name="Семейное Кино" tvg-logo="https://ip-tv.dev/images/epg/1837.png?v1744724638"  tvg-rec="5" timeshift="5", Семейное Кино
+#EXTGRP:GRAND PLUS| KZ PREM
+http://bde.online24.pm/play/1837/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xq-kino-hit" tvg-name="Кинодрама" tvg-logo="https://ip-tv.dev/images/epg/1835.png?v1744724390"  tvg-rec="5" timeshift="5", Кинодрама
+#EXTGRP:GRAND PLUS| KZ PREM
+http://bde.online24.pm/play/1835/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xq-kino-alem" tvg-name="Киносериал" tvg-logo="https://ip-tv.dev/images/epg/1834.png?v1744724351"  tvg-rec="5" timeshift="5", Киносериал
+#EXTGRP:GRAND PLUS| KZ PREM
+http://bde.online24.pm/play/1834/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xsport-plus-kz" tvg-name="Sport+ Qazaqstan" tvg-logo="https://ip-tv.dev/images/epg/1844.png?v1744725369"  tvg-rec="5" timeshift="5", Sport+ Qazaqstan
+#EXTGRP:GRAND PLUS| KZ PREM
+http://bde.online24.pm/play/1844/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xq-sport-ext" tvg-name="Q Sport League" tvg-logo="https://ip-tv.dev/images/epg/1843.png?v1744725274"  tvg-rec="5" timeshift="5", Q Sport League
+#EXTGRP:GRAND PLUS| KZ PREM
+http://bde.online24.pm/play/1843/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xqsport-kz" tvg-name="Q Arena" tvg-logo="https://ip-tv.dev/images/epg/1842.png?v1744725145"  tvg-rec="5" timeshift="5", Q Arena
+#EXTGRP:GRAND PLUS| KZ PREM
+http://bde.online24.pm/play/1842/F6E1DD42544DD10/video.m3u8
+#EXTINF:0 tvg-id="Xkazsport" tvg-name="QazSport" tvg-logo="https://ip-tv.dev/images/epg/1841.png?v1744725077"  tvg-rec="5" timeshift="5", QazSport
+#EXTGRP:GRAND PLUS| KZ PREM
+http://bde.online24.pm/play/1841/F6E1DD42544DD10/video.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="GRAND PLUS| BCU",   BCU Premiere HD
 http://ott.server-iptv.live/1614/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
 
@@ -5728,46 +5773,6 @@ http://bde.online24.pm/play/5441/F6E1DD42544DD10/video.m3u8
 
 
 
-
-#EXTINF:0 tvg-id="Xktk-kz" tvg-name="КТК" tvg-logo="https://ip-tv.dev/images/ico/ktk-kz.png" , КТК
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/448/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xaqtobe" tvg-name="AQTOBE" tvg-logo="https://ip-tv.dev/images/ico/aqtobe.png" , AQTOBE
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/5442/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xsaryarqa" tvg-name="Saryarqa" tvg-logo="https://ip-tv.dev/images/ico/saryarqa.png" , Saryarqa
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/461/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xkinoboevik-kz" tvg-name="Кинобоевик" tvg-logo="https://ip-tv.dev/images/epg/1840.png?v1744724834"  tvg-rec="5" timeshift="5", Кинобоевик
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1840/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xmirovoe-kino-kz" tvg-name="Мировое Кино" tvg-logo="https://ip-tv.dev/images/epg/1839.png?v1744724779"  tvg-rec="5" timeshift="5", Мировое Кино
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1839/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xpremium-kino-kz" tvg-name="Премиум Кино" tvg-logo="https://ip-tv.dev/images/epg/1838.png?v1744724707"  tvg-rec="5" timeshift="5", Премиум Кино
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1838/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xsemejnoe-kino-kz" tvg-name="Семейное Кино" tvg-logo="https://ip-tv.dev/images/epg/1837.png?v1744724638"  tvg-rec="5" timeshift="5", Семейное Кино
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1837/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xq-kino-hit" tvg-name="Кинодрама" tvg-logo="https://ip-tv.dev/images/epg/1835.png?v1744724390"  tvg-rec="5" timeshift="5", Кинодрама
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1835/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xq-kino-alem" tvg-name="Киносериал" tvg-logo="https://ip-tv.dev/images/epg/1834.png?v1744724351"  tvg-rec="5" timeshift="5", Киносериал
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1834/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xsport-plus-kz" tvg-name="Sport+ Qazaqstan" tvg-logo="https://ip-tv.dev/images/epg/1844.png?v1744725369"  tvg-rec="5" timeshift="5", Sport+ Qazaqstan
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1844/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xq-sport-ext" tvg-name="Q Sport League" tvg-logo="https://ip-tv.dev/images/epg/1843.png?v1744725274"  tvg-rec="5" timeshift="5", Q Sport League
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1843/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xqsport-kz" tvg-name="Q Arena" tvg-logo="https://ip-tv.dev/images/epg/1842.png?v1744725145"  tvg-rec="5" timeshift="5", Q Arena
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1842/F6E1DD42544DD10/video.m3u8
-#EXTINF:0 tvg-id="Xkazsport" tvg-name="QazSport" tvg-logo="https://ip-tv.dev/images/epg/1841.png?v1744725077"  tvg-rec="5" timeshift="5", QazSport
-#EXTGRP:GRAND PLUS| KZ PREM
-http://bde.online24.pm/play/1841/F6E1DD42544DD10/video.m3u8
 
 
 
