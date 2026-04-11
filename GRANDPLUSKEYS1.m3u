@@ -17,287 +17,193 @@ http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="RUZIEV NEW",Saga TV
 http://46.175.123.164:4022/udp/239.195.65.56:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99fqkCtk/image-20.png" tvg-id="" ggroup-title="RUZIEV NEW", 15+ Music
-
 https://v2.catcast.tv/content/48811/index.m3u8?password=kizugtv
 #EXTINF:-1 tvg-name="Муз Тв" tvg-logo="https://i.ibb.co/ksmygTQx/image-2025-09-21-T115007-012.png" ggroup-title="RUZIEV NEW", Муз Тв
-
 http://radio.tvs.by:8088/MuzTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hF4LyYQK/image-21.png" ggroup-title="RUZIEV NEW", Mafi2a Music
-
 https://live20.bozztv.com/giatvplayout7/ushba-mafia/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/F4JBpF9J/image-7.png" ggroup-title="RUZIEV NEW", Music RU
-
 https://cdn-4musicrussia.yayin.com.tr/4musicrussia/4musicrussia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CpGDPN1T/image-12.png" ggroup-title="RUZIEV NEW", MyHits
-
 http://www.mitvpro.online:88/BcNOztZBZkc7vCE/vvsvmBOLrcEzKYX/567469
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Y4vTSPfj/image-82.png" ggroup-title="RUZIEV NEW", Music Box Gold
-
 http://77.106.252.178:4022/udp/233.33.210.70:5050
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Y4ZMStVH/image-14.png" ggroup-title="RUZIEV NEW", MUSICBOX POLSKA
-
 http://ua.online24.pm/play/230/7CD2C233051D352/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Y4ZMStVH/image-14.png" ggroup-title="RUZIEV NEW", MusicBox UA HD
-
 http://ua.online24.pm/play/7185/7CD2C233051D352/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Y4ZMStVH/image-14.png" ggroup-title="RUZIEV NEW",  musicbox00
-
 http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/970
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Y4ZMStVH/image-14.png" ggroup-title="RUZIEV NEW", Music Box Classic
-
 http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/968
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Y4ZMStVH/image-14.png" ggroup-title="RUZIEV NEW", Music Box Hits HD
-
 http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/1038
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Y4ZMStVH/image-14.png" ggroup-title="RUZIEV NEW", Music Box Sexy
-
 http://vipketseyket.top:8080/VIP013641755335535556/dd266c93e3b5/134700
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Y4ZMStVH/image-14.png" ggroup-title="RUZIEV NEW",   MusicBox Georgia
-
 http://188.225.31.197/bpk-tv/000000783/tve/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/DZzzspPQ/image-37.png" ggroup-title="RUZIEV NEW", TECHNO DANCE MUSIC
-
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" ggroup-title="RUZIEV NEW", TotalMusic Dance
-
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" ggroup-title="RUZIEV NEW", TotalMusic Concerts
-
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" ggroup-title="RUZIEV NEW", TotalMusic 80
-
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/m2fckfXw/image-(7).png" ggroup-title="RUZIEV NEW", TotalMusic 00
-
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wh4J4FfK/image-87.png" ggroup-title="RUZIEV NEW", 4FUN Dance
-
 http://mains.services/live/0228902066/tc674KJ3du/a8d19b65-7fab-4e48-9b91-46a325ae3adf.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/YFg4sBn3/image-93.png" ggroup-title="RUZIEV NEW", 4FUN Kids
-
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CpdRrCNW/image-2025-08-31-T113608-235.png" ggroup-title="RUZIEV NEW", 7Star TV
-
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/vxxrFt0f/image-2025-07-10-T144801-241.png" ggroup-title="RUZIEV NEW", 7 YOU & ME
-
 https://stream10.xdevel.com/video0s977798-2239/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/spfjzHdG/image-80.png" ggroup-title="RUZIEV NEW", BET Gospel
-
 http://mains.services/live/0228902066/tc674KJ3du/6db19758-bb7b-4e84-a3c6-113ce1a95d8e.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/spfjzHdG/image-80.png" ggroup-title="RUZIEV NEW", BET Jams
-
 http://mains.services/live/0228902066/tc674KJ3du/8c162f20-c30a-4245-8dc5-24d229e58f30.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/spfjzHdG/image-80.png" ggroup-title="RUZIEV NEW", BET SOUL
-
 http://mains.services/live/0228902066/tc674KJ3du/70788fac-6c9b-4019-9673-83c50f62165c.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/spfjzHdG/image-80.png" ggroup-title="RUZIEV NEW", BET HER
-
 http://mains.services/live/0228902066/tc674KJ3du/96883269-982a-4e98-9079-cf8f8984d8bf.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/V03DHtWR/image-4.png" ggroup-title="RUZIEV NEW",Dark Festive 1
-
 http://cm1.portaltv.info:777/AvniLatifi/151515/6006
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/V03DHtWR/image-4.png" ggroup-title="RUZIEV NEW",Dark Festive 2
-
 http://cm1.portaltv.info:777/5R0Tqhz7bC/8biAnmNHif/6007
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/V03DHtWR/image-4.png" ggroup-title="RUZIEV NEW",Dark Festive 3
-
 http://cm1.portaltv.info:777/AvniLatifi/151515/6008
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/V03DHtWR/image-4.png" ggroup-title="RUZIEV NEW",Dark Festive 4
-
 http://cm1.portaltv.info:777/AvniLatifi/151515/6009
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/JWpMTtTX/image-38.png" ggroup-title="RUZIEV NEW", HiMusic
-
 https://s-pl-01.mediatool.tv/playout/hmpl-abr/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/YFDYJ75Y/image-98.png" ggroup-title="RUZIEV NEW", Hi Music Tv
-
 https://live20.bozztv.com/akamaissh101/ssh101/HiMusicTv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/FLVySRmT/image-4.png" ggroup-title="RUZIEV NEW", Hip Hop
-
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/3MXYR7I/2A8CFE9544F0/m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/0y3z5jyP/image-22.png" ggroup-title="RUZIEV NEW", Hip Hop TV
-
 https://9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8?ads.wurl_channel=1366&ads.wurl_name=HipHopTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/N2cz2SDy/image-2025-09-03-T211858-281.png" ggroup-title="RUZIEV NEW", HiHop TV
-
 http://k4.usastreams.com/festivatelevision/HiHop/media.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/R44NMvDd/image-78.png" ggroup-title="RUZIEV NEW", HIS Radio
-
 http://eu.germanydns.org:8080/kapla0202abdu/RYMwELMBt7Ka/118401
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/sY3DscS/image-15.png" ggroup-title="RUZIEV NEW", Hit Music
-
 http://exm3u.extraott.com:80/04519335#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6pVzXw4M/image-2025-07-10-T154730-575.png" ggroup-title="RUZIEV NEW", iTV Persian Music
-
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6pVzXw4M/image-2025-07-10-T154730-575.png" ggroup-title="RUZIEV NEW", iTV Afrobeats Music
-
 https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6pVzXw4M/image-2025-07-10-T154730-575.png" ggroup-title="RUZIEV NEW", iTV Arabic Music
-
 https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6pVzXw4M/image-2025-07-10-T154730-575.png" ggroup-title="RUZIEV NEW", iTV Latin Music
-
 https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6pVzXw4M/image-2025-07-10-T154730-575.png" ggroup-title="RUZIEV NEW", iTV Turkish Music
-
 https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6pVzXw4M/image-2025-07-10-T154730-575.png" ggroup-title="RUZIEV NEW", iTV Urban Music
-
 https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6pVzXw4M/image-2025-07-10-T154730-575.png" ggroup-title="RUZIEV NEW", iTV Indian Music
-
 https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u820/0364224542/96594
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qM43rSsb/image-72.png" ggroup-title="RUZIEV NEW", LA MIX TV - CHILE
-
 https://live20.bozztv.com/akamaissh101/ssh101/lamixtv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxJgmQ7k/image-40.png" ggroup-title="RUZIEV NEW", MI MUSICA ROMANTICA
-
 https://e1.viginet.vectormax.com:5210/quickstart/114-5263-65/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/PzzZYLx6/image-41.png" ggroup-title="RUZIEV NEW", MI MUSICA HITS
-
 https://e1.viginet.vectormax.com:5210/quickstart/114-10106-64/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/vCqfFF2w/image-2025-08-31-T122115-436.png" ggroup-title="RUZIEV NEW", MTV Hits
-
 http://live.iptvtotaal.com:8000/mvhengeliptv/d6BDiLr3VT/139173
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/wFsCdhTZ/image-2025-09-08-T014037-038.png" ggroup-title="RUZIEV NEW", MTV 90s
-
 http://lemon.catchmeifyo.com:8000/decoderbox8624753/pass7675947/139173
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/RTJpTGPW/image-37.png" ggroup-title="RUZIEV NEW", MTV 00s
-
 http://lunar.pm:8080/o59Lu8kZbb/J20KRhskrY/120358
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/G3sqxswy/image-44.png" ggroup-title="RUZIEV NEW", MTV Beats IN
-
 http://45.84.58.144:88/UMXXPGB3MZEVYZD5/ZFGTYZQZZ8FKSNX/96236
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rGZ5Lt97/image-14.png" ggroup-title="RUZIEV NEW", Party Mix
-
 http://open.secretsofsibiu.ro:80/AN228956/TAGVdiiVuhUbwjOFsP6ptINW5D0jl2/9151
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/mrvdyMRC/image-37.png" ggroup-title="RUZIEV NEW", PMC
-
 http://www.mitvpro.online:88/BcNOztZBZkc7vCE/vvsvmBOLrcEzKYX/100877
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/mrvdyMRC/image-37.png" ggroup-title="RUZIEV NEW", PMC Royale
-
 https://pmcrohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RTL 102.5 Traffic" tvg-name="RTL 102.5 Traffic" tvg-logo="https://i.ibb.co/8LG03Jyg/image-2025-07-09-T014326-466.png" ggroup-title="RUZIEV NEW", RTL 102.5 TV
-
 https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b3256000.m3u8
 #EXTINF:-1 tvg-id="RTL 102.5 Traffic" tvg-name="RTL 102.5 Traffic" tvg-logo="https://i.ibb.co/8LG03Jyg/image-2025-07-09-T014326-466.png" ggroup-title="RUZIEV NEW", RTL 102.5 Traffic
-
 https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 tvg-id="RTL 102.5 Napulè" tvg-name="RTL 102.5 Napulè" tvg-logo="https://i.ibb.co/8LG03Jyg/image-2025-07-09-T014326-466.png" ggroup-title="RUZIEV NEW", RTL 102.5 Napulè
-
 https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
 #EXTINF:-1 tvg-id="RTL 102.5 Disco" tvg-name="RTL 102.5 Disco" tvg-logo="https://i.ibb.co/8LG03Jyg/image-2025-07-09-T014326-466.png" ggroup-title="RUZIEV NEW", RTL 102.5 Disco
-
 https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
 #EXTINF:-1 tvg-id="RTL 102.5 Caliente" tvg-name="RTL 102.5 Caliente" tvg-logo="https://i.ibb.co/8LG03Jyg/image-2025-07-09-T014326-466.png" ggroup-title="RUZIEV NEW", RTL 102.5 Caliente
-
 https://streamcdnn1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 #EXTINF:-1 tvg-id="RTL 102.5 Bro & Sis" tvg-name="RTL 102.5 Bro & Sis" tvg-logo="https://i.ibb.co/8LG03Jyg/image-2025-07-09-T014326-466.png" ggroup-title="RUZIEV NEW", RTL 102.5 Bro & Sis
-
 https://streamcdnn1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
 #EXTINF:-1 tvg-id="RTL 102.5 Best" tvg-name="RTL 102.5 Best" tvg-logo="https://i.ibb.co/8LG03Jyg/image-2025-07-09-T014326-466.png" ggroup-title="RUZIEV NEW", RTL 102.5 Best
-
 https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/8DTjctw4/image-20.png" ggroup-title="RUZIEV NEW", Saga Music
-
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/759e7bfe-b3bb-4ea3-9c59-4091eb3e1e1f/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yBQgSMDd/image-26.png" ggroup-title="RUZIEV NEW", TOP MIX TV
-
 https://video03.logicahost.com.br/aovivo/aovivo/chunklist_w18702497.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yBQgSMDd/image-26.png" ggroup-title="RUZIEV NEW", TOP MIX TV 2
-
 https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist_w193935129.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LzDM1LYM/image-21.png" ggroup-title="RUZIEV NEW", Top Tv Live
-
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/rKf5jmNt/image-100.png" ggroup-title="RUZIEV NEW", Top TV
-
 http://74.208.199.212:8081/TopTV/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/BHskPVGh/image-2025-09-08-T082313-574.png" ggroup-title="RUZIEV NEW", Torococo TV
-
 https://us.streaminghd.cl/torococotelevision/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yF1vDq82/image-77.png" ggroup-title="RUZIEV NEW", Toxic
-
 http://tv.nova-iptv.com:80/Daniel_Bistrovic/vaj48HJtvM/9064
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yF1vDq82/image-77.png" ggroup-title="RUZIEV NEW", Toxic Rap
-
 http://sonymax.org:8080/live/Kydabk9PvE/68opSnk7re/520838.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo Hip-Hop & R&B
-
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo Reggaeton & Trap
-
 https://amagicloud-medialive-common016.s3.amazonaws.com/vevo_reggaeton-localnow/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo
-
 https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo Latino
-
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo Pop
-
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo 70s
-
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo 80s
-
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo 90s
-
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo 2k
-
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo 90s & 00s Italy
-
 https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo Retro Rock
-
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo Pop
-
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/cb5638186573668684c33e78d9f062ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5dad6852db80148b6f4adafb8c2360625f5c98435ee3b24aa7f6e25b10dd65f5ac151ec77d58e68314c9c915b381d6469916d322a7129494a58c8141e0c3ab4391bd122f733a1048dbe64b86da4ebfdbe81853fe541d36d2d17bc1e9986b29944853598293a33a81bf61a8a42a926338ac42e9273ad4ca19c92488d634c680b4cc414e2eeeac310776f2b2f5dda96770d5078aa645e058d426dd34016e87f299bf851ab0b7a63191d11a86b36ca8bb7a1e37d7ab88faf7bdaee0aa844690248592bac87d0a796a0a06894ab1da43ef698c28e69e48616b444afbce0e849e8f0a79226e969052d1241ebbf08297905b689d2e480ca828f2733141e0782c70ec26fcda1b698a2d05cc751ef34a3a8d47b3e978a5e98bab5675e59ef443f96efdbc4587a555e73e6a2b77d9981b564b4872c7fd265c600ba46bd0939bb139597aaf9dabd9cf5c3f0b3c6d222f83f0e87d9ece8d692a1fcf572977675270b201c562cb0f590a4c9a4c33cd87941ea0475d5fa8741332f5a603264b9fb864a365/32/1920x1080_7333040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo Country
-
 http://mains.services/live/0228902066/tc674KJ3du/77dfa593-067d-41b7-ab48-566edf7e15f9.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo Hip-Hop
-
 http://mains.services/live/0228902066/tc674KJ3du/ec7e7023-a47b-4412-b063-03f38d2a6584.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo R&B
-
 http://mains.services/live/0228902066/tc674KJ3du/04919e6f-f735-4ebf-aa05-214a433f6e98.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo Schlager Pop
-
 https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo Pop Spain
-
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo Pop Italy
-
 https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo Pop Germany
-
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo Pop UK
-
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxbZ3BNq/image-63.png" ggroup-title="RUZIEV NEW", Vevo Regional Mexicano
-
 https://amg00056-vevotv-vevoregionalmx-localnow-zoyae.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CgKCc9M/image-9.png" ggroup-title="RUZIEV NEW", Zona Hits
-
 https://5790d294af2dc.streamlock.net/zonahitstv1/zonahitstv1/chunklist_w200202741.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/fYrBYgPk/image-2025-07-09-T160352-669.png" ggroup-title="RUZIEV NEW", Zona M1
-
 https://zonam1.ddns.net/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/b5BxKdCR/image-7.png" ggroup-title="RUZIEV NEW", ZOOM
-
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hxjWSswY/image-74.png" ggroup-title="RUZIEV NEW", ZOOM MUSIC
-
 https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
 #EXTINF:-1 group-title="RUZIEV NEW" audio-track="rus" , FAN
 http://195.9.195.3:8080/hls/157239.m3u8
@@ -330,6 +236,158 @@ http://188.208.197.173:8888/viju-novella/video.m3u8?token=loganet
 http://31148.rafail1982.uz/Che/index.m3u8
 #EXTINF:-1 ggroup-title="RUZIEV NEW" audio-track="rus" , Суббота!
 http://hls2.hd-tv.club/2_super/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/muzyka-pervogo.png" group-title="GRAND PLUS/Музыкальные",  #Музыка Первого HD
+http://cdn.balelbrus.com/bigteisti2/muzykapervogo/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/1hd-music.png" group-title="GRAND PLUS/Музыкальные",  1HD Music Television
+http://92.63.106.41/24hp/stream.php?id=110
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/aiva.png" group-title="GRAND PLUS/Музыкальные",  AIVA HD
+http://92.63.106.41/24hp/stream.php?id=4309
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bridge-tv.png" group-title="GRAND PLUS/Музыкальные",  Bridge HD
+http://92.63.106.41/24hp/stream.php?id=8746
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bridge-tv-classic.png" group-title="GRAND PLUS/Музыкальные",  Bridge Classic HD
+http://92.63.106.41/24hp/stream.php?id=8846
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bridge-hd.png" group-title="GRAND PLUS/Музыкальные",  Bridge Deluxe HD
+http://92.63.106.41/24hp/stream.php?id=154
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bridge-tv-dance.png" group-title="GRAND PLUS/Музыкальные",  Bridge Hits HD
+http://92.63.106.41/24hp/stream.php?id=7352
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bridge-tv-rock.png" group-title="GRAND PLUS/Музыкальные",  Bridge Rock HD
+http://92.63.106.41/24hp/stream.php?id=7364
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bridge-tv-ruxit.png" group-title="GRAND PLUS/Музыкальные",  Bridge Русский Хит HD
+http://92.63.106.41/24hp/stream.php?id=8747
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bridge-tv-shlager.png" group-title="GRAND PLUS/Музыкальные",  Bridge Шлягер
+http://92.63.106.41/24hp/stream.php?id=5014
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bridge-tv-fresh.png" group-title="GRAND PLUS/Музыкальные",  Bridge Фрэш HD
+http://92.63.106.41/24hp/stream.php?id=7426
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/bridge-tv-etno.png" group-title="GRAND PLUS/Музыкальные",  Bridge Этно HD
+http://92.63.106.41/24hp/stream.php?id=8641
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/classic-music.png" group-title="GRAND PLUS/Музыкальные",  Classic Music HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/14009/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/clubbing-tv.png" group-title="GRAND PLUS/Музыкальные",  Clubbing TV Russia HD
+http://92.63.106.41/24hp/stream.php?id=3972
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/europa-plus-tv.png" group-title="GRAND PLUS/Музыкальные",  Europa Plus TV HD
+http://92.63.106.41/24hp/stream.php?id=3735
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e4/Europa_Plus_TV_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C.png/revision/latest?cb=20171217050417&path-prefix=ru" group-title="GRAND PLUS/Музыкальные",  Europa Plus TV Belarus
+http://46.53.208.4/live/963-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/hit-tv.png" group-title="GRAND PLUS/Музыкальные",  HIT TV
+http://217.154.10.99:2020/channel/n786bbd07/index.m3u8?q=ac8328a8c05870646c45caa253710a85
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/assets/files/2026-03-28/1774679631-950141-jazzjazz200.png" group-title="GRAND PLUS/Музыкальные",  JazzJazz HD
+http://92.63.106.41/24hp/stream.php?id=8701
+
+#EXTINF:-1 tvg-logo="https://kavkazmusic.tv/wp-content/uploads/2019/07/logo1.png" group-title="GRAND PLUS/Музыкальные",  Kavkaz Music TV HD
+https://vsd280.okcdn.ru/hls/568846912056.m3u8/sig/RJwoA5SCGDU/expires/1775928151038/srcIp/178.173.126.46/urls/45.136.21.62/clientType/0/srcAg/CHROME/mid/1643385658936/568846912056_fullhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/kinopolskamuz.png" group-title="GRAND PLUS/Музыкальные",  Kino Polska Muzyka
+http://81.166.129.185:8001/1:0:1:3d60:2c88:13e:820000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/36/Live_Music_Channel.png/revision/latest?cb=20170106052045&path-prefix=ru" group-title="GRAND PLUS/Музыкальные",  Live Music Channel HD
+http://92.63.106.41/ptv/voka/ch.php?id=7a65e6b3-7586-48a2-9f0e-02cdd76fff3c
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/mcm-top.png" group-title="GRAND PLUS/Музыкальные",  MCM Top Russia
+http://92.63.106.41/24hp/stream.php?id=45
+
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/musicbox.png" group-title="GRAND PLUS/Музыкальные",  MusicBox Gold HD
+https://vkvsd158.okcdn.ru/cmaf/8798203021974/sig/oDdpRk9X6as/expires/1775928152363/srcIp/178.173.126.46/urls/185.226.55.118/clientType/13/srcAg/CHROME/mid/9855673772950/get/CJbXvJ_rngIQ6AcYBjIICgYIgA8QuAg6BAjE2AJaBggDEAIoF2ICCCBnAuLne7PjsQ/track.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/muzzone.png" group-title="GRAND PLUS/Музыкальные",  MuzZone
+https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/russian-musicbox.png" group-title="GRAND PLUS/Музыкальные",  Russian MusicBox HD
+http://92.63.106.41/ptv/trico/ch.php?id=534&token=freshtv
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ru-tv.png" group-title="GRAND PLUS/Музыкальные",  RU.TV HD
+https://river-1.rutube.ru/stream/genetta-315.m9.rutube.ru/skzA9Mh7Yu9NEt0xc9TLpg/1776446556/b1eb8e90d7e636677b3eb73b4fcbb717/1080p_stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/ru-tv-by.png" group-title="GRAND PLUS/Музыкальные",  RU.TV Беларусь
+http://46.53.208.4/live/972-req_offset_28000000-req_window_0-3k_v5.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/c-music-tv.png" group-title="GRAND PLUS/Музыкальные",  Stingray Cmusic HD
+http://cdn.balelbrus.com/bigteisti1/CMUSIC/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/iconcerts.png" group-title="GRAND PLUS/Музыкальные",  Stingray iConcerts HD
+http://92.63.106.41/24hp/stream.php?id=399
+
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/viva-rus.png" group-title="GRAND PLUS/Музыкальные",  VIVA Russia HD
+http://92.63.106.41/24hp/stream.php?id=5038
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/vostok-tv.png" group-title="GRAND PLUS/Музыкальные",  Vostok TV
+https://river-1.rutube.ru/stream/genetta-420.ntv.rutube.ru/MSLEzFqGwIVRVt8pwZ4sSQ/1776446559/da7bcfc0c302a2f0a46f030c9ef8a02b/576p_stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/w8scz8ewaz4je9oz80jr1/2026-04-08-161809.png?rlkey=mhyqf2564sozde1i65u8dylk4&dl=0" group-title="GRAND PLUS/Музыкальные",  ZU TV HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/7034/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zal-26-tricolor.png" group-title="GRAND PLUS/Музыкальные",  Душевные песни
+http://92.63.106.41/ptv/trico/ch.php?id=2791&token=freshtv
+
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/zhara.png" group-title="GRAND PLUS/Музыкальные",  Жара TV HD
+http://92.63.106.41/24hp/stream.php?id=3734
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/khqiggljxishbczqebict/illi.png?rlkey=rufxa16p0epogpw3oxme293od&dl=0" group-title="GRAND PLUS/Музыкальные",  Илли ТВ
+https://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/sG1jU4dDyfql_gqeg1vAhw/1776446561/eda2da42eea89951e4135141a30915f7/576p_stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/bsc68tdjwd2uxah7a5q3e/_-2021-_-_.webp?rlkey=slxgtpboanvdqjzi1426u6yku&dl=0" group-title="GRAND PLUS/Музыкальные",  Күңел ТВ HD
+http://217.154.10.99:2020/channel/n499c27fe/index.m3u8?q=ac8328a8c05870646c45caa253710a85
+
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/muzykamodatv.png" group-title="GRAND PLUS/Музыкальные",  ММТВ ТВ HD
+https://river-1.rutube.ru/stream/genetta-317.m9.rutube.ru/troBtwEl_JgL_6yRFOMmrQ/1776446562/965a025e4ebbaf0957415f80c6de8534/1080p_stream.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/la-minor.png" group-title="GRAND PLUS/Музыкальные",  Музыка Live
+http://92.63.106.41/24hp/stream.php?id=222
+
+#EXTINF:-1 tvg-logo="https://muzyou.tv/android-icon-192x192.png" group-title="GRAND PLUS/Музыкальные",  Музыка Юга ТВ HD
+https://vsd251.okcdn.ru/hls/2870525561515.m3u8/sig/IxPf7y3NfnA/expires/1775928164010/srcIp/178.173.126.46/urls/45.136.22.55/clientType/0/srcAg/CHROME/mid/3853054647979/2870525561515_fullhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/o2tv.png" group-title="GRAND PLUS/Музыкальные",  О!2 HD
+http://92.63.106.41/24hp/stream.php?id=3783
+
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild6633-6133-4064-b566-313939303161/photo.svg" group-title="GRAND PLUS/Музыкальные",  Прибой ТВ HD
+https://vkvsd68.okcdn.ru/cmaf/8150265170479/sig/AOyV-02ib3w/srcIp/178.173.126.46/urls/185.226.52.95/expires/1776300965489/clientType/13/srcAg/CHROME/fromCache/1/mid/9663873952559/id/8150265170479/get/CK_WmN6gmQIQ6AcYBjIICgYIgA8QuAg6BAjE2AJaBggDEAIoF2ICCCAB7ypmTnk6VQ/track.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/radio-shanson.png" group-title="GRAND PLUS/Музыкальные",  Радио Шансон HD
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/telekanal-naronoj-muzyki.png" group-title="GRAND PLUS/Музыкальные",  Телеканал народной музыки HD
+http://92.63.106.41/24hp/stream.php?id=5534
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/toy-duman.png" group-title="GRAND PLUS/Музыкальные",  Той Думан
+http://217.154.10.99:2020/channel/n28b20d33/index.m3u8?q=ac8328a8c05870646c45caa253710a85
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tugan-tel.png" group-title="GRAND PLUS/Музыкальные",  Туган Тел HD
+http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shanson-tv.png" group-title="GRAND PLUS/Музыкальные",  Шансон ТВ
+http://185.46.16.239:8000/Shanson
+
+#EXTINF:-1 tvg-logo="https://tmt-tv.tj/themes/symnews/shahnavoz-logo-67px.png" group-title="GRAND PLUS/Музыкальные",  Шаҳнавоз HD
+https://stream2.somon.tv/tmt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shanson-tv.png" group-title="GRAND PLUS/Музыкальные",  Шансон ТВ International
+http://46.53.208.4/live/235-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 
 
@@ -7529,6 +7587,68 @@ http://bde.online24.pm/play/5401/F6E1DD42544DD10/video.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://otv.server-img.lfstrm.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzLzMxMnR2XzkwNzYwLnBuZw==?width=340&height=192&quality=93" group-title="GRAND PLUS| KG",   312 HD
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/312-kino.png" group-title="GRAND PLUS| KG",   312 Кино HD
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/1sblc795p0iuouoay3znu/2026-04-05-205323.png?rlkey=vvgs10h9f0sxoai3qz647anq2&dl=0" group-title="GRAND PLUS| KG",   7 канал HD
+http://212.112.106.117:8086/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/0bhx6c2ob8aaj6xzgxhe3/2026-04-04-212814.png?rlkey=q0bdr63o5s6zinjnf1yxplt63&dl=0" group-title="GRAND PLUS| KG",   8 канал HD
+http://77.235.31.197:8080/0.m3u8
+
+#EXTINF:-1 tvg-logo="http://asiatv.kg/wp-content/uploads/2021/10/cropped-cropped-cropped-logotipkd-1.png" group-title="GRAND PLUS| KG",   Asia TV HD
+http://s.only4.tv/8375/mono.m3u8?token=Uqxoga1IGq
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/cinemax-kg.png" group-title="GRAND PLUS| KG",   Cinemax HD
+http://s.only4.tv/8382/mono.m3u8?token=Uqxoga1IGq
+
+#EXTINF:-1 tvg-logo="https://tvradioo.ru/wp-content/uploads/2023/01/icon-tv-white.png" group-title="GRAND PLUS| KG",   Manas TV HD
+http://212.42.111.152:8080/hls/manas.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/0s5ep2uc6bep0zz81xamf/2026-04-04-213023.png?rlkey=n14p0cqxvvjuembg9sq7khyew&dl=0" group-title="GRAND PLUS| KG",   Marva TV HD
+http://77.235.26.137:8086/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/4es9xfkqkxjn3fn3vget6/2026-04-04-213200.png?rlkey=6q1csfa6jgvrpui3pz0i14gpe&dl=0" group-title="GRAND PLUS| KG",   MTV Live HD
+http://77.235.31.197:8082/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/jb7c3z9j1iyrzltgtg0iw/2026-04-05-210316.png?rlkey=3na6r1scnfwwjnn71dms8vytg&dl=0" group-title="GRAND PLUS| KG",   Nur TV HD
+http://146.120.213.172:8086/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/regiontv-kg.png" group-title="GRAND PLUS| KG",   Region TV HD
+http://31.192.249.68:8080/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/h30ihvgh7b0fcrz1kus6d/2026-04-05-203426.png?rlkey=j54occzam6zwo8vbaf3ua2w19&dl=0" group-title="GRAND PLUS| KG",   TMedia
+http://92.62.68.29:8086/0.ts
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv1-kg-hd.png" group-title="GRAND PLUS| KG",   TV1.KG Бишкек City HD
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/tv15-kg.png" group-title="GRAND PLUS| KG",   TV15 HD
+http://213.109.64.248:8086/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/lubimy-kg.png" group-title="GRAND PLUS| KG",   Любимый
+http://s.only4.tv/8378/mono.m3u8?token=Uqxoga1IGq
+
+#EXTINF:-1 tvg-logo="http://cdn.server-iptv.live/logo/tv/madanyat.png" group-title="GRAND PLUS| KG",   Маданият
+http://s.only4.tv/8377/mono.m3u8?token=Uqxoga1IGq
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/osh-tv-kg.png" group-title="GRAND PLUS| KG",   Ош ТВ
+http://212.42.117.34:8080/hls/OshTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://otv.server-img.lfstrm.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3NlbWVpbnlpLnBuZw==?width=340&height=192&quality=93" group-title="GRAND PLUS| KG",   Семейный
+http://s.only4.tv/8380/mono.m3u8?token=Uqxoga1IGq
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/kylsjynw1zlkixau8l4qf/2025-02-16-172025.png?rlkey=ip4g3t0zthpxzo1dl7ajmh1k1&dl=0" group-title="GRAND PLUS| KG",   УТРК HD
+http://s.only4.tv/8376/mono.m3u8?token=Uqxoga1IGq
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ij1hdayakrttlsz0vqoh2/channels4_profile.jpg?rlkey=vv2kyoow4byp3o4bqfq542iwe&dl=0" group-title="GRAND PLUS| KG",   УТРК Жалал-Абад (Манас)
+http://80.72.179.162:8086/index.m3u8
 
 
 #EXTINF:-1 group-title="GRAND PLUS| KG", Баластан
